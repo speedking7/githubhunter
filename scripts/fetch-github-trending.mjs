@@ -67,3 +67,61 @@ export function classify(text) {
     .map(([bucket]) => bucket);
   return [...new Set(buckets)];
 }
+
+const ALLOWED_TAGS = Object.keys(TAG_KEYWORDS);
+
+function cleanTranslation(text) {
+  return String(text || "")
+    .replace(/^描述[:：][^\n]*\n+/i, "")
+    .replace(/^译文[:：]\s*/i, "")
+    .trim();
+}
+
+async function tagAndTranslateWithOpenAI(description, repo) {
+  const baseUrl = (process.env.OPENAI_BASE_URL || "https://api.openai.com/v1").replace(/\/+$/, "");
+  const model = process.env.OPENAI_MODEL || "gpt-4o-mini";
+  const system = [
+    "你是 GitHub 项目编辑。给定仓库描述，做两件事：",
+    "1) 翻译成自然、克制、准确的简体中文，保留仓库名、技术名词、专有名词，不加主观评价。",
+    `2) 从受控词表里挑 1-3 个最贴合的项目类型标签。词表：${ALLOWED_TAGS.join(" / ")}。`,
+    '只输出 JSON，格式 {"descriptionZh":"...","tags":["..."]}，不要任何额外文字。',
+  ].join("\n");
+  const response = await fetch(`${baseUrl}/chat/completions`, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${process.env.OPENAI_API_KEY}`, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      model,
+      temperature: 0.2,
+      response_format: { type: "json_object" },
+      messages: [
+        { role: "system", content: system },
+        { role: "user", content: `仓库：${repo}\n描述：${description}` },
+      ],
+    }),
+  });
+  const data = await response.json().catch(() => null);
+  if (!response.ok) throw new Error(`OpenAI failed HTTP ${response.status}: ${JSON.stringify(data)}`);
+  const raw = data?.choices?.[0]?.message?.content || "";
+  let parsed;
+  try { parsed = JSON.parse(raw); } catch { parsed = {}; }
+  const descriptionZh = cleanTranslation(parsed.descriptionZh || "");
+  let tags = Array.isArray(parsed.tags) ? parsed.tags : [];
+  tags = tags.filter((t) => ALLOWED_TAGS.includes(t)).slice(0, 3);
+  if (tags.length === 0) tags = classify(description);
+  return { descriptionZh: descriptionZh || `待翻译：${description}`, tags };
+}
+
+export async function tagAndTranslate(parsed) {
+  const description = parsed.description || parsed.repo || "";
+  if (process.env.OPENAI_API_KEY) {
+    try {
+      return await tagAndTranslateWithOpenAI(description, parsed.repo);
+    } catch (error) {
+      console.warn(`[tagAndTranslate] ${parsed.repo}: ${error.message}`);
+    }
+  }
+  return {
+    descriptionZh: description ? `待翻译：${description}` : "",
+    tags: classify(description),
+  };
+}
