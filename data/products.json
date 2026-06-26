@@ -2,7 +2,7 @@
   "meta": {
     "date": "2026-06-26",
     "githubDate": "2026-06-26",
-    "lastUpdated": "2026-06-26T15:07:46.546Z",
+    "lastUpdated": "2026-06-26T15:34:44.413Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
@@ -23,13 +23,13 @@
       ],
       "language": "Haskell",
       "starsToday": 191,
-      "starsTotal": 12038,
-      "forks": 685,
+      "starsTotal": 12074,
+      "forks": 688,
       "url": "https://github.com/simplex-chat/simplex-chat",
       "rank": 1,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "google-labs-code/design.md",
@@ -41,13 +41,13 @@
       ],
       "language": "TypeScript",
       "starsToday": 2319,
-      "starsTotal": 20678,
+      "starsTotal": 20713,
       "forks": 1694,
       "url": "https://github.com/google-labs-code/design.md",
       "rank": 2,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "commaai/openpilot",
@@ -58,13 +58,13 @@
       ],
       "language": "Python",
       "starsToday": 67,
-      "starsTotal": 61673,
+      "starsTotal": 61685,
       "forks": 11040,
       "url": "https://github.com/commaai/openpilot",
       "rank": 3,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "kunchenguid/no-mistakes",
@@ -75,13 +75,13 @@
       ],
       "language": "Go",
       "starsToday": 412,
-      "starsTotal": 3219,
-      "forks": 189,
+      "starsTotal": 3231,
+      "forks": 192,
       "url": "https://github.com/kunchenguid/no-mistakes",
       "rank": 4,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "grafana/grafana",
@@ -94,13 +94,13 @@
       ],
       "language": "TypeScript",
       "starsToday": 17,
-      "starsTotal": 74772,
+      "starsTotal": 74782,
       "forks": 14116,
       "url": "https://github.com/grafana/grafana",
       "rank": 5,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "ripienaar/free-for-dev",
@@ -111,13 +111,13 @@
       ],
       "language": "HTML",
       "starsToday": 137,
-      "starsTotal": 123573,
-      "forks": 13043,
+      "starsTotal": 123584,
+      "forks": 13044,
       "url": "https://github.com/ripienaar/free-for-dev",
       "rank": 6,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "opendatalab/MinerU",
@@ -130,13 +130,13 @@
       ],
       "language": "Python",
       "starsToday": 944,
-      "starsTotal": 70171,
-      "forks": 5927,
+      "starsTotal": 70191,
+      "forks": 5928,
       "url": "https://github.com/opendatalab/MinerU",
       "rank": 7,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "alchaincyf/zhangxuefeng-skill",
@@ -147,13 +147,13 @@
       ],
       "language": "",
       "starsToday": 220,
-      "starsTotal": 9190,
-      "forks": 2556,
+      "starsTotal": 9196,
+      "forks": 2557,
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "rank": 8,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "mauriceboe/TREK",
@@ -164,13 +164,13 @@
       ],
       "language": "TypeScript",
       "starsToday": 1063,
-      "starsTotal": 7362,
-      "forks": 635,
+      "starsTotal": 7383,
+      "forks": 636,
       "url": "https://github.com/mauriceboe/TREK",
       "rank": 9,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "xbtlin/ai-berkshire",
@@ -182,13 +182,13 @@
       ],
       "language": "Python",
       "starsToday": 1270,
-      "starsTotal": 2917,
-      "forks": 428,
+      "starsTotal": 2945,
+      "forks": 430,
       "url": "https://github.com/xbtlin/ai-berkshire",
       "rank": 10,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "calesthio/OpenMontage",
@@ -201,13 +201,13 @@
       ],
       "language": "Python",
       "starsToday": 1674,
-      "starsTotal": 23180,
-      "forks": 2576,
+      "starsTotal": 23207,
+      "forks": 2578,
       "url": "https://github.com/calesthio/OpenMontage",
       "rank": 11,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "aws/agent-toolkit-for-aws",
@@ -220,13 +220,13 @@
       ],
       "language": "Python",
       "starsToday": 238,
-      "starsTotal": 1278,
+      "starsTotal": 1281,
       "forks": 118,
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "rank": 12,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "NanmiCoder/MediaCrawler",
@@ -237,13 +237,13 @@
       ],
       "language": "Python",
       "starsToday": 640,
-      "starsTotal": 53259,
-      "forks": 10966,
+      "starsTotal": 53273,
+      "forks": 10967,
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "rank": 13,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "garrytan/gstack",
@@ -254,13 +254,13 @@
       ],
       "language": "TypeScript",
       "starsToday": 919,
-      "starsTotal": 116366,
-      "forks": 17250,
+      "starsTotal": 116382,
+      "forks": 17251,
       "url": "https://github.com/garrytan/gstack",
       "rank": 14,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "IceWhaleTech/CasaOS",
@@ -271,13 +271,13 @@
       ],
       "language": "Go",
       "starsToday": 612,
-      "starsTotal": 35171,
+      "starsTotal": 35183,
       "forks": 2013,
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "rank": 15,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "JCodesMore/ai-website-cloner-template",
@@ -288,13 +288,13 @@
       ],
       "language": "TypeScript",
       "starsToday": 1076,
-      "starsTotal": 21109,
-      "forks": 3071,
+      "starsTotal": 21126,
+      "forks": 3072,
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "rank": 16,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -306,13 +306,13 @@
       ],
       "language": "Python",
       "starsToday": 1547,
-      "starsTotal": 42007,
-      "forks": 3333,
+      "starsTotal": 42034,
+      "forks": 3334,
       "url": "https://github.com/Panniantong/Agent-Reach",
       "rank": 17,
       "date": "2026-06-26",
       "githubDate": "2026-06-26",
-      "lastUpdated": "2026-06-26T15:07:46.546Z"
+      "lastUpdated": "2026-06-26T15:34:44.413Z"
     }
   ]
 }
