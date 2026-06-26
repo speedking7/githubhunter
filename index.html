@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="每天一份 GitHub Trending 中文精选，发现每日最热门项目。" />
+    <title>GitHub 热门日报 | Trending 中文精选</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="GitHub 热门日报 RSS" href="./feed.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600&family=Geist:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=gh-daily-20260626" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="daily-sidebar" aria-label="日报导航">
+        <div class="sidebar-intro">
+          <p class="sidebar-title">GitHub 热门日报</p>
+          <p class="sidebar-subtitle">GitHub Trending Daily</p>
+          <p class="sidebar-copy">每日抓取 GitHub Trending，自动翻译描述并打项目类型标签，发现全球开发者最关注的项目</p>
+        </div>
+
+        <section class="calendar-card" aria-label="日报日历">
+          <div class="calendar-head">
+            <strong id="calendar-month">2026年6月</strong>
+            <span id="calendar-arrows"><button id="cal-prev" type="button" aria-label="上个月">‹</button><button id="cal-next" type="button" aria-label="下个月">›</button></span>
+          </div>
+          <div class="calendar-weekdays" aria-hidden="true">
+            <span>日</span><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span>
+          </div>
+          <div class="calendar-grid" id="calendar-grid"></div>
+        </section>
+
+        <a class="current-issue-card" id="current-issue-link" href="#daily">
+          <strong id="sidebar-date">2026-06-26</strong>
+          <span id="sidebar-volume">Vol. 0001</span>
+        </a>
+
+        <section class="archive-block">
+          <div class="archive-head">
+            <span>归档</span>
+            <span id="archive-count">(0)</span>
+          </div>
+          <nav class="archive-list" id="issue-rail" aria-label="历史日报"></nav>
+          <button class="more-issues" id="toggle-issues" type="button">更早的日报 ↓</button>
+        </section>
+
+        <div class="sidebar-links">
+          <a href="https://github.com/trending" target="_blank" rel="noreferrer">
+            <span class="link-icon">GH</span>
+            <span><strong>GitHub Trending</strong><small>今日完整榜单 ↗</small></span>
+          </a>
+          <a href="./feed.xml" target="_blank" rel="noreferrer">
+            <span class="link-icon">RSS</span>
+            <span><strong>RSS 订阅</strong><small>每日热门自动更新 ↗</small></span>
+          </a>
+        </div>
+      </aside>
+
+      <div class="content-shell">
+        <header class="site-header">
+          <a class="brand" href="#daily" aria-label="GitHub 热门日报首页">
+            <span class="brand-mark">GH/CN</span>
+            <span>GitHub 热门日报</span>
+          </a>
+          <nav class="top-links" aria-label="辅助链接">
+            <a href="https://github.com/trending" target="_blank" rel="noreferrer">Trending</a>
+            <a href="./data/products.json" target="_blank" rel="noreferrer">JSON</a>
+            <a href="./feed.xml" target="_blank" rel="noreferrer">RSS</a>
+            <a href="#about">关于</a>
+          </nav>
+        </header>
+
+        <main id="daily">
+      <section class="hero">
+        <div class="hero-kicker">
+          <span id="volume-label">VOL.2026.06.26</span>
+          <span id="stories-label">0 STORIES</span>
+          <span>DAILY AT 10:00</span>
+        </div>
+        <div class="hero-grid">
+          <div>
+            <p class="eyebrow">GITHUB TRENDING DAILY</p>
+            <h1>GitHub 热榜<br /><em>发现每日热门项目</em></h1>
+          </div>
+          <div class="hero-note">
+            <p id="date-line">2026.06.26</p>
+            <p>每日抓取 GitHub Trending 全语言日榜，自动翻译描述并按用途打标签，聚焦开发框架、AI 代理、记忆管理、skills、harness 等方向。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="issue-bar" aria-label="检索与筛选">
+        <label class="search-wrap">
+          <span>搜索</span>
+          <input id="search-input" type="search" placeholder="仓库名、关键词或用途" autocomplete="off" />
+          <label class="global-search-toggle" title="勾选后跨所有日期搜索"><input id="global-search" type="checkbox" /> 全部日期</label>
+        </label>
+        <div class="segment-group" id="topic-filters" role="group" aria-label="标签筛选">
+          <button class="segment active" type="button" data-topic="all">全部</button>
+          <button class="segment" type="button" data-topic="开发框架">开发框架</button>
+          <button class="segment" type="button" data-topic="AI代理">AI代理</button>
+          <button class="segment" type="button" data-topic="记忆管理">记忆管理</button>
+          <button class="segment" type="button" data-topic="skills">skills</button>
+          <button class="segment" type="button" data-topic="harness">harness</button>
+          <button class="segment" type="button" data-topic="RAG">RAG</button>
+          <button class="segment" type="button" data-topic="模型/LLM">模型/LLM</button>
+          <button class="segment" type="button" data-topic="开发者工具">开发者工具</button>
+          <button class="segment" type="button" data-topic="saved">收藏</button>
+        </div>
+      </section>
+
+      <section class="editorial-layout" aria-label="本期产品榜单">
+        <div class="ranking-column">
+          <div class="column-heading">
+            <div>
+              <span class="section-no">01 / INDEX</span>
+              <h2>今日榜单</h2>
+            </div>
+            <span id="result-summary">正在载入</span>
+          </div>
+          <div class="ranking-list" id="product-list" aria-live="polite"></div>
+          <div class="empty-state" id="empty-state" hidden>
+            <strong>没有匹配结果</strong>
+            <p>换一个关键词，或切回“全部”分类看看。</p>
+          </div>
+        </div>
+
+        <aside class="feature-column" aria-live="polite">
+          <div class="feature-topline">
+            <span>02 / SELECTED</span>
+            <button id="save-product" type="button">收藏本项</button>
+          </div>
+          <div id="feature-detail"></div>
+        </aside>
+      </section>
+
+      <section class="insight-strip" id="about">
+        <div>
+          <span class="section-no">03 / NOTES</span>
+        </div>
+        <dl>
+          <div><dt>数据来源</dt><dd>GitHub Trending</dd></div>
+          <div><dt>标签维度</dt><dd>开发框架 · AI代理 · 记忆管理 · skills · harness</dd></div>
+          <div><dt>更新时间</dt><dd id="last-updated">每日 10:00 后</dd></div>
+          <div><dt>榜单口径</dt><dd id="ranking-window">GitHub Trending 当日热榜</dd></div>
+        </dl>
+      </section>
+        </main>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <span>GitHub Trending 中文精选 · 每日热门项目档案</span>
+      <a href="#daily">回到顶部</a>
+    </footer>
+
+    <template id="product-row-template">
+      <button class="product-row" type="button">
+        <span class="row-check" aria-hidden="true"></span>
+        <span class="rank"></span>
+        <span class="product-thumb"></span>
+        <span class="product-copy">
+          <strong class="product-name"></strong>
+          <span class="product-tagline"></span>
+        </span>
+        <span class="product-topics"></span>
+        <span class="product-score"></span>
+      </button>
+    </template>
+
+    <script src="./script.js?v=calendar-nav-20260626"></script>
+  </body>
+</html>
