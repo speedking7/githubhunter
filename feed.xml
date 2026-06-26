@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub 热门日报</title>
+    <link>https://githubhunter.example</link>
+    <description>每天一份 GitHub Trending 中文精选</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 26 Jun 2026 15:12:28 GMT</lastBuildDate>
+    <item>
+      <title>simplex-chat/simplex-chat</title>
+      <link>https://github.com/simplex-chat/simplex-chat</link>
+      <guid>https://github.com/simplex-chat/simplex-chat</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>google-labs-code/design.md</title>
+      <link>https://github.com/google-labs-code/design.md</link>
+      <guid>https://github.com/google-labs-code/design.md</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.</description>
+      <category>AI代理, UI组件</category>
+    </item>
+    <item>
+      <title>commaai/openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <guid>https://github.com/commaai/openpilot</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.</description>
+      <category>自动化</category>
+    </item>
+    <item>
+      <title>kunchenguid/no-mistakes</title>
+      <link>https://github.com/kunchenguid/no-mistakes</link>
+      <guid>https://github.com/kunchenguid/no-mistakes</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：git push no-mistakes</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>grafana/grafana</title>
+      <link>https://github.com/grafana/grafana</link>
+      <guid>https://github.com/grafana/grafana</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</description>
+      <category>数据库, 可观测性, 可视化</category>
+    </item>
+    <item>
+      <title>ripienaar/free-for-dev</title>
+      <link>https://github.com/ripienaar/free-for-dev</link>
+      <guid>https://github.com/ripienaar/free-for-dev</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
+      <category>DevOps</category>
+    </item>
+    <item>
+      <title>opendatalab/MinerU</title>
+      <link>https://github.com/opendatalab/MinerU</link>
+      <guid>https://github.com/opendatalab/MinerU</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.</description>
+      <category>AI代理, 模型/LLM, 自动化</category>
+    </item>
+    <item>
+      <title>alchaincyf/zhangxuefeng-skill</title>
+      <link>https://github.com/alchaincyf/zhangxuefeng-skill</link>
+      <guid>https://github.com/alchaincyf/zhangxuefeng-skill</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。</description>
+      <category>skills</category>
+    </item>
+    <item>
+      <title>mauriceboe/TREK</title>
+      <link>https://github.com/mauriceboe/TREK</link>
+      <guid>https://github.com/mauriceboe/TREK</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>xbtlin/ai-berkshire</title>
+      <link>https://github.com/xbtlin/ai-berkshire</link>
+      <guid>https://github.com/xbtlin/ai-berkshire</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters&apos; methodologies + multi-agent adversarial analysis.</description>
+      <category>开发框架, AI代理</category>
+    </item>
+    <item>
+      <title>calesthio/OpenMontage</title>
+      <link>https://github.com/calesthio/OpenMontage</link>
+      <guid>https://github.com/calesthio/OpenMontage</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：World&apos;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.</description>
+      <category>AI代理, skills, 自动化</category>
+    </item>
+    <item>
+      <title>aws/agent-toolkit-for-aws</title>
+      <link>https://github.com/aws/agent-toolkit-for-aws</link>
+      <guid>https://github.com/aws/agent-toolkit-for-aws</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS</description>
+      <category>AI代理, skills, 编辑器插件</category>
+    </item>
+    <item>
+      <title>NanmiCoder/MediaCrawler</title>
+      <link>https://github.com/NanmiCoder/MediaCrawler</link>
+      <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>garrytan/gstack</title>
+      <link>https://github.com/garrytan/gstack</link>
+      <guid>https://github.com/garrytan/gstack</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：Use Garry Tan&apos;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>IceWhaleTech/CasaOS</title>
+      <link>https://github.com/IceWhaleTech/CasaOS</link>
+      <guid>https://github.com/IceWhaleTech/CasaOS</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>JCodesMore/ai-website-cloner-template</title>
+      <link>https://github.com/JCodesMore/ai-website-cloner-template</link>
+      <guid>https://github.com/JCodesMore/ai-website-cloner-template</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：Clone any website with one command using AI coding agents</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <guid>https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>待翻译：Give your AI agent eyes to see the entire internet. Read &amp;amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 17 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-06-26.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-06-26.json</guid>
+      <pubDate>Fri, 26 Jun 2026 15:07:46 GMT</pubDate>
+      <description>GitHub 热门日报 · 17 个项目</description>
+    </item>
+  </channel>
+</rss>
