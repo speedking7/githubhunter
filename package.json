@@ -1,0 +1,12 @@
+{
+  "name": "githubhunter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check script.js && node --check scripts/fetch-github-trending.mjs && node --check scripts/generate-rss.mjs && node --check scripts/build-search-index.mjs && node --check scripts/verify-schedule.mjs && node --check scripts/test-parser.mjs && bash -n scripts/run-daily.sh && node scripts/verify-schedule.mjs && node scripts/test-parser.mjs",
+    "rss": "node scripts/generate-rss.mjs",
+    "serve": "python3 -m http.server 4177",
+    "update:daily": "bash scripts/run-daily.sh"
+  }
+}
