@@ -96,6 +96,31 @@ node scripts/fetch-github-trending.mjs --date 2026-06-26 --issue-date 2026-06-26
 
 `--date` 与 `--issue-date` 均按 UTC 理解（GitHub Trending 以 UTC 刷新）。不传则默认取 UTC 当天。
 
+## Windows 本地部署（与 ph-cn-picks 一致）
+
+除 GitHub Actions 外，本项目也提供 Windows 本地静默运行方案，用任务计划程序保活静态服务器并每天自动抓取。
+
+- `start-local-server.ps1`：探测 uv 管理的 python（`%APPDATA%\uv\python\...`，绕开 PATH 与微软商店 stub），在 `http://127.0.0.1:4180/` 起 `python -m http.server`，端口已占用则跳过。日志 `logs/startup.log`、`logs/server.log`。
+- `update-daily.ps1`：静默抓取运行器。锁文件 `logs/github-trending.lock`（2 小时内的锁会跳过本次）、`.env` 自动导入（可放 `OPENAI_API_KEY` 等），依次跑 `fetch-github-trending.mjs --skip-existing` → `generate-rss.mjs` → `build-search-index.mjs`，输出全写 `logs/github-trending-daily-windows.log`。无需任何 token。
+- `scripts/register-scheduled-tasks.ps1`：幂等注册 4 个任务——
+  - `githubhunter-local-server`：登录时触发，保活静态服务器；
+  - `githubhunter-daily-update-1/2/3`：每天北京时间 10:10 / 11:10 / 12:10 触发抓取（GitHub Trending 在 UTC 00:00 = 北京 08:00 刷新，故在 8 点之后跑）。`--skip-existing` + 锁文件保证同一天只成功一次。
+
+注册：
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\register-scheduled-tasks.ps1
+```
+
+手动试跑：
+
+```powershell
+Start-ScheduledTask -TaskName 'githubhunter-local-server'
+Start-ScheduledTask -TaskName 'githubhunter-daily-update-1'
+```
+
+端口 4180 与 ph 的 4177 错开，两个站可同时本地预览。
+
 ## 项目类型标签
 
 标签从受控词表里取，覆盖 AI 开发工具生态：开发框架、SDK/库、AI代理、RAG、记忆管理、skills、harness、向量数据库、模型/LLM、评估、开发者工具、DevOps、数据库、可观测性、安全、可视化、UI组件、自动化、编辑器插件、学习资源、其他。配 `OPENAI_API_KEY` 时由 LLM 选 1-3 个，否则用关键词规则回退。
