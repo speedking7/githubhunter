@@ -121,6 +121,37 @@ Start-ScheduledTask -TaskName 'githubhunter-daily-update-1'
 
 端口 4180 与 ph 的 4177 错开，两个站可同时本地预览。
 
+### 访问 GitHub 与翻译（`.env`）
+
+抓取需要访问 `github.com`，翻译需要 OpenAI 兼容接口。两者都走机器本地的 `.env`（已 gitignore，机器相关）。`update-daily.ps1` 会自动导入 `.env`。示例：
+
+```ini
+OPENAI_API_KEY=你的 key
+OPENAI_MODEL=deepseek-v4-flash_yfi
+OPENAI_BASE_URL=https://oneapi.yanfeng.com/v1
+
+# 本地西部世界 VPN 代理，让 node fetch 能访问 github.com（LLM 主机走直连，排除在代理外）
+HTTPS_PROXY=http://127.0.0.1:21882
+HTTP_PROXY=http://127.0.0.1:21882
+NODE_USE_ENV_PROXY=1
+NO_PROXY=oneapi.yanfeng.com,127.0.0.1,localhost
+```
+
+要点：
+- **`github.com` 在国内常被墙**。西部世界 VPN 运行时会在本地开 HTTP 代理 `127.0.0.1:21882`（privoxy）和 SOCKS5 `127.0.0.1:21881`。`.env` 里设 `HTTPS_PROXY` + `NODE_USE_ENV_PROXY=1`，Node 24 的 `fetch` 即可走代理访问 GitHub。
+- **LLM 接口**若用国内可达的 OneAPI 代理（如 `oneapi.yanfeng.com`），用 `NO_PROXY` 把它排除，避免绕行 VPN。
+- **每日定时任务要求 VPN 在运行**。请保持西部世界 VPN 常驻（登录自启）。VPN 没开时，抓取会走 fallback、保留上次数据，不会崩。
+- 没配 `OPENAI_API_KEY` 时，描述保留 `待翻译：…`、标签走关键词回退。
+
+### 手动补翻译历史期
+
+若某期数据因当时没配 key 而未翻译，可重新抓取该期（需 github 可达）：
+
+```bash
+rm data/issues/<日期>.json
+node scripts/fetch-github-trending.mjs --date <日期> --issue-date <日期>
+```
+
 ## 项目类型标签
 
 标签从受控词表里取，覆盖 AI 开发工具生态：开发框架、SDK/库、AI代理、RAG、记忆管理、skills、harness、向量数据库、模型/LLM、评估、开发者工具、DevOps、数据库、可观测性、安全、可视化、UI组件、自动化、编辑器插件、学习资源、其他。配 `OPENAI_API_KEY` 时由 LLM 选 1-3 个，否则用关键词规则回退。
