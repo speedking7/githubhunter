@@ -5,148 +5,148 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Jun 2026 16:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:22:23 GMT</lastBuildDate>
     <item>
       <title>simplex-chat/simplex-chat</title>
       <link>https://github.com/simplex-chat/simplex-chat</link>
       <guid>https://github.com/simplex-chat/simplex-chat</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>SimpleX - 首个完全无用户标识的消息网络，设计上100%隐私保护！支持iOS、Android和桌面应用📱</description>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>SimpleX — 首个无需任何用户标识符的消息网络，设计上100%私密！支持 iOS、Android 和桌面应用 📱！</description>
       <category>安全</category>
     </item>
     <item>
       <title>google-labs-code/design.md</title>
       <link>https://github.com/google-labs-code/design.md</link>
       <guid>https://github.com/google-labs-code/design.md</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>用于向编码代理描述视觉标识的格式规范。DESIGN.md 赋予代理对设计系统持久、结构化的理解。</description>
-      <category>开发框架</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>一种描述视觉身份给编码代理的格式规范。DESIGN.md 为代理提供对设计系统的持久、结构化理解。</description>
+      <category>开发框架, 开发者工具, 可视化</category>
     </item>
     <item>
       <title>commaai/openpilot</title>
       <link>https://github.com/commaai/openpilot</link>
       <guid>https://github.com/commaai/openpilot</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>openpilot 是一个用于机器人技术的操作系统。目前，它升级了 300 多款支持车型的驾驶辅助系统。</description>
-      <category>开发框架, 自动化</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>openpilot 是一款机器人操作系统。目前，它可升级 300 多款支持车型的驾驶辅助系统。</description>
+      <category>开发框架, SDK/库, 自动化</category>
     </item>
     <item>
       <title>kunchenguid/no-mistakes</title>
       <link>https://github.com/kunchenguid/no-mistakes</link>
       <guid>https://github.com/kunchenguid/no-mistakes</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>防止在 git push 时引入错误或纰漏的工具</description>
-      <category>开发者工具, 自动化</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>无差错推送：在本地的 Git 代理中运行验证流水线，确保代码质量后再推送到远程仓库。</description>
+      <category>开发者工具, 自动化, AI代理</category>
     </item>
     <item>
       <title>grafana/grafana</title>
       <link>https://github.com/grafana/grafana</link>
       <guid>https://github.com/grafana/grafana</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>开放且可组合的可观测性与数据可视化平台。可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多种来源的指标、日志和链路追踪。</description>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>开放且可组合的可观测性与数据可视化平台。可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多个来源的指标、日志和链路。</description>
       <category>可视化, 可观测性, 开发者工具</category>
     </item>
     <item>
       <title>ripienaar/free-for-dev</title>
       <link>https://github.com/ripienaar/free-for-dev</link>
       <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>一份面向 DevOps 和基础设施开发者的 SaaS、PaaS 和 IaaS 免费层级服务列表。</description>
-      <category>学习资源, 开发者工具, DevOps</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>一个列出SaaS、PaaS和IaaS免费套餐的列表，对DevOps和基础设施开发者有用。</description>
+      <category>开发者工具</category>
     </item>
     <item>
       <title>opendatalab/MinerU</title>
       <link>https://github.com/opendatalab/MinerU</link>
       <guid>https://github.com/opendatalab/MinerU</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>将PDF、Office文档等复杂文档转换为适用于LLM的Markdown/JSON格式，赋能您的智能代理工作流程。</description>
-      <category>SDK/库, AI代理, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>将复杂的文档（如PDF和Office文档）转换为适合LLM的markdown/JSON格式，以便用于你的智能体工作流程。</description>
+      <category>SDK/库, AI代理</category>
     </item>
     <item>
       <title>alchaincyf/zhangxuefeng-skill</title>
       <link>https://github.com/alchaincyf/zhangxuefeng-skill</link>
       <guid>https://github.com/alchaincyf/zhangxuefeng-skill</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
       <description>张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。</description>
-      <category>skills, AI代理, 开发者工具</category>
+      <category>skills, AI代理, 学习资源</category>
     </item>
     <item>
       <title>mauriceboe/TREK</title>
       <link>https://github.com/mauriceboe/TREK</link>
       <guid>https://github.com/mauriceboe/TREK</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>一个自托管的旅行/行程规划器，支持实时协作、交互式地图、PWA 支持、SSO、预算、打包清单等。</description>
-      <category>可视化, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>一个自托管的旅行/行程规划器，支持实时协作、交互式地图、PWA、SSO、预算、行李清单等。</description>
+      <category>开发者工具, 可视化</category>
     </item>
     <item>
       <title>xbtlin/ai-berkshire</title>
       <link>https://github.com/xbtlin/ai-berkshire</link>
       <guid>https://github.com/xbtlin/ai-berkshire</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
       <description>AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。</description>
-      <category>AI代理, SDK/库, 开发框架</category>
+      <category>AI代理, 开发者工具</category>
     </item>
     <item>
       <title>calesthio/OpenMontage</title>
       <link>https://github.com/calesthio/OpenMontage</link>
       <guid>https://github.com/calesthio/OpenMontage</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>全球首个开源的智能体视频生产系统。12条流水线、52个工具、500多项智能体技能。将你的AI编程助手变成完整的视频制作工作室。</description>
-      <category>AI代理, 自动化, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>世界上首个开源的、基于代理的视频制作系统。12条流水线、52个工具、500多项代理技能。将你的AI编码助手转变为完整的视频制作工作室。</description>
+      <category>AI代理, 自动化, 开发框架</category>
     </item>
     <item>
       <title>aws/agent-toolkit-for-aws</title>
       <link>https://github.com/aws/agent-toolkit-for-aws</link>
       <guid>https://github.com/aws/agent-toolkit-for-aws</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>AWS 官方支持的 MCP 服务器、技能和插件，帮助 AI 代理在 AWS 上构建。</description>
-      <category>AI代理, skills, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>官方 AWS 支持的 MCP 服务、技能和插件，帮助 AI 代理在 AWS 上构建应用。</description>
+      <category>AI代理, skills, harness</category>
     </item>
     <item>
       <title>NanmiCoder/MediaCrawler</title>
       <link>https://github.com/NanmiCoder/MediaCrawler</link>
       <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>小红书笔记/评论爬虫、抖音视频/评论爬虫、快手视频/评论爬虫、B站视频/评论爬虫、微博帖子/评论爬虫、百度贴吧帖子/百度贴吧评论回复爬虫、知乎问答文章/评论爬虫</description>
-      <category>自动化, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>支持小红书、抖音、快手、B站、微博、百度贴吧、知乎的多平台自媒体数据采集工具，可抓取笔记、视频、帖子、问答等内容的正文与评论。</description>
+      <category>自动化</category>
     </item>
     <item>
       <title>garrytan/gstack</title>
       <link>https://github.com/garrytan/gstack</link>
       <guid>https://github.com/garrytan/gstack</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>使用 Garry Tan 的精确 Claude Code 配置：23 个固执的工具，涵盖 CEO、设计师、工程经理、发布经理、文档工程师和 QA 角色。</description>
-      <category>AI代理, 开发者工具, 自动化</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>使用 Garry Tan 的精准 Claude Code 配置：23 个原则性工具，担任 CEO、设计师、工程经理、发布经理、文档工程师和 QA。</description>
+      <category>AI代理, 开发者工具, SDK/库</category>
     </item>
     <item>
       <title>IceWhaleTech/CasaOS</title>
       <link>https://github.com/IceWhaleTech/CasaOS</link>
       <guid>https://github.com/IceWhaleTech/CasaOS</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
       <description>CasaOS - 一个简单、易用、优雅的开源个人云系统。</description>
-      <category>开发者工具</category>
+      <category>开发者工具, UI组件, 自动化</category>
     </item>
     <item>
       <title>JCodesMore/ai-website-cloner-template</title>
       <link>https://github.com/JCodesMore/ai-website-cloner-template</link>
       <guid>https://github.com/JCodesMore/ai-website-cloner-template</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>使用AI编码代理，一条命令克隆任何网站</description>
-      <category>AI代理, 自动化, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>使用 AI 编码代理，一条命令克隆任何网站。</description>
+      <category>开发者工具, 自动化, AI代理</category>
     </item>
     <item>
       <title>Panniantong/Agent-Reach</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
-      <description>为你的AI代理装上双眼，观览整个互联网。读取并搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 单一命令行工具，零API费用。</description>
-      <category>AI代理, SDK/库, 开发者工具</category>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
+      <description>给AI代理一双看遍整个互联网的眼睛。读取和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个命令行，零API费用。</description>
+      <category>AI代理, 开发者工具</category>
     </item>
     <item>
       <title>GitHub 热门日报 · 17 个项目</title>
       <link>https://githubhunter.example/data/issues/2026-06-26.json</link>
       <guid>https://githubhunter.example/data/issues/2026-06-26.json</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:30 GMT</pubDate>
+      <pubDate>Fri, 26 Jun 2026 16:18:33 GMT</pubDate>
       <description>GitHub 热门日报 · 17 个项目</description>
     </item>
   </channel>

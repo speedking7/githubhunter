@@ -77,14 +77,35 @@ function cleanTranslation(text) {
     .trim();
 }
 
-async function tagAndTranslateWithOpenAI(description, repo) {
+const README_CANDIDATES = ["README.md", "readme.md", "README.rst", "readme.rst", "README.txt", "README"];
+const README_MAX_CHARS = 4000;
+
+async function fetchReadme(repo) {
+  for (const name of README_CANDIDATES) {
+    const url = `https://raw.githubusercontent.com/${repo}/HEAD/${name}`;
+    try {
+      const response = await fetch(url, {
+        headers: { "User-Agent": "Mozilla/5.0 (compatible; githubhunter/0.1)", Accept: "text/plain" },
+      });
+      if (!response.ok) continue;
+      const text = await response.text();
+      if (text && text.length > 20) return text.slice(0, README_MAX_CHARS);
+    } catch {
+      // try next candidate name
+    }
+  }
+  return "";
+}
+
+async function tagAndTranslateWithOpenAI(description, repo, readme) {
   const baseUrl = (process.env.OPENAI_BASE_URL || "https://api.openai.com/v1").replace(/\/+$/, "");
   const model = process.env.OPENAI_MODEL || "gpt-4o-mini";
   const system = [
-    "你是 GitHub 项目编辑。给定仓库描述，做两件事：",
-    "1) 翻译成自然、克制、准确的简体中文，保留仓库名、技术名词、专有名词，不加主观评价。",
-    `2) 从受控词表里挑 1-3 个最贴合的项目类型标签。词表：${ALLOWED_TAGS.join(" / ")}。`,
-    '只输出 JSON，格式 {"descriptionZh":"...","tags":["..."]}，不要任何额外文字。',
+    "你是 GitHub 项目编辑。给定仓库名、简介、README，做三件事：",
+    "1) 把简介翻译成自然、克制、准确的简体中文（descriptionZh），保留仓库名、技术名词、专有名词，不加主观评价。",
+    `2) 从受控词表里挑 1-3 个最贴合的项目类型标签（tags）。词表：${ALLOWED_TAGS.join(" / ")}。`,
+    "3) 基于 README 写 2-4 句中文总结（readmeSummary），说明这个项目是做什么的、核心能力、典型用法；只陈述事实，不要营销口吻、不要复述仓库名。README 缺失时 readmeSummary 留空字符串。",
+    '只输出 JSON，格式 {"descriptionZh":"...","tags":["..."],"readmeSummary":"..."}，不要任何额外文字。',
   ].join("\n");
   const response = await fetch(`${baseUrl}/chat/completions`, {
     method: "POST",
@@ -95,7 +116,7 @@ async function tagAndTranslateWithOpenAI(description, repo) {
       response_format: { type: "json_object" },
       messages: [
         { role: "system", content: system },
-        { role: "user", content: `仓库：${repo}\n描述：${description}` },
+        { role: "user", content: `仓库：${repo}\n简介：${description}\nREADME：\n${readme}` },
       ],
     }),
   });
@@ -108,14 +129,19 @@ async function tagAndTranslateWithOpenAI(description, repo) {
   let tags = Array.isArray(parsed.tags) ? parsed.tags : [];
   tags = tags.filter((t) => ALLOWED_TAGS.includes(t)).slice(0, 3);
   if (tags.length === 0) tags = classify(description);
-  return { descriptionZh: descriptionZh || `待翻译：${description}`, tags };
+  const readmeSummary = String(parsed.readmeSummary || "").trim();
+  return {
+    descriptionZh: descriptionZh || `待翻译：${description}`,
+    tags,
+    readmeSummary,
+  };
 }
 
-export async function tagAndTranslate(parsed) {
+export async function tagAndTranslate(parsed, readme = "") {
   const description = parsed.description || parsed.repo || "";
   if (process.env.OPENAI_API_KEY) {
     try {
-      return await tagAndTranslateWithOpenAI(description, parsed.repo);
+      return await tagAndTranslateWithOpenAI(description, parsed.repo, readme);
     } catch (error) {
       console.warn(`[tagAndTranslate] ${parsed.repo}: ${error.message}`);
     }
@@ -123,6 +149,7 @@ export async function tagAndTranslate(parsed) {
   return {
     descriptionZh: description ? `待翻译：${description}` : "",
     tags: classify(description),
+    readmeSummary: "",
   };
 }
 
@@ -158,11 +185,13 @@ async function fetchTrendingHtml() {
 }
 
 async function mapRepo(parsed, index, date, lastUpdated) {
-  const { descriptionZh, tags } = await tagAndTranslate(parsed);
+  const readme = await fetchReadme(parsed.repo);
+  const { descriptionZh, tags, readmeSummary } = await tagAndTranslate(parsed, readme);
   return {
     repo: parsed.repo,
     description: parsed.description,
     descriptionZh,
+    readmeSummary,
     tags: tags.length ? tags : ["其他"],
     language: parsed.language,
     starsToday: parsed.starsToday,

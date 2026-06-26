@@ -194,7 +194,7 @@ function renderRow(p) {
 }
 
 function intro(p) {
-  return p.descriptionZh || p.description || "这个项目值得加入今天的研究清单。";
+  return p.readmeSummary || p.descriptionZh || p.description || "这个项目值得加入今天的研究清单。";
 }
 
 function selectProduct(p, scroll = true) {
