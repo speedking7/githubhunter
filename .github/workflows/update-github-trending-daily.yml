@@ -1,0 +1,50 @@
+name: Update GitHub Trending Daily
+
+on:
+  schedule:
+    - cron: "7 2 * * *"
+    - cron: "7 3 * * *"
+    - cron: "7 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check scripts
+        run: npm run check
+      - name: Fetch GitHub trending daily
+        run: npm run update:daily
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+      - name: Commit updated data
+        run: |
+          git config user.name "gh-trending-bot"
+          git config user.email "gh-trending-bot@example.com"
+          git add data/products.json data/issues.json data/issues feed.xml data/search-index.json
+          git commit -m "Update GitHub trending daily picks" || exit 0
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - id: deployment
+        uses: actions/deploy-pages@v4
