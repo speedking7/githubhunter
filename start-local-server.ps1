@@ -39,10 +39,29 @@ if (-not $PythonExe) {
 }
 
 Set-Location -LiteralPath $ProjectRoot
-Write-StartupLog "Starting githubhunter from $ProjectRoot on http://127.0.0.1:$Port/ with $PythonExe"
 
-& $PythonExe -m http.server $Port *>> $ServerLog
-$exitCode = $LASTEXITCODE
+# Launch python as an INDEPENDENT (detached) process so it survives this task
+# host exiting. A blocking `& $PythonExe` would make python a child of the task
+# host; when the scheduler terminates the host (~60s on this machine), it would
+# take python down with it. Start-Process detaches python to live on its own.
+$ServerLogPath = Join-Path $LogDir 'server.log'
+$ServerErrPath = Join-Path $LogDir 'server.err.log'
+Write-StartupLog "Launching githubhunter server on http://127.0.0.1:$Port/ with $PythonExe (detached)"
 
-Write-StartupLog "python http.server exited with code $exitCode."
-exit $exitCode
+$proc = Start-Process -FilePath $PythonExe `
+  -ArgumentList @('-m', 'http.server', $Port, '--bind', '127.0.0.1') `
+  -WorkingDirectory $ProjectRoot `
+  -WindowStyle Hidden `
+  -RedirectStandardOutput $ServerLogPath `
+  -RedirectStandardError $ServerErrPath `
+  -PassThru
+
+Start-Sleep -Seconds 2
+
+if ($proc -and -not $proc.HasExited) {
+  Write-StartupLog "Server launched as PID $($proc.Id) on http://127.0.0.1:$Port/ (detached; host exiting)."
+  exit 0
+}
+
+Write-StartupLog "Server process exited immediately with code $($proc.ExitCode); cannot keep port up."
+exit 1
