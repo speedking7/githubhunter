@@ -125,3 +125,142 @@ export async function tagAndTranslate(parsed) {
     tags: classify(description),
   };
 }
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const DEFAULT_OUT = resolve(__dirname, "../data/products.json");
+const DEFAULT_ISSUES_DIR = resolve(__dirname, "../data/issues");
+const DEFAULT_ISSUES_INDEX = resolve(__dirname, "../data/issues.json");
+
+export function parseArgs(argv) {
+  const today = new Date().toISOString().slice(0, 10);
+  const args = { date: today, issueDate: today, out: DEFAULT_OUT, issuesDir: DEFAULT_ISSUES_DIR, issuesIndex: DEFAULT_ISSUES_INDEX, skipExisting: false };
+  for (let i = 0; i < argv.length; i += 1) {
+    const item = argv[i];
+    if (item === "--date") args.date = argv[i + 1];
+    if (item === "--issue-date") args.issueDate = argv[i + 1];
+    if (item === "--out") args.out = resolve(argv[i + 1]);
+    if (item === "--issues-dir") args.issuesDir = resolve(argv[i + 1]);
+    if (item === "--issues-index") args.issuesIndex = resolve(argv[i + 1]);
+    if (item === "--skip-existing") args.skipExisting = true;
+  }
+  for (const key of ["date", "issueDate"]) {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(args[key])) throw new Error(`Invalid ${key}: ${args[key]}`);
+  }
+  return args;
+}
+
+async function fetchTrendingHtml() {
+  const response = await fetch(TRENDING_URL, {
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; githubhunter/0.1)", Accept: "text/html" },
+  });
+  if (!response.ok) throw new Error(`GitHub trending fetch failed: HTTP ${response.status}`);
+  return response.text();
+}
+
+async function mapRepo(parsed, index, date, lastUpdated) {
+  const { descriptionZh, tags } = await tagAndTranslate(parsed);
+  return {
+    repo: parsed.repo,
+    description: parsed.description,
+    descriptionZh,
+    tags: tags.length ? tags : ["其他"],
+    language: parsed.language,
+    starsToday: parsed.starsToday,
+    starsTotal: parsed.starsTotal,
+    forks: parsed.forks,
+    url: parsed.url,
+    rank: index + 1,
+    date,
+    githubDate: date,
+    lastUpdated,
+  };
+}
+
+async function readPreviousData(path) {
+  try { return JSON.parse(await readFile(path, "utf8")); } catch { return null; }
+}
+
+async function writeData(path, data) {
+  await mkdir(dirname(path), { recursive: true });
+  await writeFile(path, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+}
+
+function createIssueEntry(data) {
+  const date = data.meta?.date;
+  return {
+    date,
+    day: String(date || "").slice(-2),
+    title: `GitHub 热门日报 · ${(data.products || []).length} 个项目`,
+    url: `./data/issues/${date}.json`,
+    productsCount: (data.products || []).length,
+    lastUpdated: data.meta?.lastUpdated || null,
+    status: data.meta?.status || null,
+  };
+}
+
+async function updateIssuesIndex(path, entry) {
+  const previous = await readPreviousData(path);
+  const issues = Array.isArray(previous?.issues) ? previous.issues : [];
+  const next = [entry, ...issues.filter((i) => i.date !== entry.date)].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+  await writeData(path, { latest: next[0]?.date || entry.date, issues: next });
+}
+
+async function writeIssueArchive({ out, issuesDir, issuesIndex, data }) {
+  await writeData(out, data);
+  await writeData(resolve(issuesDir, `${data.meta.date}.json`), data);
+  await updateIssuesIndex(issuesIndex, createIssueEntry(data));
+}
+
+export async function runFetch(args) {
+  const previous = await readPreviousData(args.out);
+  const existing = await readPreviousData(resolve(args.issuesDir, `${args.issueDate}.json`));
+  if (args.skipExisting && existing?.meta?.date === args.issueDate && existing?.meta?.status === "live") {
+    console.log(`Issue ${args.issueDate} already exists. Skipping.`);
+    return;
+  }
+  const lastUpdated = new Date().toISOString();
+  let html;
+  try { html = await fetchTrendingHtml(); }
+  catch (error) {
+    const fallback = previous || { products: [] };
+    await writeIssueArchive({ out: args.out, issuesDir: args.issuesDir, issuesIndex: args.issuesIndex, data: { ...fallback, meta: { ...(fallback.meta || {}), date: args.issueDate, githubDate: args.date, lastUpdated, status: "fallback", error: error.message } } });
+    console.warn(`Fetch failed, preserved previous data with fallback status: ${error.message}`);
+    return;
+  }
+  const parsed = parseTrending(html);
+  if (parsed.length === 0) {
+    const fallback = previous || { products: [] };
+    await writeIssueArchive({ out: args.out, issuesDir: args.issuesDir, issuesIndex: args.issuesIndex, data: { ...fallback, meta: { ...(fallback.meta || {}), date: args.issueDate, githubDate: args.date, lastUpdated, status: "fallback", error: "Parsed 0 repos; trending HTML structure may have changed." } } });
+    console.warn("Parsed 0 repos. Previous data preserved with fallback status.");
+    return;
+  }
+  const products = [];
+  for (let i = 0; i < parsed.length && i < DEFAULT_LIMIT; i += 1) {
+    products.push(await mapRepo(parsed[i], i, args.issueDate, lastUpdated));
+  }
+  const data = {
+    meta: {
+      date: args.issueDate,
+      githubDate: args.date,
+      lastUpdated,
+      status: "live",
+      source: "github-trending-html",
+      timezone: ISSUE_TIMEZONE,
+      issues: [{ day: args.issueDate.slice(-2), title: `GitHub 热门日报 · ${products.length} 个项目` }],
+    },
+    products,
+  };
+  await writeIssueArchive({ out: args.out, issuesDir: args.issuesDir, issuesIndex: args.issuesIndex, data });
+  console.log(`Wrote ${products.length} repos for ${args.issueDate} to ${args.out}`);
+}
+
+function isDirectRun() {
+  return process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+}
+
+if (isDirectRun()) {
+  runFetch(parseArgs(process.argv.slice(2))).catch((error) => {
+    console.error(error.message);
+    process.exitCode = 1;
+  });
+}
