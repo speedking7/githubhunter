@@ -1,13 +1,6 @@
 const DATA_URL = "./data/products.json";
 const ISSUES_URL = "./data/issues.json";
 const SEARCH_INDEX_URL = "./data/search-index.json";
-
-const state = {
-  products: [], filtered: [], issues: [], searchIndex: [], globalSearch: false, activeTopic: "all", query: "",
-  meta: null, selectedId: null, archiveExpanded: false, saved: loadSaved(),
-  calendarYear: null, calendarMonth: null,
-};
-
 const SAVED_KEY = "gh-daily-saved";
 
 function loadSaved() {
@@ -20,6 +13,13 @@ function loadSaved() {
     return new Map();
   }
 };
+
+const state = {
+  products: [], filtered: [], issues: [], searchIndex: [], globalSearch: false, activeTopic: "all", query: "",
+  meta: null, selectedId: null, archiveExpanded: false, saved: loadSaved(),
+  calendarYear: null, calendarMonth: null,
+};
+
 
 const $ = (selector) => document.querySelector(selector);
 const els = {
