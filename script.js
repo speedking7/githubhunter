@@ -58,7 +58,8 @@ function formatChineseDate(value) {
 function volumeNumber(issue, index = 0) {
   const fromIssue = String(issue?.volume || issue?.vol || "").match(/\d+/)?.[0];
   if (fromIssue) return fromIssue.padStart(4, "0");
-  return String(Math.max(1, index + 1)).padStart(4, "0");
+  const total = state.issues.length || 1;
+  return String(Math.max(1, total - index)).padStart(4, "0");
 }
 
 function renderCalendar(dateValue) {

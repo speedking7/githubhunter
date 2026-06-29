@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "date": "2026-06-27",
+    "githubDate": "2026-06-27",
+    "lastUpdated": "2026-06-27T02:10:02.446Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "27",
+        "title": "GitHub 热门日报 · 17 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "descriptionZh": "SimpleX - 第一个无需任何用户标识符即可运行的消息网络——设计上百分百私密！支持 iOS、Android 和桌面应用。",
+      "readmeSummary": "SimpleX 是一个去中心化的消息平台，核心设计不依赖任何用户标识符（如用户名或电话号码），从而最大化隐私保护。它支持端到端双棘轮加密和额外加密层，保护消息内容和元数据。提供 iOS、Android 移动应用，以及 Linux、macOS、Windows 的终端命令行界面。用户可通过应用内链接安全连接他人，并加入群组进行通信。",
+      "tags": [
+        "SDK/库",
+        "安全",
+        "自动化"
+      ],
+      "language": "Haskell",
+      "starsToday": 432,
+      "starsTotal": 12638,
+      "forks": 714,
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "rank": 1,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "descriptionZh": "一种格式规范，用于向编码代理描述视觉标识。DESIGN.md 为代理提供对设计系统持久、结构化的理解。",
+      "readmeSummary": "该项目定义了一种用于描述视觉标识的格式规范。它通过 YAML 前端数据（设计令牌）和 Markdown 正文（设计原理）相结合的方式，为编码代理提供对设计系统持久且结构化的理解。项目提供了验证工具（lint）来检查令牌有效性、WCAG 对比度等问题，并提供差异比较工具（diff）来检测设计系统的版本变化。典型用法是将 DESIGN.md 文件置于项目中，代理可通过读取该文件来生成符合设计系统的用户界面。",
+      "tags": [
+        "SDK/库",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 2407,
+      "starsTotal": 21320,
+      "forks": 1727,
+      "url": "https://github.com/google-labs-code/design.md",
+      "rank": 2,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "descriptionZh": "openpilot 是一个机器人操作系统。目前，它升级了 300 多款支持车型的驾驶辅助系统。",
+      "readmeSummary": "openpilot 是一个机器人操作系统，旨在升级支持车型的驾驶辅助系统。用户需搭配 comma four 设备和专用线束，在 300 多款支持车型上使用。项目提供快速安装脚本，并有稳定版、预览版和开发版等多个分支供选择。",
+      "tags": [
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Python",
+      "starsToday": 80,
+      "starsTotal": 61804,
+      "forks": 11049,
+      "url": "https://github.com/commaai/openpilot",
+      "rank": 3,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "descriptionZh": "git push no-mistakes",
+      "readmeSummary": "该项目是一个本地Git代理工具，在推送代码前运行AI驱动的验证流水线。它会在隔离的工作树中执行审查、测试、文档、代码检查等步骤，仅在所有检查通过后才将分支转发到配置的推送目标并自动创建干净的PR。开发者通过TUI可以批准、修复或跳过发现的问题。支持多种AI编码代理，并保持人类对最终决策的控制权。",
+      "tags": [
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Go",
+      "starsToday": 398,
+      "starsTotal": 3449,
+      "forks": 207,
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "rank": 4,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "descriptionZh": "开放、可组合的可观测性与数据可视化平台。可视化来自Prometheus、Loki、Elasticsearch、InfluxDB、Postgres等多个来源的指标、日志和链路追踪。",
+      "readmeSummary": "Grafana 是一个开源的可观测性与监控平台，支持查询、可视化、告警和分析来自多种数据源的指标、日志和链路追踪。它提供灵活的图表面板、动态仪表盘、日志探索功能以及基于视觉化规则的告警系统，并支持在同一图表中混合多个数据源。",
+      "tags": [
+        "可观测性",
+        "可视化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 32,
+      "starsTotal": 74923,
+      "forks": 14127,
+      "url": "https://github.com/grafana/grafana",
+      "rank": 5,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "descriptionZh": "一份对 DevOps 和基础设施开发者有用的免费层级 SaaS、PaaS 和 IaaS 服务列表。",
+      "readmeSummary": "该项目整理了一份涵盖 SaaS、PaaS、IaaS 等拥有免费开发层级的服务列表，仅供开发者和开源作者参考。列表中的免费层级需长期有效，且只收录 as-a-Service 的托管服务，不包括自托管软件。内容按云服务、分析、API、CI/CD 等多个类别分类，便于查找和使用。",
+      "tags": [
+        "开发者工具",
+        "DevOps"
+      ],
+      "language": "HTML",
+      "starsToday": 90,
+      "starsTotal": 123755,
+      "forks": 13051,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "rank": 6,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "descriptionZh": "将 PDF、Office 文档等复杂文档转换为适用于 AI 代理工作流的 Markdown/JSON 格式。",
+      "readmeSummary": "这是一个文档解析工具，能够将 PDF、Office 等复杂文档转换成结构化的 Markdown 或 JSON 格式，以便直接供给大语言模型（LLM）或智能代理工作流使用。它提供网页演示、Python 库和命令行接口，支持多格式输入，并针对表格、公式、标题等复杂元素进行优化识别与还原。项目开源，支持批量处理与自定义配置，适合知识库构建、文档数据清洗等场景。",
+      "tags": [
+        "开发者工具",
+        "SDK/库",
+        "AI代理"
+      ],
+      "language": "Python",
+      "starsToday": 960,
+      "starsTotal": 70458,
+      "forks": 5941,
+      "url": "https://github.com/opendatalab/MinerU",
+      "rank": 7,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "descriptionZh": "张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "readmeSummary": "该项目提取了张雪峰在高考志愿、考研和职业规划方面的实战思维框架，基于其著作、采访和语录构建了五个核心心智模型和八条决策启发式。用户可以与模型交互，获取针对具体情景（如志愿填报、学历提升、专业选择等）的模拟回答，回答中融入了其典型的分析方法和价值观（如就业倒推法、社会筛子论等）。",
+      "tags": [
+        "AI代理",
+        "skills",
+        "学习资源"
+      ],
+      "language": "",
+      "starsToday": 160,
+      "starsTotal": 9267,
+      "forks": 2564,
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "rank": 8,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "descriptionZh": "一个自托管的旅行/行程规划工具，支持实时协作、交互式地图、PWA、SSO、预算管理、打包清单等功能。",
+      "readmeSummary": "TREK 是一个自托管的实时协作旅行规划器，集成了地图、预算、打包清单、旅行日志和 AI 功能。它提供拖拽式行程安排、交互式地图（支持 Leaflet 或 Mapbox GL 及 3D 建筑）、费用分摊、国家访问记录、假期规划以及管理面板等。用户可通过 Docker 快速部署，实现完全掌握自己的旅行数据。",
+      "tags": [
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1060,
+      "starsTotal": 7686,
+      "forks": 650,
+      "url": "https://github.com/mauriceboe/TREK",
+      "rank": 9,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "descriptionZh": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架，整合巴菲特、芒格、段永平、李录四位大师方法论，通过多 Agent 并行与对抗分析实现专业级投资研究。",
+      "readmeSummary": "该项目提供一套基于 Claude Code 的投资研究 Skill 合集，将四位价值投资大师的方法论系统化，通过 AI Agent 实现专业级投资研究。核心能力包括强制结论输出（通过/不通过/灰色地带）、多视角对抗分析（四大师独立研究并综合）、结构化反偏见机制（信息评级、逆向检验、快速否决等）、金融数据精确校验以及可复现的研究流程。典型用法是启动多 Agent 并行分析单家公司，每个 Agent 独立搜索、验证和给出结论，最终由 Team Lead 统筹汇总，实现同标准横向对比和纵向追踪。",
+      "tags": [
+        "AI代理",
+        "skills",
+        "harness"
+      ],
+      "language": "Python",
+      "starsToday": 1274,
+      "starsTotal": 3152,
+      "forks": 466,
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "rank": 10,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "descriptionZh": "全球首个开源的、基于智能体的视频制作系统。包含12个流水线、52个工具、500余种智能体技能。将你的AI编程助手转变为一个完整的视频制作工作室。",
+      "readmeSummary": "OpenMontage是一个开源视频制作系统，基于智能体技术实现从创意到成片的全流程自动化。用户用自然语言描述需求，系统自动完成调研、脚本撰写、素材生成、剪辑和最终合成。区别于常见的图片动画化方案，它能从免费库存视频和开放档案中检索真实运动片段，编排时间线并渲染出成品视频。典型用法包括生成电影预告片、动画短片和产品广告，成本可低至0.69美元。",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "自动化"
+      ],
+      "language": "Python",
+      "starsToday": 1754,
+      "starsTotal": 23680,
+      "forks": 2634,
+      "url": "https://github.com/calesthio/OpenMontage",
+      "rank": 11,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "descriptionZh": "AWS 官方支持的 MCP 服务器、技能和插件，帮助 AI 代理在 AWS 上构建应用。",
+      "readmeSummary": "该项目提供了一套工具、知识和防护措施，使 AI 编码代理能够在 AWS 上构建、部署和管理应用程序。它兼容多种流行的 AI 编码代理（如 Claude Code、Codex、Cursor 和 Kiro），并通过插件形式提供 AWS 核心服务、AI 代理构建、数据分析及 DevSecOps 等能力。用户可通过各代理平台的市场或插件系统安装所需组件，或通过 MCP 配置直接集成。",
+      "tags": [
+        "AI代理",
+        "SDK/库"
+      ],
+      "language": "Python",
+      "starsToday": 243,
+      "starsTotal": 1365,
+      "forks": 123,
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "rank": 12,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "descriptionZh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "readmeSummary": "基于 Playwright 浏览器自动化框架，实现小红书、抖音、快手、B站、微博、贴吧、知乎等多个主流自媒体平台的公开信息抓取。无需逆向加密算法，通过保留登录态的浏览器上下文环境获取签名参数。支持关键词搜索、指定帖子爬取、二级评论、创作者主页采集、登录态缓存、IP代理池及评论词云图生成等特性。适合用于数据采集与学习研究，仅供非商业用途。",
+      "tags": [
+        "开发者工具",
+        "自动化",
+        "SDK/库"
+      ],
+      "language": "Python",
+      "starsToday": 673,
+      "starsTotal": 53382,
+      "forks": 10979,
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "rank": 13,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "descriptionZh": "使用 Garry Tan 的 Claude Code 精确配置：23 个偏执工具，充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA",
+      "readmeSummary": "该项目将 Claude Code 转化为虚拟工程团队，包含 23 个专用工具（如 CEO、设计师、QA 等角色）和 8 个强力工具，所有功能通过斜杠命令调用。它基于 Markdown 文件运行，MIT 许可，免费使用。典型用法包括运行 /office-hours 描述构建内容、/plan-ceo-review 评审功能、/review 审查分支、/qa 测试网站。",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 950,
+      "starsTotal": 116654,
+      "forks": 17311,
+      "url": "https://github.com/garrytan/gstack",
+      "rank": 14,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "descriptionZh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。",
+      "readmeSummary": "CasaOS 是一个开源的个人云系统，旨在帮助用户轻松搭建和管理自己的私有云环境。它提供了简洁的 Web 界面，用户可以通过它管理文件、运行应用，并控制家庭网络中的设备。典型用法是安装在 Raspberry Pi、NAS 或 x86 设备上，替代公共云服务，实现数据自主与个性化助手。",
+      "tags": [
+        "开发者工具",
+        "自动化",
+        "UI组件"
+      ],
+      "language": "Go",
+      "starsToday": 619,
+      "starsTotal": 35398,
+      "forks": 2027,
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "rank": 15,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "descriptionZh": "使用 AI 编码代理一条命令克隆任意网站",
+      "readmeSummary": "该项目提供了一个可复用的模板，用于通过 AI 编码代理逆向分析任意网站，并将其重构为干净、现代的 Next.js 代码库。用户只需指定目标 URL 并运行 `/clone-website` 命令，AI 代理会自动检查网站、提取设计标记和资源、编写组件规格，并并行构建各个部分。推荐使用 Claude Code（Opus 4.7）获得最佳效果，同时也支持 Codex CLI、Cursor 等多种 AI 编码代理。",
+      "tags": [
+        "开发者工具",
+        "AI代理",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1088,
+      "starsTotal": 21393,
+      "forks": 3102,
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "rank": 16,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "descriptionZh": "给你的 AI 代理装上能够浏览整个互联网的眼睛。通过单一命令行工具，无需任何 API 费用即可读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台。",
+      "readmeSummary": "Agent Reach 是一个开源命令行工具，旨在为 AI 代理提供统一的互联网访问能力，支持搜索和读取多个主流平台（如 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等），无需为各平台单独配置付费 API。它采用多后端路由策略，当一个接入方式失效时自动切换备用方案，减少用户维护成本。典型用法是将安装指令复制给 AI 代理，几分钟后即可让代理具备跨平台的信息获取能力，同时提供诊断命令（agent-reach doctor）来检查各平台的连通性。",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "SDK/库"
+      ],
+      "language": "Python",
+      "starsToday": 1194,
+      "starsTotal": 42399,
+      "forks": 3370,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "rank": 17,
+      "date": "2026-06-27",
+      "githubDate": "2026-06-27",
+      "lastUpdated": "2026-06-27T02:10:02.446Z"
+    }
+  ]
+}

@@ -3,3 +3,5 @@ logs/
 *.log
 .env
 local-server*.log
+.codewhale/
+.omc/

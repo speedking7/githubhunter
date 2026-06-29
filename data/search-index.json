@@ -192,5 +192,588 @@
     ],
     "date": "2026-06-26",
     "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "repo": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "descriptionZh": "SimpleX - 第一个无需任何用户标识符即可运行的消息网络——设计上百分百私密！支持 iOS、Android 和桌面应用。",
+    "tags": [
+      "SDK/库",
+      "安全",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "repo": "google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "descriptionZh": "一种格式规范，用于向编码代理描述视觉标识。DESIGN.md 为代理提供对设计系统持久、结构化的理解。",
+    "tags": [
+      "SDK/库",
+      "开发者工具"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/google-labs-code/design.md"
+  },
+  {
+    "repo": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "descriptionZh": "openpilot 是一个机器人操作系统。目前，它升级了 300 多款支持车型的驾驶辅助系统。",
+    "tags": [
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "repo": "kunchenguid/no-mistakes",
+    "description": "git push no-mistakes",
+    "descriptionZh": "git push no-mistakes",
+    "tags": [
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "repo": "grafana/grafana",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "descriptionZh": "开放、可组合的可观测性与数据可视化平台。可视化来自Prometheus、Loki、Elasticsearch、InfluxDB、Postgres等多个来源的指标、日志和链路追踪。",
+    "tags": [
+      "可观测性",
+      "可视化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/grafana/grafana"
+  },
+  {
+    "repo": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "descriptionZh": "一份对 DevOps 和基础设施开发者有用的免费层级 SaaS、PaaS 和 IaaS 服务列表。",
+    "tags": [
+      "开发者工具",
+      "DevOps"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "repo": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "descriptionZh": "将 PDF、Office 文档等复杂文档转换为适用于 AI 代理工作流的 Markdown/JSON 格式。",
+    "tags": [
+      "开发者工具",
+      "SDK/库",
+      "AI代理"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "repo": "alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "descriptionZh": "张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "tags": [
+      "AI代理",
+      "skills",
+      "学习资源"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+  },
+  {
+    "repo": "mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "descriptionZh": "一个自托管的旅行/行程规划工具，支持实时协作、交互式地图、PWA、SSO、预算管理、打包清单等功能。",
+    "tags": [
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/mauriceboe/TREK"
+  },
+  {
+    "repo": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "descriptionZh": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架，整合巴菲特、芒格、段永平、李录四位大师方法论，通过多 Agent 并行与对抗分析实现专业级投资研究。",
+    "tags": [
+      "AI代理",
+      "skills",
+      "harness"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "repo": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "descriptionZh": "全球首个开源的、基于智能体的视频制作系统。包含12个流水线、52个工具、500余种智能体技能。将你的AI编程助手转变为一个完整的视频制作工作室。",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "repo": "aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "descriptionZh": "AWS 官方支持的 MCP 服务器、技能和插件，帮助 AI 代理在 AWS 上构建应用。",
+    "tags": [
+      "AI代理",
+      "SDK/库"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
+    "repo": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "descriptionZh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "tags": [
+      "开发者工具",
+      "自动化",
+      "SDK/库"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "descriptionZh": "使用 Garry Tan 的 Claude Code 精确配置：23 个偏执工具，充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "descriptionZh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。",
+    "tags": [
+      "开发者工具",
+      "自动化",
+      "UI组件"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/IceWhaleTech/CasaOS"
+  },
+  {
+    "repo": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "descriptionZh": "使用 AI 编码代理一条命令克隆任意网站",
+    "tags": [
+      "开发者工具",
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "repo": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "descriptionZh": "给你的 AI 代理装上能够浏览整个互联网的眼睛。通过单一命令行工具，无需任何 API 费用即可读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台。",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "SDK/库"
+    ],
+    "date": "2026-06-27",
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "repo": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "descriptionZh": "SimpleX - 首个完全不使用任何用户标识符的消息网络 — 设计上 100% 私密！支持 iOS、Android 和桌面应用 📱！",
+    "tags": [
+      "SDK/库",
+      "安全"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "repo": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "descriptionZh": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架，融合巴菲特、芒格、段永平、李录四大师方法论，支持多 Agent 并行研究。",
+    "tags": [
+      "AI代理",
+      "skills",
+      "自动化"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "repo": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "descriptionZh": "openpilot 是一个机器人操作系统。当前，它升级了超过 300 款支持车型的驾驶辅助系统。",
+    "tags": [
+      "开发框架",
+      "自动化",
+      "AI代理"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "repo": "IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "descriptionZh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。",
+    "tags": [
+      "开发者工具",
+      "自动化",
+      "可视化"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/IceWhaleTech/CasaOS"
+  },
+  {
+    "repo": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "descriptionZh": "面向 DevOps 和基础设施开发者的免费 SaaS、PaaS 和 IaaS 层服务列表。",
+    "tags": [
+      "开发者工具",
+      "DevOps",
+      "学习资源"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "repo": "google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "descriptionZh": "描述视觉身份给编码代理的格式规范。DESIGN.md 为代理提供对设计系统的持久、结构化理解。",
+    "tags": [
+      "SDK/库",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/google-labs-code/design.md"
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "descriptionZh": "Microsoft PowerToys 是一套提升 Windows 生产力和自定义能力的实用工具集。",
+    "tags": [
+      "开发者工具",
+      "自动化",
+      "UI组件"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "repo": "hugohe3/ppt-master",
+    "description": "AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+    "descriptionZh": "AI 从任何文档生成可编辑的 PowerPoint 文件——原生形状与动画、演讲者备注转为语音旁白，并支持跟随自有 .pptx 模板，而非幻灯片图片 · 作者 Hugo He",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "repo": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "descriptionZh": "使用 AI 编码代理，通过一条命令克隆任何网站。",
+    "tags": [
+      "开发者工具",
+      "自动化",
+      "SDK/库"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "descriptionZh": "使用 Garry Tan 的 Claude Code 精确配置：23 个主见性工具，充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA。",
+    "tags": [
+      "开发者工具",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "repo": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "descriptionZh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "tags": [
+      "自动化",
+      "SDK/库",
+      "开发者工具"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "descriptionZh": "不受限制的开源AI视频平台替代品——免费AI图像和视频生成工作室，集成了200多种模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤器。可自托管，MIT许可。",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "repo": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "descriptionZh": "Cognee 是为 AI 代理设计的开源记忆平台。通过自托管的知路图谱引擎，为你的 AI 代理提供跨会话的持久长期记忆。",
+    "tags": [
+      "AI代理",
+      "记忆管理"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "repo": "dbt-labs/dbt-core",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "descriptionZh": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。",
+    "tags": [
+      "开发框架",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/dbt-labs/dbt-core"
+  },
+  {
+    "repo": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "descriptionZh": "一份可视化、示例驱动的 Claude Code 指南——从基础概念到高级代理，附带可复制粘贴的模板，立即可用。",
+    "tags": [
+      "学习资源",
+      "AI代理"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "descriptionZh": "开源编程代理。",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "SDK/库"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "repo": "Fission-AI/OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "descriptionZh": "面向AI编程助手的规范驱动开发 (SDD)。",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/Fission-AI/OpenSpec"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "Vibe-Trading：你的个人交易代理",
+    "tags": [
+      "AI代理",
+      "自动化",
+      "开发者工具"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "keycloak/keycloak",
+    "description": "Open Source Identity and Access Management For Modern Applications and Services",
+    "descriptionZh": "现代应用和服务的开源身份与访问管理",
+    "tags": [
+      "安全",
+      "开发者工具",
+      "SDK/库"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/keycloak/keycloak"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "descriptionZh": "Semrush 和 Ahrefs 的开源替代品",
+    "tags": [
+      "开发者工具",
+      "自动化",
+      "AI代理"
+    ],
+    "date": "2026-06-28",
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "repo": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "descriptionZh": "SimpleX - 首个无需任何用户标识符的通讯网络，默认 100% 私密！支持 iOS、Android 和桌面应用 📱！",
+    "tags": [
+      "SDK/库",
+      "安全"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "repo": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "descriptionZh": "面向 DevOps 和基础设施开发者的 SaaS、PaaS 和 IaaS 免费套餐列表。",
+    "tags": [
+      "开发者工具",
+      "学习资源",
+      "DevOps"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "repo": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "descriptionZh": "openpilot 是一款面向机器人的操作系统。目前，它已升级超过 300 款支持车型的驾驶辅助系统。",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "repo": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "descriptionZh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多 Agent 并行研究。",
+    "tags": [
+      "AI代理",
+      "自动化",
+      "开发者工具"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "repo": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "descriptionZh": "一种前馈式3D基础模型，用于从流数据中重建场景。",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "SDK/库"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "repo": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "descriptionZh": "高性能代码智能MCP服务器。将代码库索引为持久知识图谱，平均仓库毫秒级处理。支持158种语言，亚毫秒级查询，减少99%的令牌。单一静态二进制文件，零依赖。",
+    "tags": [
+      "开发者工具",
+      "AI代理",
+      "记忆管理"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "repo": "cupy/cupy",
+    "description": "NumPy &amp; SciPy for GPU",
+    "descriptionZh": "适用于 GPU 的 NumPy 和 SciPy",
+    "tags": [
+      "SDK/库",
+      "开发者工具"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/cupy/cupy"
+  },
+  {
+    "repo": "altic-dev/FluidVoice",
+    "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+    "descriptionZh": "FluidVoice - 最快的 macOS 离线听写应用，完全本地的语音转文字。",
+    "tags": [
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "repo": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "descriptionZh": "将 PDF 和 Office 文档等复杂文档转换为准备好供 LLM 使用的 Markdown/JSON 格式，适用于您的 Agentic 工作流。",
+    "tags": [
+      "SDK/库",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "Vibe-Trading: 你的个人交易代理",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "descriptionZh": "通过可视化与简明术语解释复杂系统，帮助你准备系统设计面试。",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/ByteByteGoHq/system-design-101"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "开源AI黑客，用于发现并修复应用漏洞。",
+    "tags": [
+      "AI代理",
+      "安全",
+      "自动化"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "descriptionZh": "使用编码智能体编辑视频",
+    "tags": [
+      "AI代理",
+      "自动化",
+      "开发者工具"
+    ],
+    "date": "2026-06-29",
+    "url": "https://github.com/browser-use/video-use"
   }
 ]

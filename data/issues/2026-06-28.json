@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "date": "2026-06-28",
+    "githubDate": "2026-06-28",
+    "lastUpdated": "2026-06-28T02:10:02.616Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "28",
+        "title": "GitHub 热门日报 · 20 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "descriptionZh": "SimpleX - 首个完全不使用任何用户标识符的消息网络 — 设计上 100% 私密！支持 iOS、Android 和桌面应用 📱！",
+      "readmeSummary": "SimpleX 是一个不依赖任何用户标识符（如电话号码或用户名）的隐私优先消息平台。它通过双重棘轮端到端加密和额外加密层保护消息内容及元数据（通信对象和时间）。用户可通过移动应用（iOS、Android）或终端/CLI 客户端连接，并支持群组和私密连接功能。",
+      "tags": [
+        "SDK/库",
+        "安全"
+      ],
+      "language": "Haskell",
+      "starsToday": 1469,
+      "starsTotal": 13892,
+      "forks": 793,
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "rank": 1,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "descriptionZh": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架，融合巴菲特、芒格、段永平、李录四大师方法论，支持多 Agent 并行研究。",
+      "readmeSummary": "该框架将四位价值投资大师的方法论系统化，通过 AI Agent 实现专业级投资研究。核心能力包括强制输出具体结论、多视角对抗分析、结构化反偏见机制、精确金融数据校验，以及可复现的研究流程。典型用法是使用四个独立 Agent 并行分析同一家公司，从不同视角综合得出投资建议，已被实盘验证连续两年大幅跑赢主流指数。",
+      "tags": [
+        "AI代理",
+        "skills",
+        "自动化"
+      ],
+      "language": "Python",
+      "starsToday": 685,
+      "starsTotal": 4193,
+      "forks": 582,
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "rank": 2,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "descriptionZh": "openpilot 是一个机器人操作系统。当前，它升级了超过 300 款支持车型的驾驶辅助系统。",
+      "readmeSummary": "openpilot 是一个面向机器人的操作系统，主要用于升级车辆的驾驶辅助系统。它支持超过300款车型，运行于 comma four 等硬件设备上，用户可通过特定 URL 安装发布版本。项目提供详细的安装与使用指南，并维护多个预构建分支以满足不同需求。",
+      "tags": [
+        "开发框架",
+        "自动化",
+        "AI代理"
+      ],
+      "language": "Python",
+      "starsToday": 322,
+      "starsTotal": 62082,
+      "forks": 11066,
+      "url": "https://github.com/commaai/openpilot",
+      "rank": 3,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "descriptionZh": "CasaOS - 一个简单、易用、优雅的开源个人云系统。",
+      "readmeSummary": "CasaOS 是一个开源的个人云操作系统，旨在帮助用户轻松搭建和管理自己的私有云环境。它提供了简洁的 Web 界面，支持通过应用商店一键安装各种自托管服务，如文件管理、媒体服务器、备份工具等。用户可以将 CasaOS 部署在家庭服务器或 NAS 设备上，实现对数据和服务的自主控制。",
+      "tags": [
+        "开发者工具",
+        "自动化",
+        "可视化"
+      ],
+      "language": "Go",
+      "starsToday": 502,
+      "starsTotal": 35806,
+      "forks": 2045,
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "rank": 4,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "descriptionZh": "面向 DevOps 和基础设施开发者的免费 SaaS、PaaS 和 IaaS 层服务列表。",
+      "readmeSummary": "该项目收集整理了各类提供免费开发者层的软件服务（包括 SaaS、PaaS、IaaS 等），涵盖云服务、分析、API、CI/CD、监控、安全等多个类别。列表仅收录真正的免费套餐而非短期试用，旨在帮助基础设施开发者快速找到可长期使用的免费服务。由社区通过 Pull Request 共同维护，持续更新。",
+      "tags": [
+        "开发者工具",
+        "DevOps",
+        "学习资源"
+      ],
+      "language": "HTML",
+      "starsToday": 459,
+      "starsTotal": 124192,
+      "forks": 13083,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "rank": 5,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "descriptionZh": "描述视觉身份给编码代理的格式规范。DESIGN.md 为代理提供对设计系统的持久、结构化理解。",
+      "readmeSummary": "该项目定义了 DESIGN.md 格式规范，通过 YAML 前置元数据存储可机读的设计 Token，并用 Markdown 正文提供可人工阅读的设计原理说明。它提供了 lint 命令用于验证设计规范、检查 WCAG 对比度，以及 diff 命令用于比较两个版本的 Token 变更。典型用法是在项目根目录放置 DESIGN.md 文件，让编码代理能持久地理解设计系统中的颜色、排版、圆角、间距等视觉属性及其应用规则。",
+      "tags": [
+        "SDK/库",
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1541,
+      "starsTotal": 22374,
+      "forks": 1787,
+      "url": "https://github.com/google-labs-code/design.md",
+      "rank": 6,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "descriptionZh": "Microsoft PowerToys 是一套提升 Windows 生产力和自定义能力的实用工具集。",
+      "readmeSummary": "该项目提供超过30个实用工具，帮助用户自定义和优化 Windows 体验。核心功能包括 Advanced Paste（高级粘贴）、Always on Top（窗口置顶）、FancyZones（窗口布局管理器）、Image Resizer（批量调整图片尺寸）、Keyboard Manager（键盘快捷键重映射）等。用户可根据需求组合使用这些工具，来简化日常操作。",
+      "tags": [
+        "开发者工具",
+        "自动化",
+        "UI组件"
+      ],
+      "language": "C",
+      "starsToday": 57,
+      "starsTotal": 135716,
+      "forks": 8168,
+      "url": "https://github.com/microsoft/PowerToys",
+      "rank": 7,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "descriptionZh": "AI 从任何文档生成可编辑的 PowerPoint 文件——原生形状与动画、演讲者备注转为语音旁白，并支持跟随自有 .pptx 模板，而非幻灯片图片 · 作者 Hugo He",
+      "readmeSummary": "该项目能从任意文档（如 Markdown、PDF 等）自动生成原生可编辑的 PPTX 文件，支持原生形状与动画、演讲者备注并可将备注转换为语音旁白，同时允许用户使用自定义 .pptx 模板。",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Python",
+      "starsToday": 589,
+      "starsTotal": 33115,
+      "forks": 2816,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "rank": 8,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "descriptionZh": "使用 AI 编码代理，通过一条命令克隆任何网站。",
+      "readmeSummary": "该项目提供了一个可复用模板，用于利用 AI 编码代理将任意网站逆向工程为干净的现代 Next.js 代码库。核心流程是：指定目标 URL，执行 `/clone-website` 命令，AI 代理将检查网站、提取设计令牌和资源、编写组件规范，并派发并行构建器重建每个部分。支持多种 AI 编码代理，如 Claude Code、Codex CLI 等。",
+      "tags": [
+        "开发者工具",
+        "自动化",
+        "SDK/库"
+      ],
+      "language": "TypeScript",
+      "starsToday": 750,
+      "starsTotal": 22156,
+      "forks": 3173,
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "rank": 9,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "descriptionZh": "使用 Garry Tan 的 Claude Code 精确配置：23 个主见性工具，充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA。",
+      "readmeSummary": "gstack 是一套将 Claude Code 转化为虚拟工程团队的工具集合，包含 23 个特化角色和 8 个强力工具，覆盖产品重新思考、架构锁定、AI 生成内容审查、生产环境 bug 发现、浏览器 QA、安全审计和自动化发布等功能。作者 Garry Tan 报告称，使用该工具后逻辑代码变更效率较 2013 年提升超 800 倍。项目通过 Markdown slash commands 驱动，使用 git 和 Bun 安装，MIT 许可。典型用法是在 Claude Code 中运行 `/office-hours` 描述产品、用 `/plan-ceo-review` 审查功能、用 `/review` 审查分支、用 `/qa` 测试 URL。",
+      "tags": [
+        "开发者工具",
+        "AI代理",
+        "skills"
+      ],
+      "language": "TypeScript",
+      "starsToday": 674,
+      "starsTotal": 117275,
+      "forks": 17420,
+      "url": "https://github.com/garrytan/gstack",
+      "rank": 10,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "descriptionZh": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "readmeSummary": "基于 Playwright 浏览器自动化的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等平台的公开信息抓取。核心能力包括关键词搜索、指定帖子ID爬取、二级评论爬取、指定创作者主页爬取、登录态缓存、IP代理池以及生成评论词云图。用户无需逆向复杂的加密算法，利用浏览器上下文环境获取签名参数，降低了技术门槛。",
+      "tags": [
+        "自动化",
+        "SDK/库",
+        "开发者工具"
+      ],
+      "language": "Python",
+      "starsToday": 394,
+      "starsTotal": 53791,
+      "forks": 11011,
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "rank": 11,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "descriptionZh": "不受限制的开源AI视频平台替代品——免费AI图像和视频生成工作室，集成了200多种模型（Flux、Midjourney、Kling、Sora、Veo）。无内容过滤器。可自托管，MIT许可。",
+      "readmeSummary": "这是一个开源的自托管AI图像与视频生成平台，集成了200多种主流模型，支持无内容过滤的自由生成。用户可通过Web界面直接使用，也可通过API集成到工作流中，适用于个人或团队部署使用。",
+      "tags": [
+        "开发者工具"
+      ],
+      "language": "JavaScript",
+      "starsToday": 255,
+      "starsTotal": 21403,
+      "forks": 3643,
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "rank": 12,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "descriptionZh": "Cognee 是为 AI 代理设计的开源记忆平台。通过自托管的知路图谱引擎，为你的 AI 代理提供跨会话的持久长期记忆。",
+      "readmeSummary": "Cognee 是一个开源的 AI 记忆平台，专为 AI 代理设计。它能够接收任何格式的数据输入，并持续构建自托管的知路图谱，为代理提供跨会话的持久长期记忆。该平台结合了向量嵌入、图谱推理和基于认知科学的本体生成，使文档既可以通过语义进行搜索，又能通过关系进行连接，并且这些关系会随着知识的增长而演化。典型用法包括让 AI 代理在多次对话中保持上下文一致性，或基于自建的知识图谱进行复杂推理。",
+      "tags": [
+        "AI代理",
+        "记忆管理"
+      ],
+      "language": "Python",
+      "starsToday": 780,
+      "starsTotal": 24035,
+      "forks": 2255,
+      "url": "https://github.com/topoteretes/cognee",
+      "rank": 13,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "dbt-labs/dbt-core",
+      "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "descriptionZh": "dbt 使数据分析师和工程师能够使用软件工程师构建应用程序的相同实践来转换数据。",
+      "readmeSummary": "dbt Core 是一个开源的数据转换工具，允许分析师通过编写 SQL select 语句来定义数据模型，自动将其转化为数据仓库中的表或视图。它支持模型依赖管理、关系可视化和数据质量测试，并提供了 v2.0 版本，专注于大规模性能优化，包括更快的解析编译、严格的语言规范、Parquet 产物格式、单二进制分发和全新的本地文档体验。",
+      "tags": [
+        "开发框架",
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 18,
+      "starsTotal": 13231,
+      "forks": 2440,
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "rank": 14,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "descriptionZh": "一份可视化、示例驱动的 Claude Code 指南——从基础概念到高级代理，附带可复制粘贴的模板，立即可用。",
+      "readmeSummary": "这是一个结构化、可视化的 Claude Code 学习指南，包含 10 个教程模块，覆盖从斜杠命令到自定义代理团队的全部功能。提供可复制粘贴的配置模板、Mermaid 图表说明内部机制，以及一个 11-13 小时的渐进式学习路径。内含自我评估和章节测验，用户可直接在 Claude Code 中运行以发现知识盲区。",
+      "tags": [
+        "学习资源",
+        "AI代理"
+      ],
+      "language": "Python",
+      "starsToday": 141,
+      "starsTotal": 38646,
+      "forks": 4652,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "rank": 15,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "descriptionZh": "开源编程代理。",
+      "readmeSummary": "OpenCode 是一个开源的 AI 编程代理，支持通过命令行或桌面应用运行。它提供多种安装方式（包括包管理器、脚本安装和桌面应用下载），并支持多种操作系统。用户可以利用它来辅助编写和调试代码。",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "SDK/库"
+      ],
+      "language": "TypeScript",
+      "starsToday": 392,
+      "starsTotal": 179788,
+      "forks": 22102,
+      "url": "https://github.com/anomalyco/opencode",
+      "rank": 16,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "descriptionZh": "面向AI编程助手的规范驱动开发 (SDD)。",
+      "readmeSummary": "OpenSpec 是一个规范驱动的开发框架，专为 AI 编程助手设计。它提供了一套工作流，包括探索（explore）、提案（propose）、应用（apply）和归档（archive）等步骤，帮助开发者在与 AI 协作时更有条理地规划和实现功能。用户可以通过 `/opsx:propose` 等命令与 AI 交互，生成规范文档、设计方案和任务清单，并逐步实施。该框架支持从个人项目到企业级项目的扩展。",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 177,
+      "starsTotal": 57152,
+      "forks": 3985,
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "rank": 17,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "descriptionZh": "Vibe-Trading：你的个人交易代理",
+      "readmeSummary": "该项目提供一个个人交易代理，支持通过单一命令赋予代理全面的交易能力。它基于Python 3.11+、FastAPI后端和React 19前端构建，提供Shadow Account功能用于模拟交易策略的提取与代码生成，并集成了tushare数据加载器支持ETF、指数和港股路由。用户可通过Web界面或API/MCP协议进行交互，支持事件驱动和群组执行模式，并具备内容过滤弹性和条件入场规则生成。",
+      "tags": [
+        "AI代理",
+        "自动化",
+        "开发者工具"
+      ],
+      "language": "Python",
+      "starsToday": 92,
+      "starsTotal": 13730,
+      "forks": 2592,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "rank": 18,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "descriptionZh": "现代应用和服务的开源身份与访问管理",
+      "readmeSummary": "Keycloak 是一个开源的身份与访问管理平台，为应用程序和服务提供认证、用户联合、强认证、用户管理以及细粒度授权。它简化了认证流程，无需自行存储或验证用户。用户可以通过下载发行版或使用 Docker 镜像快速启动。",
+      "tags": [
+        "安全",
+        "开发者工具",
+        "SDK/库"
+      ],
+      "language": "Java",
+      "starsToday": 20,
+      "starsTotal": 35293,
+      "forks": 8555,
+      "url": "https://github.com/keycloak/keycloak",
+      "rank": 19,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "descriptionZh": "Semrush 和 Ahrefs 的开源替代品",
+      "readmeSummary": "这是一个开源的 SEO 工具，提供关键词研究、排名追踪、竞争对手分析、外链分析、网站审计和 AI 可见性等核心 SEO 工作流。它支持通过 MCP 协议与 Claude Code、OpenClaw 等 AI 代理集成，并提供可复用的代理技能。用户无需订阅，只需自行持有 DataForSEO API 密钥并按使用量付费，同时支持自托管部署（Docker 或 Cloudflare）。",
+      "tags": [
+        "开发者工具",
+        "自动化",
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 239,
+      "starsTotal": 3434,
+      "forks": 375,
+      "url": "https://github.com/every-app/open-seo",
+      "rank": 20,
+      "date": "2026-06-28",
+      "githubDate": "2026-06-28",
+      "lastUpdated": "2026-06-28T02:10:02.616Z"
+    }
+  ]
+}

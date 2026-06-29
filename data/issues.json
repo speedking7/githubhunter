@@ -1,6 +1,33 @@
 {
-  "latest": "2026-06-26",
+  "latest": "2026-06-29",
   "issues": [
+    {
+      "date": "2026-06-29",
+      "day": "29",
+      "title": "GitHub 热门日报 · 13 个项目",
+      "url": "./data/issues/2026-06-29.json",
+      "productsCount": 13,
+      "lastUpdated": "2026-06-29T02:10:02.539Z",
+      "status": "live"
+    },
+    {
+      "date": "2026-06-28",
+      "day": "28",
+      "title": "GitHub 热门日报 · 20 个项目",
+      "url": "./data/issues/2026-06-28.json",
+      "productsCount": 20,
+      "lastUpdated": "2026-06-28T02:10:02.616Z",
+      "status": "live"
+    },
+    {
+      "date": "2026-06-27",
+      "day": "27",
+      "title": "GitHub 热门日报 · 17 个项目",
+      "url": "./data/issues/2026-06-27.json",
+      "productsCount": 17,
+      "lastUpdated": "2026-06-27T02:10:02.446Z",
+      "status": "live"
+    },
     {
       "date": "2026-06-26",
       "day": "26",
