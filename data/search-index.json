@@ -775,5 +775,158 @@
     ],
     "date": "2026-06-29",
     "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "simplex-chat/simplex-chat",
+    "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "descriptionZh": "待翻译：SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "cupy/cupy",
+    "description": "NumPy &amp; SciPy for GPU",
+    "descriptionZh": "待翻译：NumPy &amp; SciPy for GPU",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/cupy/cupy"
+  },
+  {
+    "repo": "altic-dev/FluidVoice",
+    "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+    "descriptionZh": "待翻译：FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "repo": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "descriptionZh": "待翻译：🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "repo": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "descriptionZh": "待翻译：openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "repo": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "descriptionZh": "待翻译：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "repo": "logto-io/logto",
+    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "descriptionZh": "待翻译：🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "tags": [
+      "DevOps",
+      "安全"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/logto-io/logto"
+  },
+  {
+    "repo": "xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "descriptionZh": "待翻译：AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "descriptionZh": "待翻译：Edit videos with coding agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "Unclecheng-li/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "descriptionZh": "待翻译：基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/Unclecheng-li/VulnClaw"
+  },
+  {
+    "repo": "0xNyk/council-of-high-intelligence",
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "descriptionZh": "待翻译：18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "待翻译：\"Vibe-Trading: Your Personal Trading Agent\"",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "descriptionZh": "待翻译：Desktop app to manage markdown knowledge bases",
+    "tags": [
+      "RAG"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "repo": "veracrypt/VeraCrypt",
+    "description": "Disk encryption with strong security based on TrueCrypt",
+    "descriptionZh": "待翻译：Disk encryption with strong security based on TrueCrypt",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-06-30",
+    "url": "https://github.com/veracrypt/VeraCrypt"
   }
 ]

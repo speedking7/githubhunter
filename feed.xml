@@ -5,110 +5,133 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 29 Jun 2026 05:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:21:13 GMT</lastBuildDate>
     <item>
       <title>simplex-chat/simplex-chat</title>
       <link>https://github.com/simplex-chat/simplex-chat</link>
       <guid>https://github.com/simplex-chat/simplex-chat</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>SimpleX - 首个无需任何用户标识符的通讯网络，默认 100% 私密！支持 iOS、Android 和桌面应用 📱！</description>
-      <category>SDK/库, 安全</category>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>ripienaar/free-for-dev</title>
-      <link>https://github.com/ripienaar/free-for-dev</link>
-      <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>面向 DevOps 和基础设施开发者的 SaaS、PaaS 和 IaaS 免费套餐列表。</description>
-      <category>开发者工具, 学习资源, DevOps</category>
-    </item>
-    <item>
-      <title>commaai/openpilot</title>
-      <link>https://github.com/commaai/openpilot</link>
-      <guid>https://github.com/commaai/openpilot</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>openpilot 是一款面向机器人的操作系统。目前，它已升级超过 300 款支持车型的驾驶辅助系统。</description>
-      <category>开发框架, AI代理, 自动化</category>
-    </item>
-    <item>
-      <title>xbtlin/ai-berkshire</title>
-      <link>https://github.com/xbtlin/ai-berkshire</link>
-      <guid>https://github.com/xbtlin/ai-berkshire</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多 Agent 并行研究。</description>
-      <category>AI代理, 自动化, 开发者工具</category>
-    </item>
-    <item>
-      <title>Robbyant/lingbot-map</title>
-      <link>https://github.com/Robbyant/lingbot-map</link>
-      <guid>https://github.com/Robbyant/lingbot-map</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>一种前馈式3D基础模型，用于从流数据中重建场景。</description>
-      <category>AI代理, 模型/LLM, SDK/库</category>
-    </item>
-    <item>
-      <title>DeusData/codebase-memory-mcp</title>
-      <link>https://github.com/DeusData/codebase-memory-mcp</link>
-      <guid>https://github.com/DeusData/codebase-memory-mcp</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>高性能代码智能MCP服务器。将代码库索引为持久知识图谱，平均仓库毫秒级处理。支持158种语言，亚毫秒级查询，减少99%的令牌。单一静态二进制文件，零依赖。</description>
-      <category>开发者工具, AI代理, 记忆管理</category>
+      <title>msitarzewski/agency-agents</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <guid>https://github.com/msitarzewski/agency-agents</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
+      <category>AI代理</category>
     </item>
     <item>
       <title>cupy/cupy</title>
       <link>https://github.com/cupy/cupy</link>
       <guid>https://github.com/cupy/cupy</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>适用于 GPU 的 NumPy 和 SciPy</description>
-      <category>SDK/库, 开发者工具</category>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：NumPy &amp;amp; SciPy for GPU</description>
+      <category>其他</category>
     </item>
     <item>
       <title>altic-dev/FluidVoice</title>
       <link>https://github.com/altic-dev/FluidVoice</link>
       <guid>https://github.com/altic-dev/FluidVoice</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>FluidVoice - 最快的 macOS 离线听写应用，完全本地的语音转文字。</description>
-      <category>开发者工具, 自动化</category>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>opendatalab/MinerU</title>
-      <link>https://github.com/opendatalab/MinerU</link>
-      <guid>https://github.com/opendatalab/MinerU</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>将 PDF 和 Office 文档等复杂文档转换为准备好供 LLM 使用的 Markdown/JSON 格式，适用于您的 Agentic 工作流。</description>
-      <category>SDK/库, 开发者工具, 自动化</category>
+      <title>soxoj/maigret</title>
+      <link>https://github.com/soxoj/maigret</link>
+      <guid>https://github.com/soxoj/maigret</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>HKUDS/Vibe-Trading</title>
-      <link>https://github.com/HKUDS/Vibe-Trading</link>
-      <guid>https://github.com/HKUDS/Vibe-Trading</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>Vibe-Trading: 你的个人交易代理</description>
-      <category>AI代理, 开发者工具, 自动化</category>
+      <title>commaai/openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <guid>https://github.com/commaai/openpilot</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.</description>
+      <category>自动化</category>
     </item>
     <item>
-      <title>ByteByteGoHq/system-design-101</title>
-      <link>https://github.com/ByteByteGoHq/system-design-101</link>
-      <guid>https://github.com/ByteByteGoHq/system-design-101</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>通过可视化与简明术语解释复杂系统，帮助你准备系统设计面试。</description>
-      <category>学习资源</category>
+      <title>ripienaar/free-for-dev</title>
+      <link>https://github.com/ripienaar/free-for-dev</link>
+      <guid>https://github.com/ripienaar/free-for-dev</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
+      <category>DevOps</category>
     </item>
     <item>
-      <title>usestrix/strix</title>
-      <link>https://github.com/usestrix/strix</link>
-      <guid>https://github.com/usestrix/strix</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>开源AI黑客，用于发现并修复应用漏洞。</description>
-      <category>AI代理, 安全, 自动化</category>
+      <title>logto-io/logto</title>
+      <link>https://github.com/logto-io/logto</link>
+      <guid>https://github.com/logto-io/logto</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.</description>
+      <category>DevOps, 安全</category>
+    </item>
+    <item>
+      <title>xbtlin/ai-berkshire</title>
+      <link>https://github.com/xbtlin/ai-berkshire</link>
+      <guid>https://github.com/xbtlin/ai-berkshire</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&apos; methodologies + multi-agent adversarial analysis.</description>
+      <category>开发框架, AI代理</category>
     </item>
     <item>
       <title>browser-use/video-use</title>
       <link>https://github.com/browser-use/video-use</link>
       <guid>https://github.com/browser-use/video-use</guid>
-      <pubDate>Mon, 29 Jun 2026 02:10:02 GMT</pubDate>
-      <description>使用编码智能体编辑视频</description>
-      <category>AI代理, 自动化, 开发者工具</category>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：Edit videos with coding agents</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>Unclecheng-li/VulnClaw</title>
+      <link>https://github.com/Unclecheng-li/VulnClaw</link>
+      <guid>https://github.com/Unclecheng-li/VulnClaw</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>0xNyk/council-of-high-intelligence</title>
+      <link>https://github.com/0xNyk/council-of-high-intelligence</link>
+      <guid>https://github.com/0xNyk/council-of-high-intelligence</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp;amp; more — structured multi-round deliberation with genuine model diversity. One command: /council</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>HKUDS/Vibe-Trading</title>
+      <link>https://github.com/HKUDS/Vibe-Trading</link>
+      <guid>https://github.com/HKUDS/Vibe-Trading</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>refactoringhq/tolaria</title>
+      <link>https://github.com/refactoringhq/tolaria</link>
+      <guid>https://github.com/refactoringhq/tolaria</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：Desktop app to manage markdown knowledge bases</description>
+      <category>RAG</category>
+    </item>
+    <item>
+      <title>veracrypt/VeraCrypt</title>
+      <link>https://github.com/veracrypt/VeraCrypt</link>
+      <guid>https://github.com/veracrypt/VeraCrypt</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>待翻译：Disk encryption with strong security based on TrueCrypt</description>
+      <category>安全</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 15 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-06-30.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-06-30.json</guid>
+      <pubDate>Tue, 30 Jun 2026 03:21:11 GMT</pubDate>
+      <description>GitHub 热门日报 · 15 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 13 个项目</title>
