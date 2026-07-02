@@ -5,158 +5,173 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Jul 2026 05:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:19:34 GMT</lastBuildDate>
     <item>
-      <title>hasaneyldrm/exercises-dataset</title>
-      <link>https://github.com/hasaneyldrm/exercises-dataset</link>
-      <guid>https://github.com/hasaneyldrm/exercises-dataset</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.</description>
-      <category>其他</category>
+      <title>msitarzewski/agency-agents</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <guid>https://github.com/msitarzewski/agency-agents</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
+      <category>AI代理</category>
     </item>
     <item>
       <title>usestrix/strix</title>
       <link>https://github.com/usestrix/strix</link>
       <guid>https://github.com/usestrix/strix</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
       <description>待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>msitarzewski/agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <guid>https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
+      <title>HKUDS/Vibe-Trading</title>
+      <link>https://github.com/HKUDS/Vibe-Trading</link>
+      <guid>https://github.com/HKUDS/Vibe-Trading</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>altic-dev/FluidVoice</title>
-      <link>https://github.com/altic-dev/FluidVoice</link>
-      <guid>https://github.com/altic-dev/FluidVoice</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>diegosouzapw/OmniRoute</title>
-      <link>https://github.com/diegosouzapw/OmniRoute</link>
-      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp;amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.</description>
-      <category>AI代理, 开发者工具</category>
-    </item>
-    <item>
-      <title>browser-use/video-use</title>
-      <link>https://github.com/browser-use/video-use</link>
-      <guid>https://github.com/browser-use/video-use</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：Edit videos with coding agents</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>xbtlin/ai-berkshire</title>
-      <link>https://github.com/xbtlin/ai-berkshire</link>
-      <guid>https://github.com/xbtlin/ai-berkshire</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters&apos; methodologies + multi-agent adversarial analysis.</description>
-      <category>开发框架, AI代理</category>
-    </item>
-    <item>
-      <title>Mebus/cupp</title>
-      <link>https://github.com/Mebus/cupp</link>
-      <guid>https://github.com/Mebus/cupp</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：Common User Passwords Profiler (CUPP)</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>ripienaar/free-for-dev</title>
-      <link>https://github.com/ripienaar/free-for-dev</link>
-      <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</description>
-      <category>DevOps</category>
-    </item>
-    <item>
-      <title>google/agents-cli</title>
-      <link>https://github.com/google/agents-cli</link>
-      <guid>https://github.com/google/agents-cli</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.</description>
-      <category>AI代理, skills, 评估, 开发者工具, DevOps</category>
-    </item>
-    <item>
-      <title>roboflow/supervision</title>
-      <link>https://github.com/roboflow/supervision</link>
-      <guid>https://github.com/roboflow/supervision</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：We write your reusable computer vision tools. 💜</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>ogulcancelik/herdr</title>
-      <link>https://github.com/ogulcancelik/herdr</link>
-      <guid>https://github.com/ogulcancelik/herdr</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：agent multiplexer that lives in your terminal.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>simplex-chat/simplex-chat</title>
-      <link>https://github.com/simplex-chat/simplex-chat</link>
-      <guid>https://github.com/simplex-chat/simplex-chat</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>CoreBunch/Instatic</title>
-      <link>https://github.com/CoreBunch/Instatic</link>
-      <guid>https://github.com/CoreBunch/Instatic</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：Instatic is a modern self-hosted visual CMS - get it running in 1 minute</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>microsoft/AI-For-Beginners</title>
-      <link>https://github.com/microsoft/AI-For-Beginners</link>
-      <guid>https://github.com/microsoft/AI-For-Beginners</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：12 Weeks, 24 Lessons, AI for All!</description>
+      <title>hasaneyldrm/exercises-dataset</title>
+      <link>https://github.com/hasaneyldrm/exercises-dataset</link>
+      <guid>https://github.com/hasaneyldrm/exercises-dataset</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.</description>
       <category>其他</category>
     </item>
     <item>
       <title>facebook/astryx</title>
       <link>https://github.com/facebook/astryx</link>
       <guid>https://github.com/facebook/astryx</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
       <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
       <category>AI代理, UI组件</category>
     </item>
     <item>
-      <title>HKUDS/Vibe-Trading</title>
-      <link>https://github.com/HKUDS/Vibe-Trading</link>
-      <guid>https://github.com/HKUDS/Vibe-Trading</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+      <title>diegosouzapw/OmniRoute</title>
+      <link>https://github.com/diegosouzapw/OmniRoute</link>
+      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp;amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>allenai/olmocr</title>
+      <link>https://github.com/allenai/olmocr</link>
+      <guid>https://github.com/allenai/olmocr</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Toolkit for linearizing PDFs for LLM datasets/training</description>
+      <category>模型/LLM, 开发者工具</category>
+    </item>
+    <item>
+      <title>logto-io/logto</title>
+      <link>https://github.com/logto-io/logto</link>
+      <guid>https://github.com/logto-io/logto</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.</description>
+      <category>DevOps, 安全</category>
+    </item>
+    <item>
+      <title>togatoga/karukan</title>
+      <link>https://github.com/togatoga/karukan</link>
+      <guid>https://github.com/togatoga/karukan</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>Mebus/cupp</title>
+      <link>https://github.com/Mebus/cupp</link>
+      <guid>https://github.com/Mebus/cupp</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Common User Passwords Profiler (CUPP)</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>Unclecheng-li/VulnClaw</title>
+      <link>https://github.com/Unclecheng-li/VulnClaw</link>
+      <guid>https://github.com/Unclecheng-li/VulnClaw</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>microsoft/AI-For-Beginners</title>
+      <link>https://github.com/microsoft/AI-For-Beginners</link>
+      <guid>https://github.com/microsoft/AI-For-Beginners</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：12 Weeks, 24 Lessons, AI for All!</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>refactoringhq/tolaria</title>
+      <link>https://github.com/refactoringhq/tolaria</link>
+      <guid>https://github.com/refactoringhq/tolaria</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Desktop app to manage markdown knowledge bases</description>
+      <category>RAG</category>
+    </item>
+    <item>
+      <title>ogulcancelik/herdr</title>
+      <link>https://github.com/ogulcancelik/herdr</link>
+      <guid>https://github.com/ogulcancelik/herdr</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：agent multiplexer that lives in your terminal.</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
-      <category>开发框架, AI代理, skills</category>
+      <title>0xNyk/council-of-high-intelligence</title>
+      <link>https://github.com/0xNyk/council-of-high-intelligence</link>
+      <guid>https://github.com/0xNyk/council-of-high-intelligence</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp;amp; more — structured multi-round deliberation with genuine model diversity. One command: /council</description>
+      <category>模型/LLM</category>
     </item>
     <item>
-      <title>Robbyant/lingbot-map</title>
-      <link>https://github.com/Robbyant/lingbot-map</link>
-      <guid>https://github.com/Robbyant/lingbot-map</guid>
-      <pubDate>Wed, 01 Jul 2026 03:22:23 GMT</pubDate>
-      <description>待翻译：A feed-forward 3D foundation model for reconstructing scenes from streaming data</description>
+      <title>altic-dev/FluidVoice</title>
+      <link>https://github.com/altic-dev/FluidVoice</link>
+      <guid>https://github.com/altic-dev/FluidVoice</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>CoreBunch/Instatic</title>
+      <link>https://github.com/CoreBunch/Instatic</link>
+      <guid>https://github.com/CoreBunch/Instatic</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Instatic is a modern self-hosted visual CMS - get it running in 1 minute</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>TencentCloud/CubeSandbox</title>
+      <link>https://github.com/TencentCloud/CubeSandbox</link>
+      <guid>https://github.com/TencentCloud/CubeSandbox</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Instant, Concurrent, Secure &amp;amp; Lightweight Sandbox for AI Agents.</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>browser-use/video-use</title>
+      <link>https://github.com/browser-use/video-use</link>
+      <guid>https://github.com/browser-use/video-use</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Edit videos with coding agents</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>yikart/AiToEarn</title>
+      <link>https://github.com/yikart/AiToEarn</link>
+      <guid>https://github.com/yikart/AiToEarn</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>待翻译：Let&apos;s use AI to Earn!</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 20 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-02.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-02.json</guid>
+      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <description>GitHub 热门日报 · 20 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 19 个项目</title>

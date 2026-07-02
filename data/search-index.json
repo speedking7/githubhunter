@@ -1127,5 +1127,211 @@
     ],
     "date": "2026-07-01",
     "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "待翻译：\"Vibe-Trading: Your Personal Trading Agent\"",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "descriptionZh": "待翻译：A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "repo": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "repo": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "descriptionZh": "待翻译：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repo": "allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "descriptionZh": "待翻译：Toolkit for linearizing PDFs for LLM datasets/training",
+    "tags": [
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/allenai/olmocr"
+  },
+  {
+    "repo": "logto-io/logto",
+    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "descriptionZh": "待翻译：🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "tags": [
+      "DevOps",
+      "安全"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/logto-io/logto"
+  },
+  {
+    "repo": "togatoga/karukan",
+    "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+    "descriptionZh": "待翻译：Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/togatoga/karukan"
+  },
+  {
+    "repo": "Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)",
+    "descriptionZh": "待翻译：Common User Passwords Profiler (CUPP)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/Mebus/cupp"
+  },
+  {
+    "repo": "Unclecheng-li/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "descriptionZh": "待翻译：基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/Unclecheng-li/VulnClaw"
+  },
+  {
+    "repo": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "descriptionZh": "待翻译：12 Weeks, 24 Lessons, AI for All!",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "repo": "refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "descriptionZh": "待翻译：Desktop app to manage markdown knowledge bases",
+    "tags": [
+      "RAG"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "repo": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "descriptionZh": "待翻译：agent multiplexer that lives in your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "repo": "0xNyk/council-of-high-intelligence",
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "descriptionZh": "待翻译：18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence"
+  },
+  {
+    "repo": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+    "descriptionZh": "待翻译：Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "repo": "CoreBunch/Instatic",
+    "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "descriptionZh": "待翻译：Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "repo": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "descriptionZh": "待翻译：Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "descriptionZh": "待翻译：Edit videos with coding agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "descriptionZh": "待翻译：Let's use AI to Earn!",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-02",
+    "url": "https://github.com/yikart/AiToEarn"
   }
 ]
