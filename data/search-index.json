@@ -1333,5 +1333,186 @@
     ],
     "date": "2026-07-02",
     "url": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "descriptionZh": "待翻译：A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "repo": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "descriptionZh": "待翻译：AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "tags": [
+      "skills",
+      "可视化"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "descriptionZh": "待翻译：Edit videos with coding agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "descriptionZh": "待翻译：Action for checking out a repo",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "待翻译：\"Vibe-Trading: Your Personal Trading Agent\"",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "descriptionZh": "待翻译：Specification and documentation for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "descriptionZh": "待翻译：Use Codex from Claude Code to review code or delegate tasks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "descriptionZh": "待翻译：Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "tags": [
+      "AI代理",
+      "DevOps",
+      "自动化"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/langflow-ai/langflow"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "descriptionZh": "待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "repo": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "descriptionZh": "待翻译：Machine Learning Systems",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "description": "Clean Code concepts adapted for JavaScript",
+    "descriptionZh": "待翻译：Clean Code concepts adapted for JavaScript",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-03",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript"
   }
 ]

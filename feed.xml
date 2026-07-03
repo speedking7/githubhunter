@@ -5,166 +5,149 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Jul 2026 05:27:50 GMT</lastBuildDate>
-    <item>
-      <title>msitarzewski/agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <guid>https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
-      <category>AI代理</category>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 06:01:31 GMT</lastBuildDate>
     <item>
       <title>usestrix/strix</title>
       <link>https://github.com/usestrix/strix</link>
       <guid>https://github.com/usestrix/strix</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
       <description>待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>HKUDS/Vibe-Trading</title>
-      <link>https://github.com/HKUDS/Vibe-Trading</link>
-      <guid>https://github.com/HKUDS/Vibe-Trading</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <guid>https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</description>
+      <category>skills</category>
+    </item>
+    <item>
+      <title>msitarzewski/agency-agents</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <guid>https://github.com/msitarzewski/agency-agents</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
       <category>AI代理</category>
     </item>
     <item>
       <title>hasaneyldrm/exercises-dataset</title>
       <link>https://github.com/hasaneyldrm/exercises-dataset</link>
       <guid>https://github.com/hasaneyldrm/exercises-dataset</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
       <description>待翻译：A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>facebook/astryx</title>
-      <link>https://github.com/facebook/astryx</link>
-      <guid>https://github.com/facebook/astryx</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
-      <category>AI代理, UI组件</category>
+      <title>santifer/career-ops</title>
+      <link>https://github.com/santifer/career-ops</link>
+      <guid>https://github.com/santifer/career-ops</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.</description>
+      <category>skills, 可视化</category>
     </item>
     <item>
-      <title>diegosouzapw/OmniRoute</title>
-      <link>https://github.com/diegosouzapw/OmniRoute</link>
-      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp;amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.</description>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid>https://github.com/obra/superpowers</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Chrome DevTools for coding agents</description>
       <category>AI代理, 开发者工具</category>
-    </item>
-    <item>
-      <title>allenai/olmocr</title>
-      <link>https://github.com/allenai/olmocr</link>
-      <guid>https://github.com/allenai/olmocr</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Toolkit for linearizing PDFs for LLM datasets/training</description>
-      <category>模型/LLM, 开发者工具</category>
-    </item>
-    <item>
-      <title>logto-io/logto</title>
-      <link>https://github.com/logto-io/logto</link>
-      <guid>https://github.com/logto-io/logto</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.</description>
-      <category>DevOps, 安全</category>
-    </item>
-    <item>
-      <title>togatoga/karukan</title>
-      <link>https://github.com/togatoga/karukan</link>
-      <guid>https://github.com/togatoga/karukan</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine</description>
-      <category>开发框架</category>
-    </item>
-    <item>
-      <title>Mebus/cupp</title>
-      <link>https://github.com/Mebus/cupp</link>
-      <guid>https://github.com/Mebus/cupp</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Common User Passwords Profiler (CUPP)</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>Unclecheng-li/VulnClaw</title>
-      <link>https://github.com/Unclecheng-li/VulnClaw</link>
-      <guid>https://github.com/Unclecheng-li/VulnClaw</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。</description>
-      <category>AI代理, skills</category>
-    </item>
-    <item>
-      <title>microsoft/AI-For-Beginners</title>
-      <link>https://github.com/microsoft/AI-For-Beginners</link>
-      <guid>https://github.com/microsoft/AI-For-Beginners</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：12 Weeks, 24 Lessons, AI for All!</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>refactoringhq/tolaria</title>
-      <link>https://github.com/refactoringhq/tolaria</link>
-      <guid>https://github.com/refactoringhq/tolaria</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Desktop app to manage markdown knowledge bases</description>
-      <category>RAG</category>
-    </item>
-    <item>
-      <title>ogulcancelik/herdr</title>
-      <link>https://github.com/ogulcancelik/herdr</link>
-      <guid>https://github.com/ogulcancelik/herdr</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：agent multiplexer that lives in your terminal.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>0xNyk/council-of-high-intelligence</title>
-      <link>https://github.com/0xNyk/council-of-high-intelligence</link>
-      <guid>https://github.com/0xNyk/council-of-high-intelligence</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp;amp; more — structured multi-round deliberation with genuine model diversity. One command: /council</description>
-      <category>模型/LLM</category>
-    </item>
-    <item>
-      <title>altic-dev/FluidVoice</title>
-      <link>https://github.com/altic-dev/FluidVoice</link>
-      <guid>https://github.com/altic-dev/FluidVoice</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>CoreBunch/Instatic</title>
-      <link>https://github.com/CoreBunch/Instatic</link>
-      <guid>https://github.com/CoreBunch/Instatic</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Instatic is a modern self-hosted visual CMS - get it running in 1 minute</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>TencentCloud/CubeSandbox</title>
-      <link>https://github.com/TencentCloud/CubeSandbox</link>
-      <guid>https://github.com/TencentCloud/CubeSandbox</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Instant, Concurrent, Secure &amp;amp; Lightweight Sandbox for AI Agents.</description>
-      <category>AI代理, harness</category>
     </item>
     <item>
       <title>browser-use/video-use</title>
       <link>https://github.com/browser-use/video-use</link>
       <guid>https://github.com/browser-use/video-use</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
       <description>待翻译：Edit videos with coding agents</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>yikart/AiToEarn</title>
-      <link>https://github.com/yikart/AiToEarn</link>
-      <guid>https://github.com/yikart/AiToEarn</guid>
-      <pubDate>Thu, 02 Jul 2026 03:19:31 GMT</pubDate>
-      <description>待翻译：Let&apos;s use AI to Earn!</description>
+      <title>actions/checkout</title>
+      <link>https://github.com/actions/checkout</link>
+      <guid>https://github.com/actions/checkout</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Action for checking out a repo</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid>https://github.com/affaan-m/ECC</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <category>AI代理, 记忆管理, skills, harness, 安全</category>
+    </item>
+    <item>
+      <title>HKUDS/Vibe-Trading</title>
+      <link>https://github.com/HKUDS/Vibe-Trading</link>
+      <guid>https://github.com/HKUDS/Vibe-Trading</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：&quot;Vibe-Trading: Your Personal Trading Agent&quot;</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>agentskills/agentskills</title>
+      <link>https://github.com/agentskills/agentskills</link>
+      <guid>https://github.com/agentskills/agentskills</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Specification and documentation for Agent Skills</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>openai/codex-plugin-cc</title>
+      <link>https://github.com/openai/codex-plugin-cc</link>
+      <guid>https://github.com/openai/codex-plugin-cc</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Use Codex from Claude Code to review code or delegate tasks.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>langflow-ai/langflow</title>
+      <link>https://github.com/langflow-ai/langflow</link>
+      <guid>https://github.com/langflow-ai/langflow</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Langflow is a powerful tool for building and deploying AI-powered agents and workflows.</description>
+      <category>AI代理, DevOps, 自动化</category>
+    </item>
+    <item>
+      <title>pytorch/pytorch</title>
+      <link>https://github.com/pytorch/pytorch</link>
+      <guid>https://github.com/pytorch/pytorch</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>harvard-edge/cs249r_book</title>
+      <link>https://github.com/harvard-edge/cs249r_book</link>
+      <guid>https://github.com/harvard-edge/cs249r_book</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Machine Learning Systems</description>
+      <category>学习资源</category>
+    </item>
+    <item>
+      <title>ryanmcdermott/clean-code-javascript</title>
+      <link>https://github.com/ryanmcdermott/clean-code-javascript</link>
+      <guid>https://github.com/ryanmcdermott/clean-code-javascript</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>待翻译：Clean Code concepts adapted for JavaScript</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 17 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-03.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-03.json</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:28 GMT</pubDate>
+      <description>GitHub 热门日报 · 17 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 20 个项目</title>
