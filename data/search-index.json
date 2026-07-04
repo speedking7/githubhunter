@@ -1514,5 +1514,204 @@
     ],
     "date": "2026-07-03",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "descriptionZh": "待翻译：Use Codex from Claude Code to review code or delegate tasks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "descriptionZh": "待翻译：Free and Open Source, Distributed, RESTful Search Engine",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "repo": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "descriptionZh": "待翻译：Action for checking out a repo",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "repo": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "repo": "ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "descriptionZh": "待翻译：Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "tags": [
+      "AI代理",
+      "DevOps",
+      "自动化"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/ansible/ansible"
+  },
+  {
+    "repo": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "repo": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "descriptionZh": "待翻译：A beautiful, powerful, self-hosted rom manager and player.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/rommapp/romm"
+  },
+  {
+    "repo": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "descriptionZh": "待翻译：Machine Learning Systems",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "descriptionZh": "待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "repo": "apache/maven",
+    "description": "Apache Maven core",
+    "descriptionZh": "待翻译：Apache Maven core",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/apache/maven"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "descriptionZh": "待翻译：agent multiplexer that lives in your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "descriptionZh": "待翻译：Specification and documentation for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "repo": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "tags": [
+      "数据库"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "repo": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "descriptionZh": "待翻译：Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-04",
+    "url": "https://github.com/msitarzewski/agency-agents"
   }
 ]
