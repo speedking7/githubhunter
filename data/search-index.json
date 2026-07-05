@@ -1713,5 +1713,194 @@
     ],
     "date": "2026-07-04",
     "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "descriptionZh": "待翻译：Use Codex from Claude Code to review code or delegate tasks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "descriptionZh": "待翻译：JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "repo": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "descriptionZh": "待翻译：Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "repo": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "descriptionZh": "待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repo": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "descriptionZh": "待翻译：Machine Learning Systems",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "repo": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "descriptionZh": "待翻译：A beautiful, powerful, self-hosted rom manager and player.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/rommapp/romm"
+  },
+  {
+    "repo": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "descriptionZh": "待翻译：agent multiplexer that lives in your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "repo": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "descriptionZh": "待翻译：Repository for skills to assist AI coding agents with .NET and C#",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/dotnet/skills"
+  },
+  {
+    "repo": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "descriptionZh": "待翻译：Specification and documentation for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "repo": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "descriptionZh": "待翻译：High performance self-hosted photo and video management solution.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "repo": "chthollyphile/folia-major",
+    "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+    "descriptionZh": "待翻译：专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/chthollyphile/folia-major"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .claude directory.",
+    "tags": [
+      "开发框架",
+      "skills"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "CoplayDev/unity-mcp",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "descriptionZh": "待翻译：Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "tags": [
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/CoplayDev/unity-mcp"
+  },
+  {
+    "repo": "alirezarezvani/claude-skills",
+    "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "descriptionZh": "待翻译：337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "编辑器插件"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "repo": "crynta/terax-ai",
+    "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "descriptionZh": "待翻译：Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-05",
+    "url": "https://github.com/crynta/terax-ai"
   }
 ]
