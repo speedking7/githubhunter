@@ -1902,5 +1902,229 @@
     ],
     "date": "2026-07-05",
     "url": "https://github.com/crynta/terax-ai"
+  },
+  {
+    "repo": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "descriptionZh": "待翻译：Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "descriptionZh": "待翻译：Use Codex from Claude Code to review code or delegate tasks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "repo": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "descriptionZh": "待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repo": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "descriptionZh": "待翻译：Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "repo": "alirezarezvani/claude-skills",
+    "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "descriptionZh": "待翻译：337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "编辑器插件"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "repo": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "descriptionZh": "待翻译：A beautiful, powerful, self-hosted rom manager and player.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/rommapp/romm"
+  },
+  {
+    "repo": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "descriptionZh": "待翻译：agent multiplexer that lives in your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "repo": "alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "descriptionZh": "待翻译：JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "repo": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "descriptionZh": "待翻译：Machine Learning Systems",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "hesreallyhim/awesome-claude-code",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "descriptionZh": "待翻译：A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "tags": [
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "编辑器插件",
+      "学习资源"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "descriptionZh": "待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "CoplayDev/unity-mcp",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "descriptionZh": "待翻译：Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "tags": [
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/CoplayDev/unity-mcp"
+  },
+  {
+    "repo": "facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "repo": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "descriptionZh": "待翻译：High performance self-hosted photo and video management solution.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "gastownhall/gastown",
+    "description": "Gas Town - multi-agent workspace manager",
+    "descriptionZh": "待翻译：Gas Town - multi-agent workspace manager",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/gastownhall/gastown"
+  },
+  {
+    "repo": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "descriptionZh": "待翻译：Repository for skills to assist AI coding agents with .NET and C#",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/dotnet/skills"
+  },
+  {
+    "repo": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "descriptionZh": "待翻译：Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-07-06",
+    "url": "https://github.com/anthropics/claude-code"
   }
 ]
