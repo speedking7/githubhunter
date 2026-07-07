@@ -2126,5 +2126,173 @@
     ],
     "date": "2026-07-06",
     "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "descriptionZh": "待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "descriptionZh": "待翻译：Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "descriptionZh": "待翻译：Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "repo": "alirezarezvani/claude-skills",
+    "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "descriptionZh": "待翻译：345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "编辑器插件"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "descriptionZh": "待翻译：Use Codex from Claude Code to review code or delegate tasks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "descriptionZh": "待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repo": "ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "descriptionZh": "待翻译：agent multiplexer that lives in your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "repo": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "descriptionZh": "待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "repo": "karakeep-app/karakeep",
+    "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+    "descriptionZh": "待翻译：A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/karakeep-app/karakeep"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+    "descriptionZh": "待翻译：The API to search, scrape, and interact with the web at scale. 🔥",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "repo": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "descriptionZh": "待翻译：Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "repo": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "descriptionZh": "待翻译：A lightweight, lightning-fast, in-process vector database",
+    "tags": [
+      "向量数据库",
+      "数据库"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "descriptionZh": "待翻译：😎 Awesome lists about all kinds of interesting topics",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "repo": "gastownhall/gastown",
+    "description": "Gas Town - multi-agent workspace manager",
+    "descriptionZh": "待翻译：Gas Town - multi-agent workspace manager",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-07",
+    "url": "https://github.com/gastownhall/gastown"
   }
 ]
