@@ -2434,5 +2434,165 @@
     ],
     "date": "2026-07-08",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "descriptionZh": "待翻译：TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "自动化"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "repo": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "descriptionZh": "待翻译：Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "tags": [
+      "数据库"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/prisma/prisma"
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "descriptionZh": "待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "description": "Declarative Continuous Deployment for Kubernetes",
+    "descriptionZh": "待翻译：Declarative Continuous Deployment for Kubernetes",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/argoproj/argo-cd"
+  },
+  {
+    "repo": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "descriptionZh": "待翻译：OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "repo": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "descriptionZh": "待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "descriptionZh": "待翻译：A lightweight, lightning-fast, in-process vector database",
+    "tags": [
+      "向量数据库",
+      "数据库"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "repo": "Diolinux/PhotoGIMP",
+    "description": "A Patch for GIMP 3+ for Photoshop Users",
+    "descriptionZh": "待翻译：A Patch for GIMP 3+ for Photoshop Users",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/Diolinux/PhotoGIMP"
+  },
+  {
+    "repo": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "descriptionZh": "待翻译：This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "repo": "huxingyi/autoremesher",
+    "description": "Automatic quad remeshing tool",
+    "descriptionZh": "待翻译：Automatic quad remeshing tool",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/huxingyi/autoremesher"
+  },
+  {
+    "repo": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "descriptionZh": "待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "repo": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "descriptionZh": "待翻译：Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-07-09",
+    "url": "https://github.com/TencentCloud/CubeSandbox"
   }
 ]

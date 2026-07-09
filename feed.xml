@@ -5,28 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:35:48 GMT</lastBuildDate>
-    <item>
-      <title>MadsLorentzen/ai-job-search</title>
-      <link>https://github.com/MadsLorentzen/ai-job-search</link>
-      <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.</description>
-      <category>开发框架, 评估</category>
-    </item>
-    <item>
-      <title>Zackriya-Solutions/meetily</title>
-      <link>https://github.com/Zackriya-Solutions/meetily</link>
-      <guid>https://github.com/Zackriya-Solutions/meetily</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp;amp; Windows.</description>
-      <category>AI代理</category>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 06:13:45 GMT</lastBuildDate>
     <item>
       <title>addyosmani/agent-skills</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <guid>https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
       <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
@@ -34,81 +18,120 @@
       <title>ruvnet/RuView</title>
       <link>https://github.com/ruvnet/RuView</link>
       <guid>https://github.com/ruvnet/RuView</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
       <description>待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
       <category>可观测性</category>
     </item>
     <item>
-      <title>asgeirtj/system_prompts_leaks</title>
-      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
-      <category>AI代理</category>
+      <title>TencentCloud/TencentDB-Agent-Memory</title>
+      <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+      <guid>https://github.com/TencentCloud/TencentDB-Agent-Memory</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.</description>
+      <category>AI代理, 记忆管理, 自动化</category>
     </item>
     <item>
-      <title>TencentCloud/CubeSandbox</title>
-      <link>https://github.com/TencentCloud/CubeSandbox</link>
-      <guid>https://github.com/TencentCloud/CubeSandbox</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：Instant, Concurrent, Secure &amp;amp; Lightweight Sandbox for AI Agents.</description>
-      <category>AI代理, harness</category>
+      <title>prisma/prisma</title>
+      <link>https://github.com/prisma/prisma</link>
+      <guid>https://github.com/prisma/prisma</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：Next-generation ORM for Node.js &amp;amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</description>
+      <category>数据库</category>
     </item>
     <item>
-      <title>AhmadIbrahiim/Website-downloader</title>
-      <link>https://github.com/AhmadIbrahiim/Website-downloader</link>
-      <guid>https://github.com/AhmadIbrahiim/Website-downloader</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>steipete/CodexBar</title>
-      <link>https://github.com/steipete/CodexBar</link>
-      <guid>https://github.com/steipete/CodexBar</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：Show usage stats for OpenAI Codex and Claude Code, without having to login.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>dotnet/skills</title>
-      <link>https://github.com/dotnet/skills</link>
-      <guid>https://github.com/dotnet/skills</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：Repository for skills to assist AI coding agents with .NET and C#</description>
+      <title>mvanhorn/last30days-skill</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <guid>https://github.com/mvanhorn/last30days-skill</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
       <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>argoproj/argo-cd</title>
+      <link>https://github.com/argoproj/argo-cd</link>
+      <guid>https://github.com/argoproj/argo-cd</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：Declarative Continuous Deployment for Kubernetes</description>
+      <category>DevOps</category>
     </item>
     <item>
       <title>iOfficeAI/OfficeCLI</title>
       <link>https://github.com/iOfficeAI/OfficeCLI</link>
       <guid>https://github.com/iOfficeAI/OfficeCLI</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
       <description>待翻译：OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</description>
       <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid>https://github.com/obra/superpowers</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>alibaba/zvec</title>
+      <link>https://github.com/alibaba/zvec</link>
+      <guid>https://github.com/alibaba/zvec</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：A lightweight, lightning-fast, in-process vector database</description>
+      <category>向量数据库, 数据库</category>
+    </item>
+    <item>
+      <title>Diolinux/PhotoGIMP</title>
+      <link>https://github.com/Diolinux/PhotoGIMP</link>
+      <guid>https://github.com/Diolinux/PhotoGIMP</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：A Patch for GIMP 3+ for Photoshop Users</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>wonderwhy-er/DesktopCommanderMCP</title>
+      <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
+      <guid>https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>huxingyi/autoremesher</title>
+      <link>https://github.com/huxingyi/autoremesher</link>
+      <guid>https://github.com/huxingyi/autoremesher</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：Automatic quad remeshing tool</description>
+      <category>其他</category>
     </item>
     <item>
       <title>bradautomates/claude-video</title>
       <link>https://github.com/bradautomates/claude-video</link>
       <guid>https://github.com/bradautomates/claude-video</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
       <description>待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>kyutai-labs/pocket-tts</title>
-      <link>https://github.com/kyutai-labs/pocket-tts</link>
-      <guid>https://github.com/kyutai-labs/pocket-tts</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：A TTS that fits in your CPU (and pocket)</description>
-      <category>其他</category>
+      <title>TencentCloud/CubeSandbox</title>
+      <link>https://github.com/TencentCloud/CubeSandbox</link>
+      <guid>https://github.com/TencentCloud/CubeSandbox</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>待翻译：Instant, Concurrent, Secure &amp;amp; Lightweight Sandbox for AI Agents.</description>
+      <category>AI代理, harness</category>
     </item>
     <item>
-      <title>hesreallyhim/awesome-claude-code</title>
-      <link>https://github.com/hesreallyhim/awesome-claude-code</link>
-      <guid>https://github.com/hesreallyhim/awesome-claude-code</guid>
-      <pubDate>Wed, 08 Jul 2026 05:29:19 GMT</pubDate>
-      <description>待翻译：A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins</description>
-      <category>AI代理, skills, 开发者工具, 编辑器插件, 学习资源</category>
+      <title>GitHub 热门日报 · 15 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-09.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-09.json</guid>
+      <pubDate>Thu, 09 Jul 2026 06:13:36 GMT</pubDate>
+      <description>GitHub 热门日报 · 15 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 13 个项目</title>
