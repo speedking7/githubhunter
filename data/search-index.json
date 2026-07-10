@@ -2594,5 +2594,149 @@
     ],
     "date": "2026-07-09",
     "url": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "repo": "SmartlyDressedGames/U3-SDK",
+    "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+    "descriptionZh": "待翻译：Source code for Unturned, a free open-world zombie survival sandbox game.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/SmartlyDressedGames/U3-SDK"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "descriptionZh": "待翻译：A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  {
+    "repo": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "descriptionZh": "待翻译：OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "repo": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "descriptionZh": "待翻译：This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "repo": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "descriptionZh": "待翻译：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "repo": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "descriptionZh": "待翻译：Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "repo": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "descriptionZh": "待翻译：🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "repo": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "An evolving how-to guide for securing a Linux server.",
+    "descriptionZh": "待翻译：An evolving how-to guide for securing a Linux server.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "repo": "huxingyi/autoremesher",
+    "description": "Automatic quad remeshing tool",
+    "descriptionZh": "待翻译：Automatic quad remeshing tool",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/huxingyi/autoremesher"
+  },
+  {
+    "repo": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "descriptionZh": "待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "repo": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "descriptionZh": "待翻译：Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "tags": [
+      "数据库"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/prisma/prisma"
+  },
+  {
+    "repo": "kyutai-labs/pocket-tts",
+    "description": "A TTS that fits in your CPU (and pocket)",
+    "descriptionZh": "待翻译：A TTS that fits in your CPU (and pocket)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/kyutai-labs/pocket-tts"
+  },
+  {
+    "repo": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "descriptionZh": "待翻译：Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-10",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   }
 ]
