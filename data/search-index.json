@@ -2738,5 +2738,208 @@
     ],
     "date": "2026-07-10",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repo": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "descriptionZh": "待翻译：This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "descriptionZh": "待翻译：Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "tags": [
+      "SDK/库",
+      "harness"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "repo": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "descriptionZh": "待翻译：Abseil Common Libraries (C++)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "jbeder/yaml-cpp",
+    "description": "A YAML parser and emitter in C++",
+    "descriptionZh": "待翻译：A YAML parser and emitter in C++",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/jbeder/yaml-cpp"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .claude directory.",
+    "tags": [
+      "开发框架",
+      "skills"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "descriptionZh": "待翻译：TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "repo": "catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "descriptionZh": "待翻译：A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/catchorg/Catch2"
+  },
+  {
+    "repo": "chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "descriptionZh": "待翻译：Asio C++ Library",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/chriskohlhoff/asio"
+  },
+  {
+    "repo": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "descriptionZh": "待翻译：TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "自动化"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "repo": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "descriptionZh": "待翻译：CLI tool for configuring and monitoring Claude Code",
+    "tags": [
+      "开发者工具",
+      "可观测性"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "repo": "zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "descriptionZh": "待翻译：Mesh optimization library that makes meshes smaller and faster to render",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/zeux/meshoptimizer"
+  },
+  {
+    "repo": "tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.",
+    "descriptionZh": "待翻译：The easiest, most secure way to use WireGuard and 2FA.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/tailscale/tailscale"
+  },
+  {
+    "repo": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "descriptionZh": "待翻译：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "repo": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "descriptionZh": "待翻译：OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "descriptionZh": "待翻译：Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/hashicorp/terraform"
+  },
+  {
+    "repo": "grpc/grpc",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "descriptionZh": "待翻译：C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/grpc/grpc"
+  },
+  {
+    "repo": "vercel/next.js",
+    "description": "The React Framework",
+    "descriptionZh": "待翻译：The React Framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-11",
+    "url": "https://github.com/vercel/next.js"
   }
 ]
