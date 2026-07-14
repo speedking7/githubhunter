@@ -3364,5 +3364,114 @@
     ],
     "date": "2026-07-13",
     "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "descriptionZh": "待翻译：The open-source CapCut alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "待翻译：\"Vibe-Trading: Your Personal Trading Agent\"",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "descriptionZh": "待翻译：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "descriptionZh": "待翻译：100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "tags": [
+      "AI代理",
+      "RAG"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "repo": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "descriptionZh": "待翻译：A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "tags": [
+      "可观测性",
+      "自动化"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "repo": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "descriptionZh": "待翻译：AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "tags": [
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "DevOps",
+      "数据库",
+      "可视化"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "repo": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "descriptionZh": "待翻译：1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "repo": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "descriptionZh": "待翻译：💫 Toolkit to help you get started with Spec-Driven Development",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/github/spec-kit"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "descriptionZh": "待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-14",
+    "url": "https://github.com/coreyhaines31/marketingskills"
   }
 ]
