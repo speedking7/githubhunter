@@ -3473,5 +3473,153 @@
     ],
     "date": "2026-07-14",
     "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "descriptionZh": "待翻译：100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "tags": [
+      "AI代理",
+      "RAG"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .claude directory.",
+    "tags": [
+      "开发框架",
+      "skills"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "descriptionZh": "待翻译：The open-source CapCut alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "repo": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "descriptionZh": "待翻译：An AI Hedge Fund Team",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "repo": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "待翻译：\"Vibe-Trading: Your Personal Trading Agent\"",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "descriptionZh": "待翻译：A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "tags": [
+      "可观测性",
+      "自动化"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "repo": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "descriptionZh": "待翻译：1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "repo": "penpot/penpot",
+    "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+    "descriptionZh": "待翻译：Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/penpot/penpot"
+  },
+  {
+    "repo": "AIEraDev/Clypra",
+    "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+    "descriptionZh": "待翻译：A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/AIEraDev/Clypra"
+  },
+  {
+    "repo": "par274/sharpemu",
+    "description": "An experimental PlayStation 5 emulator project.",
+    "descriptionZh": "待翻译：An experimental PlayStation 5 emulator project.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/par274/sharpemu"
+  },
+  {
+    "repo": "chenyme/grok2api",
+    "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+    "descriptionZh": "待翻译：面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/chenyme/grok2api"
+  },
+  {
+    "repo": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "descriptionZh": "待翻译：AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "tags": [
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "DevOps",
+      "数据库",
+      "可视化"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "descriptionZh": "待翻译：Become a cracked AI/ML Research Engineer",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-15",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
   }
 ]
