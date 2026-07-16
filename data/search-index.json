@@ -3621,5 +3621,139 @@
     ],
     "date": "2026-07-15",
     "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "descriptionZh": "待翻译：The open-source CapCut alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "repo": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .claude directory.",
+    "tags": [
+      "开发框架",
+      "skills"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "descriptionZh": "待翻译：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repo": "Dicklesworthstone/destructive_command_guard",
+    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+    "descriptionZh": "待翻译：The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "descriptionZh": "待翻译：\"Vibe-Trading: Your Personal Trading Agent\"",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "description": "A coding agent for low-cost models",
+    "descriptionZh": "待翻译：A coding agent for low-cost models",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "repo": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "descriptionZh": "待翻译：Become a cracked AI/ML Research Engineer",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "descriptionZh": "待翻译：100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+    "tags": [
+      "AI代理",
+      "RAG"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "descriptionZh": "待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "repo": "YimMenu/YimMenuV2",
+    "description": "Experimental menu for GTA 5: Enhanced",
+    "descriptionZh": "待翻译：Experimental menu for GTA 5: Enhanced",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/YimMenu/YimMenuV2"
+  },
+  {
+    "repo": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "descriptionZh": "待翻译：1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-16",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset"
   }
 ]
