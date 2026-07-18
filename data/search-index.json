@@ -3935,5 +3935,151 @@
     ],
     "date": "2026-07-17",
     "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "repo": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "descriptionZh": "待翻译：Master programming by recreating your favorite technologies from scratch.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "descriptionZh": "待翻译：🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "tags": [
+      "AI代理",
+      "可观测性"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "descriptionZh": "待翻译：Become a cracked AI/ML Research Engineer",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  },
+  {
+    "repo": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "descriptionZh": "待翻译：Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "repo": "anthropics/cwc-workshops",
+    "description": "",
+    "descriptionZh": "待翻译：anthropics/cwc-workshops",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/anthropics/cwc-workshops"
+  },
+  {
+    "repo": "PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo",
+    "descriptionZh": "待翻译：Bonsai Demo",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "descriptionZh": "待翻译：Protocol Buffers - Google's data interchange format",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "repo": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "descriptionZh": "待翻译：Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "tags": [
+      "AI代理",
+      "评估",
+      "开发者工具",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "repo": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "descriptionZh": "待翻译：Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "descriptionZh": "待翻译：A coding agent for open models like Kimi K3",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "repo": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "descriptionZh": "待翻译：A vector index built on TurboQuant, written in Rust with Python bindings",
+    "tags": [
+      "SDK/库"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "repo": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "descriptionZh": "待翻译：The open-source CapCut alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-18",
+    "url": "https://github.com/OpenCut-app/OpenCut"
   }
 ]
