@@ -4198,5 +4198,212 @@
     ],
     "date": "2026-07-19",
     "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "repo": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "descriptionZh": "待翻译：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "repo": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "descriptionZh": "待翻译：Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "tags": [
+      "AI代理",
+      "评估",
+      "开发者工具",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "repo": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "descriptionZh": "待翻译：A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "tags": [
+      "开发框架",
+      "模型/LLM"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/kvcache-ai/ktransformers"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "descriptionZh": "待翻译：Learn it. Build it. Ship it for others.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repo": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "descriptionZh": "待翻译：The open-source AI voice studio. Clone, dictate, create.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repo": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "descriptionZh": "待翻译：The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "repo": "andrewrabert/jellium-desktop",
+    "description": "An unofficial desktop client for Jellyfin",
+    "descriptionZh": "待翻译：An unofficial desktop client for Jellyfin",
+    "tags": [
+      "SDK/库",
+      "开发者工具"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/andrewrabert/jellium-desktop"
+  },
+  {
+    "repo": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "descriptionZh": "待翻译：Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "descriptionZh": "待翻译：🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "tags": [
+      "AI代理",
+      "可观测性"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "descriptionZh": "待翻译：The new Windows Terminal and the original Windows console host, all in the same place!",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/microsoft/terminal"
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "descriptionZh": "待翻译：AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM",
+      "编辑器插件"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "repo": "1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "descriptionZh": "待翻译：Coding Agent Harness",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "descriptionZh": "待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "tags": [
+      "模型/LLM",
+      "评估"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "repo": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "descriptionZh": "待翻译：Kimi Code CLI is your next CLI agent.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "repo": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "descriptionZh": "待翻译：Flowseal/zapret-discord-youtube",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "repo": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "descriptionZh": "待翻译：Master programming by recreating your favorite technologies from scratch.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "repo": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "descriptionZh": "待翻译：AirLLM 70B inference with single 4GB GPU",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "repo": "Canner/WrenAI",
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "descriptionZh": "待翻译：GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "数据库",
+      "可视化"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "repo": "PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "descriptionZh": "待翻译：计算机自学指南",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-20",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning"
   }
 ]

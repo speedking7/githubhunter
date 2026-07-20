@@ -5,94 +5,165 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 19 Jul 2026 06:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 05:47:43 GMT</lastBuildDate>
     <item>
-      <title>Robbyant/lingbot-map</title>
-      <link>https://github.com/Robbyant/lingbot-map</link>
-      <guid>https://github.com/Robbyant/lingbot-map</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：A feed-forward 3D foundation model for reconstructing scenes from streaming data</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>apache/ossie</title>
-      <link>https://github.com/apache/ossie</link>
-      <guid>https://github.com/apache/ossie</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>PostHog/posthog</title>
-      <link>https://github.com/PostHog/posthog</link>
-      <guid>https://github.com/PostHog/posthog</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.</description>
-      <category>AI代理, 可观测性</category>
-    </item>
-    <item>
-      <title>ibelick/ui-skills</title>
-      <link>https://github.com/ibelick/ui-skills</link>
-      <guid>https://github.com/ibelick/ui-skills</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：Skills for Design Engineers</description>
-      <category>开发框架, skills</category>
-    </item>
-    <item>
-      <title>rohitg00/ai-engineering-from-scratch</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：Learn it. Build it. Ship it for others.</description>
-      <category>学习资源</category>
+      <title>bojieli/ai-agent-book</title>
+      <link>https://github.com/bojieli/ai-agent-book</link>
+      <guid>https://github.com/bojieli/ai-agent-book</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</description>
+      <category>AI代理</category>
     </item>
     <item>
       <title>tirth8205/code-review-graph</title>
       <link>https://github.com/tirth8205/code-review-graph</link>
       <guid>https://github.com/tirth8205/code-review-graph</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
       <description>待翻译：Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</description>
       <category>AI代理, 评估, 开发者工具, 可视化, 自动化</category>
     </item>
     <item>
-      <title>elder-plinius/G0DM0D3</title>
-      <link>https://github.com/elder-plinius/G0DM0D3</link>
-      <guid>https://github.com/elder-plinius/G0DM0D3</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：LIBERATED AI CHAT</description>
+      <title>kvcache-ai/ktransformers</title>
+      <link>https://github.com/kvcache-ai/ktransformers</link>
+      <guid>https://github.com/kvcache-ai/ktransformers</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations</description>
+      <category>开发框架, 模型/LLM</category>
+    </item>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Learn it. Build it. Ship it for others.</description>
+      <category>学习资源</category>
+    </item>
+    <item>
+      <title>jamiepine/voicebox</title>
+      <link>https://github.com/jamiepine/voicebox</link>
+      <guid>https://github.com/jamiepine/voicebox</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：The open-source AI voice studio. Clone, dictate, create.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>KnockOutEZ/wigolo</title>
+      <link>https://github.com/KnockOutEZ/wigolo</link>
+      <guid>https://github.com/KnockOutEZ/wigolo</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：The go-to web for your AI coding agent — local-first search, fetch, crawl &amp;amp; research over MCP. No API keys, no cloud, $0/query. Public beta.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>andrewrabert/jellium-desktop</title>
+      <link>https://github.com/andrewrabert/jellium-desktop</link>
+      <guid>https://github.com/andrewrabert/jellium-desktop</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：An unofficial desktop client for Jellyfin</description>
+      <category>SDK/库, 开发者工具</category>
+    </item>
+    <item>
+      <title>github/copilot-sdk</title>
+      <link>https://github.com/github/copilot-sdk</link>
+      <guid>https://github.com/github/copilot-sdk</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
+      <category>开发框架, AI代理</category>
+    </item>
+    <item>
+      <title>PostHog/posthog</title>
+      <link>https://github.com/PostHog/posthog</link>
+      <guid>https://github.com/PostHog/posthog</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.</description>
+      <category>AI代理, 可观测性</category>
+    </item>
+    <item>
+      <title>microsoft/terminal</title>
+      <link>https://github.com/microsoft/terminal</link>
+      <guid>https://github.com/microsoft/terminal</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：The new Windows Terminal and the original Windows console host, all in the same place!</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>AstrBotDevs/AstrBot</title>
+      <link>https://github.com/AstrBotDevs/AstrBot</link>
+      <guid>https://github.com/AstrBotDevs/AstrBot</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：AI Agent Assistant &amp;amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</description>
+      <category>开发框架, AI代理, 模型/LLM, 编辑器插件</category>
+    </item>
+    <item>
+      <title>1jehuang/jcode</title>
+      <link>https://github.com/1jehuang/jcode</link>
+      <guid>https://github.com/1jehuang/jcode</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Coding Agent Harness</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>trycua/cua</title>
+      <link>https://github.com/trycua/cua</link>
+      <guid>https://github.com/trycua/cua</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</description>
+      <category>模型/LLM, 评估</category>
+    </item>
+    <item>
+      <title>MoonshotAI/kimi-cli</title>
+      <link>https://github.com/MoonshotAI/kimi-cli</link>
+      <guid>https://github.com/MoonshotAI/kimi-cli</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Kimi Code CLI is your next CLI agent.</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>Flowseal/zapret-discord-youtube</title>
+      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
+      <guid>https://github.com/Flowseal/zapret-discord-youtube</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Flowseal/zapret-discord-youtube</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>codecrafters-io/build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：Master programming by recreating your favorite technologies from scratch.</description>
       <category>其他</category>
     </item>
     <item>
       <title>lyogavin/airllm</title>
       <link>https://github.com/lyogavin/airllm</link>
       <guid>https://github.com/lyogavin/airllm</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
       <description>待翻译：AirLLM 70B inference with single 4GB GPU</description>
       <category>模型/LLM</category>
     </item>
     <item>
-      <title>KnockOutEZ/wigolo</title>
-      <link>https://github.com/KnockOutEZ/wigolo</link>
-      <guid>https://github.com/KnockOutEZ/wigolo</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：The go-to web for your AI coding agent — local-first search, fetch, crawl &amp;amp; research over MCP. No API keys, no cloud, $0/query. Public beta.</description>
-      <category>AI代理</category>
+      <title>Canner/WrenAI</title>
+      <link>https://github.com/Canner/WrenAI</link>
+      <guid>https://github.com/Canner/WrenAI</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.</description>
+      <category>AI代理, 开发者工具, 数据库, 可视化</category>
     </item>
     <item>
-      <title>codecrafters-io/build-your-own-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：Master programming by recreating your favorite technologies from scratch.</description>
+      <title>PKUFlyingPig/cs-self-learning</title>
+      <link>https://github.com/PKUFlyingPig/cs-self-learning</link>
+      <guid>https://github.com/PKUFlyingPig/cs-self-learning</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>待翻译：计算机自学指南</description>
       <category>其他</category>
     </item>
     <item>
-      <title>MoonshotAI/kimi-cli</title>
-      <link>https://github.com/MoonshotAI/kimi-cli</link>
-      <guid>https://github.com/MoonshotAI/kimi-cli</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:57 GMT</pubDate>
-      <description>待翻译：Kimi Code CLI is your next CLI agent.</description>
-      <category>AI代理, 开发者工具</category>
+      <title>GitHub 热门日报 · 19 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-20.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-20.json</guid>
+      <pubDate>Mon, 20 Jul 2026 05:47:39 GMT</pubDate>
+      <description>GitHub 热门日报 · 19 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 11 个项目</title>
