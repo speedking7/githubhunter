@@ -4405,5 +4405,221 @@
     ],
     "date": "2026-07-20",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning"
+  },
+  {
+    "repo": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "descriptionZh": "待翻译：Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "tags": [
+      "AI代理",
+      "评估",
+      "开发者工具",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "repo": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code",
+    "descriptionZh": "待翻译：The most intelligent agent harness for code",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repo": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+    "descriptionZh": "待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "descriptionZh": "待翻译：Learn it. Build it. Ship it for others.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "kvcache-ai/ktransformers",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "descriptionZh": "待翻译：A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "tags": [
+      "开发框架",
+      "模型/LLM"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/kvcache-ai/ktransformers"
+  },
+  {
+    "repo": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "descriptionZh": "待翻译：The open-source AI voice studio. Clone, dictate, create.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repo": "topoteretes/cognee",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "descriptionZh": "待翻译：Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "记忆管理",
+      "可视化"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "repo": "Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "descriptionZh": "待翻译：A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "descriptionZh": "待翻译：Open source alternative to Semrush and Ahrefs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "repo": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "descriptionZh": "待翻译：Kimi Code CLI is your next CLI agent.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "descriptionZh": "待翻译：AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM",
+      "编辑器插件"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+    "descriptionZh": "待翻译：🚀 The fast, Pythonic way to build MCP servers and clients.",
+    "tags": [
+      "SDK/库",
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/PrefectHQ/fastmcp"
+  },
+  {
+    "repo": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "descriptionZh": "待翻译：The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "repo": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "descriptionZh": "待翻译：A batteries-included framework for building web apps",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/tokio-rs/topcoat"
+  },
+  {
+    "repo": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "descriptionZh": "待翻译：Collection of publicly available IPTV channels from all over the world",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "repo": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "descriptionZh": "待翻译：Self-hosted deployment platform",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/oblien/openship"
+  },
+  {
+    "repo": "microsoft/Ontology-Playground",
+    "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+    "descriptionZh": "待翻译：Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/microsoft/Ontology-Playground"
+  },
+  {
+    "repo": "handy-computer/transcribe.cpp",
+    "description": "ggml speech-to-text inference for 16+ model families",
+    "descriptionZh": "待翻译：ggml speech-to-text inference for 16+ model families",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/handy-computer/transcribe.cpp"
+  },
+  {
+    "repo": "moonshine-ai/moonshine",
+    "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+    "descriptionZh": "待翻译：Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-21",
+    "url": "https://github.com/moonshine-ai/moonshine"
   }
 ]
