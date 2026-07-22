@@ -4621,5 +4621,230 @@
     ],
     "date": "2026-07-21",
     "url": "https://github.com/moonshine-ai/moonshine"
+  },
+  {
+    "repo": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "descriptionZh": "待翻译：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "tags": [
+      "DevOps",
+      "可观测性",
+      "可视化"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "repo": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "descriptionZh": "待翻译：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "repo": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "descriptionZh": "待翻译：Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "tags": [
+      "AI代理",
+      "评估",
+      "开发者工具",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "descriptionZh": "待翻译：A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "descriptionZh": "待翻译：A collection of agent skills for CAD, robotics and hardware design",
+    "tags": [
+      "AI代理",
+      "skills",
+      "自动化"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "repo": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code",
+    "descriptionZh": "待翻译：The most intelligent agent harness for code",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repo": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "descriptionZh": "待翻译：Self-hosted deployment platform",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/oblien/openship"
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "descriptionZh": "待翻译：AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM",
+      "编辑器插件"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "descriptionZh": "待翻译：Open source alternative to Semrush and Ahrefs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "descriptionZh": "待翻译：AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "tags": [
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/tradesdontlie/tradingview-mcp"
+  },
+  {
+    "repo": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "descriptionZh": "待翻译：Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "repo": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "descriptionZh": "待翻译：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/hyprwm/Hyprland"
+  },
+  {
+    "repo": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "descriptionZh": "待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "descriptionZh": "待翻译：Fullstack app framework for web, desktop, and mobile.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/DioxusLabs/dioxus"
+  },
+  {
+    "repo": "langchain-ai/open_deep_research",
+    "description": "",
+    "descriptionZh": "待翻译：langchain-ai/open_deep_research",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/langchain-ai/open_deep_research"
+  },
+  {
+    "repo": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "descriptionZh": "待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repo": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "descriptionZh": "待翻译：Web UI for the pi coding agent",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/agegr/pi-web"
+  },
+  {
+    "repo": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "descriptionZh": "待翻译：Easily and securely send things from one computer to another 🐊 📦",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/schollz/croc"
+  },
+  {
+    "repo": "microsoft/Ontology-Playground",
+    "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+    "descriptionZh": "待翻译：Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/microsoft/Ontology-Playground"
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "description": "Structured Outputs",
+    "descriptionZh": "待翻译：Structured Outputs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/dottxt-ai/outlines"
+  },
+  {
+    "repo": "KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "descriptionZh": "待翻译：The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-22",
+    "url": "https://github.com/KnockOutEZ/wigolo"
   }
 ]
