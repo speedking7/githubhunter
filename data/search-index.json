@@ -5046,5 +5046,166 @@
     ],
     "date": "2026-07-23",
     "url": "https://github.com/dottxt-ai/outlines"
+  },
+  {
+    "repo": "block/buzz",
+    "description": "A hive mind communication platform",
+    "descriptionZh": "待翻译：A hive mind communication platform",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "repo": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "descriptionZh": "待翻译：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "tags": [
+      "DevOps",
+      "可观测性",
+      "可视化"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "repo": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repo": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "descriptionZh": "待翻译：Empowering everyone to host fast and efficient Minecraft servers.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "repo": "citrolabs/ego-lite",
+    "description": "The best browser for both you and your AI agents work in parallel.",
+    "descriptionZh": "待翻译：The best browser for both you and your AI agents work in parallel.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "repo": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "descriptionZh": "待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "repo": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "descriptionZh": "待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "descriptionZh": "待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "tags": [
+      "skills",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "descriptionZh": "待翻译：A collection of agent skills for CAD, robotics and hardware design",
+    "tags": [
+      "AI代理",
+      "skills",
+      "自动化"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "repo": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "descriptionZh": "待翻译：Web UI for the pi coding agent",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/agegr/pi-web"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "descriptionZh": "待翻译：Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/likec4/likec4"
+  },
+  {
+    "repo": "Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "descriptionZh": "待翻译：Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/Automattic/harper"
+  },
+  {
+    "repo": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend &amp; API",
+    "descriptionZh": "待翻译：The Free Software Media System - Server Backend &amp; API",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-24",
+    "url": "https://github.com/jellyfin/jellyfin"
   }
 ]
