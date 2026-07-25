@@ -5207,5 +5207,177 @@
     ],
     "date": "2026-07-24",
     "url": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "repo": "block/buzz",
+    "description": "A hive mind communication platform",
+    "descriptionZh": "待翻译：A hive mind communication platform",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "repo": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "descriptionZh": "待翻译：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "tags": [
+      "DevOps",
+      "可观测性",
+      "可视化"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "descriptionZh": "待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "tags": [
+      "skills",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repo": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "descriptionZh": "待翻译：Empowering everyone to host fast and efficient Minecraft servers.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "repo": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repo": "Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "descriptionZh": "待翻译：Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/Automattic/harper"
+  },
+  {
+    "repo": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "descriptionZh": "待翻译：Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/likec4/likec4"
+  },
+  {
+    "repo": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "descriptionZh": "待翻译：The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "descriptionZh": "待翻译：Pretty fancy and modern terminal file manager",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/yorukot/superfile"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "descriptionZh": "待翻译：The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "tags": [
+      "AI代理",
+      "数据库",
+      "编辑器插件"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "repo": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "descriptionZh": "待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "descriptionZh": "待翻译：《动手学大模型Dive into LLMs》系列编程实践教程",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "repo": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "descriptionZh": "待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repo": "OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "descriptionZh": "待翻译：🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "tags": [
+      "SDK/库",
+      "开发者工具",
+      "数据库"
+    ],
+    "date": "2026-07-25",
+    "url": "https://github.com/OtterMind/Chat2DB"
   }
 ]

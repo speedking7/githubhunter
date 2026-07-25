@@ -5,12 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Jul 2026 06:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 05:21:55 GMT</lastBuildDate>
     <item>
       <title>block/buzz</title>
       <link>https://github.com/block/buzz</link>
       <guid>https://github.com/block/buzz</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
       <description>待翻译：A hive mind communication platform</description>
       <category>其他</category>
     </item>
@@ -18,113 +18,128 @@
       <title>koala73/worldmonitor</title>
       <link>https://github.com/koala73/worldmonitor</link>
       <guid>https://github.com/koala73/worldmonitor</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
       <description>待翻译：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</description>
       <category>DevOps, 可观测性, 可视化</category>
-    </item>
-    <item>
-      <title>shiyu-coder/Kronos</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <guid>https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Kronos: A Foundation Model for the Language of Financial Markets</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>Pumpkin-MC/Pumpkin</title>
-      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-      <guid>https://github.com/Pumpkin-MC/Pumpkin</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Empowering everyone to host fast and efficient Minecraft servers.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>citrolabs/ego-lite</title>
-      <link>https://github.com/citrolabs/ego-lite</link>
-      <guid>https://github.com/citrolabs/ego-lite</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：The best browser for both you and your AI agents work in parallel.</description>
-      <category>AI代理, 自动化</category>
-    </item>
-    <item>
-      <title>chrislgarry/Apollo-11</title>
-      <link>https://github.com/chrislgarry/Apollo-11</link>
-      <guid>https://github.com/chrislgarry/Apollo-11</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>diegosouzapw/OmniRoute</title>
-      <link>https://github.com/diegosouzapw/OmniRoute</link>
-      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp;amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors</description>
-      <category>AI代理, 开发者工具</category>
     </item>
     <item>
       <title>ComposioHQ/awesome-claude-skills</title>
       <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
       <description>待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</description>
       <category>skills, 自动化, 学习资源</category>
     </item>
     <item>
-      <title>earthtojake/text-to-cad</title>
-      <link>https://github.com/earthtojake/text-to-cad</link>
-      <guid>https://github.com/earthtojake/text-to-cad</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：A collection of agent skills for CAD, robotics and hardware design</description>
-      <category>AI代理, skills, 自动化</category>
+      <title>Pumpkin-MC/Pumpkin</title>
+      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+      <guid>https://github.com/Pumpkin-MC/Pumpkin</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Empowering everyone to host fast and efficient Minecraft servers.</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>agegr/pi-web</title>
-      <link>https://github.com/agegr/pi-web</link>
-      <guid>https://github.com/agegr/pi-web</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Web UI for the pi coding agent</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <guid>https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Open-source &amp;amp; free — Battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
-      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
-    </item>
-    <item>
-      <title>ruvnet/RuView</title>
-      <link>https://github.com/ruvnet/RuView</link>
-      <guid>https://github.com/ruvnet/RuView</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-      <category>可观测性</category>
-    </item>
-    <item>
-      <title>likec4/likec4</title>
-      <link>https://github.com/likec4/likec4</link>
-      <guid>https://github.com/likec4/likec4</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code</description>
+      <title>shiyu-coder/Kronos</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <guid>https://github.com/shiyu-coder/Kronos</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Kronos: A Foundation Model for the Language of Financial Markets</description>
       <category>其他</category>
     </item>
     <item>
       <title>Automattic/harper</title>
       <link>https://github.com/Automattic/harper</link>
       <guid>https://github.com/Automattic/harper</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
       <description>待翻译：Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
       <category>其他</category>
     </item>
     <item>
-      <title>jellyfin/jellyfin</title>
-      <link>https://github.com/jellyfin/jellyfin</link>
-      <guid>https://github.com/jellyfin/jellyfin</guid>
-      <pubDate>Fri, 24 Jul 2026 05:28:30 GMT</pubDate>
-      <description>待翻译：The Free Software Media System - Server Backend &amp;amp; API</description>
+      <title>likec4/likec4</title>
+      <link>https://github.com/likec4/likec4</link>
+      <guid>https://github.com/likec4/likec4</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>citrolabs/ego-lite</title>
+      <link>https://github.com/citrolabs/ego-lite</link>
+      <guid>https://github.com/citrolabs/ego-lite</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</description>
+      <category>AI代理, 自动化</category>
+    </item>
+    <item>
+      <title>yorukot/superfile</title>
+      <link>https://github.com/yorukot/superfile</link>
+      <guid>https://github.com/yorukot/superfile</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Pretty fancy and modern terminal file manager</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>ruvnet/RuView</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <guid>https://github.com/ruvnet/RuView</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+      <category>可观测性</category>
+    </item>
+    <item>
+      <title>CoreBunch/Instatic</title>
+      <link>https://github.com/CoreBunch/Instatic</link>
+      <guid>https://github.com/CoreBunch/Instatic</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it&apos;s all there.</description>
+      <category>AI代理, 数据库, 编辑器插件</category>
+    </item>
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <guid>https://github.com/chrislgarry/Apollo-11</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid>https://github.com/mattpocock/skills</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>Lordog/dive-into-llms</title>
+      <link>https://github.com/Lordog/dive-into-llms</link>
+      <guid>https://github.com/Lordog/dive-into-llms</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：《动手学大模型Dive into LLMs》系列编程实践教程</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>diegosouzapw/OmniRoute</title>
+      <link>https://github.com/diegosouzapw/OmniRoute</link>
+      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp;amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>OtterMind/Chat2DB</title>
+      <link>https://github.com/OtterMind/Chat2DB</link>
+      <guid>https://github.com/OtterMind/Chat2DB</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>待翻译：🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</description>
+      <category>SDK/库, 开发者工具, 数据库</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 16 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-25.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-25.json</guid>
+      <pubDate>Sat, 25 Jul 2026 05:21:52 GMT</pubDate>
+      <description>GitHub 热门日报 · 16 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 15 个项目</title>
