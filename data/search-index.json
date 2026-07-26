@@ -5379,5 +5379,203 @@
     ],
     "date": "2026-07-25",
     "url": "https://github.com/OtterMind/Chat2DB"
+  },
+  {
+    "repo": "block/buzz",
+    "description": "A hive mind communication platform",
+    "descriptionZh": "待翻译：A hive mind communication platform",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "descriptionZh": "待翻译：The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "descriptionZh": "待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "tags": [
+      "skills",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repo": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "descriptionZh": "待翻译：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "repo": "Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "descriptionZh": "待翻译：Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/Automattic/harper"
+  },
+  {
+    "repo": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "descriptionZh": "待翻译：Empowering everyone to host fast and efficient Minecraft servers.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "repo": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "descriptionZh": "待翻译：bluetooth mesh chat, IRC vibes",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "descriptionZh": "待翻译：macOS video editor built for AI",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "repo": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "descriptionZh": "待翻译：The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "tags": [
+      "AI代理",
+      "数据库",
+      "编辑器插件"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "repo": "Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "descriptionZh": "待翻译：《动手学大模型Dive into LLMs》系列编程实践教程",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "repo": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "descriptionZh": "待翻译：A vector index built on TurboQuant, written in Rust with Python bindings",
+    "tags": [
+      "SDK/库"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "repo": "OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "descriptionZh": "待翻译：🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "tags": [
+      "SDK/库",
+      "开发者工具",
+      "数据库"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/OtterMind/Chat2DB"
+  },
+  {
+    "repo": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "descriptionZh": "待翻译：Simple, unified interface to multiple Generative AI providers",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-07-26",
+    "url": "https://github.com/affaan-m/ECC"
   }
 ]
