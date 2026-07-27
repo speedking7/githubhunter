@@ -5577,5 +5577,184 @@
     ],
     "date": "2026-07-26",
     "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "descriptionZh": "待翻译：bluetooth mesh chat, IRC vibes",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "repo": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "descriptionZh": "待翻译：The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "repo": "block/buzz",
+    "description": "A hive mind communication platform",
+    "descriptionZh": "待翻译：A hive mind communication platform",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "repo": "pingdotgg/t3code",
+    "description": "",
+    "descriptionZh": "待翻译：pingdotgg/t3code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "repo": "CoreBunch/Instatic",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "descriptionZh": "待翻译：The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+    "tags": [
+      "AI代理",
+      "数据库",
+      "编辑器插件"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "descriptionZh": "待翻译：Pretty fancy and modern terminal file manager",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/yorukot/superfile"
+  },
+  {
+    "repo": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "descriptionZh": "待翻译：Node.js JavaScript runtime ✨🐢🚀✨",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/nodejs/node"
+  },
+  {
+    "repo": "OtterMind/Chat2DB",
+    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "descriptionZh": "待翻译：🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "tags": [
+      "SDK/库",
+      "开发者工具",
+      "数据库"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/OtterMind/Chat2DB"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "descriptionZh": "待翻译：Simple, unified interface to multiple Generative AI providers",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "repo": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "descriptionZh": "待翻译：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "repo": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "descriptionZh": "待翻译：Empowering everyone to host fast and efficient Minecraft servers.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "repo": "permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "descriptionZh": "待翻译：bluetooth mesh chat, IRC vibes",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/permissionlesstech/bitchat-android"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "descriptionZh": "待翻译：Jenkins automation server",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "repo": "amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)",
+    "descriptionZh": "待翻译：Amnezia VPN Client (Desktop+Mobile)",
+    "tags": [
+      "SDK/库",
+      "开发者工具"
+    ],
+    "date": "2026-07-27",
+    "url": "https://github.com/amnezia-vpn/amnezia-client"
   }
 ]

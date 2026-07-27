@@ -5,150 +5,149 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Jul 2026 06:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 05:58:29 GMT</lastBuildDate>
     <item>
-      <title>block/buzz</title>
-      <link>https://github.com/block/buzz</link>
-      <guid>https://github.com/block/buzz</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：A hive mind communication platform</description>
+      <title>permissionlesstech/bitchat</title>
+      <link>https://github.com/permissionlesstech/bitchat</link>
+      <guid>https://github.com/permissionlesstech/bitchat</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：bluetooth mesh chat, IRC vibes</description>
       <category>其他</category>
-    </item>
-    <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <guid>https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：Open-source &amp;amp; free — Battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
-      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
     </item>
     <item>
       <title>citrolabs/ego-lite</title>
       <link>https://github.com/citrolabs/ego-lite</link>
       <guid>https://github.com/citrolabs/ego-lite</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
       <description>待翻译：The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</description>
       <category>AI代理, 自动化</category>
     </item>
     <item>
-      <title>ComposioHQ/awesome-claude-skills</title>
-      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</description>
-      <category>skills, 自动化, 学习资源</category>
-    </item>
-    <item>
-      <title>anthropics/claude-cookbooks</title>
-      <link>https://github.com/anthropics/claude-cookbooks</link>
-      <guid>https://github.com/anthropics/claude-cookbooks</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+      <title>block/buzz</title>
+      <link>https://github.com/block/buzz</link>
+      <guid>https://github.com/block/buzz</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：A hive mind communication platform</description>
       <category>其他</category>
     </item>
     <item>
-      <title>Automattic/harper</title>
-      <link>https://github.com/Automattic/harper</link>
-      <guid>https://github.com/Automattic/harper</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>shiyu-coder/Kronos</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <guid>https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：Kronos: A Foundation Model for the Language of Financial Markets</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>Pumpkin-MC/Pumpkin</title>
-      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-      <guid>https://github.com/Pumpkin-MC/Pumpkin</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：Empowering everyone to host fast and efficient Minecraft servers.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>permissionlesstech/bitchat</title>
-      <link>https://github.com/permissionlesstech/bitchat</link>
-      <guid>https://github.com/permissionlesstech/bitchat</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：bluetooth mesh chat, IRC vibes</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>palmier-io/palmier-pro</title>
-      <link>https://github.com/palmier-io/palmier-pro</link>
-      <guid>https://github.com/palmier-io/palmier-pro</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：macOS video editor built for AI</description>
+      <title>pingdotgg/t3code</title>
+      <link>https://github.com/pingdotgg/t3code</link>
+      <guid>https://github.com/pingdotgg/t3code</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：pingdotgg/t3code</description>
       <category>其他</category>
     </item>
     <item>
       <title>CoreBunch/Instatic</title>
       <link>https://github.com/CoreBunch/Instatic</link>
       <guid>https://github.com/CoreBunch/Instatic</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
       <description>待翻译：The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it&apos;s all there.</description>
       <category>AI代理, 数据库, 编辑器插件</category>
     </item>
     <item>
-      <title>Lordog/dive-into-llms</title>
-      <link>https://github.com/Lordog/dive-into-llms</link>
-      <guid>https://github.com/Lordog/dive-into-llms</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：《动手学大模型Dive into LLMs》系列编程实践教程</description>
-      <category>模型/LLM</category>
+      <title>yorukot/superfile</title>
+      <link>https://github.com/yorukot/superfile</link>
+      <guid>https://github.com/yorukot/superfile</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Pretty fancy and modern terminal file manager</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>RyanCodrai/turbovec</title>
-      <link>https://github.com/RyanCodrai/turbovec</link>
-      <guid>https://github.com/RyanCodrai/turbovec</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：A vector index built on TurboQuant, written in Rust with Python bindings</description>
-      <category>SDK/库</category>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <guid>https://github.com/nodejs/node</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Node.js JavaScript runtime ✨🐢🚀✨</description>
+      <category>harness</category>
     </item>
     <item>
       <title>OtterMind/Chat2DB</title>
       <link>https://github.com/OtterMind/Chat2DB</link>
       <guid>https://github.com/OtterMind/Chat2DB</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
       <description>待翻译：🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</description>
       <category>SDK/库, 开发者工具, 数据库</category>
+    </item>
+    <item>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <guid>https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：The design language that makes your AI harness better at design.</description>
+      <category>harness</category>
+    </item>
+    <item>
+      <title>shiyu-coder/Kronos</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <guid>https://github.com/shiyu-coder/Kronos</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Kronos: A Foundation Model for the Language of Financial Markets</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid>https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Open-source &amp;amp; free — Battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
+      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
     </item>
     <item>
       <title>andrewyng/aisuite</title>
       <link>https://github.com/andrewyng/aisuite</link>
       <guid>https://github.com/andrewyng/aisuite</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
       <description>待翻译：Simple, unified interface to multiple Generative AI providers</description>
       <category>其他</category>
     </item>
     <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Sun, 26 Jul 2026 05:39:21 GMT</pubDate>
-      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-      <category>AI代理, 记忆管理, skills, harness, 安全</category>
+      <title>anthropics/claude-cookbooks</title>
+      <link>https://github.com/anthropics/claude-cookbooks</link>
+      <guid>https://github.com/anthropics/claude-cookbooks</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>Pumpkin-MC/Pumpkin</title>
+      <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+      <guid>https://github.com/Pumpkin-MC/Pumpkin</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Empowering everyone to host fast and efficient Minecraft servers.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>permissionlesstech/bitchat-android</title>
+      <link>https://github.com/permissionlesstech/bitchat-android</link>
+      <guid>https://github.com/permissionlesstech/bitchat-android</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：bluetooth mesh chat, IRC vibes</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>jenkinsci/jenkins</title>
+      <link>https://github.com/jenkinsci/jenkins</link>
+      <guid>https://github.com/jenkinsci/jenkins</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Jenkins automation server</description>
+      <category>自动化</category>
+    </item>
+    <item>
+      <title>amnezia-vpn/amnezia-client</title>
+      <link>https://github.com/amnezia-vpn/amnezia-client</link>
+      <guid>https://github.com/amnezia-vpn/amnezia-client</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>待翻译：Amnezia VPN Client (Desktop+Mobile)</description>
+      <category>SDK/库, 开发者工具</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 17 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-27.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-27.json</guid>
+      <pubDate>Mon, 27 Jul 2026 05:58:27 GMT</pubDate>
+      <description>GitHub 热门日报 · 17 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 18 个项目</title>
