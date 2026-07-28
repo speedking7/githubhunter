@@ -5756,5 +5756,161 @@
     ],
     "date": "2026-07-27",
     "url": "https://github.com/amnezia-vpn/amnezia-client"
+  },
+  {
+    "repo": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "descriptionZh": "待翻译：bluetooth mesh chat, IRC vibes",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "repo": "amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)",
+    "descriptionZh": "待翻译：Amnezia VPN Client (Desktop+Mobile)",
+    "tags": [
+      "SDK/库",
+      "开发者工具"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/amnezia-vpn/amnezia-client"
+  },
+  {
+    "repo": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "descriptionZh": "待翻译：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repo": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "descriptionZh": "待翻译：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "descriptionZh": "待翻译：Pretty fancy and modern terminal file manager",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/yorukot/superfile"
+  },
+  {
+    "repo": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "descriptionZh": "待翻译：小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "descriptionZh": "待翻译：Jenkins automation server",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "repo": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "descriptionZh": "待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "repo": "vudovn/ag-kit",
+    "description": "",
+    "descriptionZh": "待翻译：vudovn/ag-kit",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/vudovn/ag-kit"
+  },
+  {
+    "repo": "apache/cassandra",
+    "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+    "descriptionZh": "待翻译：Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+    "tags": [
+      "DevOps",
+      "数据库"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/apache/cassandra"
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "descriptionZh": "待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "descriptionZh": "待翻译：Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-07-28",
+    "url": "https://github.com/ocornut/imgui"
   }
 ]
