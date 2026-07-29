@@ -5912,5 +5912,143 @@
     ],
     "date": "2026-07-28",
     "url": "https://github.com/ocornut/imgui"
+  },
+  {
+    "repo": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "descriptionZh": "待翻译：Create and share 3D architectural projects.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "descriptionZh": "待翻译：Jenkins automation server",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "repo": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "descriptionZh": "待翻译：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repo": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "descriptionZh": "待翻译：Simple, unified interface to multiple Generative AI providers",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "hello245m/free-stockdb",
+    "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+    "descriptionZh": "待翻译：面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/hello245m/free-stockdb"
+  },
+  {
+    "repo": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "descriptionZh": "待翻译：Build local voice agents with open-source models",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "repo": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "descriptionZh": "待翻译：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "repo": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "descriptionZh": "待翻译：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "repo": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "descriptionZh": "待翻译：A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "tags": [
+      "SDK/库",
+      "学习资源"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "repo": "microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "descriptionZh": "待翻译：AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "harness",
+      "开发者工具"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "repo": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "descriptionZh": "待翻译：Pretty fancy and modern terminal file manager",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/yorukot/superfile"
+  },
+  {
+    "repo": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "descriptionZh": "待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-29",
+    "url": "https://github.com/bradautomates/claude-video"
   }
 ]
