@@ -6050,5 +6050,186 @@
     ],
     "date": "2026-07-29",
     "url": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "repo": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "descriptionZh": "待翻译：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "repo": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "descriptionZh": "待翻译：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "descriptionZh": "待翻译：Build local voice agents with open-source models",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "repo": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "descriptionZh": "待翻译：The most RAM efficient harness",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repo": "grokability/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "descriptionZh": "待翻译：A free open source IT asset/license management system",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/grokability/snipe-it"
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "descriptionZh": "待翻译：Deepfakes Software For All",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/deepfakes/faceswap"
+  },
+  {
+    "repo": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "descriptionZh": "待翻译：Open-Source Frontier Voice AI",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "repo": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "descriptionZh": "待翻译：The open-source alternative to Claude Cowork (powered by opencode)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/different-ai/openwork"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "MoonshotAI/FlashKDA",
+    "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+    "descriptionZh": "待翻译：FlashKDA: high-performance Kimi Delta Attention kernels",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/MoonshotAI/FlashKDA"
+  },
+  {
+    "repo": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "descriptionZh": "待翻译：小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "descriptionZh": "待翻译：A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "tags": [
+      "SDK/库",
+      "学习资源"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "repo": "maderix/ANE",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "descriptionZh": "待翻译：Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "tags": [
+      "开发框架",
+      "模型/LLM"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/maderix/ANE"
+  },
+  {
+    "repo": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "descriptionZh": "待翻译：Create and share 3D architectural projects.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "repo": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "descriptionZh": "待翻译：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-07-30",
+    "url": "https://github.com/virgiliojr94/book-to-skill"
   }
 ]

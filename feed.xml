@@ -5,110 +5,149 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:16:06 GMT</lastBuildDate>
     <item>
-      <title>pascalorg/editor</title>
-      <link>https://github.com/pascalorg/editor</link>
-      <guid>https://github.com/pascalorg/editor</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：Create and share 3D architectural projects.</description>
+      <title>opengeos/GeoLibre</title>
+      <link>https://github.com/opengeos/GeoLibre</link>
+      <guid>https://github.com/opengeos/GeoLibre</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.</description>
       <category>其他</category>
-    </item>
-    <item>
-      <title>jenkinsci/jenkins</title>
-      <link>https://github.com/jenkinsci/jenkins</link>
-      <guid>https://github.com/jenkinsci/jenkins</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：Jenkins automation server</description>
-      <category>自动化</category>
     </item>
     <item>
       <title>moeru-ai/airi</title>
       <link>https://github.com/moeru-ai/airi</link>
       <guid>https://github.com/moeru-ai/airi</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
       <description>待翻译：💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&apos;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>andrewyng/aisuite</title>
-      <link>https://github.com/andrewyng/aisuite</link>
-      <guid>https://github.com/andrewyng/aisuite</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：Simple, unified interface to multiple Generative AI providers</description>
       <category>其他</category>
     </item>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
       <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
       <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
       <category>AI代理, 记忆管理, skills, harness, 安全</category>
-    </item>
-    <item>
-      <title>hello245m/free-stockdb</title>
-      <link>https://github.com/hello245m/free-stockdb</link>
-      <guid>https://github.com/hello245m/free-stockdb</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。</description>
-      <category>其他</category>
     </item>
     <item>
       <title>huggingface/speech-to-speech</title>
       <link>https://github.com/huggingface/speech-to-speech</link>
       <guid>https://github.com/huggingface/speech-to-speech</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
       <description>待翻译：Build local voice agents with open-source models</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>virgiliojr94/book-to-skill</title>
-      <link>https://github.com/virgiliojr94/book-to-skill</link>
-      <guid>https://github.com/virgiliojr94/book-to-skill</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</description>
-      <category>skills</category>
+      <title>1jehuang/jcode</title>
+      <link>https://github.com/1jehuang/jcode</link>
+      <guid>https://github.com/1jehuang/jcode</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：The most RAM efficient harness</description>
+      <category>harness</category>
     </item>
     <item>
-      <title>opengeos/GeoLibre</title>
-      <link>https://github.com/opengeos/GeoLibre</link>
-      <guid>https://github.com/opengeos/GeoLibre</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.</description>
+      <title>grokability/snipe-it</title>
+      <link>https://github.com/grokability/snipe-it</link>
+      <guid>https://github.com/grokability/snipe-it</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：A free open source IT asset/license management system</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>deepfakes/faceswap</title>
+      <link>https://github.com/deepfakes/faceswap</link>
+      <guid>https://github.com/deepfakes/faceswap</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：Deepfakes Software For All</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>microsoft/VibeVoice</title>
+      <link>https://github.com/microsoft/VibeVoice</link>
+      <guid>https://github.com/microsoft/VibeVoice</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：Open-Source Frontier Voice AI</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>different-ai/openwork</title>
+      <link>https://github.com/different-ai/openwork</link>
+      <guid>https://github.com/different-ai/openwork</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：The open-source alternative to Claude Cowork (powered by opencode)</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid>https://github.com/obra/superpowers</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>MoonshotAI/FlashKDA</title>
+      <link>https://github.com/MoonshotAI/FlashKDA</link>
+      <guid>https://github.com/MoonshotAI/FlashKDA</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：FlashKDA: high-performance Kimi Delta Attention kernels</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>NanmiCoder/MediaCrawler</title>
+      <link>https://github.com/NanmiCoder/MediaCrawler</link>
+      <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid>https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：Open-source &amp;amp; free — Battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
+      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
     </item>
     <item>
       <title>paperswithbacktest/awesome-systematic-trading</title>
       <link>https://github.com/paperswithbacktest/awesome-systematic-trading</link>
       <guid>https://github.com/paperswithbacktest/awesome-systematic-trading</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
       <description>待翻译：A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.</description>
       <category>SDK/库, 学习资源</category>
     </item>
     <item>
-      <title>microsoft/agent-governance-toolkit</title>
-      <link>https://github.com/microsoft/agent-governance-toolkit</link>
-      <guid>https://github.com/microsoft/agent-governance-toolkit</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.</description>
-      <category>开发框架, AI代理, harness, 开发者工具</category>
+      <title>maderix/ANE</title>
+      <link>https://github.com/maderix/ANE</link>
+      <guid>https://github.com/maderix/ANE</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：Training neural networks on Apple Neural Engine via reverse-engineered private APIs</description>
+      <category>开发框架, 模型/LLM</category>
     </item>
     <item>
-      <title>yorukot/superfile</title>
-      <link>https://github.com/yorukot/superfile</link>
-      <guid>https://github.com/yorukot/superfile</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：Pretty fancy and modern terminal file manager</description>
+      <title>pascalorg/editor</title>
+      <link>https://github.com/pascalorg/editor</link>
+      <guid>https://github.com/pascalorg/editor</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：Create and share 3D architectural projects.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>bradautomates/claude-video</title>
-      <link>https://github.com/bradautomates/claude-video</link>
-      <guid>https://github.com/bradautomates/claude-video</guid>
-      <pubDate>Wed, 29 Jul 2026 05:29:55 GMT</pubDate>
-      <description>待翻译：Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
-      <category>其他</category>
+      <title>virgiliojr94/book-to-skill</title>
+      <link>https://github.com/virgiliojr94/book-to-skill</link>
+      <guid>https://github.com/virgiliojr94/book-to-skill</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>待翻译：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</description>
+      <category>skills</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 17 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-07-30.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-07-30.json</guid>
+      <pubDate>Thu, 30 Jul 2026 05:16:03 GMT</pubDate>
+      <description>GitHub 热门日报 · 17 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 13 个项目</title>
