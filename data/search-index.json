@@ -7013,5 +7013,205 @@
     ],
     "date": "2026-08-04",
     "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repo": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "descriptionZh": "待翻译：TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "模型/LLM",
+      "可视化"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "repo": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "descriptionZh": "待翻译：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "tags": [
+      "开发框架",
+      "SDK/库",
+      "RAG",
+      "skills",
+      "开发者工具",
+      "安全"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "repo": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "descriptionZh": "待翻译：Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "repo": "uber/ADR",
+    "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "descriptionZh": "待翻译：ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "tags": [
+      "AI代理",
+      "评估",
+      "DevOps",
+      "可观测性",
+      "安全"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/uber/ADR"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "descriptionZh": "待翻译：21 Lessons, Get Started Building with Generative AI",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "descriptionZh": "待翻译：Fast, easy and reliable testing for anything that runs in a browser.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "repo": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "descriptionZh": "待翻译：AirLLM 70B inference with single 4GB GPU",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "repo": "webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "descriptionZh": "待翻译：A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/webpack/webpack"
+  },
+  {
+    "repo": "gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "descriptionZh": "待翻译：Fast C++ logging library.",
+    "tags": [
+      "开发框架",
+      "可观测性"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/gabime/spdlog"
+  },
+  {
+    "repo": "denoland/deno",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "descriptionZh": "待翻译：A modern runtime for JavaScript and TypeScript.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/denoland/deno"
+  },
+  {
+    "repo": "usekaneo/kaneo",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "descriptionZh": "待翻译：🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "repo": "livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "descriptionZh": "待翻译：A framework for building realtime voice AI agents 🤖🎙️📹",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/livekit/agents"
+  },
+  {
+    "repo": "angular/angular",
+    "description": "Deliver web apps with confidence 🚀",
+    "descriptionZh": "待翻译：Deliver web apps with confidence 🚀",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/angular/angular"
+  },
+  {
+    "repo": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "descriptionZh": "待翻译：A utility-first CSS framework for rapid UI development.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "descriptionZh": "待翻译：Edit videos with coding agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "esengine/DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "descriptionZh": "待翻译：DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "repo": "EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "descriptionZh": "待翻译：Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "tags": [
+      "开发框架",
+      "编辑器插件"
+    ],
+    "date": "2026-08-05",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin"
   }
 ]
