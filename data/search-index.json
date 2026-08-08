@@ -7505,5 +7505,184 @@
     ],
     "date": "2026-08-07",
     "url": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "repo": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "descriptionZh": "待翻译：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "descriptionZh": "待翻译：Give your agent a computer 👾",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/cloudflare/computer"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "descriptionZh": "待翻译：The authentication glue you need.",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "repo": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "descriptionZh": "待翻译：Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "tags": [
+      "DevOps",
+      "可视化"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "repo": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "descriptionZh": "待翻译：A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "repo": "chenyme/grok2api",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "descriptionZh": "待翻译：Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/chenyme/grok2api"
+  },
+  {
+    "repo": "jdx/mise",
+    "description": "dev tools, env vars, task runner",
+    "descriptionZh": "待翻译：dev tools, env vars, task runner",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/jdx/mise"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "descriptionZh": "待翻译：AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "repo": "google/guava",
+    "description": "Google core libraries for Java",
+    "descriptionZh": "待翻译：Google core libraries for Java",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/google/guava"
+  },
+  {
+    "repo": "unclebob/swarm-forge",
+    "description": "A simple tool for coordinating several AI agents.",
+    "descriptionZh": "待翻译：A simple tool for coordinating several AI agents.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/unclebob/swarm-forge"
+  },
+  {
+    "repo": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "descriptionZh": "待翻译：self-hosted, distributed Durable Objects",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/denoland/celld"
+  },
+  {
+    "repo": "K2SOsint/Legendary_OSINT",
+    "description": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+    "descriptionZh": "待翻译：A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/K2SOsint/Legendary_OSINT"
+  },
+  {
+    "repo": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "descriptionZh": "待翻译：Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/pranshuparmar/witr"
+  },
+  {
+    "repo": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-08",
+    "url": "https://github.com/google/skills"
   }
 ]
