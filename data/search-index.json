@@ -7684,5 +7684,133 @@
     ],
     "date": "2026-08-08",
     "url": "https://github.com/google/skills"
+  },
+  {
+    "repo": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "descriptionZh": "待翻译：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "descriptionZh": "待翻译：所有小初高、大学PDF教材。",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "repo": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "descriptionZh": "待翻译：The authentication glue you need.",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "descriptionZh": "待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "repo": "google/guava",
+    "description": "Google core libraries for Java",
+    "descriptionZh": "待翻译：Google core libraries for Java",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/google/guava"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "descriptionZh": "待翻译：Truly independent web browser",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "repo": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "descriptionZh": "待翻译：self-hosted, distributed Durable Objects",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/denoland/celld"
+  },
+  {
+    "repo": "litu54/DevOps-Interview-Guide",
+    "description": "DevOps Interview Guide",
+    "descriptionZh": "待翻译：DevOps Interview Guide",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/litu54/DevOps-Interview-Guide"
+  },
+  {
+    "repo": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "descriptionZh": "待翻译：翻墙-科学上网",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-09",
+    "url": "https://github.com/bannedbook/fanqiang"
   }
 ]

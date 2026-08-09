@@ -5,12 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 05:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 03:50:11 GMT</lastBuildDate>
     <item>
       <title>PrimeIntellect-ai/prime-agent</title>
       <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
       <guid>https://github.com/PrimeIntellect-ai/prime-agent</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
       <description>待翻译：A self-improving RLM agent for coding workflows and long-running autonomous tasks.</description>
       <category>AI代理, 自动化</category>
     </item>
@@ -18,129 +18,96 @@
       <title>addyosmani/agent-skills</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <guid>https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
       <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
     <item>
-      <title>cloudflare/computer</title>
-      <link>https://github.com/cloudflare/computer</link>
-      <guid>https://github.com/cloudflare/computer</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：Give your agent a computer 👾</description>
-      <category>AI代理</category>
+      <title>TapXWorld/ChinaTextbook</title>
+      <link>https://github.com/TapXWorld/ChinaTextbook</link>
+      <guid>https://github.com/TapXWorld/ChinaTextbook</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>待翻译：所有小初高、大学PDF教材。</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>google/skills</title>
+      <link>https://github.com/google/skills</link>
+      <guid>https://github.com/google/skills</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>待翻译：Agent Skills for Google products and technologies</description>
+      <category>AI代理, skills</category>
     </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
       <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
     <item>
       <title>goauthentik/authentik</title>
       <link>https://github.com/goauthentik/authentik</link>
       <guid>https://github.com/goauthentik/authentik</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
       <description>待翻译：The authentication glue you need.</description>
       <category>安全</category>
     </item>
     <item>
-      <title>semantica-agi/semantica</title>
-      <link>https://github.com/semantica-agi/semantica</link>
-      <guid>https://github.com/semantica-agi/semantica</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：Graph-Native Infrastructure for Context and Accountable AI Systems</description>
-      <category>DevOps, 可视化</category>
-    </item>
-    <item>
-      <title>666ghj/MiroFish</title>
-      <link>https://github.com/666ghj/MiroFish</link>
-      <guid>https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物</description>
-      <category>开发框架</category>
-    </item>
-    <item>
-      <title>chenyme/grok2api</title>
-      <link>https://github.com/chenyme/grok2api</link>
-      <guid>https://github.com/chenyme/grok2api</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：Multi-account API gateway for Grok Build, Grok Web, and Grok Console</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>jdx/mise</title>
-      <link>https://github.com/jdx/mise</link>
-      <guid>https://github.com/jdx/mise</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：dev tools, env vars, task runner</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>Significant-Gravitas/AutoGPT</title>
-      <link>https://github.com/Significant-Gravitas/AutoGPT</link>
-      <guid>https://github.com/Significant-Gravitas/AutoGPT</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</description>
-      <category>其他</category>
+      <title>TauricResearch/TradingAgents</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid>https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
+      <category>开发框架, AI代理, 模型/LLM</category>
     </item>
     <item>
       <title>google/guava</title>
       <link>https://github.com/google/guava</link>
       <guid>https://github.com/google/guava</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
       <description>待翻译：Google core libraries for Java</description>
       <category>其他</category>
     </item>
     <item>
-      <title>unclebob/swarm-forge</title>
-      <link>https://github.com/unclebob/swarm-forge</link>
-      <guid>https://github.com/unclebob/swarm-forge</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：A simple tool for coordinating several AI agents.</description>
-      <category>AI代理</category>
+      <title>LadybirdBrowser/ladybird</title>
+      <link>https://github.com/LadybirdBrowser/ladybird</link>
+      <guid>https://github.com/LadybirdBrowser/ladybird</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>待翻译：Truly independent web browser</description>
+      <category>其他</category>
     </item>
     <item>
       <title>denoland/celld</title>
       <link>https://github.com/denoland/celld</link>
       <guid>https://github.com/denoland/celld</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
       <description>待翻译：self-hosted, distributed Durable Objects</description>
       <category>其他</category>
     </item>
     <item>
-      <title>K2SOsint/Legendary_OSINT</title>
-      <link>https://github.com/K2SOsint/Legendary_OSINT</link>
-      <guid>https://github.com/K2SOsint/Legendary_OSINT</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：A list of OSINT tools &amp;amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.</description>
+      <title>litu54/DevOps-Interview-Guide</title>
+      <link>https://github.com/litu54/DevOps-Interview-Guide</link>
+      <guid>https://github.com/litu54/DevOps-Interview-Guide</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>待翻译：DevOps Interview Guide</description>
+      <category>学习资源</category>
+    </item>
+    <item>
+      <title>bannedbook/fanqiang</title>
+      <link>https://github.com/bannedbook/fanqiang</link>
+      <guid>https://github.com/bannedbook/fanqiang</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>待翻译：翻墙-科学上网</description>
       <category>其他</category>
     </item>
     <item>
-      <title>pranshuparmar/witr</title>
-      <link>https://github.com/pranshuparmar/witr</link>
-      <guid>https://github.com/pranshuparmar/witr</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</description>
-      <category>开发者工具</category>
-    </item>
-    <item>
-      <title>google/skills</title>
-      <link>https://github.com/google/skills</link>
-      <guid>https://github.com/google/skills</guid>
-      <pubDate>Sat, 08 Aug 2026 03:40:28 GMT</pubDate>
-      <description>待翻译：Agent Skills for Google products and technologies</description>
-      <category>AI代理, skills</category>
+      <title>GitHub 热门日报 · 12 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-08-09.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-08-09.json</guid>
+      <pubDate>Sun, 09 Aug 2026 03:50:09 GMT</pubDate>
+      <description>GitHub 热门日报 · 12 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 17 个项目</title>
