@@ -7812,5 +7812,132 @@
     ],
     "date": "2026-08-09",
     "url": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "repo": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "descriptionZh": "待翻译：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "repo": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "descriptionZh": "待翻译：The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "tags": [
+      "RAG",
+      "可视化"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "descriptionZh": "待翻译：Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/pranshuparmar/witr"
+  },
+  {
+    "repo": "google-deepmind/weathernext",
+    "description": "",
+    "descriptionZh": "待翻译：google-deepmind/weathernext",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/google-deepmind/weathernext"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "descriptionZh": "待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "tags": [
+      "模型/LLM",
+      "可视化"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "repo": "goauthentik/authentik",
+    "description": "The authentication glue you need.",
+    "descriptionZh": "待翻译：The authentication glue you need.",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "repo": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "descriptionZh": "待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "repo": "harveyai/harvey-labs",
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "descriptionZh": "待翻译：A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "tags": [
+      "AI代理",
+      "评估"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/harveyai/harvey-labs"
+  },
+  {
+    "repo": "pingdotgg/t3code",
+    "description": "",
+    "descriptionZh": "待翻译：pingdotgg/t3code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-10",
+    "url": "https://github.com/pingdotgg/t3code"
   }
 ]
