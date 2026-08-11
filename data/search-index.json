@@ -7939,5 +7939,174 @@
     ],
     "date": "2026-08-10",
     "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "repo": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "descriptionZh": "待翻译：Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "tags": [
+      "DevOps",
+      "可视化"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "descriptionZh": "待翻译：小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "descriptionZh": "待翻译：The open-source app everyone uses to manage agents at work",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "repo": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "descriptionZh": "待翻译：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "descriptionZh": "待翻译：Truly independent web browser",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "danielmiessler/LifeOS",
+    "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "descriptionZh": "待翻译：⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "tags": [
+      "harness",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/danielmiessler/LifeOS"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+    "descriptionZh": "待翻译：The context API to search, scrape, and interact with the web at scale. 🔥",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "descriptionZh": "待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "repo": "google-deepmind/weathernext",
+    "description": "",
+    "descriptionZh": "待翻译：google-deepmind/weathernext",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/google-deepmind/weathernext"
+  },
+  {
+    "repo": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "descriptionZh": "待翻译：The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "tags": [
+      "RAG",
+      "可视化"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "repo": "pingdotgg/t3code",
+    "description": "",
+    "descriptionZh": "待翻译：pingdotgg/t3code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "descriptionZh": "待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "repo": "opa334/Dopamine",
+    "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+    "descriptionZh": "待翻译：Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-11",
+    "url": "https://github.com/opa334/Dopamine"
   }
 ]
