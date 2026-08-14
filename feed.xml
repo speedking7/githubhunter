@@ -5,142 +5,149 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:16:04 GMT</lastBuildDate>
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
       <description>待翻译：29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.</description>
       <category>其他</category>
-    </item>
-    <item>
-      <title>macro-inc/macro</title>
-      <link>https://github.com/macro-inc/macro</link>
-      <guid>https://github.com/macro-inc/macro</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
-      <category>AI代理, 记忆管理</category>
     </item>
     <item>
       <title>semantica-agi/semantica</title>
       <link>https://github.com/semantica-agi/semantica</link>
       <guid>https://github.com/semantica-agi/semantica</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
       <description>待翻译：Graph-Native Infrastructure for Context and Accountable AI Systems</description>
       <category>DevOps, 可视化</category>
     </item>
     <item>
-      <title>stablyai/orca</title>
-      <link>https://github.com/stablyai/orca</link>
-      <guid>https://github.com/stablyai/orca</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.</description>
-      <category>AI代理</category>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <guid>https://github.com/anthropics/skills</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Public repository for Agent Skills</description>
+      <category>AI代理, skills</category>
     </item>
     <item>
-      <title>msitarzewski/agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <guid>https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
-      <category>AI代理</category>
+      <title>cactus-compute/needle</title>
+      <link>https://github.com/cactus-compute/needle</link>
+      <guid>https://github.com/cactus-compute/needle</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
+      <category>自动化</category>
     </item>
     <item>
-      <title>shiyu-coder/Kronos</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <guid>https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：Kronos: A Foundation Model for the Language of Financial Markets</description>
+      <title>altic-dev/FluidVoice</title>
+      <link>https://github.com/altic-dev/FluidVoice</link>
+      <guid>https://github.com/altic-dev/FluidVoice</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp;amp; iOS waitlist open. Linux soon.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>NanmiCoder/MediaCrawler</title>
-      <link>https://github.com/NanmiCoder/MediaCrawler</link>
-      <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</description>
-      <category>其他</category>
+      <title>unslothai/unsloth</title>
+      <link>https://github.com/unslothai/unsloth</link>
+      <guid>https://github.com/unslothai/unsloth</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.</description>
+      <category>模型/LLM</category>
     </item>
     <item>
-      <title>hugohe3/ppt-master</title>
-      <link>https://github.com/hugohe3/ppt-master</link>
-      <guid>https://github.com/hugohe3/ppt-master</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He</description>
-      <category>可视化</category>
+      <title>macro-inc/macro</title>
+      <link>https://github.com/macro-inc/macro</link>
+      <guid>https://github.com/macro-inc/macro</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
+      <category>AI代理, 记忆管理</category>
     </item>
     <item>
-      <title>infiniflow/ragflow</title>
-      <link>https://github.com/infiniflow/ragflow</link>
-      <guid>https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
-      <category>开发框架, AI代理, RAG, 模型/LLM, 评估</category>
-    </item>
-    <item>
-      <title>paperclipai/paperclip</title>
-      <link>https://github.com/paperclipai/paperclip</link>
-      <guid>https://github.com/paperclipai/paperclip</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：The open-source app everyone uses to manage agents at work</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>NVIDIA-NeMo/Switchyard</title>
-      <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
-      <guid>https://github.com/NVIDIA-NeMo/Switchyard</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：NVIDIA-NeMo/Switchyard</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>ZuodaoTech/everyone-can-use-english</title>
-      <link>https://github.com/ZuodaoTech/everyone-can-use-english</link>
-      <guid>https://github.com/ZuodaoTech/everyone-can-use-english</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：人人都能用英语</description>
+      <title>megadose/holehe</title>
+      <link>https://github.com/megadose/holehe</link>
+      <guid>https://github.com/megadose/holehe</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
       <category>其他</category>
     </item>
     <item>
       <title>smicallef/spiderfoot</title>
       <link>https://github.com/smicallef/spiderfoot</link>
       <guid>https://github.com/smicallef/spiderfoot</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
       <description>待翻译：SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>localsend/localsend</title>
-      <link>https://github.com/localsend/localsend</link>
-      <guid>https://github.com/localsend/localsend</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：An open-source cross-platform alternative to AirDrop</description>
-      <category>其他</category>
+      <title>NVIDIA-NeMo/Switchyard</title>
+      <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
+      <guid>https://github.com/NVIDIA-NeMo/Switchyard</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.</description>
+      <category>模型/LLM, 评估</category>
+    </item>
+    <item>
+      <title>holaboss-ai/holaOS</title>
+      <link>https://github.com/holaboss-ai/holaOS</link>
+      <guid>https://github.com/holaboss-ai/holaOS</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.</description>
+      <category>AI代理, 记忆管理</category>
+    </item>
+    <item>
+      <title>kepano/obsidian-skills</title>
+      <link>https://github.com/kepano/obsidian-skills</link>
+      <guid>https://github.com/kepano/obsidian-skills</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.</description>
+      <category>AI代理, skills, 开发者工具</category>
+    </item>
+    <item>
+      <title>3b1b/manim</title>
+      <link>https://github.com/3b1b/manim</link>
+      <guid>https://github.com/3b1b/manim</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Animation engine for explanatory math videos</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>msitarzewski/agency-agents</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <guid>https://github.com/msitarzewski/agency-agents</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
+      <category>AI代理</category>
     </item>
     <item>
       <title>Lightricks/LTX-2</title>
       <link>https://github.com/Lightricks/LTX-2</link>
       <guid>https://github.com/Lightricks/LTX-2</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
       <description>待翻译：Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.</description>
       <category>SDK/库, 模型/LLM</category>
     </item>
     <item>
-      <title>embabel/embabel-agent</title>
-      <link>https://github.com/embabel/embabel-agent</link>
-      <guid>https://github.com/embabel/embabel-agent</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/</description>
-      <category>开发框架, AI代理</category>
+      <title>lightningpixel/modly</title>
+      <link>https://github.com/lightningpixel/modly</link>
+      <guid>https://github.com/lightningpixel/modly</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：Desktop app to generate 3D models from images using local AI — runs entirely on your GPU</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>cactus-compute/needle</title>
-      <link>https://github.com/cactus-compute/needle</link>
-      <guid>https://github.com/cactus-compute/needle</guid>
-      <pubDate>Thu, 13 Aug 2026 04:19:08 GMT</pubDate>
-      <description>待翻译：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
-      <category>自动化</category>
+      <title>infiniflow/ragflow</title>
+      <link>https://github.com/infiniflow/ragflow</link>
+      <guid>https://github.com/infiniflow/ragflow</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>待翻译：RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+      <category>开发框架, AI代理, RAG, 模型/LLM, 评估</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 17 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-08-14.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-08-14.json</guid>
+      <pubDate>Fri, 14 Aug 2026 04:16:01 GMT</pubDate>
+      <description>GitHub 热门日报 · 17 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 17 个项目</title>
