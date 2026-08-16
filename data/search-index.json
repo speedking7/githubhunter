@@ -8842,5 +8842,139 @@
     ],
     "date": "2026-08-15",
     "url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "repo": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "descriptionZh": "待翻译：Meta-Framework of Spatiotemporal Composability",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "descriptionZh": "待翻译：29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "repo": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "descriptionZh": "待翻译：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "descriptionZh": "待翻译：Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "descriptionZh": "待翻译：A collective list of free APIs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "repo": "MakazhanAlpamys/Soup",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "descriptionZh": "待翻译：Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "repo": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "descriptionZh": "待翻译：💫 Toolkit to help you get started with Spec-Driven Development",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/github/spec-kit"
+  },
+  {
+    "repo": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "descriptionZh": "待翻译：holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "repo": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+    "descriptionZh": "待翻译：Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "repo": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "descriptionZh": "待翻译：ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "tags": [
+      "AI代理",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repo": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "descriptionZh": "待翻译：The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-08-16",
+    "url": "https://github.com/citrolabs/ego-lite"
   }
 ]
