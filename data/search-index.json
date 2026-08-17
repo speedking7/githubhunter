@@ -8976,5 +8976,77 @@
     ],
     "date": "2026-08-16",
     "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "repo": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "descriptionZh": "待翻译：Meta-Framework of Spatiotemporal Composability",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "repo": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "descriptionZh": "待翻译：Beautiful, Modern &amp; Opinionated Linux",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "repo": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "descriptionZh": "待翻译：Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "descriptionZh": "待翻译：The open-source CapCut alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "descriptionZh": "待翻译：A collective list of free APIs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "repo": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "descriptionZh": "待翻译：ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "tags": [
+      "AI代理",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "repo": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "descriptionZh": "待翻译：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-08-17",
+    "url": "https://github.com/cactus-compute/needle"
   }
 ]
