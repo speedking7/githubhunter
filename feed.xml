@@ -5,62 +5,101 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:52:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:04:14 GMT</lastBuildDate>
+    <item>
+      <title>harry0703/MoneyPrinterTurbo</title>
+      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+      <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
+      <category>自动化</category>
+    </item>
+    <item>
+      <title>usestrix/strix</title>
+      <link>https://github.com/usestrix/strix</link>
+      <guid>https://github.com/usestrix/strix</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>nautechsystems/nautilus_trader</title>
+      <link>https://github.com/nautechsystems/nautilus_trader</link>
+      <guid>https://github.com/nautechsystems/nautilus_trader</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <guid>https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <category>AI代理, 记忆管理, 开发者工具</category>
+    </item>
+    <item>
+      <title>mukul975/Anthropic-Cybersecurity-Skills</title>
+      <link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link>
+      <guid>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp;amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp;amp; 20+ platforms · 29 security domains · Apache 2.0</description>
+      <category>开发框架, AI代理, skills, 开发者工具, 安全</category>
+    </item>
+    <item>
+      <title>AlexsJones/llmfit</title>
+      <link>https://github.com/AlexsJones/llmfit</link>
+      <guid>https://github.com/AlexsJones/llmfit</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：Hundreds of models &amp;amp; providers. One command to find what runs on your hardware.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>santifer/career-ops</title>
+      <link>https://github.com/santifer/career-ops</link>
+      <guid>https://github.com/santifer/career-ops</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)</description>
+      <category>评估, 开发者工具</category>
+    </item>
+    <item>
+      <title>jundot/omlx</title>
+      <link>https://github.com/jundot/omlx</link>
+      <guid>https://github.com/jundot/omlx</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：LLM inference server with continuous batching &amp;amp; SSD caching for Apple Silicon — managed from the macOS menu bar</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>immich-app/immich</title>
+      <link>https://github.com/immich-app/immich</link>
+      <guid>https://github.com/immich-app/immich</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：High performance self-hosted photo and video management solution.</description>
+      <category>其他</category>
+    </item>
     <item>
       <title>cordiverse/cordis</title>
       <link>https://github.com/cordiverse/cordis</link>
       <guid>https://github.com/cordiverse/cordis</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
       <description>待翻译：Meta-Framework of Spatiotemporal Composability</description>
       <category>开发框架</category>
     </item>
     <item>
-      <title>basecamp/omarchy</title>
-      <link>https://github.com/basecamp/omarchy</link>
-      <guid>https://github.com/basecamp/omarchy</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
-      <description>待翻译：Beautiful, Modern &amp;amp; Opinionated Linux</description>
+      <title>agalwood/Motrix</title>
+      <link>https://github.com/agalwood/Motrix</link>
+      <guid>https://github.com/agalwood/Motrix</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>待翻译：A full-featured download manager.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>unslothai/unsloth</title>
-      <link>https://github.com/unslothai/unsloth</link>
-      <guid>https://github.com/unslothai/unsloth</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
-      <description>待翻译：Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.</description>
-      <category>模型/LLM</category>
-    </item>
-    <item>
-      <title>OpenCut-app/OpenCut</title>
-      <link>https://github.com/OpenCut-app/OpenCut</link>
-      <guid>https://github.com/OpenCut-app/OpenCut</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
-      <description>待翻译：The open-source CapCut alternative</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>public-apis/public-apis</title>
-      <link>https://github.com/public-apis/public-apis</link>
-      <guid>https://github.com/public-apis/public-apis</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
-      <description>待翻译：A collective list of free APIs</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>ToolJet/ToolJet</title>
-      <link>https://github.com/ToolJet/ToolJet</link>
-      <guid>https://github.com/ToolJet/ToolJet</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
-      <description>待翻译：ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀</description>
-      <category>AI代理, 可视化, 自动化</category>
-    </item>
-    <item>
-      <title>cactus-compute/needle</title>
-      <link>https://github.com/cactus-compute/needle</link>
-      <guid>https://github.com/cactus-compute/needle</guid>
-      <pubDate>Mon, 17 Aug 2026 03:08:07 GMT</pubDate>
-      <description>待翻译：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
-      <category>自动化</category>
+      <title>GitHub 热门日报 · 11 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-08-18.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-08-18.json</guid>
+      <pubDate>Tue, 18 Aug 2026 03:04:12 GMT</pubDate>
+      <description>GitHub 热门日报 · 11 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 7 个项目</title>

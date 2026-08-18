@@ -9048,5 +9048,122 @@
     ],
     "date": "2026-08-17",
     "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "repo": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "descriptionZh": "待翻译：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "repo": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "descriptionZh": "待翻译：Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repo": "nautechsystems/nautilus_trader",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "descriptionZh": "待翻译：Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "repo": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "开发者工具"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "descriptionZh": "待翻译：817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "安全"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "repo": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "descriptionZh": "待翻译：Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "repo": "santifer/career-ops",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "descriptionZh": "待翻译：Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "tags": [
+      "评估",
+      "开发者工具"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "repo": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "descriptionZh": "待翻译：LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/jundot/omlx"
+  },
+  {
+    "repo": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "descriptionZh": "待翻译：High performance self-hosted photo and video management solution.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/immich-app/immich"
+  },
+  {
+    "repo": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "descriptionZh": "待翻译：Meta-Framework of Spatiotemporal Composability",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "repo": "agalwood/Motrix",
+    "description": "A full-featured download manager.",
+    "descriptionZh": "待翻译：A full-featured download manager.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-18",
+    "url": "https://github.com/agalwood/Motrix"
   }
 ]
