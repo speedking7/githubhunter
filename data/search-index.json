@@ -9165,5 +9165,136 @@
     ],
     "date": "2026-08-18",
     "url": "https://github.com/agalwood/Motrix"
+  },
+  {
+    "repo": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "descriptionZh": "待翻译：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "repo": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness",
+    "descriptionZh": "待翻译：local multi-agent harness",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "repo": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "开发者工具"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "repo": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "descriptionZh": "待翻译：Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "记忆管理",
+      "skills",
+      "数据库"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "descriptionZh": "待翻译：817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具",
+      "安全"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "descriptionZh": "待翻译：A collective list of free APIs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "repo": "basecamp/omarchy",
+    "description": "Beautiful, Modern &amp; Opinionated Linux",
+    "descriptionZh": "待翻译：Beautiful, Modern &amp; Opinionated Linux",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "repo": "agalwood/Motrix",
+    "description": "A full-featured download manager.",
+    "descriptionZh": "待翻译：A full-featured download manager.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/agalwood/Motrix"
+  },
+  {
+    "repo": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "descriptionZh": "待翻译：Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "repo": "jundot/omlx",
+    "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "descriptionZh": "待翻译：LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/jundot/omlx"
+  },
+  {
+    "repo": "genlayerlabs/genlayer-project-boilerplate",
+    "description": "",
+    "descriptionZh": "待翻译：genlayerlabs/genlayer-project-boilerplate",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "descriptionZh": "待翻译：The open-source CapCut alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-19",
+    "url": "https://github.com/OpenCut-app/OpenCut"
   }
 ]
