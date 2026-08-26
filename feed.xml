@@ -5,100 +5,52 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:14:01 GMT</lastBuildDate>
     <item>
-      <title>Alishahryar1/free-claude-code</title>
-      <link>https://github.com/Alishahryar1/free-claude-code</link>
-      <guid>https://github.com/Alishahryar1/free-claude-code</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>openai/codex</title>
-      <link>https://github.com/openai/codex</link>
-      <guid>https://github.com/openai/codex</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：Lightweight coding agent that runs in your terminal</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>MadsLorentzen/ai-job-search</title>
-      <link>https://github.com/MadsLorentzen/ai-job-search</link>
-      <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
-      <category>开发框架, 评估</category>
-    </item>
-    <item>
-      <title>multica-ai/andrej-karpathy-skills</title>
-      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
-      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls.</description>
-      <category>模型/LLM</category>
-    </item>
-    <item>
-      <title>makeplane/plane</title>
-      <link>https://github.com/makeplane/plane</link>
-      <guid>https://github.com/makeplane/plane</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.</description>
-      <category>开发者工具</category>
-    </item>
-    <item>
-      <title>NousResearch/hermes-agent</title>
-      <link>https://github.com/NousResearch/hermes-agent</link>
-      <guid>https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：The agent that grows with you</description>
-      <category>AI代理</category>
+      <title>freestylefly/awesome-gpt-image-2</title>
+      <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+      <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</description>
+      <category>skills</category>
     </item>
     <item>
       <title>anthropics/claude-plugins-community</title>
       <link>https://github.com/anthropics/claude-plugins-community</link>
       <guid>https://github.com/anthropics/claude-plugins-community</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
       <description>待翻译：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.</description>
       <category>编辑器插件</category>
     </item>
     <item>
-      <title>AprilNEA/OpenLogi</title>
-      <link>https://github.com/AprilNEA/OpenLogi</link>
-      <guid>https://github.com/AprilNEA/OpenLogi</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</description>
-      <category>可观测性</category>
+      <title>MadsLorentzen/ai-job-search</title>
+      <link>https://github.com/MadsLorentzen/ai-job-search</link>
+      <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
+      <category>开发框架, 评估</category>
     </item>
     <item>
       <title>apache/maka</title>
       <link>https://github.com/apache/maka</link>
       <guid>https://github.com/apache/maka</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
       <description>待翻译：Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>PostHog/posthog</title>
-      <link>https://github.com/PostHog/posthog</link>
-      <guid>https://github.com/PostHog/posthog</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.</description>
-      <category>AI代理, 可观测性</category>
-    </item>
-    <item>
-      <title>openclaw/openclaw</title>
-      <link>https://github.com/openclaw/openclaw</link>
-      <guid>https://github.com/openclaw/openclaw</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</description>
-      <category>AI代理</category>
+      <title>TauricResearch/TradingAgents</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid>https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
+      <category>开发框架, AI代理, 模型/LLM</category>
     </item>
     <item>
       <title>AgriciDaniel/claude-obsidian</title>
       <link>https://github.com/AgriciDaniel/claude-obsidian</link>
       <guid>https://github.com/AgriciDaniel/claude-obsidian</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
       <description>待翻译：Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&apos;s LLM Wiki pattern.</description>
       <category>模型/LLM, 可视化</category>
     </item>
@@ -106,57 +58,88 @@
       <title>rohitg00/ai-engineering-from-scratch</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
       <description>待翻译：Learn it. Build it. Ship it for others.</description>
       <category>学习资源</category>
-    </item>
-    <item>
-      <title>basecamp/omarchy</title>
-      <link>https://github.com/basecamp/omarchy</link>
-      <guid>https://github.com/basecamp/omarchy</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：Beautiful, Modern &amp;amp; Opinionated Linux</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>tashfeenahmed/freellmapi</title>
-      <link>https://github.com/tashfeenahmed/freellmapi</link>
-      <guid>https://github.com/tashfeenahmed/freellmapi</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
-      <category>模型/LLM</category>
-    </item>
-    <item>
-      <title>dani-garcia/vaultwarden</title>
-      <link>https://github.com/dani-garcia/vaultwarden</link>
-      <guid>https://github.com/dani-garcia/vaultwarden</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>freestylefly/awesome-gpt-image-2</title>
-      <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
-      <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</description>
-      <category>skills</category>
-    </item>
-    <item>
-      <title>VoltAgent/awesome-agent-skills</title>
-      <link>https://github.com/VoltAgent/awesome-agent-skills</link>
-      <guid>https://github.com/VoltAgent/awesome-agent-skills</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
-      <description>待翻译：A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.</description>
-      <category>AI代理, skills, 开发者工具</category>
     </item>
     <item>
       <title>tinyhumansai/openhuman</title>
       <link>https://github.com/tinyhumansai/openhuman</link>
       <guid>https://github.com/tinyhumansai/openhuman</guid>
-      <pubDate>Tue, 25 Aug 2026 03:07:46 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
       <description>待翻译：Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.</description>
       <category>AI代理, 记忆管理, 自动化</category>
+    </item>
+    <item>
+      <title>basecamp/omarchy</title>
+      <link>https://github.com/basecamp/omarchy</link>
+      <guid>https://github.com/basecamp/omarchy</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Beautiful, Modern &amp;amp; Opinionated Linux</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>Shubhamsaboo/awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <guid>https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.</description>
+      <category>AI代理, RAG, skills</category>
+    </item>
+    <item>
+      <title>multica-ai/andrej-karpathy-skills</title>
+      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
+      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls.</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>openai/codex</title>
+      <link>https://github.com/openai/codex</link>
+      <guid>https://github.com/openai/codex</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Lightweight coding agent that runs in your terminal</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>marin-community/marin</title>
+      <link>https://github.com/marin-community/marin</link>
+      <guid>https://github.com/marin-community/marin</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Open-source framework for the research and development of foundation models.</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid>https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.</description>
+      <category>编辑器插件</category>
+    </item>
+    <item>
+      <title>asciimoo/hister</title>
+      <link>https://github.com/asciimoo/hister</link>
+      <guid>https://github.com/asciimoo/hister</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>待翻译：Your own search engine</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 16 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-08-26.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-08-26.json</guid>
+      <pubDate>Wed, 26 Aug 2026 03:13:58 GMT</pubDate>
+      <description>GitHub 热门日报 · 16 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 19 个项目</title>
