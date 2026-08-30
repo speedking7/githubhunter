@@ -11171,5 +11171,211 @@
     ],
     "date": "2026-08-29",
     "url": "https://github.com/livekit/agents"
+  },
+  {
+    "repo": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "descriptionZh": "待翻译：Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "tags": [
+      "AI代理",
+      "skills",
+      "自动化"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "repo": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "descriptionZh": "待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "descriptionZh": "待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "数据库"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repo": "tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "descriptionZh": "待翻译：like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/tailscale/tailcat"
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "descriptionZh": "待翻译：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "学习资源"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "repo": "p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "descriptionZh": "待翻译：Fully automatic censorship removal for language models",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "repo": "bigskysoftware/htmx",
+    "description": "&lt;/&gt; htmx - high power tools for HTML",
+    "descriptionZh": "待翻译：&lt;/&gt; htmx - high power tools for HTML",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/bigskysoftware/htmx"
+  },
+  {
+    "repo": "JetBrains/go-modern-guidelines",
+    "description": "Help AI coding agents write modern Go",
+    "descriptionZh": "待翻译：Help AI coding agents write modern Go",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "descriptionZh": "待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "tags": [
+      "skills",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repo": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "descriptionZh": "待翻译：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "tags": [
+      "AI代理",
+      "skills",
+      "自动化"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "descriptionZh": "待翻译：Open source alternative to Semrush and Ahrefs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "repo": "Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "descriptionZh": "待翻译：Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "模型/LLM",
+      "自动化"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "descriptionZh": "待翻译：Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/abi/screenshot-to-code"
+  },
+  {
+    "repo": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "descriptionZh": "待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repo": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "descriptionZh": "待翻译：GoogleTest - Google Testing and Mocking Framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/google/googletest"
+  },
+  {
+    "repo": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "descriptionZh": "待翻译：Action for checking out a repo",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/actions/checkout"
+  },
+  {
+    "repo": "kaifcodec/user-scanner",
+    "description": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+    "descriptionZh": "待翻译：🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/kaifcodec/user-scanner"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "workweave/router",
+    "description": "Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
+    "descriptionZh": "待翻译：Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-08-30",
+    "url": "https://github.com/workweave/router"
   }
 ]
