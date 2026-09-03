@@ -11910,5 +11910,204 @@
     ],
     "date": "2026-09-02",
     "url": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "descriptionZh": "待翻译：A modern formatting library",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "repo": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "descriptionZh": "待翻译：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "sngyai/Sequoia-X",
+    "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "descriptionZh": "待翻译：A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/sngyai/Sequoia-X"
+  },
+  {
+    "repo": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "descriptionZh": "待翻译：The agent that grows with you",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repo": "superlinked/sie",
+    "description": "Open-source inference server and production cluster for all the models your agent needs.",
+    "descriptionZh": "待翻译：Open-source inference server and production cluster for all the models your agent needs.",
+    "tags": [
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/superlinked/sie"
+  },
+  {
+    "repo": "pacifio/atlas",
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "descriptionZh": "待翻译：Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/pacifio/atlas"
+  },
+  {
+    "repo": "zyronon/TypeWords",
+    "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "descriptionZh": "待翻译：Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/zyronon/TypeWords"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "descriptionZh": "待翻译：Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "descriptionZh": "待翻译：Protocol Buffers - Google's data interchange format",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "repo": "vercel-labs/portless",
+    "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "descriptionZh": "待翻译：Replace port numbers with stable, named local URLs. For humans and agents.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/vercel-labs/portless"
+  },
+  {
+    "repo": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "descriptionZh": "待翻译：Agent skill that removes signs of AI-generated writing from text",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "descriptionZh": "待翻译：runs anywhere. uses anything",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "repo": "firecrawl/pdf-inspector",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "descriptionZh": "待翻译：Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-03",
+    "url": "https://github.com/firecrawl/pdf-inspector"
   }
 ]
