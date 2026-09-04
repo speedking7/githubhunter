@@ -12109,5 +12109,209 @@
     ],
     "date": "2026-09-03",
     "url": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "descriptionZh": "待翻译：A modern formatting library",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "descriptionZh": "待翻译：The agent that grows with you",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "descriptionZh": "待翻译：Public repository for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "descriptionZh": "待翻译：Agent skill that removes signs of AI-generated writing from text",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "repo": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "descriptionZh": "待翻译：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "repo": "averygan/reclip",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "descriptionZh": "待翻译：Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/averygan/reclip"
+  },
+  {
+    "repo": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "descriptionZh": "待翻译：翻墙-科学上网",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "descriptionZh": "待翻译：Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/ByteByteGoHq/system-design-101"
+  },
+  {
+    "repo": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "descriptionZh": "待翻译：Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "descriptionZh": "待翻译：Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "descriptionZh": "待翻译：runs anywhere. uses anything",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "f/prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "descriptionZh": "待翻译：f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-04",
+    "url": "https://github.com/obra/superpowers"
   }
 ]
