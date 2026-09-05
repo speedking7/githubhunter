@@ -12313,5 +12313,187 @@
     ],
     "date": "2026-09-04",
     "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "descriptionZh": "待翻译：A modern formatting library",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "descriptionZh": "待翻译：Public repository for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repo": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "descriptionZh": "待翻译：Agent skill that removes signs of AI-generated writing from text",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "descriptionZh": "待翻译：The agent that grows with you",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "descriptionZh": "待翻译：🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repo": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "descriptionZh": "待翻译：Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "repo": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "descriptionZh": "待翻译：A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/bikini/exploitarium"
+  },
+  {
+    "repo": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "descriptionZh": "待翻译：翻墙-科学上网",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "descriptionZh": "待翻译：TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "repo": "radixark/miles",
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "descriptionZh": "待翻译：Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "学习资源"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/radixark/miles"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "descriptionZh": "待翻译：The open source coding agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "repo": "clshortfuse/renodx",
+    "description": "Renovation Engine for DirectX Games",
+    "descriptionZh": "待翻译：Renovation Engine for DirectX Games",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/clshortfuse/renodx"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-05",
+    "url": "https://github.com/cathrynlavery/diagram-design"
   }
 ]
