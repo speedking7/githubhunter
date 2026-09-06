@@ -12495,5 +12495,183 @@
     ],
     "date": "2026-09-05",
     "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "descriptionZh": "待翻译：The agent that grows with you",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "descriptionZh": "待翻译：A modern formatting library",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "repo": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "descriptionZh": "待翻译：Public repository for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "descriptionZh": "待翻译：The open source coding agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "repo": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "descriptionZh": "待翻译：🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "记忆管理",
+      "harness",
+      "DevOps",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repo": "humanlayer/skills",
+    "description": "",
+    "descriptionZh": "待翻译：humanlayer/skills",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/humanlayer/skills"
+  },
+  {
+    "repo": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "descriptionZh": "待翻译：Agent skill that removes signs of AI-generated writing from text",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "repo": "BraveOPotato/FckSignups",
+    "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+    "descriptionZh": "待翻译：A list of tools that are open-source, in-browser, and require no-signups!",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/BraveOPotato/FckSignups"
+  },
+  {
+    "repo": "WorldFlowAI/everything-claude-code",
+    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+    "descriptionZh": "待翻译：Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+    "tags": [
+      "AI代理",
+      "skills",
+      "开发者工具"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/WorldFlowAI/everything-claude-code"
+  },
+  {
+    "repo": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "descriptionZh": "待翻译：Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "repo": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "descriptionZh": "待翻译：A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "tags": [
+      "安全"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/bikini/exploitarium"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+    "descriptionZh": "待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-06",
+    "url": "https://github.com/nvm-sh/nvm"
   }
 ]
