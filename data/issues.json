@@ -1,6 +1,15 @@
 {
-  "latest": "2026-09-06",
+  "latest": "2026-09-07",
   "issues": [
+    {
+      "date": "2026-09-07",
+      "day": "07",
+      "title": "GitHub 热门日报 · 18 个项目",
+      "url": "./data/issues/2026-09-07.json",
+      "productsCount": 18,
+      "lastUpdated": "2026-09-07T07:16:10.609Z",
+      "status": "live"
+    },
     {
       "date": "2026-09-06",
       "day": "06",

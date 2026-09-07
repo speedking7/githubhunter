@@ -5,134 +5,157 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:36:21 GMT</lastBuildDate>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 07:16:14 GMT</lastBuildDate>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
       <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
       <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
       <category>AI代理, 记忆管理, skills, harness, 安全</category>
     </item>
     <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <guid>https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>NousResearch/hermes-agent</title>
-      <link>https://github.com/NousResearch/hermes-agent</link>
-      <guid>https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：The agent that grows with you</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>fmtlib/fmt</title>
-      <link>https://github.com/fmtlib/fmt</link>
-      <guid>https://github.com/fmtlib/fmt</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：A modern formatting library</description>
-      <category>开发框架</category>
-    </item>
-    <item>
-      <title>anthropics/skills</title>
-      <link>https://github.com/anthropics/skills</link>
-      <guid>https://github.com/anthropics/skills</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：Public repository for Agent Skills</description>
-      <category>AI代理, skills</category>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid>https://github.com/mattpocock/skills</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
+      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
       <description>待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>NousResearch/hermes-agent</title>
+      <link>https://github.com/NousResearch/hermes-agent</link>
+      <guid>https://github.com/NousResearch/hermes-agent</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：The agent that grows with you</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>openai/skills</title>
+      <link>https://github.com/openai/skills</link>
+      <guid>https://github.com/openai/skills</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Skills Catalog for Codex</description>
+      <category>skills</category>
     </item>
     <item>
       <title>anomalyco/opencode</title>
       <link>https://github.com/anomalyco/opencode</link>
       <guid>https://github.com/anomalyco/opencode</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
       <description>待翻译：The open source coding agent.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>blader/humanizer</title>
+      <link>https://github.com/blader/humanizer</link>
+      <guid>https://github.com/blader/humanizer</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Agent skill that removes signs of AI-generated writing from text</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <guid>https://github.com/llvm/llvm-project</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid>https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
       <category>AI代理</category>
     </item>
     <item>
       <title>ruvnet/ruflo</title>
       <link>https://github.com/ruvnet/ruflo</link>
       <guid>https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
       <description>待翻译：🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
       <category>AI代理, RAG, 记忆管理, harness, DevOps, 自动化, 学习资源</category>
-    </item>
-    <item>
-      <title>humanlayer/skills</title>
-      <link>https://github.com/humanlayer/skills</link>
-      <guid>https://github.com/humanlayer/skills</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：humanlayer/skills</description>
-      <category>skills</category>
-    </item>
-    <item>
-      <title>blader/humanizer</title>
-      <link>https://github.com/blader/humanizer</link>
-      <guid>https://github.com/blader/humanizer</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：Agent skill that removes signs of AI-generated writing from text</description>
-      <category>AI代理, skills</category>
-    </item>
-    <item>
-      <title>BraveOPotato/FckSignups</title>
-      <link>https://github.com/BraveOPotato/FckSignups</link>
-      <guid>https://github.com/BraveOPotato/FckSignups</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：A list of tools that are open-source, in-browser, and require no-signups!</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>WorldFlowAI/everything-claude-code</title>
-      <link>https://github.com/WorldFlowAI/everything-claude-code</link>
-      <guid>https://github.com/WorldFlowAI/everything-claude-code</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development</description>
-      <category>AI代理, skills, 开发者工具</category>
     </item>
     <item>
       <title>magnitudedev/magnitude</title>
       <link>https://github.com/magnitudedev/magnitude</link>
       <guid>https://github.com/magnitudedev/magnitude</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
       <description>待翻译：Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.</description>
       <category>AI代理, 模型/LLM, 开发者工具</category>
     </item>
     <item>
-      <title>bikini/exploitarium</title>
-      <link>https://github.com/bikini/exploitarium</link>
-      <guid>https://github.com/bikini/exploitarium</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I&apos;ve always found this is the most efficient way.</description>
-      <category>安全</category>
+      <title>BraveOPotato/FckSignups</title>
+      <link>https://github.com/BraveOPotato/FckSignups</link>
+      <guid>https://github.com/BraveOPotato/FckSignups</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：A list of tools that are open-source, in-browser, and require no-signups!</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>nvm-sh/nvm</title>
-      <link>https://github.com/nvm-sh/nvm</link>
-      <guid>https://github.com/nvm-sh/nvm</guid>
-      <pubDate>Sun, 06 Sep 2026 07:04:53 GMT</pubDate>
-      <description>待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump</description>
+      <title>coreyhaines31/marketingskills</title>
+      <link>https://github.com/coreyhaines31/marketingskills</link>
+      <guid>https://github.com/coreyhaines31/marketingskills</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>aipoch/open-science</title>
+      <link>https://github.com/aipoch/open-science</link>
+      <guid>https://github.com/aipoch/open-science</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>OpenWhispr/openwhispr</title>
+      <link>https://github.com/OpenWhispr/openwhispr</link>
+      <guid>https://github.com/OpenWhispr/openwhispr</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>humanlayer/skills</title>
+      <link>https://github.com/humanlayer/skills</link>
+      <guid>https://github.com/humanlayer/skills</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：humanlayer/skills</description>
+      <category>skills</category>
+    </item>
+    <item>
+      <title>The-Swarm-Corporation/AutoHedge</title>
+      <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
+      <guid>https://github.com/The-Swarm-Corporation/AutoHedge</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>Stremio/stremio-web</title>
+      <link>https://github.com/Stremio/stremio-web</link>
+      <guid>https://github.com/Stremio/stremio-web</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>待翻译：Stremio - Freedom to Stream</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 18 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-07.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-07.json</guid>
+      <pubDate>Mon, 07 Sep 2026 07:16:10 GMT</pubDate>
+      <description>GitHub 热门日报 · 18 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 16 个项目</title>

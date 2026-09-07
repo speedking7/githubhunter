@@ -12673,5 +12673,203 @@
     ],
     "date": "2026-09-06",
     "url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "descriptionZh": "待翻译：The agent that grows with you",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repo": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "descriptionZh": "待翻译：Skills Catalog for Codex",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "descriptionZh": "待翻译：The open source coding agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "repo": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "descriptionZh": "待翻译：Agent skill that removes signs of AI-generated writing from text",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "repo": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "descriptionZh": "待翻译：The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/llvm/llvm-project"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "ruvnet/ruflo",
+    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "descriptionZh": "待翻译：🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "记忆管理",
+      "harness",
+      "DevOps",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repo": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "descriptionZh": "待翻译：Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "repo": "BraveOPotato/FckSignups",
+    "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+    "descriptionZh": "待翻译：A list of tools that are open-source, in-browser, and require no-signups!",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/BraveOPotato/FckSignups"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "descriptionZh": "待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "repo": "aipoch/open-science",
+    "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+    "descriptionZh": "待翻译：Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/aipoch/open-science"
+  },
+  {
+    "repo": "OpenWhispr/openwhispr",
+    "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "descriptionZh": "待翻译：Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/OpenWhispr/openwhispr"
+  },
+  {
+    "repo": "humanlayer/skills",
+    "description": "",
+    "descriptionZh": "待翻译：humanlayer/skills",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/humanlayer/skills"
+  },
+  {
+    "repo": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "descriptionZh": "待翻译：Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+  },
+  {
+    "repo": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "descriptionZh": "待翻译：Stremio - Freedom to Stream",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-07",
+    "url": "https://github.com/Stremio/stremio-web"
   }
 ]
