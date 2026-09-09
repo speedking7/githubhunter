@@ -13030,5 +13030,188 @@
     ],
     "date": "2026-09-08",
     "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "descriptionZh": "待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "descriptionZh": "待翻译：Skills Catalog for Codex",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "descriptionZh": "待翻译：Write HTML. Render video. Built for agents.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "descriptionZh": "待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "descriptionZh": "待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "repo": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "descriptionZh": "待翻译：Python tool for converting files and office documents to Markdown.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "repo": "jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "descriptionZh": "待翻译：Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/jo-inc/camofox-browser"
+  },
+  {
+    "repo": "MoonTechLab/LunaTV",
+    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "descriptionZh": "待翻译：本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/MoonTechLab/LunaTV"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "description": "Agents that use the browser.",
+    "descriptionZh": "待翻译：Agents that use the browser.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "repo": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "harness"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "repo": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "descriptionZh": "待翻译：Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+  },
+  {
+    "repo": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "descriptionZh": "待翻译：Notes of the book System Desgin Interview - An Insider's Guide",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/liquidslr/system-design-notes"
+  },
+  {
+    "repo": "viarotel-org/escrcpy",
+    "description": "📱 Display and control your Android device graphically with scrcpy.",
+    "descriptionZh": "待翻译：📱 Display and control your Android device graphically with scrcpy.",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/viarotel-org/escrcpy"
+  },
+  {
+    "repo": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "descriptionZh": "待翻译：OpenAI Plugins",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-09-09",
+    "url": "https://github.com/openai/plugins"
   }
 ]
