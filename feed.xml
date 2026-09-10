@@ -5,142 +5,117 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:15:05 GMT</lastBuildDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
       <guid>https://github.com/ayghri/i-have-adhd</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
       <description>待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
       <category>AI代理, skills</category>
     </item>
     <item>
-      <title>cathrynlavery/diagram-design</title>
-      <link>https://github.com/cathrynlavery/diagram-design</link>
-      <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
+      <title>Tencent/teamai-cli</title>
+      <link>https://github.com/Tencent/teamai-cli</link>
+      <guid>https://github.com/Tencent/teamai-cli</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：Make Every Team AI Native</description>
       <category>其他</category>
-    </item>
-    <item>
-      <title>openai/skills</title>
-      <link>https://github.com/openai/skills</link>
-      <guid>https://github.com/openai/skills</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Skills Catalog for Codex</description>
-      <category>skills</category>
-    </item>
-    <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-      <category>AI代理, 记忆管理, skills, harness, 安全</category>
-    </item>
-    <item>
-      <title>heygen-com/hyperframes</title>
-      <link>https://github.com/heygen-com/hyperframes</link>
-      <guid>https://github.com/heygen-com/hyperframes</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Write HTML. Render video. Built for agents.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>coreyhaines31/marketingskills</title>
-      <link>https://github.com/coreyhaines31/marketingskills</link>
-      <guid>https://github.com/coreyhaines31/marketingskills</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</description>
-      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
       <title>obra/superpowers</title>
       <link>https://github.com/obra/superpowers</link>
       <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
       <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
     <item>
-      <title>multica-ai/andrej-karpathy-skills</title>
-      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
-      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls.</description>
-      <category>模型/LLM</category>
+      <title>pascalorg/editor</title>
+      <link>https://github.com/pascalorg/editor</link>
+      <guid>https://github.com/pascalorg/editor</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.</description>
+      <category>AI代理, 开发者工具, 自动化</category>
     </item>
     <item>
-      <title>microsoft/markitdown</title>
-      <link>https://github.com/microsoft/markitdown</link>
-      <guid>https://github.com/microsoft/markitdown</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Python tool for converting files and office documents to Markdown.</description>
+      <title>earthtojake/text-to-cad</title>
+      <link>https://github.com/earthtojake/text-to-cad</link>
+      <guid>https://github.com/earthtojake/text-to-cad</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：A library of agent skills for CAD, CAE and CAM</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <guid>https://github.com/cathrynlavery/diagram-design</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>jo-inc/camofox-browser</title>
-      <link>https://github.com/jo-inc/camofox-browser</link>
-      <guid>https://github.com/jo-inc/camofox-browser</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.</description>
-      <category>AI代理, 自动化</category>
-    </item>
-    <item>
-      <title>MoonTechLab/LunaTV</title>
-      <link>https://github.com/MoonTechLab/LunaTV</link>
-      <guid>https://github.com/MoonTechLab/LunaTV</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>browser-use/browser-use</title>
-      <link>https://github.com/browser-use/browser-use</link>
-      <guid>https://github.com/browser-use/browser-use</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Agents that use the browser.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>mksglu/context-mode</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <guid>https://github.com/mksglu/context-mode</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
-      <category>AI代理, 记忆管理, harness</category>
-    </item>
-    <item>
-      <title>The-Swarm-Corporation/AutoHedge</title>
-      <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
-      <guid>https://github.com/The-Swarm-Corporation/AutoHedge</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.</description>
-      <category>AI代理, harness</category>
+      <title>TauricResearch/TradingAgents</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid>https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
+      <category>开发框架, AI代理, 模型/LLM</category>
     </item>
     <item>
       <title>liquidslr/system-design-notes</title>
       <link>https://github.com/liquidslr/system-design-notes</link>
       <guid>https://github.com/liquidslr/system-design-notes</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
       <description>待翻译：Notes of the book System Desgin Interview - An Insider&apos;s Guide</description>
       <category>学习资源</category>
-    </item>
-    <item>
-      <title>viarotel-org/escrcpy</title>
-      <link>https://github.com/viarotel-org/escrcpy</link>
-      <guid>https://github.com/viarotel-org/escrcpy</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
-      <description>待翻译：📱 Display and control your Android device graphically with scrcpy.</description>
-      <category>可视化</category>
     </item>
     <item>
       <title>openai/plugins</title>
       <link>https://github.com/openai/plugins</link>
       <guid>https://github.com/openai/plugins</guid>
-      <pubDate>Wed, 09 Sep 2026 07:19:32 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
       <description>待翻译：OpenAI Plugins</description>
       <category>编辑器插件</category>
+    </item>
+    <item>
+      <title>freestylefly/awesome-gpt-image-2</title>
+      <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+      <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。</description>
+      <category>skills</category>
+    </item>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：Learn it. Build it. Ship it for others.</description>
+      <category>学习资源</category>
+    </item>
+    <item>
+      <title>vastsa/PI-Desktop</title>
+      <link>https://github.com/vastsa/PI-Desktop</link>
+      <guid>https://github.com/vastsa/PI-Desktop</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins</description>
+      <category>AI代理, harness, 编辑器插件</category>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid>https://github.com/affaan-m/ECC</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <category>AI代理, 记忆管理, skills, harness, 安全</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 13 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-10.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-10.json</guid>
+      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <description>GitHub 热门日报 · 13 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 17 个项目</title>
