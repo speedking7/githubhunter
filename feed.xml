@@ -5,110 +5,141 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:14:12 GMT</lastBuildDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
       <guid>https://github.com/ayghri/i-have-adhd</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
       <description>待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
       <category>AI代理, skills</category>
     </item>
     <item>
-      <title>Tencent/teamai-cli</title>
-      <link>https://github.com/Tencent/teamai-cli</link>
-      <guid>https://github.com/Tencent/teamai-cli</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：Make Every Team AI Native</description>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
       <category>其他</category>
     </item>
     <item>
       <title>obra/superpowers</title>
       <link>https://github.com/obra/superpowers</link>
       <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
       <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
     <item>
-      <title>pascalorg/editor</title>
-      <link>https://github.com/pascalorg/editor</link>
-      <guid>https://github.com/pascalorg/editor</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.</description>
-      <category>AI代理, 开发者工具, 自动化</category>
+      <title>alsk1992/CloddsBot</title>
+      <link>https://github.com/alsk1992/CloddsBot</link>
+      <guid>https://github.com/alsk1992/CloddsBot</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.</description>
+      <category>AI代理</category>
     </item>
     <item>
-      <title>earthtojake/text-to-cad</title>
-      <link>https://github.com/earthtojake/text-to-cad</link>
-      <guid>https://github.com/earthtojake/text-to-cad</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：A library of agent skills for CAD, CAE and CAM</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>cathrynlavery/diagram-design</title>
-      <link>https://github.com/cathrynlavery/diagram-design</link>
-      <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
+      <title>Tencent/teamai-cli</title>
+      <link>https://github.com/Tencent/teamai-cli</link>
+      <guid>https://github.com/Tencent/teamai-cli</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Make Every Team AI Native</description>
       <category>其他</category>
     </item>
     <item>
-      <title>TauricResearch/TradingAgents</title>
-      <link>https://github.com/TauricResearch/TradingAgents</link>
-      <guid>https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
-      <category>开发框架, AI代理, 模型/LLM</category>
+      <title>AlexsJones/llmfit</title>
+      <link>https://github.com/AlexsJones/llmfit</link>
+      <guid>https://github.com/AlexsJones/llmfit</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Hundreds of models &amp;amp; providers. One command to find what runs on your hardware.</description>
+      <category>其他</category>
     </item>
     <item>
       <title>liquidslr/system-design-notes</title>
       <link>https://github.com/liquidslr/system-design-notes</link>
       <guid>https://github.com/liquidslr/system-design-notes</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
       <description>待翻译：Notes of the book System Desgin Interview - An Insider&apos;s Guide</description>
       <category>学习资源</category>
     </item>
     <item>
-      <title>openai/plugins</title>
-      <link>https://github.com/openai/plugins</link>
-      <guid>https://github.com/openai/plugins</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：OpenAI Plugins</description>
-      <category>编辑器插件</category>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <guid>https://github.com/cathrynlavery/diagram-design</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
+      <category>其他</category>
     </item>
     <item>
       <title>freestylefly/awesome-gpt-image-2</title>
       <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
       <guid>https://github.com/freestylefly/awesome-gpt-image-2</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
       <description>待翻译：Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。</description>
       <category>skills</category>
     </item>
     <item>
-      <title>rohitg00/ai-engineering-from-scratch</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：Learn it. Build it. Ship it for others.</description>
-      <category>学习资源</category>
+      <title>armory3d/armorpaint</title>
+      <link>https://github.com/armory3d/armorpaint</link>
+      <guid>https://github.com/armory3d/armorpaint</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Graphics Creation Tools</description>
+      <category>可视化</category>
+    </item>
+    <item>
+      <title>diegosouzapw/OmniRoute</title>
+      <link>https://github.com/diegosouzapw/OmniRoute</link>
+      <guid>https://github.com/diegosouzapw/OmniRoute</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp;amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <guid>https://github.com/JustVugg/colibri</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>THU-MAIC/OpenMAIC</title>
+      <link>https://github.com/THU-MAIC/OpenMAIC</link>
+      <guid>https://github.com/THU-MAIC/OpenMAIC</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
+      <category>AI代理, 开发者工具, 学习资源</category>
+    </item>
+    <item>
+      <title>nashsu/llm_wiki</title>
+      <link>https://github.com/nashsu/llm_wiki</link>
+      <guid>https://github.com/nashsu/llm_wiki</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。</description>
+      <category>RAG, 模型/LLM</category>
+    </item>
+    <item>
+      <title>vercel-labs/skills</title>
+      <link>https://github.com/vercel-labs/skills</link>
+      <guid>https://github.com/vercel-labs/skills</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>待翻译：The open agent skills tool - npx skills</description>
+      <category>AI代理, skills</category>
     </item>
     <item>
       <title>vastsa/PI-Desktop</title>
       <link>https://github.com/vastsa/PI-Desktop</link>
       <guid>https://github.com/vastsa/PI-Desktop</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
       <description>待翻译：Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins</description>
       <category>AI代理, harness, 编辑器插件</category>
     </item>
     <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Thu, 10 Sep 2026 07:15:02 GMT</pubDate>
-      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-      <category>AI代理, 记忆管理, skills, harness, 安全</category>
+      <title>GitHub 热门日报 · 16 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-11.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-11.json</guid>
+      <pubDate>Fri, 11 Sep 2026 07:14:07 GMT</pubDate>
+      <description>GitHub 热门日报 · 16 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 13 个项目</title>

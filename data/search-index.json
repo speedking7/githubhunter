@@ -13358,5 +13358,175 @@
     ],
     "date": "2026-09-10",
     "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "descriptionZh": "待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repo": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "descriptionZh": "待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "descriptionZh": "待翻译：Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/alsk1992/CloddsBot"
+  },
+  {
+    "repo": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "descriptionZh": "待翻译：Make Every Team AI Native",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/Tencent/teamai-cli"
+  },
+  {
+    "repo": "AlexsJones/llmfit",
+    "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "descriptionZh": "待翻译：Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "repo": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "descriptionZh": "待翻译：Notes of the book System Desgin Interview - An Insider's Guide",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/liquidslr/system-design-notes"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "descriptionZh": "待翻译：Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "repo": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "descriptionZh": "待翻译：Graphics Creation Tools",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/armory3d/armorpaint"
+  },
+  {
+    "repo": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+    "descriptionZh": "待翻译：Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repo": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "descriptionZh": "待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "descriptionZh": "待翻译：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "学习资源"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "repo": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "descriptionZh": "待翻译：LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "tags": [
+      "RAG",
+      "模型/LLM"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/nashsu/llm_wiki"
+  },
+  {
+    "repo": "vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "descriptionZh": "待翻译：The open agent skills tool - npx skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/vercel-labs/skills"
+  },
+  {
+    "repo": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "descriptionZh": "待翻译：Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "tags": [
+      "AI代理",
+      "harness",
+      "编辑器插件"
+    ],
+    "date": "2026-09-11",
+    "url": "https://github.com/vastsa/PI-Desktop"
   }
 ]
