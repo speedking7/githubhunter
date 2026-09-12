@@ -13528,5 +13528,175 @@
     ],
     "date": "2026-09-11",
     "url": "https://github.com/vastsa/PI-Desktop"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "descriptionZh": "待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repo": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "descriptionZh": "待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "repo": "nab138/iloader",
+    "description": "User friendly sideloader",
+    "descriptionZh": "待翻译：User friendly sideloader",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/nab138/iloader"
+  },
+  {
+    "repo": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "descriptionZh": "待翻译：Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "repo": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "descriptionZh": "待翻译：Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "tags": [
+      "AI代理",
+      "harness",
+      "编辑器插件"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/vastsa/PI-Desktop"
+  },
+  {
+    "repo": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "descriptionZh": "待翻译：Graphics Creation Tools",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/armory3d/armorpaint"
+  },
+  {
+    "repo": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "descriptionZh": "待翻译：Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/alsk1992/CloddsBot"
+  },
+  {
+    "repo": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "descriptionZh": "待翻译：LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "tags": [
+      "RAG",
+      "模型/LLM"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/nashsu/llm_wiki"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "descriptionZh": "待翻译：Smart PVR for newsgroup and bittorrent users.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/Sonarr/Sonarr"
+  },
+  {
+    "repo": "jihe520/MathModelAgent",
+    "description": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "descriptionZh": "待翻译：🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/jihe520/MathModelAgent"
+  },
+  {
+    "repo": "p1neappleXpress/OpenFlux",
+    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "descriptionZh": "待翻译：Network stack research tool. TCP tunnel with pluggable transports.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/p1neappleXpress/OpenFlux"
+  },
+  {
+    "repo": "jordan-gibbs/hyperresearch",
+    "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+    "descriptionZh": "待翻译：Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+    "tags": [
+      "AI代理",
+      "RAG"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/jordan-gibbs/hyperresearch"
+  },
+  {
+    "repo": "alphaXiv/OpenResearch",
+    "description": "Run parallel research agents with any model",
+    "descriptionZh": "待翻译：Run parallel research agents with any model",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "repo": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "descriptionZh": "待翻译：💫 Toolkit to help you get started with Spec-Driven Development",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/github/spec-kit"
+  },
+  {
+    "repo": "pascalorg/editor",
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "descriptionZh": "待翻译：Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-09-12",
+    "url": "https://github.com/pascalorg/editor"
   }
 ]
