@@ -14071,5 +14071,223 @@
     ],
     "date": "2026-09-14",
     "url": "https://github.com/huggingface/transformers"
+  },
+  {
+    "repo": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "descriptionZh": "待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "descriptionZh": "待翻译：YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "descriptionZh": "待翻译：A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "repo": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "descriptionZh": "待翻译：Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "repo": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "descriptionZh": "待翻译：Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repo": "rlaope/oh-my-hermes",
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "descriptionZh": "待翻译：All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "tags": [
+      "SDK/库",
+      "AI代理",
+      "记忆管理",
+      "自动化",
+      "编辑器插件"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/rlaope/oh-my-hermes"
+  },
+  {
+    "repo": "localsend/localsend",
+    "description": "An open-source cross-platform alternative to AirDrop",
+    "descriptionZh": "待翻译：An open-source cross-platform alternative to AirDrop",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/localsend/localsend"
+  },
+  {
+    "repo": "dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "descriptionZh": "待翻译：Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "descriptionZh": "待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "tags": [
+      "可观测性"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repo": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "descriptionZh": "待翻译：The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "repo": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "descriptionZh": "待翻译：VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "descriptionZh": "待翻译：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/huggingface/transformers"
+  },
+  {
+    "repo": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "descriptionZh": "待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "repo": "Crosstalk-Solutions/project-nomad",
+    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "descriptionZh": "待翻译：Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "repo": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "descriptionZh": "待翻译：A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "tags": [
+      "安全",
+      "可视化"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/reconurge/flowsint"
+  },
+  {
+    "repo": "peetzweg/opendisplay",
+    "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+    "descriptionZh": "待翻译：Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/peetzweg/opendisplay"
+  },
+  {
+    "repo": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "descriptionZh": "待翻译：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "tags": [
+      "开发框架",
+      "skills",
+      "数据库",
+      "安全"
+    ],
+    "date": "2026-09-15",
+    "url": "https://github.com/SnailSploit/Claude-Red"
   }
 ]

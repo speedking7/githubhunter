@@ -5,158 +5,173 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:46:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:37:23 GMT</lastBuildDate>
     <item>
       <title>JustVugg/colibri</title>
       <link>https://github.com/JustVugg/colibri</link>
       <guid>https://github.com/JustVugg/colibri</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
       <description>待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
       <category>开发框架</category>
     </item>
     <item>
-      <title>ever-co/ever-gauzy</title>
-      <link>https://github.com/ever-co/ever-gauzy</link>
-      <guid>https://github.com/ever-co/ever-gauzy</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>bilawalsidhu/gods-eye-view</title>
-      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
-      <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>tech-leads-club/agent-skills</title>
-      <link>https://github.com/tech-leads-club/agent-skills</link>
-      <guid>https://github.com/tech-leads-club/agent-skills</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.</description>
-      <category>AI代理, skills</category>
-    </item>
-    <item>
-      <title>melgarafael/DeskcommCRM</title>
-      <link>https://github.com/melgarafael/DeskcommCRM</link>
-      <guid>https://github.com/melgarafael/DeskcommCRM</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp;amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>calesthio/OpenMontage</title>
-      <link>https://github.com/calesthio/OpenMontage</link>
-      <guid>https://github.com/calesthio/OpenMontage</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：World&apos;s first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.</description>
-      <category>AI代理, skills, 自动化</category>
-    </item>
-    <item>
-      <title>asgeirtj/system_prompts_leaks</title>
-      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-      <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.</description>
-      <category>自动化</category>
-    </item>
-    <item>
-      <title>vxcontrol/pentagi</title>
-      <link>https://github.com/vxcontrol/pentagi</link>
-      <guid>https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-      <category>AI代理</category>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid>https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
+      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
     </item>
     <item>
       <title>multimodal-art-projection/YuE</title>
       <link>https://github.com/multimodal-art-projection/YuE</link>
       <guid>https://github.com/multimodal-art-projection/YuE</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
       <description>待翻译：YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>yuliskov/SmartTube</title>
-      <link>https://github.com/yuliskov/SmartTube</link>
-      <guid>https://github.com/yuliskov/SmartTube</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Browse media content with your own rules on Android TV</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>alphaXiv/OpenResearch</title>
-      <link>https://github.com/alphaXiv/OpenResearch</link>
-      <guid>https://github.com/alphaXiv/OpenResearch</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Turn your coding agents into research agents</description>
       <category>AI代理</category>
     </item>
     <item>
       <title>debpalash/VoiceStudio</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <guid>https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
       <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>SnailSploit/Claude-Red</title>
-      <link>https://github.com/SnailSploit/Claude-Red</link>
-      <guid>https://github.com/SnailSploit/Claude-Red</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
-      <category>开发框架, skills, 数据库, 安全</category>
+      <title>666ghj/MiroFish</title>
+      <link>https://github.com/666ghj/MiroFish</link>
+      <guid>https://github.com/666ghj/MiroFish</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物</description>
+      <category>开发框架</category>
     </item>
     <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <guid>https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
-      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <guid>https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Give your AI agent eyes to see the entire internet. Read &amp;amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
+      <category>AI代理, 开发者工具</category>
     </item>
     <item>
-      <title>jihe520/MathModelAgent</title>
-      <link>https://github.com/jihe520/MathModelAgent</link>
-      <guid>https://github.com/jihe520/MathModelAgent</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：🤖📐专为数学建模设计的 Agent &amp;amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.</description>
+      <title>asgeirtj/system_prompts_leaks</title>
+      <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+      <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.</description>
+      <category>自动化</category>
+    </item>
+    <item>
+      <title>rlaope/oh-my-hermes</title>
+      <link>https://github.com/rlaope/oh-my-hermes</link>
+      <guid>https://github.com/rlaope/oh-my-hermes</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages</description>
+      <category>SDK/库, AI代理, 记忆管理, 自动化, 编辑器插件</category>
+    </item>
+    <item>
+      <title>localsend/localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <guid>https://github.com/localsend/localsend</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：An open-source cross-platform alternative to AirDrop</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>dani-garcia/vaultwarden</title>
+      <link>https://github.com/dani-garcia/vaultwarden</link>
+      <guid>https://github.com/dani-garcia/vaultwarden</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>TauricResearch/TradingAgents</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid>https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
+      <category>开发框架, AI代理, 模型/LLM</category>
+    </item>
+    <item>
+      <title>ruvnet/RuView</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <guid>https://github.com/ruvnet/RuView</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+      <category>可观测性</category>
+    </item>
+    <item>
+      <title>tech-leads-club/agent-skills</title>
+      <link>https://github.com/tech-leads-club/agent-skills</link>
+      <guid>https://github.com/tech-leads-club/agent-skills</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.</description>
       <category>AI代理, skills</category>
     </item>
     <item>
-      <title>tonhowtf/omniget</title>
-      <link>https://github.com/tonhowtf/omniget</link>
-      <guid>https://github.com/tonhowtf/omniget</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
-      <category>开发框架, 学习资源</category>
-    </item>
-    <item>
-      <title>jiji262/douyin-downloader</title>
-      <link>https://github.com/jiji262/douyin-downloader</link>
-      <guid>https://github.com/jiji262/douyin-downloader</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。</description>
-      <category>数据库, 自动化</category>
-    </item>
-    <item>
-      <title>Swordfish90/cool-retro-term</title>
-      <link>https://github.com/Swordfish90/cool-retro-term</link>
-      <guid>https://github.com/Swordfish90/cool-retro-term</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
-      <description>待翻译：A good looking terminal emulator which mimics the old cathode display...</description>
+      <title>OpenBMB/VoxCPM</title>
+      <link>https://github.com/OpenBMB/VoxCPM</link>
+      <guid>https://github.com/OpenBMB/VoxCPM</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</description>
       <category>其他</category>
     </item>
     <item>
       <title>huggingface/transformers</title>
       <link>https://github.com/huggingface/transformers</link>
       <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Mon, 14 Sep 2026 07:50:34 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
       <description>待翻译：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</description>
       <category>开发框架, 模型/LLM, 自动化, 学习资源</category>
+    </item>
+    <item>
+      <title>ever-co/ever-gauzy</title>
+      <link>https://github.com/ever-co/ever-gauzy</link>
+      <guid>https://github.com/ever-co/ever-gauzy</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>Crosstalk-Solutions/project-nomad</title>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.</description>
+      <category>学习资源</category>
+    </item>
+    <item>
+      <title>reconurge/flowsint</title>
+      <link>https://github.com/reconurge/flowsint</link>
+      <guid>https://github.com/reconurge/flowsint</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.</description>
+      <category>安全, 可视化</category>
+    </item>
+    <item>
+      <title>peetzweg/opendisplay</title>
+      <link>https://github.com/peetzweg/opendisplay</link>
+      <guid>https://github.com/peetzweg/opendisplay</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>SnailSploit/Claude-Red</title>
+      <link>https://github.com/SnailSploit/Claude-Red</link>
+      <guid>https://github.com/SnailSploit/Claude-Red</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>待翻译：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
+      <category>开发框架, skills, 数据库, 安全</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 20 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-15.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-15.json</guid>
+      <pubDate>Tue, 15 Sep 2026 07:37:19 GMT</pubDate>
+      <description>GitHub 热门日报 · 20 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 19 个项目</title>
