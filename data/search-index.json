@@ -14289,5 +14289,155 @@
     ],
     "date": "2026-09-15",
     "url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "descriptionZh": "待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "repo": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "descriptionZh": "待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "Homebrew/BrewUI",
+    "description": "📺 Homebrew's official macOS GUI",
+    "descriptionZh": "待翻译：📺 Homebrew's official macOS GUI",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/Homebrew/BrewUI"
+  },
+  {
+    "repo": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "descriptionZh": "待翻译：Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "repo": "alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "descriptionZh": "待翻译：Turn your coding agents into research agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "repo": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "descriptionZh": "待翻译：Ghidra is a software reverse engineering (SRE) framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "repo": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "descriptionZh": "待翻译：Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/danny-avila/LibreChat"
+  },
+  {
+    "repo": "pacifio/atlas",
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "descriptionZh": "待翻译：Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/pacifio/atlas"
+  },
+  {
+    "repo": "MG1937/ASC",
+    "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+    "descriptionZh": "待翻译：ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/MG1937/ASC"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "tonhowtf/omniget",
+    "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+    "descriptionZh": "待翻译：Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+    "tags": [
+      "开发框架",
+      "学习资源"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/tonhowtf/omniget"
+  },
+  {
+    "repo": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "descriptionZh": "待翻译：AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-09-16",
+    "url": "https://github.com/earendil-works/pi"
   }
 ]
