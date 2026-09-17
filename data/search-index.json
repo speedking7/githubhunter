@@ -14439,5 +14439,239 @@
     ],
     "date": "2026-09-16",
     "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "descriptionZh": "待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "repo": "abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "descriptionZh": "待翻译：Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "repo": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "descriptionZh": "待翻译：The open-source AI voice studio. Clone, dictate, create.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repo": "Lakr233/vphone-cli",
+    "description": "",
+    "descriptionZh": "待翻译：Lakr233/vphone-cli",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repo": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "descriptionZh": "待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "repo": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "descriptionZh": "待翻译：Anki is a smart spaced repetition flashcard program",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/ankitects/anki"
+  },
+  {
+    "repo": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "descriptionZh": "待翻译：Ghidra is a software reverse engineering (SRE) framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "descriptionZh": "待翻译：We write your reusable computer vision tools. 💜",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "repo": "alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "descriptionZh": "待翻译：Turn your coding agents into research agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "repo": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "tags": [
+      "数据库"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "repo": "rlaope/oh-my-hermes",
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "descriptionZh": "待翻译：All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "tags": [
+      "SDK/库",
+      "AI代理",
+      "记忆管理",
+      "自动化",
+      "编辑器插件"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/rlaope/oh-my-hermes"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "descriptionZh": "待翻译：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "模型/LLM"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "repo": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "descriptionZh": "待翻译：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "tags": [
+      "开发框架",
+      "skills",
+      "数据库",
+      "安全"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "repo": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "descriptionZh": "待翻译：YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "descriptionZh": "待翻译：Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "开发者工具",
+      "编辑器插件"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/cline/cline"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-17",
+    "url": "https://github.com/affaan-m/ECC"
   }
 ]
