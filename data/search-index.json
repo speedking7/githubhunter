@@ -14673,5 +14673,226 @@
     ],
     "date": "2026-09-17",
     "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "descriptionZh": "待翻译：Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化",
+      "编辑器插件"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "repo": "alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "descriptionZh": "待翻译：Turn your coding agents into research agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "descriptionZh": "待翻译：Ghidra is a software reverse engineering (SRE) framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "descriptionZh": "待翻译：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "模型/LLM"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "repo": "abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "descriptionZh": "待翻译：Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "repo": "cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "descriptionZh": "待翻译：eBPF-based Networking, Security, and Observability",
+    "tags": [
+      "可观测性",
+      "安全"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/cilium/cilium"
+  },
+  {
+    "repo": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "descriptionZh": "待翻译：The open-source AI voice studio. Clone, dictate, create.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "descriptionZh": "待翻译：We write your reusable computer vision tools. 💜",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "repo": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "descriptionZh": "待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "repo": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "descriptionZh": "待翻译：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "repo": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "descriptionZh": "待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "repo": "cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "descriptionZh": "待翻译：Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "开发者工具",
+      "编辑器插件"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/cline/cline"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "descriptionZh": "待翻译：Secure environments for developers and their agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/coder/coder"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "descriptionZh": "待翻译：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-09-18",
+    "url": "https://github.com/n8n-io/n8n"
   }
 ]
