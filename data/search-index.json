@@ -14894,5 +14894,192 @@
     ],
     "date": "2026-09-18",
     "url": "https://github.com/n8n-io/n8n"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "descriptionZh": "待翻译：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "数据库",
+      "自动化"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "descriptionZh": "待翻译：Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化",
+      "编辑器插件"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "descriptionZh": "待翻译：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "repo": "Fission-AI/OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "descriptionZh": "待翻译：Spec-driven development (SDD) for AI coding assistants.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/Fission-AI/OpenSpec"
+  },
+  {
+    "repo": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "descriptionZh": "待翻译：Anki is a smart spaced repetition flashcard program",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/ankitects/anki"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repo": "supermemoryai/supermemory",
+    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "descriptionZh": "待翻译：Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "tags": [
+      "开发框架",
+      "记忆管理"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "descriptionZh": "待翻译：AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "tags": [
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/tradesdontlie/tradingview-mcp"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "descriptionZh": "待翻译：RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "tags": [
+      "RAG"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/rustfs/rustfs"
+  },
+  {
+    "repo": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "tags": [
+      "数据库"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "descriptionZh": "待翻译：Secure environments for developers and their agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/coder/coder"
+  },
+  {
+    "repo": "ahmedkhaleel2004/gitdiagram",
+    "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "descriptionZh": "待翻译：Free, simple, fast interactive diagrams for any GitHub repository",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+  },
+  {
+    "repo": "asciimoo/hister",
+    "description": "Your own search engine",
+    "descriptionZh": "待翻译：Your own search engine",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-19",
+    "url": "https://github.com/asciimoo/hister"
   }
 ]

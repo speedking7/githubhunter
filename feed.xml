@@ -5,166 +5,149 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:57:10 GMT</lastBuildDate>
-    <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <guid>https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
-      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 07:16:40 GMT</lastBuildDate>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
       <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
       <category>AI代理, skills, 安全</category>
-    </item>
-    <item>
-      <title>addyosmani/agent-skills</title>
-      <link>https://github.com/addyosmani/agent-skills</link>
-      <guid>https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>Tencent/BrowserSkill</title>
-      <link>https://github.com/Tencent/BrowserSkill</link>
-      <guid>https://github.com/Tencent/BrowserSkill</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.</description>
-      <category>AI代理, 开发者工具, 自动化, 编辑器插件</category>
-    </item>
-    <item>
-      <title>alphaXiv/OpenResearch</title>
-      <link>https://github.com/alphaXiv/OpenResearch</link>
-      <guid>https://github.com/alphaXiv/OpenResearch</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Turn your coding agents into research agents</description>
-      <category>AI代理</category>
     </item>
     <item>
       <title>anthropics/claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
       <guid>https://github.com/anthropics/claude-code</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
       <description>待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
       <category>AI代理, 自动化</category>
     </item>
     <item>
-      <title>NationalSecurityAgency/ghidra</title>
-      <link>https://github.com/NationalSecurityAgency/ghidra</link>
-      <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Ghidra is a software reverse engineering (SRE) framework</description>
-      <category>开发框架</category>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
-      <category>编辑器插件</category>
-    </item>
-    <item>
-      <title>Tencent/WeKnora</title>
-      <link>https://github.com/Tencent/WeKnora</link>
-      <guid>https://github.com/Tencent/WeKnora</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-      <category>AI代理, RAG, 模型/LLM</category>
-    </item>
-    <item>
-      <title>abue-ammar/tinycast</title>
-      <link>https://github.com/abue-ammar/tinycast</link>
-      <guid>https://github.com/abue-ammar/tinycast</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.</description>
-      <category>开发者工具</category>
-    </item>
-    <item>
-      <title>cilium/cilium</title>
-      <link>https://github.com/cilium/cilium</link>
-      <guid>https://github.com/cilium/cilium</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：eBPF-based Networking, Security, and Observability</description>
-      <category>可观测性, 安全</category>
-    </item>
-    <item>
-      <title>jamiepine/voicebox</title>
-      <link>https://github.com/jamiepine/voicebox</link>
-      <guid>https://github.com/jamiepine/voicebox</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：The open-source AI voice studio. Clone, dictate, create.</description>
-      <category>其他</category>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid>https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
+      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
     </item>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
       <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
       <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
       <category>AI代理, 记忆管理, skills, harness, 安全</category>
     </item>
     <item>
-      <title>roboflow/supervision</title>
-      <link>https://github.com/roboflow/supervision</link>
-      <guid>https://github.com/roboflow/supervision</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：We write your reusable computer vision tools. 💜</description>
-      <category>其他</category>
+      <title>Tencent/BrowserSkill</title>
+      <link>https://github.com/Tencent/BrowserSkill</link>
+      <guid>https://github.com/Tencent/BrowserSkill</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.</description>
+      <category>AI代理, 开发者工具, 自动化, 编辑器插件</category>
     </item>
     <item>
-      <title>JustVugg/colibri</title>
-      <link>https://github.com/JustVugg/colibri</link>
-      <guid>https://github.com/JustVugg/colibri</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
-      <category>开发框架</category>
+      <title>addyosmani/agent-skills</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <guid>https://github.com/addyosmani/agent-skills</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
+      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
       <title>TencentCloud/Octop</title>
       <link>https://github.com/TencentCloud/Octop</link>
       <guid>https://github.com/TencentCloud/Octop</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
       <description>待翻译：A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>ever-co/ever-gauzy</title>
-      <link>https://github.com/ever-co/ever-gauzy</link>
-      <guid>https://github.com/ever-co/ever-gauzy</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co</description>
+      <title>Fission-AI/OpenSpec</title>
+      <link>https://github.com/Fission-AI/OpenSpec</link>
+      <guid>https://github.com/Fission-AI/OpenSpec</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Spec-driven development (SDD) for AI coding assistants.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <guid>https://github.com/ankitects/anki</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Anki is a smart spaced repetition flashcard program</description>
       <category>其他</category>
     </item>
     <item>
-      <title>cline/cline</title>
-      <link>https://github.com/cline/cline</link>
-      <guid>https://github.com/cline/cline</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Autonomous coding agent as an SDK, IDE extension, or CLI assistant.</description>
-      <category>开发框架, AI代理, 开发者工具, 编辑器插件</category>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+      <category>编辑器插件</category>
+    </item>
+    <item>
+      <title>supermemoryai/supermemory</title>
+      <link>https://github.com/supermemoryai/supermemory</link>
+      <guid>https://github.com/supermemoryai/supermemory</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.</description>
+      <category>开发框架, 记忆管理</category>
+    </item>
+    <item>
+      <title>tradesdontlie/tradingview-mcp</title>
+      <link>https://github.com/tradesdontlie/tradingview-mcp</link>
+      <guid>https://github.com/tradesdontlie/tradingview-mcp</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</description>
+      <category>可视化, 自动化</category>
+    </item>
+    <item>
+      <title>rustfs/rustfs</title>
+      <link>https://github.com/rustfs/rustfs</link>
+      <guid>https://github.com/rustfs/rustfs</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+      <category>RAG</category>
+    </item>
+    <item>
+      <title>supabase/supabase</title>
+      <link>https://github.com/supabase/supabase</link>
+      <guid>https://github.com/supabase/supabase</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
+      <category>数据库</category>
     </item>
     <item>
       <title>coder/coder</title>
       <link>https://github.com/coder/coder</link>
       <guid>https://github.com/coder/coder</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
       <description>待翻译：Secure environments for developers and their agents</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>n8n-io/n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <guid>https://github.com/n8n-io/n8n</guid>
-      <pubDate>Fri, 18 Sep 2026 07:20:48 GMT</pubDate>
-      <description>待翻译：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
-      <category>自动化</category>
+      <title>ahmedkhaleel2004/gitdiagram</title>
+      <link>https://github.com/ahmedkhaleel2004/gitdiagram</link>
+      <guid>https://github.com/ahmedkhaleel2004/gitdiagram</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Free, simple, fast interactive diagrams for any GitHub repository</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>asciimoo/hister</title>
+      <link>https://github.com/asciimoo/hister</link>
+      <guid>https://github.com/asciimoo/hister</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>待翻译：Your own search engine</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 17 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-19.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-19.json</guid>
+      <pubDate>Sat, 19 Sep 2026 07:16:37 GMT</pubDate>
+      <description>GitHub 热门日报 · 17 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 20 个项目</title>
