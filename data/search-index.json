@@ -15081,5 +15081,166 @@
     ],
     "date": "2026-09-19",
     "url": "https://github.com/asciimoo/hister"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "descriptionZh": "待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "tags": [
+      "模型/LLM",
+      "评估"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "descriptionZh": "待翻译：Secure environments for developers and their agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/coder/coder"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "descriptionZh": "待翻译：OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "repo": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "descriptionZh": "待翻译：Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "学习资源"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/higgsfield-ai/higgsfield"
+  },
+  {
+    "repo": "docling-project/docling",
+    "description": "Get your documents ready for gen AI",
+    "descriptionZh": "待翻译：Get your documents ready for gen AI",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/docling-project/docling"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "descriptionZh": "待翻译：🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "repo": "asciimoo/hister",
+    "description": "Your own search engine",
+    "descriptionZh": "待翻译：Your own search engine",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/asciimoo/hister"
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "descriptionZh": "待翻译：科技爱好者周刊，每周五发布",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "repo": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "descriptionZh": "待翻译：人人都能用英语",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repo": "cactus-compute/needle",
+    "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "descriptionZh": "待翻译：Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "tags": [
+      "RAG",
+      "自动化"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "repo": "yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "descriptionZh": "待翻译：OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "tags": [
+      "AI代理",
+      "skills",
+      "开发者工具"
+    ],
+    "date": "2026-09-20",
+    "url": "https://github.com/yynxxxxx/Codex-X"
   }
 ]
