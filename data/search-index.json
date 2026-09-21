@@ -15242,5 +15242,148 @@
     ],
     "date": "2026-09-20",
     "url": "https://github.com/yynxxxxx/Codex-X"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "descriptionZh": "待翻译：A framework for building agentic apps",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "descriptionZh": "待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "tags": [
+      "模型/LLM",
+      "评估"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "repo": "anthropics/financial-services",
+    "description": "",
+    "descriptionZh": "待翻译：anthropics/financial-services",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "repo": "paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "descriptionZh": "待翻译：A community-supported supercharged document management system: scan, index and archive all your documents",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/paperless-ngx/paperless-ngx"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "tags": [
+      "AI代理",
+      "自动化"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repo": "mihail911/modern-software-dev-assignments",
+    "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+    "descriptionZh": "待翻译：Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/mihail911/modern-software-dev-assignments"
+  },
+  {
+    "repo": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "descriptionZh": "待翻译：Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "学习资源"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/higgsfield-ai/higgsfield"
+  },
+  {
+    "repo": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "descriptionZh": "待翻译：OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "descriptionZh": "待翻译：Secure environments for developers and their agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/coder/coder"
+  },
+  {
+    "repo": "vercel-labs/json-render",
+    "description": "The Generative UI framework",
+    "descriptionZh": "待翻译：The Generative UI framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/vercel-labs/json-render"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-21",
+    "url": "https://github.com/addyosmani/agent-skills"
   }
 ]
