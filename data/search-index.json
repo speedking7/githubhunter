@@ -15385,5 +15385,131 @@
     ],
     "date": "2026-09-21",
     "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "descriptionZh": "待翻译：A framework for building agentic apps",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "descriptionZh": "待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "tags": [
+      "模型/LLM",
+      "评估"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "repo": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "descriptionZh": "待翻译：OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "repo": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "开发者工具"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "descriptionZh": "待翻译：Secure environments for developers and their agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/coder/coder"
+  },
+  {
+    "repo": "anthropics/financial-services",
+    "description": "",
+    "descriptionZh": "待翻译：anthropics/financial-services",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "descriptionZh": "待翻译：🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "repo": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "descriptionZh": "待翻译：MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "repo": "zhouxiaoka/autoclip",
+    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "descriptionZh": "待翻译：AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/zhouxiaoka/autoclip"
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "descriptionZh": "待翻译：科技爱好者周刊，每周五发布",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "repo": "Crosstalk-Solutions/project-nomad",
+    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "descriptionZh": "待翻译：Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "repo": "yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "descriptionZh": "待翻译：OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "tags": [
+      "AI代理",
+      "skills",
+      "开发者工具"
+    ],
+    "date": "2026-09-22",
+    "url": "https://github.com/yynxxxxx/Codex-X"
   }
 ]
