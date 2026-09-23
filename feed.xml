@@ -5,102 +5,77 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:14:34 GMT</lastBuildDate>
-    <item>
-      <title>BuilderIO/agent-native</title>
-      <link>https://github.com/BuilderIO/agent-native</link>
-      <guid>https://github.com/BuilderIO/agent-native</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：A framework for building agentic apps</description>
-      <category>开发框架, AI代理</category>
-    </item>
-    <item>
-      <title>trycua/cua</title>
-      <link>https://github.com/trycua/cua</link>
-      <guid>https://github.com/trycua/cua</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</description>
-      <category>模型/LLM, 评估</category>
-    </item>
-    <item>
-      <title>Open-Dev-Society/OpenStock</title>
-      <link>https://github.com/Open-Dev-Society/OpenStock</link>
-      <guid>https://github.com/Open-Dev-Society/OpenStock</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <guid>https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <category>AI代理, 记忆管理, 开发者工具</category>
-    </item>
-    <item>
-      <title>coder/coder</title>
-      <link>https://github.com/coder/coder</link>
-      <guid>https://github.com/coder/coder</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：Secure environments for developers and their agents</description>
-      <category>AI代理</category>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 07:40:25 GMT</lastBuildDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
       <guid>https://github.com/anthropics/financial-services</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
       <description>待翻译：anthropics/financial-services</description>
       <category>其他</category>
     </item>
     <item>
-      <title>cloudflare/quiche</title>
-      <link>https://github.com/cloudflare/quiche</link>
-      <guid>https://github.com/cloudflare/quiche</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
-      <category>其他</category>
+      <title>agent-substrate/substrate</title>
+      <link>https://github.com/agent-substrate/substrate</link>
+      <guid>https://github.com/agent-substrate/substrate</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>待翻译：Agent Substrate: the core system</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>dream-num/univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <guid>https://github.com/dream-num/univer</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>davila7/claude-code-templates</title>
+      <link>https://github.com/davila7/claude-code-templates</link>
+      <guid>https://github.com/davila7/claude-code-templates</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>待翻译：CLI tool for configuring and monitoring Claude Code</description>
+      <category>开发者工具, 可观测性</category>
+    </item>
+    <item>
+      <title>google/ax</title>
+      <link>https://github.com/google/ax</link>
+      <guid>https://github.com/google/ax</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>待翻译：Google&apos;s open agentic orchestration runtime</description>
+      <category>AI代理, harness</category>
     </item>
     <item>
       <title>mvt-project/mvt</title>
       <link>https://github.com/mvt-project/mvt</link>
       <guid>https://github.com/mvt-project/mvt</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
       <description>待翻译：MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.</description>
       <category>开发者工具</category>
     </item>
     <item>
-      <title>zhouxiaoka/autoclip</title>
-      <link>https://github.com/zhouxiaoka/autoclip</link>
-      <guid>https://github.com/zhouxiaoka/autoclip</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具</description>
-      <category>开发者工具</category>
+      <title>superdesigndev/treg</title>
+      <link>https://github.com/superdesigndev/treg</link>
+      <guid>https://github.com/superdesigndev/treg</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>待翻译：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
+      <category>AI代理</category>
     </item>
     <item>
-      <title>ruanyf/weekly</title>
-      <link>https://github.com/ruanyf/weekly</link>
-      <guid>https://github.com/ruanyf/weekly</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：科技爱好者周刊，每周五发布</description>
-      <category>其他</category>
+      <title>browser-use/video-use</title>
+      <link>https://github.com/browser-use/video-use</link>
+      <guid>https://github.com/browser-use/video-use</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>待翻译：Edit videos with coding agents</description>
+      <category>AI代理</category>
     </item>
     <item>
-      <title>Crosstalk-Solutions/project-nomad</title>
-      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.</description>
-      <category>学习资源</category>
-    </item>
-    <item>
-      <title>yynxxxxx/Codex-X</title>
-      <link>https://github.com/yynxxxxx/Codex-X</link>
-      <guid>https://github.com/yynxxxxx/Codex-X</guid>
-      <pubDate>Tue, 22 Sep 2026 07:38:46 GMT</pubDate>
-      <description>待翻译：OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。</description>
-      <category>AI代理, skills, 开发者工具</category>
+      <title>GitHub 热门日报 · 8 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-23.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-23.json</guid>
+      <pubDate>Wed, 23 Sep 2026 07:40:24 GMT</pubDate>
+      <description>GitHub 热门日报 · 8 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 12 个项目</title>
