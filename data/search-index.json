@@ -15594,5 +15594,186 @@
     ],
     "date": "2026-09-23",
     "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "anthropics/financial-services",
+    "description": "",
+    "descriptionZh": "待翻译：anthropics/financial-services",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "repo": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "descriptionZh": "待翻译：Google's open agentic orchestration runtime",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "repo": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "descriptionZh": "待翻译：CLI tool for configuring and monitoring Claude Code",
+    "tags": [
+      "开发者工具",
+      "可观测性"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "repo": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "descriptionZh": "待翻译：A framework for building agentic apps",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "descriptionZh": "待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "repo": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "descriptionZh": "待翻译：OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "repo": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "descriptionZh": "待翻译：Agent Substrate: the core system",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "repo": "strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+    "descriptionZh": "待翻译：Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repo": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "descriptionZh": "待翻译：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "descriptionZh": "待翻译：MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "repo": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "descriptionZh": "待翻译：High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "可视化"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "repo": "harry7557558/spirula-studio",
+    "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+    "descriptionZh": "待翻译：Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/harry7557558/spirula-studio"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "descriptionZh": "待翻译：Edit videos with coding agents",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repo": "TNT-Likely/PanWatch",
+    "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+    "descriptionZh": "待翻译：盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-24",
+    "url": "https://github.com/TNT-Likely/PanWatch"
   }
 ]
