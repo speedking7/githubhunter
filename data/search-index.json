@@ -15775,5 +15775,157 @@
     ],
     "date": "2026-09-24",
     "url": "https://github.com/TNT-Likely/PanWatch"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "descriptionZh": "待翻译：Learn it. Build it. Ship it for others.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repo": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "descriptionZh": "待翻译：Hindsight: Agent Memory That Learns",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "学习资源"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repo": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "descriptionZh": "待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "repo": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "descriptionZh": "待翻译：Google's open agentic orchestration runtime",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "repo": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "descriptionZh": "待翻译：A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "DevOps",
+      "学习资源"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "repo": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "descriptionZh": "待翻译：Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/FxEmbed/FxEmbed"
+  },
+  {
+    "repo": "anthropics/financial-services",
+    "description": "",
+    "descriptionZh": "待翻译：anthropics/financial-services",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repo": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "descriptionZh": "待翻译：MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+    "descriptionZh": "待翻译：Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "repo": "julyx10/lap",
+    "description": "An offline-first photo manager for large local libraries",
+    "descriptionZh": "待翻译：An offline-first photo manager for large local libraries",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/julyx10/lap"
+  },
+  {
+    "repo": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "descriptionZh": "待翻译：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "repo": "leejet/stable-diffusion.cpp",
+    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+    "descriptionZh": "待翻译：Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-09-25",
+    "url": "https://github.com/leejet/stable-diffusion.cpp"
   }
 ]

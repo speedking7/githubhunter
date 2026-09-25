@@ -5,142 +5,125 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:39:22 GMT</lastBuildDate>
     <item>
-      <title>anthropics/financial-services</title>
-      <link>https://github.com/anthropics/financial-services</link>
-      <guid>https://github.com/anthropics/financial-services</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：anthropics/financial-services</description>
-      <category>其他</category>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：Learn it. Build it. Ship it for others.</description>
+      <category>学习资源</category>
     </item>
     <item>
-      <title>google/ax</title>
-      <link>https://github.com/google/ax</link>
-      <guid>https://github.com/google/ax</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：Google&apos;s open agentic orchestration runtime</description>
-      <category>AI代理, harness</category>
-    </item>
-    <item>
-      <title>davila7/claude-code-templates</title>
-      <link>https://github.com/davila7/claude-code-templates</link>
-      <guid>https://github.com/davila7/claude-code-templates</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：CLI tool for configuring and monitoring Claude Code</description>
-      <category>开发者工具, 可观测性</category>
-    </item>
-    <item>
-      <title>BuilderIO/agent-native</title>
-      <link>https://github.com/BuilderIO/agent-native</link>
-      <guid>https://github.com/BuilderIO/agent-native</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：A framework for building agentic apps</description>
-      <category>开发框架, AI代理</category>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
-      <category>开发框架, AI代理, skills</category>
+      <title>vectorize-io/hindsight</title>
+      <link>https://github.com/vectorize-io/hindsight</link>
+      <guid>https://github.com/vectorize-io/hindsight</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：Hindsight: Agent Memory That Learns</description>
+      <category>AI代理, 记忆管理, 学习资源</category>
     </item>
     <item>
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
       <guid>https://github.com/dream-num/univer</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
       <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
       <category>AI代理, harness</category>
     </item>
     <item>
-      <title>Open-Dev-Society/OpenStock</title>
-      <link>https://github.com/Open-Dev-Society/OpenStock</link>
-      <guid>https://github.com/Open-Dev-Society/OpenStock</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</description>
+      <title>google/ax</title>
+      <link>https://github.com/google/ax</link>
+      <guid>https://github.com/google/ax</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：Google&apos;s open agentic orchestration runtime</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>NVIDIA/Model-Optimizer</title>
+      <link>https://github.com/NVIDIA/Model-Optimizer</link>
+      <guid>https://github.com/NVIDIA/Model-Optimizer</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.</description>
+      <category>开发框架, 模型/LLM, DevOps, 学习资源</category>
+    </item>
+    <item>
+      <title>FxEmbed/FxEmbed</title>
+      <link>https://github.com/FxEmbed/FxEmbed</link>
+      <guid>https://github.com/FxEmbed/FxEmbed</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others</description>
       <category>其他</category>
     </item>
     <item>
-      <title>agent-substrate/substrate</title>
-      <link>https://github.com/agent-substrate/substrate</link>
-      <guid>https://github.com/agent-substrate/substrate</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：Agent Substrate: the core system</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>strands-agents/harness-sdk</title>
-      <link>https://github.com/strands-agents/harness-sdk</link>
-      <guid>https://github.com/strands-agents/harness-sdk</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp;amp; TypeScript - any model, any cloud.</description>
-      <category>开发框架, AI代理, harness</category>
+      <title>anthropics/financial-services</title>
+      <link>https://github.com/anthropics/financial-services</link>
+      <guid>https://github.com/anthropics/financial-services</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：anthropics/financial-services</description>
+      <category>其他</category>
     </item>
     <item>
       <title>HKUDS/CLI-Anything</title>
       <link>https://github.com/HKUDS/CLI-Anything</link>
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
       <description>待翻译：&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
       <category>AI代理, 开发者工具</category>
-    </item>
-    <item>
-      <title>superdesigndev/treg</title>
-      <link>https://github.com/superdesigndev/treg</link>
-      <guid>https://github.com/superdesigndev/treg</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <guid>https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：The design language that makes your AI harness better at design.</description>
-      <category>harness</category>
     </item>
     <item>
       <title>mvt-project/mvt</title>
       <link>https://github.com/mvt-project/mvt</link>
       <guid>https://github.com/mvt-project/mvt</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
       <description>待翻译：MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.</description>
       <category>开发者工具</category>
     </item>
     <item>
-      <title>DeusData/codebase-memory-mcp</title>
-      <link>https://github.com/DeusData/codebase-memory-mcp</link>
-      <guid>https://github.com/DeusData/codebase-memory-mcp</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
-      <category>AI代理, RAG, 可视化</category>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid>https://github.com/obra/superpowers</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
+      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
-      <title>harry7557558/spirula-studio</title>
-      <link>https://github.com/harry7557558/spirula-studio</link>
-      <guid>https://github.com/harry7557558/spirula-studio</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.</description>
+      <title>strands-agents/harness-sdk</title>
+      <link>https://github.com/strands-agents/harness-sdk</link>
+      <guid>https://github.com/strands-agents/harness-sdk</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp;amp; TypeScript - any model, any cloud.</description>
+      <category>开发框架, AI代理, harness</category>
+    </item>
+    <item>
+      <title>julyx10/lap</title>
+      <link>https://github.com/julyx10/lap</link>
+      <guid>https://github.com/julyx10/lap</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：An offline-first photo manager for large local libraries</description>
       <category>其他</category>
     </item>
     <item>
-      <title>browser-use/video-use</title>
-      <link>https://github.com/browser-use/video-use</link>
-      <guid>https://github.com/browser-use/video-use</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：Edit videos with coding agents</description>
+      <title>superdesigndev/treg</title>
+      <link>https://github.com/superdesigndev/treg</link>
+      <guid>https://github.com/superdesigndev/treg</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>TNT-Likely/PanWatch</title>
-      <link>https://github.com/TNT-Likely/PanWatch</link>
-      <guid>https://github.com/TNT-Likely/PanWatch</guid>
-      <pubDate>Thu, 24 Sep 2026 07:32:13 GMT</pubDate>
-      <description>待翻译：盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送</description>
-      <category>AI代理</category>
+      <title>leejet/stable-diffusion.cpp</title>
+      <link>https://github.com/leejet/stable-diffusion.cpp</link>
+      <guid>https://github.com/leejet/stable-diffusion.cpp</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>待翻译：Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 14 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-25.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-25.json</guid>
+      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <description>GitHub 热门日报 · 14 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 17 个项目</title>
