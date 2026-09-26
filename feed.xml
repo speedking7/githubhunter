@@ -5,36 +5,108 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:32:06 GMT</lastBuildDate>
     <item>
-      <title>rohitg00/ai-engineering-from-scratch</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：Learn it. Build it. Ship it for others.</description>
-      <category>学习资源</category>
+      <title>paperclipai/paperclip</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <guid>https://github.com/paperclipai/paperclip</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：The open-source app everyone uses to manage agents at work</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.</description>
+      <category>编辑器插件</category>
     </item>
     <item>
       <title>vectorize-io/hindsight</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <guid>https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
       <description>待翻译：Hindsight: Agent Memory That Learns</description>
       <category>AI代理, 记忆管理, 学习资源</category>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid>https://github.com/obra/superpowers</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid>https://github.com/mattpocock/skills</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
+      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
       <guid>https://github.com/dream-num/univer</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
       <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
       <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <guid>https://github.com/anthropics/skills</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：Public repository for Agent Skills</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>androoAGI/starnet</title>
+      <link>https://github.com/androoAGI/starnet</link>
+      <guid>https://github.com/androoAGI/starnet</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>derv82/wifit3</title>
+      <link>https://github.com/derv82/wifit3</link>
+      <guid>https://github.com/derv82/wifit3</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：Wifite but USB-only &amp;amp; cross-platform.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>kelseyhightower/kubernetes-the-hard-way</title>
+      <link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link>
+      <guid>https://github.com/kelseyhightower/kubernetes-the-hard-way</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：Bootstrap Kubernetes the hard way. No scripts.</description>
+      <category>DevOps</category>
+    </item>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：Learn it. Build it. Ship it for others.</description>
+      <category>学习资源</category>
+    </item>
+    <item>
+      <title>shy3130/tick-stock-panel</title>
+      <link>https://github.com/shy3130/tick-stock-panel</link>
+      <guid>https://github.com/shy3130/tick-stock-panel</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源</description>
+      <category>模型/LLM</category>
     </item>
     <item>
       <title>google/ax</title>
       <link>https://github.com/google/ax</link>
       <guid>https://github.com/google/ax</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
       <description>待翻译：Google&apos;s open agentic orchestration runtime</description>
       <category>AI代理, harness</category>
     </item>
@@ -42,81 +114,32 @@
       <title>NVIDIA/Model-Optimizer</title>
       <link>https://github.com/NVIDIA/Model-Optimizer</link>
       <guid>https://github.com/NVIDIA/Model-Optimizer</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
       <description>待翻译：A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.</description>
       <category>开发框架, 模型/LLM, DevOps, 学习资源</category>
     </item>
     <item>
-      <title>FxEmbed/FxEmbed</title>
-      <link>https://github.com/FxEmbed/FxEmbed</link>
-      <guid>https://github.com/FxEmbed/FxEmbed</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others</description>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <guid>https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：The design language that makes your AI harness better at design.</description>
+      <category>harness</category>
+    </item>
+    <item>
+      <title>openbao/openbao</title>
+      <link>https://github.com/openbao/openbao</link>
+      <guid>https://github.com/openbao/openbao</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>待翻译：OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>anthropics/financial-services</title>
-      <link>https://github.com/anthropics/financial-services</link>
-      <guid>https://github.com/anthropics/financial-services</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：anthropics/financial-services</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>HKUDS/CLI-Anything</title>
-      <link>https://github.com/HKUDS/CLI-Anything</link>
-      <guid>https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
-      <category>AI代理, 开发者工具</category>
-    </item>
-    <item>
-      <title>mvt-project/mvt</title>
-      <link>https://github.com/mvt-project/mvt</link>
-      <guid>https://github.com/mvt-project/mvt</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.</description>
-      <category>开发者工具</category>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>strands-agents/harness-sdk</title>
-      <link>https://github.com/strands-agents/harness-sdk</link>
-      <guid>https://github.com/strands-agents/harness-sdk</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp;amp; TypeScript - any model, any cloud.</description>
-      <category>开发框架, AI代理, harness</category>
-    </item>
-    <item>
-      <title>julyx10/lap</title>
-      <link>https://github.com/julyx10/lap</link>
-      <guid>https://github.com/julyx10/lap</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：An offline-first photo manager for large local libraries</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>superdesigndev/treg</title>
-      <link>https://github.com/superdesigndev/treg</link>
-      <guid>https://github.com/superdesigndev/treg</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>leejet/stable-diffusion.cpp</title>
-      <link>https://github.com/leejet/stable-diffusion.cpp</link>
-      <guid>https://github.com/leejet/stable-diffusion.cpp</guid>
-      <pubDate>Fri, 25 Sep 2026 07:39:16 GMT</pubDate>
-      <description>待翻译：Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</description>
-      <category>模型/LLM</category>
+      <title>GitHub 热门日报 · 16 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-26.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-26.json</guid>
+      <pubDate>Sat, 26 Sep 2026 07:32:04 GMT</pubDate>
+      <description>GitHub 热门日报 · 16 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 14 个项目</title>

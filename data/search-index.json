@@ -15927,5 +15927,178 @@
     ],
     "date": "2026-09-25",
     "url": "https://github.com/leejet/stable-diffusion.cpp"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "descriptionZh": "待翻译：The open-source app everyone uses to manage agents at work",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "repo": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "descriptionZh": "待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repo": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "descriptionZh": "待翻译：Hindsight: Agent Memory That Learns",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "学习资源"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "descriptionZh": "待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "repo": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "descriptionZh": "待翻译：Public repository for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repo": "androoAGI/starnet",
+    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "descriptionZh": "待翻译：A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/androoAGI/starnet"
+  },
+  {
+    "repo": "derv82/wifit3",
+    "description": "Wifite but USB-only &amp; cross-platform.",
+    "descriptionZh": "待翻译：Wifite but USB-only &amp; cross-platform.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/derv82/wifit3"
+  },
+  {
+    "repo": "kelseyhightower/kubernetes-the-hard-way",
+    "description": "Bootstrap Kubernetes the hard way. No scripts.",
+    "descriptionZh": "待翻译：Bootstrap Kubernetes the hard way. No scripts.",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "descriptionZh": "待翻译：Learn it. Build it. Ship it for others.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repo": "shy3130/tick-stock-panel",
+    "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+    "descriptionZh": "待翻译：TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/shy3130/tick-stock-panel"
+  },
+  {
+    "repo": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "descriptionZh": "待翻译：Google's open agentic orchestration runtime",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/google/ax"
+  },
+  {
+    "repo": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "descriptionZh": "待翻译：A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "DevOps",
+      "学习资源"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "openbao/openbao",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "descriptionZh": "待翻译：OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-26",
+    "url": "https://github.com/openbao/openbao"
   }
 ]
