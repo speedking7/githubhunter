@@ -16100,5 +16100,167 @@
     ],
     "date": "2026-09-26",
     "url": "https://github.com/openbao/openbao"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "descriptionZh": "待翻译：The open-source app everyone uses to manage agents at work",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "repo": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "descriptionZh": "待翻译：Hindsight: Agent Memory That Learns",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "学习资源"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repo": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "descriptionZh": "待翻译：A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "DevOps",
+      "学习资源"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "repo": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "descriptionZh": "待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "descriptionZh": "待翻译：An Open Source Machine Learning Framework for Everyone",
+    "tags": [
+      "开发框架",
+      "学习资源"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "descriptionZh": "待翻译：Learn it. Build it. Ship it for others.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repo": "openbao/openbao",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "descriptionZh": "待翻译：OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/openbao/openbao"
+  },
+  {
+    "repo": "block/buzz",
+    "description": "A hive mind communication platform",
+    "descriptionZh": "待翻译：A hive mind communication platform",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/block/buzz"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "descriptionZh": "待翻译：Visual Studio Code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repo": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "descriptionZh": "待翻译：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "tags": [
+      "开发框架",
+      "SDK/库",
+      "RAG",
+      "skills",
+      "开发者工具",
+      "安全"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "repo": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "descriptionZh": "待翻译：The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/llvm/llvm-project"
+  },
+  {
+    "repo": "anthropics/claude-code-action",
+    "description": "",
+    "descriptionZh": "待翻译：anthropics/claude-code-action",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/anthropics/claude-code-action"
+  },
+  {
+    "repo": "actions/runner-images",
+    "description": "GitHub Actions runner images",
+    "descriptionZh": "待翻译：GitHub Actions runner images",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/actions/runner-images"
+  },
+  {
+    "repo": "mobile-next/mobile-mcp",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "descriptionZh": "待翻译：Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/mobile-next/mobile-mcp"
+  },
+  {
+    "repo": "vercel/next.js",
+    "description": "The React Framework",
+    "descriptionZh": "待翻译：The React Framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-09-27",
+    "url": "https://github.com/vercel/next.js"
   }
 ]
