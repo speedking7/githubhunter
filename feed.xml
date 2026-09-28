@@ -5,12 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 09:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:36:54 GMT</lastBuildDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
       <guid>https://github.com/paperclipai/paperclip</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
       <description>待翻译：The open-source app everyone uses to manage agents at work</description>
       <category>AI代理</category>
     </item>
@@ -18,113 +18,72 @@
       <title>vectorize-io/hindsight</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <guid>https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
       <description>待翻译：Hindsight: Agent Memory That Learns</description>
       <category>AI代理, 记忆管理, 学习资源</category>
     </item>
     <item>
-      <title>NVIDIA/Model-Optimizer</title>
-      <link>https://github.com/NVIDIA/Model-Optimizer</link>
-      <guid>https://github.com/NVIDIA/Model-Optimizer</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.</description>
-      <category>开发框架, 模型/LLM, DevOps, 学习资源</category>
-    </item>
-    <item>
-      <title>dream-num/univer</title>
-      <link>https://github.com/dream-num/univer</link>
-      <guid>https://github.com/dream-num/univer</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
-      <category>AI代理, harness</category>
-    </item>
-    <item>
-      <title>tensorflow/tensorflow</title>
-      <link>https://github.com/tensorflow/tensorflow</link>
-      <guid>https://github.com/tensorflow/tensorflow</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：An Open Source Machine Learning Framework for Everyone</description>
-      <category>开发框架, 学习资源</category>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid>https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
+      <category>其他</category>
     </item>
     <item>
       <title>rohitg00/ai-engineering-from-scratch</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
       <description>待翻译：Learn it. Build it. Ship it for others.</description>
       <category>学习资源</category>
     </item>
     <item>
-      <title>openbao/openbao</title>
-      <link>https://github.com/openbao/openbao</link>
-      <guid>https://github.com/openbao/openbao</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
+      <title>InfinityLoop1308/PipePipe</title>
+      <link>https://github.com/InfinityLoop1308/PipePipe</link>
+      <guid>https://github.com/InfinityLoop1308/PipePipe</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>待翻译：An open-source Android app to let you browse YouTube and other services freely.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>block/buzz</title>
-      <link>https://github.com/block/buzz</link>
-      <guid>https://github.com/block/buzz</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：A hive mind communication platform</description>
+      <title>vercel-labs/scriptc</title>
+      <link>https://github.com/vercel-labs/scriptc</link>
+      <guid>https://github.com/vercel-labs/scriptc</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>待翻译：TypeScript-to-Native Compiler</description>
       <category>其他</category>
     </item>
     <item>
-      <title>microsoft/vscode</title>
-      <link>https://github.com/microsoft/vscode</link>
-      <guid>https://github.com/microsoft/vscode</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：Visual Studio Code</description>
+      <title>mvschwarz/openrig</title>
+      <link>https://github.com/mvschwarz/openrig</link>
+      <guid>https://github.com/mvschwarz/openrig</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>待翻译：Multi-agent harness that runs Claude Code and Codex together as one system</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>dream-num/univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <guid>https://github.com/dream-num/univer</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>willfaust/Madeira</title>
+      <link>https://github.com/willfaust/Madeira</link>
+      <guid>https://github.com/willfaust/Madeira</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>待翻译：Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</description>
       <category>其他</category>
     </item>
     <item>
-      <title>zhaoxuya520/reverse-skill</title>
-      <link>https://github.com/zhaoxuya520/reverse-skill</link>
-      <guid>https://github.com/zhaoxuya520/reverse-skill</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端</description>
-      <category>开发框架, SDK/库, RAG, skills, 开发者工具, 安全</category>
-    </item>
-    <item>
-      <title>llvm/llvm-project</title>
-      <link>https://github.com/llvm/llvm-project</link>
-      <guid>https://github.com/llvm/llvm-project</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>anthropics/claude-code-action</title>
-      <link>https://github.com/anthropics/claude-code-action</link>
-      <guid>https://github.com/anthropics/claude-code-action</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：anthropics/claude-code-action</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>actions/runner-images</title>
-      <link>https://github.com/actions/runner-images</link>
-      <guid>https://github.com/actions/runner-images</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：GitHub Actions runner images</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>mobile-next/mobile-mcp</title>
-      <link>https://github.com/mobile-next/mobile-mcp</link>
-      <guid>https://github.com/mobile-next/mobile-mcp</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)</description>
-      <category>自动化</category>
-    </item>
-    <item>
-      <title>vercel/next.js</title>
-      <link>https://github.com/vercel/next.js</link>
-      <guid>https://github.com/vercel/next.js</guid>
-      <pubDate>Sun, 27 Sep 2026 08:00:47 GMT</pubDate>
-      <description>待翻译：The React Framework</description>
-      <category>开发框架</category>
+      <title>GitHub 热门日报 · 9 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-28.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-28.json</guid>
+      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <description>GitHub 热门日报 · 9 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 15 个项目</title>

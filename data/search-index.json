@@ -16262,5 +16262,99 @@
     ],
     "date": "2026-09-27",
     "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "descriptionZh": "待翻译：The open-source app everyone uses to manage agents at work",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "repo": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "descriptionZh": "待翻译：Hindsight: Agent Memory That Learns",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "学习资源"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "descriptionZh": "待翻译：Learn it. Build it. Ship it for others.",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repo": "InfinityLoop1308/PipePipe",
+    "description": "An open-source Android app to let you browse YouTube and other services freely.",
+    "descriptionZh": "待翻译：An open-source Android app to let you browse YouTube and other services freely.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/InfinityLoop1308/PipePipe"
+  },
+  {
+    "repo": "vercel-labs/scriptc",
+    "description": "TypeScript-to-Native Compiler",
+    "descriptionZh": "待翻译：TypeScript-to-Native Compiler",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/vercel-labs/scriptc"
+  },
+  {
+    "repo": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "descriptionZh": "待翻译：Multi-agent harness that runs Claude Code and Codex together as one system",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "repo": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "descriptionZh": "待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "repo": "willfaust/Madeira",
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "descriptionZh": "待翻译：Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-28",
+    "url": "https://github.com/willfaust/Madeira"
   }
 ]
