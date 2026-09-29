@@ -5,12 +5,20 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:20:31 GMT</lastBuildDate>
+    <item>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid>https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
+      <category>其他</category>
+    </item>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
       <guid>https://github.com/paperclipai/paperclip</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
       <description>待翻译：The open-source app everyone uses to manage agents at work</description>
       <category>AI代理</category>
     </item>
@@ -18,47 +26,39 @@
       <title>vectorize-io/hindsight</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <guid>https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
       <description>待翻译：Hindsight: Agent Memory That Learns</description>
       <category>AI代理, 记忆管理, 学习资源</category>
     </item>
     <item>
-      <title>debpalash/VoiceStudio</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <guid>https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
-      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
+      <title>NawfalMotii79/PLFM_RADAR</title>
+      <link>https://github.com/NawfalMotii79/PLFM_RADAR</link>
+      <guid>https://github.com/NawfalMotii79/PLFM_RADAR</guid>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <description>待翻译：Open-source, low-cost 10.5 GHz PLFM phased array RADAR system</description>
       <category>其他</category>
     </item>
     <item>
-      <title>rohitg00/ai-engineering-from-scratch</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
-      <description>待翻译：Learn it. Build it. Ship it for others.</description>
+      <title>cs341-illinois/coursebook</title>
+      <link>https://github.com/cs341-illinois/coursebook</link>
+      <guid>https://github.com/cs341-illinois/coursebook</guid>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <description>待翻译：Open Source Introductory Systems Programming Textbook for the University of Illinois</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>byoungd/up</title>
+      <link>https://github.com/byoungd/up</link>
+      <guid>https://github.com/byoungd/up</guid>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <description>待翻译：An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语</description>
       <category>学习资源</category>
-    </item>
-    <item>
-      <title>InfinityLoop1308/PipePipe</title>
-      <link>https://github.com/InfinityLoop1308/PipePipe</link>
-      <guid>https://github.com/InfinityLoop1308/PipePipe</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
-      <description>待翻译：An open-source Android app to let you browse YouTube and other services freely.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>vercel-labs/scriptc</title>
-      <link>https://github.com/vercel-labs/scriptc</link>
-      <guid>https://github.com/vercel-labs/scriptc</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
-      <description>待翻译：TypeScript-to-Native Compiler</description>
-      <category>其他</category>
     </item>
     <item>
       <title>mvschwarz/openrig</title>
       <link>https://github.com/mvschwarz/openrig</link>
       <guid>https://github.com/mvschwarz/openrig</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
       <description>待翻译：Multi-agent harness that runs Claude Code and Codex together as one system</description>
       <category>AI代理, harness</category>
     </item>
@@ -66,17 +66,16 @@
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
       <guid>https://github.com/dream-num/univer</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
       <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
       <category>AI代理, harness</category>
     </item>
     <item>
-      <title>willfaust/Madeira</title>
-      <link>https://github.com/willfaust/Madeira</link>
-      <guid>https://github.com/willfaust/Madeira</guid>
-      <pubDate>Mon, 28 Sep 2026 08:36:52 GMT</pubDate>
-      <description>待翻译：Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</description>
-      <category>其他</category>
+      <title>GitHub 热门日报 · 8 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-29.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-29.json</guid>
+      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <description>GitHub 热门日报 · 8 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 9 个项目</title>

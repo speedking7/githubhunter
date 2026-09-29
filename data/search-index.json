@@ -16356,5 +16356,89 @@
     ],
     "date": "2026-09-28",
     "url": "https://github.com/willfaust/Madeira"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "descriptionZh": "待翻译：The open-source app everyone uses to manage agents at work",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "repo": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "descriptionZh": "待翻译：Hindsight: Agent Memory That Learns",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "学习资源"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repo": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "descriptionZh": "待翻译：Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "repo": "cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "descriptionZh": "待翻译：Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/cs341-illinois/coursebook"
+  },
+  {
+    "repo": "byoungd/up",
+    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "descriptionZh": "待翻译：An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/byoungd/up"
+  },
+  {
+    "repo": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "descriptionZh": "待翻译：Multi-agent harness that runs Claude Code and Codex together as one system",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "repo": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "descriptionZh": "待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-09-29",
+    "url": "https://github.com/dream-num/univer"
   }
 ]
