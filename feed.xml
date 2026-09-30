@@ -5,70 +5,125 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:22:02 GMT</lastBuildDate>
     <item>
       <title>debpalash/VoiceStudio</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <guid>https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
       <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>paperclipai/paperclip</title>
-      <link>https://github.com/paperclipai/paperclip</link>
-      <guid>https://github.com/paperclipai/paperclip</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
-      <description>待翻译：The open-source app everyone uses to manage agents at work</description>
-      <category>AI代理</category>
+      <title>NVIDIA/OpenShell</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <guid>https://github.com/NVIDIA/OpenShell</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：OpenShell is the safe, private runtime for autonomous AI agents.</description>
+      <category>AI代理, harness</category>
     </item>
     <item>
       <title>vectorize-io/hindsight</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <guid>https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
       <description>待翻译：Hindsight: Agent Memory That Learns</description>
       <category>AI代理, 记忆管理, 学习资源</category>
     </item>
     <item>
-      <title>NawfalMotii79/PLFM_RADAR</title>
-      <link>https://github.com/NawfalMotii79/PLFM_RADAR</link>
-      <guid>https://github.com/NawfalMotii79/PLFM_RADAR</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
-      <description>待翻译：Open-source, low-cost 10.5 GHz PLFM phased array RADAR system</description>
+      <title>paperclipai/paperclip</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <guid>https://github.com/paperclipai/paperclip</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：The open-source app everyone uses to manage agents at work</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>t8y2/dbx</title>
+      <link>https://github.com/t8y2/dbx</link>
+      <guid>https://github.com/t8y2/dbx</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
+      <category>SDK/库, AI代理, 开发者工具, DevOps, 数据库</category>
+    </item>
+    <item>
+      <title>mvschwarz/openrig</title>
+      <link>https://github.com/mvschwarz/openrig</link>
+      <guid>https://github.com/mvschwarz/openrig</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：Multi-agent harness that runs Claude Code and Codex together as one system</description>
+      <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>oblien/openship</title>
+      <link>https://github.com/oblien/openship</link>
+      <guid>https://github.com/oblien/openship</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：Self-hosted deployment platform</description>
+      <category>DevOps</category>
+    </item>
+    <item>
+      <title>averygan/reclip</title>
+      <link>https://github.com/averygan/reclip</link>
+      <guid>https://github.com/averygan/reclip</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.</description>
       <category>其他</category>
     </item>
     <item>
       <title>cs341-illinois/coursebook</title>
       <link>https://github.com/cs341-illinois/coursebook</link>
       <guid>https://github.com/cs341-illinois/coursebook</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
       <description>待翻译：Open Source Introductory Systems Programming Textbook for the University of Illinois</description>
       <category>其他</category>
     </item>
     <item>
-      <title>byoungd/up</title>
-      <link>https://github.com/byoungd/up</link>
-      <guid>https://github.com/byoungd/up</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
-      <description>待翻译：An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语</description>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：Learn it. Build it. Ship it for others.</description>
       <category>学习资源</category>
     </item>
     <item>
-      <title>mvschwarz/openrig</title>
-      <link>https://github.com/mvschwarz/openrig</link>
-      <guid>https://github.com/mvschwarz/openrig</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
-      <description>待翻译：Multi-agent harness that runs Claude Code and Codex together as one system</description>
-      <category>AI代理, harness</category>
+      <title>VectifyAI/PageIndex</title>
+      <link>https://github.com/VectifyAI/PageIndex</link>
+      <guid>https://github.com/VectifyAI/PageIndex</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG</description>
+      <category>RAG</category>
+    </item>
+    <item>
+      <title>willfaust/Madeira</title>
+      <link>https://github.com/willfaust/Madeira</link>
+      <guid>https://github.com/willfaust/Madeira</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</description>
+      <category>其他</category>
     </item>
     <item>
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
       <guid>https://github.com/dream-num/univer</guid>
-      <pubDate>Tue, 29 Sep 2026 08:20:27 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
       <description>待翻译：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</description>
       <category>AI代理, harness</category>
+    </item>
+    <item>
+      <title>rakyll/hey</title>
+      <link>https://github.com/rakyll/hey</link>
+      <guid>https://github.com/rakyll/hey</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>待翻译：HTTP load generator, ApacheBench (ab) replacement</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 14 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-09-30.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-09-30.json</guid>
+      <pubDate>Wed, 30 Sep 2026 08:22:00 GMT</pubDate>
+      <description>GitHub 热门日报 · 14 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 8 个项目</title>
