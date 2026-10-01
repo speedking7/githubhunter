@@ -16589,5 +16589,188 @@
     ],
     "date": "2026-09-30",
     "url": "https://github.com/rakyll/hey"
+  },
+  {
+    "repo": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "descriptionZh": "待翻译：OpenShell is the safe, private runtime for autonomous AI agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "descriptionZh": "待翻译：Multi-agent harness that runs Claude Code and Codex together as one system",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "repo": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "harness"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "descriptionZh": "待翻译：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+    "descriptionZh": "待翻译：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "descriptionZh": "待翻译：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "tags": [
+      "skills",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "descriptionZh": "待翻译：Write HTML. Render video. Built for agents.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "description": "Firebase SDK for Apple App Development",
+    "descriptionZh": "待翻译：Firebase SDK for Apple App Development",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/firebase/firebase-ios-sdk"
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "description": "Model Context Protocol Servers",
+    "descriptionZh": "待翻译：Model Context Protocol Servers",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/modelcontextprotocol/servers"
+  },
+  {
+    "repo": "byoungd/up",
+    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "descriptionZh": "待翻译：An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "tags": [
+      "学习资源"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/byoungd/up"
+  },
+  {
+    "repo": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "descriptionZh": "待翻译：Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "tags": [
+      "AI代理",
+      "可视化"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "repo": "t8y2/dbx",
+    "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+    "descriptionZh": "待翻译：25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+    "tags": [
+      "SDK/库",
+      "AI代理",
+      "开发者工具",
+      "DevOps",
+      "数据库"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/t8y2/dbx"
+  },
+  {
+    "repo": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "descriptionZh": "待翻译：Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "repo": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "descriptionZh": "待翻译：📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "tags": [
+      "RAG"
+    ],
+    "date": "2026-10-01",
+    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
