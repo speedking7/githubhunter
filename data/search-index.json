@@ -16772,5 +16772,164 @@
     ],
     "date": "2026-10-01",
     "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "descriptionZh": "待翻译：OpenShell is the safe, private runtime for autonomous AI agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "description": "Firebase SDK for Apple App Development",
+    "descriptionZh": "待翻译：Firebase SDK for Apple App Development",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/firebase/firebase-ios-sdk"
+  },
+  {
+    "repo": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "descriptionZh": "待翻译：Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "repo": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "harness"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "descriptionZh": "待翻译：Write HTML. Render video. Built for agents.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "repo": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "descriptionZh": "待翻译：AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "tags": [
+      "AI代理",
+      "模型/LLM",
+      "开发者工具"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "repo": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "descriptionZh": "待翻译：Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/tile-ai/tilelang"
+  },
+  {
+    "repo": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "descriptionZh": "待翻译：yoink any video from your terminal. no shady ads.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/pablostanley/yoinks"
+  },
+  {
+    "repo": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "descriptionZh": "待翻译：Useful tool to track location or mobile number",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "Friedrich-M/UniMate",
+    "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+    "descriptionZh": "待翻译：[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-10-02",
+    "url": "https://github.com/Friedrich-M/UniMate"
   }
 ]
