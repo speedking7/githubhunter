@@ -17626,5 +17626,129 @@
     ],
     "date": "2026-10-06",
     "url": "https://github.com/M-Abozaid/esp32-c3-adblock"
+  },
+  {
+    "repo": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "descriptionZh": "待翻译：Next generation e2e testing framework for web and mobile apps.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/tester-army/e2e"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "descriptionZh": "待翻译：Give your agent CAD superpowers.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "repo": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "descriptionZh": "待翻译：Tool for automatic PS5 executables porting to Linux and Windows",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "descriptionZh": "待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repo": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "repo": "deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+    "descriptionZh": "待翻译：DeepGEMM: clean and efficient BLAS kernel library on GPU",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/deepseek-ai/DeepGEMM"
+  },
+  {
+    "repo": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repo": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "descriptionZh": "待翻译：Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/DuarteSantos8/openGym"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-07",
+    "url": "https://github.com/cathrynlavery/diagram-design"
   }
 ]
