@@ -17750,5 +17750,144 @@
     ],
     "date": "2026-10-07",
     "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "descriptionZh": "待翻译：Tool for automatic PS5 executables porting to Linux and Windows",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "descriptionZh": "待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "descriptionZh": "待翻译：A native, user-mode, multi-process, graphical debugger.",
+    "tags": [
+      "可视化"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/EpicGames/raddebugger"
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repo": "manaflow-ai/cmux",
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+    "descriptionZh": "待翻译：Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "descriptionZh": "待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "tags": [
+      "模型/LLM",
+      "评估"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "descriptionZh": "待翻译：Next generation e2e testing framework for web and mobile apps.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/tester-army/e2e"
+  },
+  {
+    "repo": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "descriptionZh": "待翻译：Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-08",
+    "url": "https://github.com/DuarteSantos8/openGym"
   }
 ]

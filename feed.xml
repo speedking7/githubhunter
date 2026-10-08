@@ -5,102 +5,117 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 10:59:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:49:10 GMT</lastBuildDate>
     <item>
-      <title>tester-army/e2e</title>
-      <link>https://github.com/tester-army/e2e</link>
-      <guid>https://github.com/tester-army/e2e</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：Next generation e2e testing framework for web and mobile apps.</description>
-      <category>开发框架</category>
+      <title>morluto/rea</title>
+      <link>https://github.com/morluto/rea</link>
+      <guid>https://github.com/morluto/rea</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.</description>
+      <category>开发框架, AI代理</category>
     </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
       <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
       <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>earthtojake/text-to-cad</title>
-      <link>https://github.com/earthtojake/text-to-cad</link>
-      <guid>https://github.com/earthtojake/text-to-cad</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：Give your agent CAD superpowers.</description>
-      <category>AI代理</category>
     </item>
     <item>
       <title>boykopovar/AnyPS5</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <guid>https://github.com/boykopovar/AnyPS5</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
       <description>待翻译：Tool for automatic PS5 executables porting to Linux and Windows</description>
       <category>其他</category>
-    </item>
-    <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <guid>https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：The design language that makes your AI harness better at design.</description>
-      <category>harness</category>
-    </item>
-    <item>
-      <title>thedotmack/claude-mem</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <guid>https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</description>
-      <category>AI代理</category>
     </item>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
       <guid>https://github.com/ayghri/i-have-adhd</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
       <description>待翻译：A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
       <category>AI代理, skills</category>
-    </item>
-    <item>
-      <title>morluto/rea</title>
-      <link>https://github.com/morluto/rea</link>
-      <guid>https://github.com/morluto/rea</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.</description>
-      <category>开发框架, AI代理</category>
-    </item>
-    <item>
-      <title>deepseek-ai/DeepGEMM</title>
-      <link>https://github.com/deepseek-ai/DeepGEMM</link>
-      <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
-      <category>开发框架</category>
-    </item>
-    <item>
-      <title>msitarzewski/agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <guid>https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>DuarteSantos8/openGym</title>
-      <link>https://github.com/DuarteSantos8/openGym</link>
-      <guid>https://github.com/DuarteSantos8/openGym</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
-      <description>待翻译：Self-hosted gym &amp;amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.</description>
-      <category>其他</category>
     </item>
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:39 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
       <description>待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <category>AI代理</category>
+    </item>
+    <item>
+      <title>addyosmani/agent-skills</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <guid>https://github.com/addyosmani/agent-skills</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>EpicGames/raddebugger</title>
+      <link>https://github.com/EpicGames/raddebugger</link>
+      <guid>https://github.com/EpicGames/raddebugger</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：A native, user-mode, multi-process, graphical debugger.</description>
+      <category>可视化</category>
+    </item>
+    <item>
+      <title>thedotmack/claude-mem</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <guid>https://github.com/thedotmack/claude-mem</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>manaflow-ai/cmux</title>
+      <link>https://github.com/manaflow-ai/cmux</link>
+      <guid>https://github.com/manaflow-ai/cmux</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>trycua/cua</title>
+      <link>https://github.com/trycua/cua</link>
+      <guid>https://github.com/trycua/cua</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</description>
+      <category>模型/LLM, 评估</category>
+    </item>
+    <item>
+      <title>cloudflare/security-audit-skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <guid>https://github.com/cloudflare/security-audit-skill</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <category>AI代理, skills, 安全</category>
+    </item>
+    <item>
+      <title>tester-army/e2e</title>
+      <link>https://github.com/tester-army/e2e</link>
+      <guid>https://github.com/tester-army/e2e</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Next generation e2e testing framework for web and mobile apps.</description>
+      <category>开发框架</category>
+    </item>
+    <item>
+      <title>DuarteSantos8/openGym</title>
+      <link>https://github.com/DuarteSantos8/openGym</link>
+      <guid>https://github.com/DuarteSantos8/openGym</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>待翻译：Self-hosted gym &amp;amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 13 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-10-08.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-10-08.json</guid>
+      <pubDate>Thu, 08 Oct 2026 08:49:07 GMT</pubDate>
+      <description>GitHub 热门日报 · 13 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 12 个项目</title>
