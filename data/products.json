@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-10-10",
-    "githubDate": "2026-10-10",
-    "lastUpdated": "2026-10-10T08:23:36.245Z",
+    "date": "2026-10-11",
+    "githubDate": "2026-10-11",
+    "lastUpdated": "2026-10-11T08:40:37.306Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "10",
-        "title": "GitHub 热门日报 · 11 个项目"
+        "day": "11",
+        "title": "GitHub 热门日报 · 13 个项目"
       }
     ]
   },
@@ -24,14 +24,14 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 14927,
-      "starsTotal": 56101,
-      "forks": 10824,
+      "starsToday": 25793,
+      "starsTotal": 81701,
+      "forks": 17668,
       "url": "https://github.com/morluto/rea",
       "rank": 1,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     },
     {
       "repo": "boykopovar/AnyPS5",
@@ -42,14 +42,70 @@
         "其他"
       ],
       "language": "C++",
-      "starsToday": 5868,
-      "starsTotal": 23638,
-      "forks": 1952,
+      "starsToday": 5805,
+      "starsTotal": 27790,
+      "forks": 2350,
       "url": "https://github.com/boykopovar/AnyPS5",
       "rank": 2,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "descriptionZh": "待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Rust",
+      "starsToday": 3222,
+      "starsTotal": 15394,
+      "forks": 2475,
+      "url": "https://github.com/storytold/artcraft",
+      "rank": 3,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "HTML",
+      "starsToday": 1190,
+      "starsTotal": 49348,
+      "forks": 3128,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "rank": 4,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "记忆管理",
+        "harness"
+      ],
+      "language": "TypeScript",
+      "starsToday": 178,
+      "starsTotal": 26495,
+      "forks": 1905,
+      "url": "https://github.com/mksglu/context-mode",
+      "rank": 5,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     },
     {
       "repo": "mattpocock/skills",
@@ -62,53 +118,108 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 1687,
-      "starsTotal": 283328,
-      "forks": 23734,
+      "starsToday": 1736,
+      "starsTotal": 285045,
+      "forks": 23858,
       "url": "https://github.com/mattpocock/skills",
-      "rank": 3,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "rank": 6,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     },
     {
-      "repo": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "repo": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "descriptionZh": "待翻译：Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "readmeSummary": "",
       "tags": [
-        "AI代理"
+        "其他"
       ],
-      "language": "HTML",
-      "starsToday": 1739,
-      "starsTotal": 48281,
-      "forks": 3054,
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "rank": 4,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "language": "Dart",
+      "starsToday": 88,
+      "starsTotal": 179672,
+      "forks": 33654,
+      "url": "https://github.com/flutter/flutter",
+      "rank": 7,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     },
     {
-      "repo": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "descriptionZh": "待翻译：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "repo": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "descriptionZh": "待翻译：An Open Source Machine Learning Framework for Everyone",
       "readmeSummary": "",
       "tags": [
-        "AI代理",
+        "开发框架",
+        "学习资源"
+      ],
+      "language": "C++",
+      "starsToday": 26,
+      "starsTotal": 200812,
+      "forks": 79015,
+      "url": "https://github.com/tensorflow/tensorflow",
+      "rank": 8,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "descriptionZh": "待翻译：AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "readmeSummary": "",
+      "tags": [
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 461,
+      "starsTotal": 59864,
+      "forks": 4718,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "rank": 9,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "descriptionZh": "待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 84,
+      "starsTotal": 104221,
+      "forks": 31991,
+      "url": "https://github.com/pytorch/pytorch",
+      "rank": 10,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
+    },
+    {
+      "repo": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "descriptionZh": "待翻译：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
         "模型/LLM",
-        "数据库",
-        "自动化"
+        "自动化",
+        "学习资源"
       ],
-      "language": "Go",
-      "starsToday": 326,
-      "starsTotal": 45588,
-      "forks": 3292,
-      "url": "https://github.com/alibaba/open-code-review",
-      "rank": 5,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "language": "Python",
+      "starsToday": 96,
+      "starsTotal": 167431,
+      "forks": 34815,
+      "url": "https://github.com/huggingface/transformers",
+      "rank": 11,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
@@ -119,110 +230,32 @@
         "编辑器插件"
       ],
       "language": "Python",
-      "starsToday": 709,
-      "starsTotal": 28478,
-      "forks": 3258,
+      "starsToday": 625,
+      "starsTotal": 28951,
+      "forks": 3287,
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "rank": 6,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "rank": 12,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     },
     {
-      "repo": "BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "descriptionZh": "待翻译：The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "descriptionZh": "待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "readmeSummary": "",
       "tags": [
-        "开发框架",
-        "模型/LLM",
-        "可观测性"
-      ],
-      "language": "Python",
-      "starsToday": 95,
-      "starsTotal": 60815,
-      "forks": 12202,
-      "url": "https://github.com/BerriAI/litellm",
-      "rank": 7,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "skills"
-      ],
-      "language": "JavaScript",
-      "starsToday": 436,
-      "starsTotal": 104218,
-      "forks": 10879,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "rank": 8,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
-    },
-    {
-      "repo": "storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "descriptionZh": "待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Rust",
-      "starsToday": 3752,
-      "starsTotal": 12406,
-      "forks": 1897,
-      "url": "https://github.com/storytold/artcraft",
-      "rank": 9,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
-    },
-    {
-      "repo": "Robbyant/lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "descriptionZh": "待翻译：[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "readmeSummary": "",
-      "tags": [
-        "模型/LLM",
-        "自动化"
-      ],
-      "language": "Python",
-      "starsToday": 110,
-      "starsTotal": 17838,
-      "forks": 1960,
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "rank": 10,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
-    },
-    {
-      "repo": "twostraws/SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "descriptionZh": "待翻译：SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
+        "模型/LLM"
       ],
       "language": "",
-      "starsToday": 65,
-      "starsTotal": 5602,
-      "forks": 197,
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "rank": 11,
-      "date": "2026-10-10",
-      "githubDate": "2026-10-10",
-      "lastUpdated": "2026-10-10T08:23:36.245Z"
+      "starsToday": 278,
+      "starsTotal": 218533,
+      "forks": 22004,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "rank": 13,
+      "date": "2026-10-11",
+      "githubDate": "2026-10-11",
+      "lastUpdated": "2026-10-11T08:40:37.306Z"
     }
   ]
 }
