@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "date": "2026-10-12",
+    "githubDate": "2026-10-12",
+    "lastUpdated": "2026-10-12T09:03:25.577Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "12",
+        "title": "GitHub 热门日报 · 8 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 25599,
+      "starsTotal": 125452,
+      "forks": 28147,
+      "url": "https://github.com/morluto/rea",
+      "rank": 1,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "descriptionZh": "待翻译：Tool for automatic PS5 executables porting to Linux and Windows",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C++",
+      "starsToday": 3952,
+      "starsTotal": 31244,
+      "forks": 2683,
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "rank": 2,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "descriptionZh": "待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Rust",
+      "starsToday": 2957,
+      "starsTotal": 19433,
+      "forks": 3163,
+      "url": "https://github.com/storytold/artcraft",
+      "rank": 3,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "HTML",
+      "starsToday": 1083,
+      "starsTotal": 51310,
+      "forks": 3244,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "rank": 4,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "descriptionZh": "待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "JavaScript",
+      "starsToday": 886,
+      "starsTotal": 52409,
+      "forks": 10459,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "rank": 5,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "descriptionZh": "待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 315,
+      "starsTotal": 104680,
+      "forks": 32185,
+      "url": "https://github.com/pytorch/pytorch",
+      "rank": 6,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "descriptionZh": "待翻译：AirLLM 70B inference with single 4GB GPU",
+      "readmeSummary": "",
+      "tags": [
+        "模型/LLM"
+      ],
+      "language": "Jupyter Notebook",
+      "starsToday": 548,
+      "starsTotal": 36869,
+      "forks": 3836,
+      "url": "https://github.com/lyogavin/airllm",
+      "rank": 7,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "descriptionZh": "待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Assembly",
+      "starsToday": 466,
+      "starsTotal": 74472,
+      "forks": 8118,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "rank": 8,
+      "date": "2026-10-12",
+      "githubDate": "2026-10-12",
+      "lastUpdated": "2026-10-12T09:03:25.577Z"
+    }
+  ]
+}

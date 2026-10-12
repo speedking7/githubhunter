@@ -5,12 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 10:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:03:27 GMT</lastBuildDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
       <guid>https://github.com/morluto/rea</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
       <description>待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.</description>
       <category>开发框架, AI代理</category>
     </item>
@@ -18,7 +18,7 @@
       <title>boykopovar/AnyPS5</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <guid>https://github.com/boykopovar/AnyPS5</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
       <description>待翻译：Tool for automatic PS5 executables porting to Linux and Windows</description>
       <category>其他</category>
     </item>
@@ -26,7 +26,7 @@
       <title>storytold/artcraft</title>
       <link>https://github.com/storytold/artcraft</link>
       <guid>https://github.com/storytold/artcraft</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
       <description>待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
       <category>开发框架</category>
     </item>
@@ -34,81 +34,48 @@
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
       <description>待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>mksglu/context-mode</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <guid>https://github.com/mksglu/context-mode</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
-      <category>AI代理, 记忆管理, harness</category>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>flutter/flutter</title>
-      <link>https://github.com/flutter/flutter</link>
-      <guid>https://github.com/flutter/flutter</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+      <title>bilawalsidhu/gods-eye-view</title>
+      <link>https://github.com/bilawalsidhu/gods-eye-view</link>
+      <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
+      <description>待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
       <category>其他</category>
-    </item>
-    <item>
-      <title>tensorflow/tensorflow</title>
-      <link>https://github.com/tensorflow/tensorflow</link>
-      <guid>https://github.com/tensorflow/tensorflow</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：An Open Source Machine Learning Framework for Everyone</description>
-      <category>开发框架, 学习资源</category>
-    </item>
-    <item>
-      <title>hugohe3/ppt-master</title>
-      <link>https://github.com/hugohe3/ppt-master</link>
-      <guid>https://github.com/hugohe3/ppt-master</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He</description>
-      <category>可视化</category>
     </item>
     <item>
       <title>pytorch/pytorch</title>
       <link>https://github.com/pytorch/pytorch</link>
       <guid>https://github.com/pytorch/pytorch</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
       <description>待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
       <category>其他</category>
     </item>
     <item>
-      <title>huggingface/transformers</title>
-      <link>https://github.com/huggingface/transformers</link>
-      <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</description>
-      <category>开发框架, 模型/LLM, 自动化, 学习资源</category>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
-      <category>编辑器插件</category>
-    </item>
-    <item>
-      <title>multica-ai/andrej-karpathy-skills</title>
-      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
-      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
-      <pubDate>Sun, 11 Oct 2026 08:40:37 GMT</pubDate>
-      <description>待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls.</description>
+      <title>lyogavin/airllm</title>
+      <link>https://github.com/lyogavin/airllm</link>
+      <guid>https://github.com/lyogavin/airllm</guid>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
+      <description>待翻译：AirLLM 70B inference with single 4GB GPU</description>
       <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>chrislgarry/Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <guid>https://github.com/chrislgarry/Apollo-11</guid>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
+      <description>待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 8 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-10-12.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-10-12.json</guid>
+      <pubDate>Mon, 12 Oct 2026 09:03:25 GMT</pubDate>
+      <description>GitHub 热门日报 · 8 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 13 个项目</title>
