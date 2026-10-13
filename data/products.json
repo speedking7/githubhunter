@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-10-12",
-    "githubDate": "2026-10-12",
-    "lastUpdated": "2026-10-12T09:03:25.577Z",
+    "date": "2026-10-13",
+    "githubDate": "2026-10-13",
+    "lastUpdated": "2026-10-13T09:17:56.595Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "12",
-        "title": "GitHub 热门日报 · 8 个项目"
+        "day": "13",
+        "title": "GitHub 热门日报 · 9 个项目"
       }
     ]
   },
@@ -24,68 +24,14 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 25599,
-      "starsTotal": 125452,
-      "forks": 28147,
+      "starsToday": 45327,
+      "starsTotal": 180220,
+      "forks": 43483,
       "url": "https://github.com/morluto/rea",
       "rank": 1,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
-    },
-    {
-      "repo": "boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "descriptionZh": "待翻译：Tool for automatic PS5 executables porting to Linux and Windows",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "C++",
-      "starsToday": 3952,
-      "starsTotal": 31244,
-      "forks": 2683,
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "rank": 2,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
-    },
-    {
-      "repo": "storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "descriptionZh": "待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Rust",
-      "starsToday": 2957,
-      "starsTotal": 19433,
-      "forks": 3163,
-      "url": "https://github.com/storytold/artcraft",
-      "rank": 3,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
-    },
-    {
-      "repo": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "HTML",
-      "starsToday": 1083,
-      "starsTotal": 51310,
-      "forks": 3244,
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "rank": 4,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
@@ -96,68 +42,144 @@
         "其他"
       ],
       "language": "JavaScript",
-      "starsToday": 886,
-      "starsTotal": 52409,
-      "forks": 10459,
+      "starsToday": 1895,
+      "starsTotal": 54356,
+      "forks": 10693,
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "rank": 5,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
+      "rank": 2,
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
     },
     {
-      "repo": "pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "descriptionZh": "待翻译：Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "记忆管理",
+        "harness"
+      ],
+      "language": "TypeScript",
+      "starsToday": 246,
+      "starsTotal": 27662,
+      "forks": 1961,
+      "url": "https://github.com/mksglu/context-mode",
+      "rank": 3,
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "descriptionZh": "待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Rust",
+      "starsToday": 4095,
+      "starsTotal": 23514,
+      "forks": 3744,
+      "url": "https://github.com/storytold/artcraft",
+      "rank": 4,
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "descriptionZh": "待翻译：User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
       "language": "Python",
-      "starsToday": 315,
-      "starsTotal": 104680,
-      "forks": 32185,
-      "url": "https://github.com/pytorch/pytorch",
+      "starsToday": 157,
+      "starsTotal": 155435,
+      "forks": 22666,
+      "url": "https://github.com/open-webui/open-webui",
+      "rank": 5,
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "HTML",
+      "starsToday": 2081,
+      "starsTotal": 53220,
+      "forks": 3366,
+      "url": "https://github.com/cathrynlavery/diagram-design",
       "rank": 6,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
     },
     {
       "repo": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "descriptionZh": "待翻译：AirLLM 70B inference with single 4GB GPU",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "descriptionZh": "待翻译：AirLLM 2.8T LLM inference with single 4GB GPU",
       "readmeSummary": "",
       "tags": [
         "模型/LLM"
       ],
       "language": "Jupyter Notebook",
-      "starsToday": 548,
-      "starsTotal": 36869,
-      "forks": 3836,
+      "starsToday": 879,
+      "starsTotal": 37868,
+      "forks": 3892,
       "url": "https://github.com/lyogavin/airllm",
       "rank": 7,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
     },
     {
-      "repo": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "descriptionZh": "待翻译：Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "repo": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "descriptionZh": "待翻译：Official inference framework for 1-bit LLMs",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "开发框架",
+        "模型/LLM"
       ],
-      "language": "Assembly",
-      "starsToday": 466,
-      "starsTotal": 74472,
-      "forks": 8118,
-      "url": "https://github.com/chrislgarry/Apollo-11",
+      "language": "C++",
+      "starsToday": 97,
+      "starsTotal": 41058,
+      "forks": 3820,
+      "url": "https://github.com/microsoft/BitNet",
       "rank": 8,
-      "date": "2026-10-12",
-      "githubDate": "2026-10-12",
-      "lastUpdated": "2026-10-12T09:03:25.577Z"
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "descriptionZh": "待翻译：Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "readmeSummary": "",
+      "tags": [
+        "harness",
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 626,
+      "starsTotal": 59682,
+      "forks": 9372,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "rank": 9,
+      "date": "2026-10-13",
+      "githubDate": "2026-10-13",
+      "lastUpdated": "2026-10-13T09:17:56.595Z"
     }
   ]
 }
