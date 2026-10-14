@@ -18419,5 +18419,99 @@
     ],
     "date": "2026-10-13",
     "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "repo": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "tags": [
+      "开发框架",
+      "AI代理"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "repo": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "descriptionZh": "待翻译：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "harness"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "descriptionZh": "待翻译：The open agent skills tool - npx skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/vercel-labs/skills"
+  },
+  {
+    "repo": "lyogavin/airllm",
+    "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+    "descriptionZh": "待翻译：AirLLM 2.8T LLM inference with single 4GB GPU",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "repo": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "descriptionZh": "待翻译：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "repo": "xtool-org/xtool",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "descriptionZh": "待翻译：Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-10-14",
+    "url": "https://github.com/xtool-org/xtool"
   }
 ]
