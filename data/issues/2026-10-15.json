@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "date": "2026-10-15",
+    "githubDate": "2026-10-15",
+    "lastUpdated": "2026-10-15T07:18:47.521Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "15",
+        "title": "GitHub 热门日报 · 12 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 41034,
+      "starsTotal": 251837,
+      "forks": 63260,
+      "url": "https://github.com/morluto/rea",
+      "rank": 1,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 3538,
+      "starsTotal": 67236,
+      "forks": 7386,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": 2,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "记忆管理",
+        "harness"
+      ],
+      "language": "TypeScript",
+      "starsToday": 947,
+      "starsTotal": 29380,
+      "forks": 2056,
+      "url": "https://github.com/mksglu/context-mode",
+      "rank": 3,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "descriptionZh": "待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Shell",
+      "starsToday": 52,
+      "starsTotal": 95503,
+      "forks": 10523,
+      "url": "https://github.com/nvm-sh/nvm",
+      "rank": 4,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "descriptionZh": "待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills",
+        "数据库"
+      ],
+      "language": "Python",
+      "starsToday": 163,
+      "starsTotal": 49676,
+      "forks": 4440,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "rank": 5,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "Python",
+      "starsToday": 103,
+      "starsTotal": 52754,
+      "forks": 4786,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "rank": 6,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "descriptionZh": "待翻译：Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Python",
+      "starsToday": 2109,
+      "starsTotal": 27864,
+      "forks": 1519,
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "rank": 7,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "descriptionZh": "待翻译：Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Go",
+      "starsToday": 1025,
+      "starsTotal": 29961,
+      "forks": 4486,
+      "url": "https://github.com/vxcontrol/pentagi",
+      "rank": 8,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "descriptionZh": "待翻译：Empowering everyone to build reliable and efficient software.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Rust",
+      "starsToday": 207,
+      "starsTotal": 120178,
+      "forks": 18708,
+      "url": "https://github.com/rust-lang/rust",
+      "rank": 9,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "descriptionZh": "待翻译：Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "readmeSummary": "",
+      "tags": [
+        "DevOps"
+      ],
+      "language": "Swift",
+      "starsToday": 1502,
+      "starsTotal": 11201,
+      "forks": 511,
+      "url": "https://github.com/xtool-org/xtool",
+      "rank": 10,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "descriptionZh": "待翻译：WinUI app for building smaller, customized Windows 11 images.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C#",
+      "starsToday": 139,
+      "starsTotal": 20377,
+      "forks": 1562,
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "rank": 11,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "descriptionZh": "待翻译：Ghidra is a software reverse engineering (SRE) framework",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Java",
+      "starsToday": 1008,
+      "starsTotal": 87888,
+      "forks": 9804,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "rank": 12,
+      "date": "2026-10-15",
+      "githubDate": "2026-10-15",
+      "lastUpdated": "2026-10-15T07:18:47.521Z"
+    }
+  ]
+}
