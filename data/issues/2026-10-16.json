@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "date": "2026-10-16",
+    "githubDate": "2026-10-16",
+    "lastUpdated": "2026-10-16T07:02:17.873Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "16",
+        "title": "GitHub 热门日报 · 13 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 32314,
+      "starsTotal": 277572,
+      "forks": 69957,
+      "url": "https://github.com/morluto/rea",
+      "rank": 1,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "descriptionZh": "待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 307,
+      "starsTotal": 39470,
+      "forks": 4352,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "rank": 2,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "descriptionZh": "待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills",
+        "数据库"
+      ],
+      "language": "Python",
+      "starsToday": 1091,
+      "starsTotal": 50806,
+      "forks": 4514,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "rank": 3,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "descriptionZh": "待翻译：🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Go",
+      "starsToday": 433,
+      "starsTotal": 112798,
+      "forks": 6531,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "rank": 4,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 3024,
+      "starsTotal": 69645,
+      "forks": 7623,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": 5,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills"
+      ],
+      "language": "Shell",
+      "starsToday": 582,
+      "starsTotal": 300161,
+      "forks": 26808,
+      "url": "https://github.com/obra/superpowers",
+      "rank": 6,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "descriptionZh": "待翻译：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "RAG",
+        "记忆管理",
+        "harness",
+        "DevOps",
+        "自动化",
+        "学习资源"
+      ],
+      "language": "TypeScript",
+      "starsToday": 147,
+      "starsTotal": 75291,
+      "forks": 8944,
+      "url": "https://github.com/ruvnet/ruflo",
+      "rank": 7,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "记忆管理",
+        "harness"
+      ],
+      "language": "TypeScript",
+      "starsToday": 904,
+      "starsTotal": 29908,
+      "forks": 2091,
+      "url": "https://github.com/mksglu/context-mode",
+      "rank": 8,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "descriptionZh": "待翻译：Ghidra is a software reverse engineering (SRE) framework",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Java",
+      "starsToday": 1369,
+      "starsTotal": 89053,
+      "forks": 9946,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "rank": 9,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "记忆管理",
+        "skills",
+        "harness",
+        "安全"
+      ],
+      "language": "JavaScript",
+      "starsToday": 1013,
+      "starsTotal": 280642,
+      "forks": 41736,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": 10,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "descriptionZh": "待翻译：TokenSpeed is a speed-of-light LLM inference engine.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "模型/LLM"
+      ],
+      "language": "Python",
+      "starsToday": 30,
+      "starsTotal": 2574,
+      "forks": 344,
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "rank": 11,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "descriptionZh": "待翻译：XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "readmeSummary": "",
+      "tags": [
+        "SDK/库",
+        "AI代理",
+        "RAG",
+        "记忆管理",
+        "开发者工具",
+        "安全"
+      ],
+      "language": "Rust",
+      "starsToday": 715,
+      "starsTotal": 5983,
+      "forks": 321,
+      "url": "https://github.com/xerj-org/xerj",
+      "rank": 12,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    },
+    {
+      "repo": "LibreSpark/LibreTV",
+      "description": "一分钟搭建影视站，支持Docker等部署方式",
+      "descriptionZh": "待翻译：一分钟搭建影视站，支持Docker等部署方式",
+      "readmeSummary": "",
+      "tags": [
+        "DevOps"
+      ],
+      "language": "TypeScript",
+      "starsToday": 978,
+      "starsTotal": 18346,
+      "forks": 28809,
+      "url": "https://github.com/LibreSpark/LibreTV",
+      "rank": 13,
+      "date": "2026-10-16",
+      "githubDate": "2026-10-16",
+      "lastUpdated": "2026-10-16T07:02:17.873Z"
+    }
+  ]
+}

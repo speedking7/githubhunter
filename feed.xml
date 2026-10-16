@@ -5,102 +5,117 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:02:19 GMT</lastBuildDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
       <guid>https://github.com/morluto/rea</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
       <description>待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.</description>
       <category>开发框架, AI代理</category>
     </item>
     <item>
-      <title>debpalash/VoiceStudio</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <guid>https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>mksglu/context-mode</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <guid>https://github.com/mksglu/context-mode</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
-      <category>AI代理, 记忆管理, harness</category>
-    </item>
-    <item>
-      <title>nvm-sh/nvm</title>
-      <link>https://github.com/nvm-sh/nvm</link>
-      <guid>https://github.com/nvm-sh/nvm</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.</description>
-      <category>其他</category>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.</description>
+      <category>编辑器插件</category>
     </item>
     <item>
       <title>K-Dense-AI/scientific-agent-skills</title>
       <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
       <description>待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
       <category>开发框架, AI代理, skills, 数据库</category>
     </item>
     <item>
-      <title>HKUDS/CLI-Anything</title>
-      <link>https://github.com/HKUDS/CLI-Anything</link>
-      <guid>https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
-      <category>AI代理, 开发者工具</category>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <guid>https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+      <category>AI代理, skills</category>
     </item>
     <item>
-      <title>ifixai-ai/iFixAi</title>
-      <link>https://github.com/ifixai-ai/iFixAi</link>
-      <guid>https://github.com/ifixai-ai/iFixAi</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>vxcontrol/pentagi</title>
-      <link>https://github.com/vxcontrol/pentagi</link>
-      <guid>https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-      <category>AI代理</category>
-    </item>
-    <item>
-      <title>rust-lang/rust</title>
-      <link>https://github.com/rust-lang/rust</link>
-      <guid>https://github.com/rust-lang/rust</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：Empowering everyone to build reliable and efficient software.</description>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid>https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
       <category>其他</category>
     </item>
     <item>
-      <title>xtool-org/xtool</title>
-      <link>https://github.com/xtool-org/xtool</link>
-      <guid>https://github.com/xtool-org/xtool</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.</description>
-      <category>DevOps</category>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid>https://github.com/obra/superpowers</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
+      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
-      <title>ntdevlabs/tiny11builder</title>
-      <link>https://github.com/ntdevlabs/tiny11builder</link>
-      <guid>https://github.com/ntdevlabs/tiny11builder</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
-      <description>待翻译：WinUI app for building smaller, customized Windows 11 images.</description>
-      <category>其他</category>
+      <title>ruvnet/ruflo</title>
+      <link>https://github.com/ruvnet/ruflo</link>
+      <guid>https://github.com/ruvnet/ruflo</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
+      <category>AI代理, RAG, 记忆管理, harness, DevOps, 自动化, 学习资源</category>
+    </item>
+    <item>
+      <title>mksglu/context-mode</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <guid>https://github.com/mksglu/context-mode</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
+      <category>AI代理, 记忆管理, harness</category>
     </item>
     <item>
       <title>NationalSecurityAgency/ghidra</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:47 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
       <description>待翻译：Ghidra is a software reverse engineering (SRE) framework</description>
       <category>开发框架</category>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid>https://github.com/affaan-m/ECC</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <category>AI代理, 记忆管理, skills, harness, 安全</category>
+    </item>
+    <item>
+      <title>lightseekorg/tokenspeed</title>
+      <link>https://github.com/lightseekorg/tokenspeed</link>
+      <guid>https://github.com/lightseekorg/tokenspeed</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：TokenSpeed is a speed-of-light LLM inference engine.</description>
+      <category>开发框架, 模型/LLM</category>
+    </item>
+    <item>
+      <title>xerj-org/xerj</title>
+      <link>https://github.com/xerj-org/xerj</link>
+      <guid>https://github.com/xerj-org/xerj</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.</description>
+      <category>SDK/库, AI代理, RAG, 记忆管理, 开发者工具, 安全</category>
+    </item>
+    <item>
+      <title>LibreSpark/LibreTV</title>
+      <link>https://github.com/LibreSpark/LibreTV</link>
+      <guid>https://github.com/LibreSpark/LibreTV</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>待翻译：一分钟搭建影视站，支持Docker等部署方式</description>
+      <category>DevOps</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 13 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-10-16.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-10-16.json</guid>
+      <pubDate>Fri, 16 Oct 2026 07:02:17 GMT</pubDate>
+      <description>GitHub 热门日报 · 13 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 12 个项目</title>
