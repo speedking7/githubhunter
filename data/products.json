@@ -1,38 +1,19 @@
 {
   "meta": {
-    "date": "2026-10-16",
-    "githubDate": "2026-10-16",
-    "lastUpdated": "2026-10-16T07:02:17.873Z",
+    "date": "2026-10-17",
+    "githubDate": "2026-10-17",
+    "lastUpdated": "2026-10-17T06:51:03.494Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "16",
+        "day": "17",
         "title": "GitHub 热门日报 · 13 个项目"
       }
     ]
   },
   "products": [
-    {
-      "repo": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "descriptionZh": "待翻译：Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理"
-      ],
-      "language": "TypeScript",
-      "starsToday": 32314,
-      "starsTotal": 277572,
-      "forks": 69957,
-      "url": "https://github.com/morluto/rea",
-      "rank": 1,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
-    },
     {
       "repo": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -42,14 +23,14 @@
         "编辑器插件"
       ],
       "language": "Python",
-      "starsToday": 307,
-      "starsTotal": 39470,
-      "forks": 4352,
+      "starsToday": 1552,
+      "starsTotal": 40878,
+      "forks": 4419,
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "rank": 2,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "rank": 1,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -63,71 +44,75 @@
         "数据库"
       ],
       "language": "Python",
-      "starsToday": 1091,
-      "starsTotal": 50806,
-      "forks": 4514,
+      "starsToday": 1158,
+      "starsTotal": 51713,
+      "forks": 4579,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "rank": 3,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "rank": 2,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
-      "repo": "JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "descriptionZh": "待翻译：🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "readmeSummary": "",
       "tags": [
         "AI代理",
-        "skills"
+        "记忆管理",
+        "skills",
+        "harness",
+        "安全"
       ],
-      "language": "Go",
-      "starsToday": 433,
-      "starsTotal": 112798,
-      "forks": 6531,
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "rank": 4,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "language": "JavaScript",
+      "starsToday": 1057,
+      "starsTotal": 281718,
+      "forks": 41893,
+      "url": "https://github.com/affaan-m/ECC",
+      "rank": 3,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "AI代理",
+        "开发者工具"
       ],
       "language": "Python",
-      "starsToday": 3024,
-      "starsTotal": 69645,
-      "forks": 7623,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "rank": 5,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "starsToday": 281,
+      "starsTotal": 53634,
+      "forks": 4867,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "rank": 4,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
-      "repo": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "readmeSummary": "",
       "tags": [
-        "开发框架",
         "AI代理",
-        "skills"
+        "记忆管理",
+        "harness"
       ],
-      "language": "Shell",
-      "starsToday": 582,
-      "starsTotal": 300161,
-      "forks": 26808,
-      "url": "https://github.com/obra/superpowers",
-      "rank": 6,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "language": "TypeScript",
+      "starsToday": 449,
+      "starsTotal": 30323,
+      "forks": 2152,
+      "url": "https://github.com/mksglu/context-mode",
+      "rank": 5,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
       "repo": "ruvnet/ruflo",
@@ -144,93 +129,125 @@
         "学习资源"
       ],
       "language": "TypeScript",
-      "starsToday": 147,
-      "starsTotal": 75291,
-      "forks": 8944,
+      "starsToday": 672,
+      "starsTotal": 75733,
+      "forks": 8973,
       "url": "https://github.com/ruvnet/ruflo",
+      "rank": 6,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
+    },
+    {
+      "repo": "android/skills",
+      "description": "",
+      "descriptionZh": "待翻译：android/skills",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "Kotlin",
+      "starsToday": 36,
+      "starsTotal": 8158,
+      "forks": 540,
+      "url": "https://github.com/android/skills",
       "rank": 7,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
-      "repo": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理",
-        "harness"
-      ],
-      "language": "TypeScript",
-      "starsToday": 904,
-      "starsTotal": 29908,
-      "forks": 2091,
-      "url": "https://github.com/mksglu/context-mode",
-      "rank": 8,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
-    },
-    {
-      "repo": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "descriptionZh": "待翻译：Ghidra is a software reverse engineering (SRE) framework",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Java",
-      "starsToday": 1369,
-      "starsTotal": 89053,
-      "forks": 9946,
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "rank": 9,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理",
-        "skills",
-        "harness",
-        "安全"
-      ],
-      "language": "JavaScript",
-      "starsToday": 1013,
-      "starsTotal": 280642,
-      "forks": 41736,
-      "url": "https://github.com/affaan-m/ECC",
-      "rank": 10,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
-    },
-    {
-      "repo": "lightseekorg/tokenspeed",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "descriptionZh": "待翻译：TokenSpeed is a speed-of-light LLM inference engine.",
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
       "readmeSummary": "",
       "tags": [
         "开发框架",
-        "模型/LLM"
+        "AI代理",
+        "skills"
+      ],
+      "language": "Shell",
+      "starsToday": 973,
+      "starsTotal": 300818,
+      "forks": 26851,
+      "url": "https://github.com/obra/superpowers",
+      "rank": 8,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
+    },
+    {
+      "repo": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 278,
+      "starsTotal": 12076,
+      "forks": 1173,
+      "url": "https://github.com/cursor/plugins",
+      "rank": 9,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
       ],
       "language": "Python",
-      "starsToday": 30,
-      "starsTotal": 2574,
-      "forks": 344,
-      "url": "https://github.com/lightseekorg/tokenspeed",
+      "starsToday": 2301,
+      "starsTotal": 71698,
+      "forks": 7839,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": 10,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "descriptionZh": "待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "评估"
+      ],
+      "language": "Python",
+      "starsToday": 898,
+      "starsTotal": 48841,
+      "forks": 16693,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
       "rank": 11,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
+    },
+    {
+      "repo": "hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "descriptionZh": "待翻译：一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "JavaScript",
+      "starsToday": 538,
+      "starsTotal": 24005,
+      "forks": 1460,
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "rank": 12,
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     },
     {
       "repo": "xerj-org/xerj",
@@ -246,32 +263,14 @@
         "安全"
       ],
       "language": "Rust",
-      "starsToday": 715,
-      "starsTotal": 5983,
-      "forks": 321,
+      "starsToday": 1648,
+      "starsTotal": 7157,
+      "forks": 366,
       "url": "https://github.com/xerj-org/xerj",
-      "rank": 12,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
-    },
-    {
-      "repo": "LibreSpark/LibreTV",
-      "description": "一分钟搭建影视站，支持Docker等部署方式",
-      "descriptionZh": "待翻译：一分钟搭建影视站，支持Docker等部署方式",
-      "readmeSummary": "",
-      "tags": [
-        "DevOps"
-      ],
-      "language": "TypeScript",
-      "starsToday": 978,
-      "starsTotal": 18346,
-      "forks": 28809,
-      "url": "https://github.com/LibreSpark/LibreTV",
       "rank": 13,
-      "date": "2026-10-16",
-      "githubDate": "2026-10-16",
-      "lastUpdated": "2026-10-16T07:02:17.873Z"
+      "date": "2026-10-17",
+      "githubDate": "2026-10-17",
+      "lastUpdated": "2026-10-17T06:51:03.494Z"
     }
   ]
 }
