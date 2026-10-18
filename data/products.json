@@ -1,14 +1,14 @@
 {
   "meta": {
-    "date": "2026-10-17",
-    "githubDate": "2026-10-17",
-    "lastUpdated": "2026-10-17T06:51:03.494Z",
+    "date": "2026-10-18",
+    "githubDate": "2026-10-18",
+    "lastUpdated": "2026-10-18T07:10:10.905Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "17",
+        "day": "18",
         "title": "GitHub 热门日报 · 13 个项目"
       }
     ]
@@ -23,35 +23,33 @@
         "编辑器插件"
       ],
       "language": "Python",
-      "starsToday": 1552,
-      "starsTotal": 40878,
-      "forks": 4419,
+      "starsToday": 1397,
+      "starsTotal": 42050,
+      "forks": 4484,
       "url": "https://github.com/anthropics/claude-plugins-official",
       "rank": 1,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     },
     {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "descriptionZh": "待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "repo": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "descriptionZh": "待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "readmeSummary": "",
       "tags": [
         "开发框架",
-        "AI代理",
-        "skills",
-        "数据库"
+        "评估"
       ],
       "language": "Python",
-      "starsToday": 1158,
-      "starsTotal": 51713,
-      "forks": 4579,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "starsToday": 1365,
+      "starsTotal": 50962,
+      "forks": 16995,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
       "rank": 2,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     },
     {
       "repo": "affaan-m/ECC",
@@ -66,14 +64,14 @@
         "安全"
       ],
       "language": "JavaScript",
-      "starsToday": 1057,
-      "starsTotal": 281718,
-      "forks": 41893,
+      "starsToday": 1145,
+      "starsTotal": 282744,
+      "forks": 42004,
       "url": "https://github.com/affaan-m/ECC",
       "rank": 3,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     },
     {
       "repo": "HKUDS/CLI-Anything",
@@ -85,34 +83,148 @@
         "开发者工具"
       ],
       "language": "Python",
-      "starsToday": 281,
-      "starsTotal": 53634,
-      "forks": 4867,
+      "starsToday": 574,
+      "starsTotal": 54211,
+      "forks": 4912,
       "url": "https://github.com/HKUDS/CLI-Anything",
       "rank": 4,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     },
     {
-      "repo": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "descriptionZh": "待翻译：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "descriptionZh": "待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills",
+        "数据库"
+      ],
+      "language": "Python",
+      "starsToday": 878,
+      "starsTotal": 52423,
+      "forks": 4639,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "rank": 5,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "readmeSummary": "",
       "tags": [
         "AI代理",
         "记忆管理",
-        "harness"
+        "开发者工具"
+      ],
+      "language": "Rust",
+      "starsToday": 178,
+      "starsTotal": 10082,
+      "forks": 727,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "rank": 6,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
+    },
+    {
+      "repo": "android/skills",
+      "description": "",
+      "descriptionZh": "待翻译：android/skills",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "Kotlin",
+      "starsToday": 355,
+      "starsTotal": 8521,
+      "forks": 558,
+      "url": "https://github.com/android/skills",
+      "rank": 7,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
+    },
+    {
+      "repo": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "harness",
+        "自动化"
       ],
       "language": "TypeScript",
-      "starsToday": 449,
-      "starsTotal": 30323,
-      "forks": 2152,
-      "url": "https://github.com/mksglu/context-mode",
-      "rank": 5,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "starsToday": 830,
+      "starsTotal": 95712,
+      "forks": 6126,
+      "url": "https://github.com/stablyai/orca",
+      "rank": 8,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 179,
+      "starsTotal": 152083,
+      "forks": 26934,
+      "url": "https://github.com/anthropics/claude-code",
+      "rank": 9,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 2125,
+      "starsTotal": 73832,
+      "forks": 8078,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": 10,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "descriptionZh": "待翻译：The open source coding agent.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 438,
+      "starsTotal": 215697,
+      "forks": 28898,
+      "url": "https://github.com/anomalyco/opencode",
+      "rank": 11,
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     },
     {
       "repo": "ruvnet/ruflo",
@@ -129,148 +241,36 @@
         "学习资源"
       ],
       "language": "TypeScript",
-      "starsToday": 672,
-      "starsTotal": 75733,
-      "forks": 8973,
+      "starsToday": 420,
+      "starsTotal": 76200,
+      "forks": 9010,
       "url": "https://github.com/ruvnet/ruflo",
-      "rank": 6,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
-    },
-    {
-      "repo": "android/skills",
-      "description": "",
-      "descriptionZh": "待翻译：android/skills",
-      "readmeSummary": "",
-      "tags": [
-        "skills"
-      ],
-      "language": "Kotlin",
-      "starsToday": 36,
-      "starsTotal": 8158,
-      "forks": 540,
-      "url": "https://github.com/android/skills",
-      "rank": 7,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
-    },
-    {
-      "repo": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "skills"
-      ],
-      "language": "Shell",
-      "starsToday": 973,
-      "starsTotal": 300818,
-      "forks": 26851,
-      "url": "https://github.com/obra/superpowers",
-      "rank": 8,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
-    },
-    {
-      "repo": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
-      "readmeSummary": "",
-      "tags": [
-        "编辑器插件"
-      ],
-      "language": "TypeScript",
-      "starsToday": 278,
-      "starsTotal": 12076,
-      "forks": 1173,
-      "url": "https://github.com/cursor/plugins",
-      "rank": 9,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 2301,
-      "starsTotal": 71698,
-      "forks": 7839,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "rank": 10,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
-    },
-    {
-      "repo": "MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "descriptionZh": "待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "评估"
-      ],
-      "language": "Python",
-      "starsToday": 898,
-      "starsTotal": 48841,
-      "forks": 16693,
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "rank": 11,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
-    },
-    {
-      "repo": "hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "descriptionZh": "待翻译：一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "JavaScript",
-      "starsToday": 538,
-      "starsTotal": 24005,
-      "forks": 1460,
-      "url": "https://github.com/hmjz100/LinkSwift",
       "rank": 12,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     },
     {
       "repo": "xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "descriptionZh": "待翻译：XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "descriptionZh": "待翻译：XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "readmeSummary": "",
       "tags": [
-        "SDK/库",
         "AI代理",
         "RAG",
         "记忆管理",
-        "开发者工具",
+        "DevOps",
         "安全"
       ],
       "language": "Rust",
-      "starsToday": 1648,
-      "starsTotal": 7157,
-      "forks": 366,
+      "starsToday": 1160,
+      "starsTotal": 8017,
+      "forks": 425,
       "url": "https://github.com/xerj-org/xerj",
       "rank": 13,
-      "date": "2026-10-17",
-      "githubDate": "2026-10-17",
-      "lastUpdated": "2026-10-17T06:51:03.494Z"
+      "date": "2026-10-18",
+      "githubDate": "2026-10-18",
+      "lastUpdated": "2026-10-18T07:10:10.905Z"
     }
   ]
 }
