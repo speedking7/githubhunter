@@ -5,110 +5,117 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 08:47:14 GMT</lastBuildDate>
-    <item>
-      <title>anthropics/claude-plugins-official</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <guid>https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.</description>
-      <category>编辑器插件</category>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 07:39:30 GMT</lastBuildDate>
     <item>
       <title>MadsLorentzen/ai-job-search</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
       <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
       <description>待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
       <category>开发框架, 评估</category>
     </item>
     <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid>https://github.com/affaan-m/ECC</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-      <category>AI代理, 记忆管理, skills, harness, 安全</category>
-    </item>
-    <item>
-      <title>HKUDS/CLI-Anything</title>
-      <link>https://github.com/HKUDS/CLI-Anything</link>
-      <guid>https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
-      <category>AI代理, 开发者工具</category>
-    </item>
-    <item>
-      <title>K-Dense-AI/scientific-agent-skills</title>
-      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
-      <category>开发框架, AI代理, skills, 数据库</category>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <guid>https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <category>AI代理, 记忆管理, 开发者工具</category>
-    </item>
-    <item>
-      <title>android/skills</title>
-      <link>https://github.com/android/skills</link>
-      <guid>https://github.com/android/skills</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：android/skills</description>
-      <category>skills</category>
-    </item>
-    <item>
-      <title>stablyai/orca</title>
-      <link>https://github.com/stablyai/orca</link>
-      <guid>https://github.com/stablyai/orca</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
-      <category>AI代理, harness, 自动化</category>
-    </item>
-    <item>
-      <title>anthropics/claude-code</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <guid>https://github.com/anthropics/claude-code</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
-      <category>AI代理, 自动化</category>
-    </item>
-    <item>
-      <title>debpalash/VoiceStudio</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <guid>https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
-      <category>其他</category>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <guid>https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.</description>
+      <category>编辑器插件</category>
     </item>
     <item>
       <title>anomalyco/opencode</title>
       <link>https://github.com/anomalyco/opencode</link>
       <guid>https://github.com/anomalyco/opencode</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
       <description>待翻译：The open source coding agent.</description>
       <category>AI代理</category>
+    </item>
+    <item>
+      <title>cursor/plugins</title>
+      <link>https://github.com/cursor/plugins</link>
+      <guid>https://github.com/cursor/plugins</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：Cursor plugin specification and official plugins</description>
+      <category>编辑器插件</category>
     </item>
     <item>
       <title>ruvnet/ruflo</title>
       <link>https://github.com/ruvnet/ruflo</link>
       <guid>https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
       <description>待翻译：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
       <category>AI代理, RAG, 记忆管理, harness, DevOps, 自动化, 学习资源</category>
     </item>
     <item>
-      <title>xerj-org/xerj</title>
-      <link>https://github.com/xerj-org/xerj</link>
-      <guid>https://github.com/xerj-org/xerj</guid>
-      <pubDate>Sun, 18 Oct 2026 07:10:10 GMT</pubDate>
-      <description>待翻译：XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
-      <category>AI代理, RAG, 记忆管理, DevOps, 安全</category>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <guid>https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+      <category>AI代理, 记忆管理, 开发者工具</category>
+    </item>
+    <item>
+      <title>stablyai/orca</title>
+      <link>https://github.com/stablyai/orca</link>
+      <guid>https://github.com/stablyai/orca</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
+      <category>AI代理, harness, 自动化</category>
+    </item>
+    <item>
+      <title>HKUDS/CLI-Anything</title>
+      <link>https://github.com/HKUDS/CLI-Anything</link>
+      <guid>https://github.com/HKUDS/CLI-Anything</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid>https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>android/skills</title>
+      <link>https://github.com/android/skills</link>
+      <guid>https://github.com/android/skills</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：android/skills</description>
+      <category>skills</category>
+    </item>
+    <item>
+      <title>mlabonne/llm-course</title>
+      <link>https://github.com/mlabonne/llm-course</link>
+      <guid>https://github.com/mlabonne/llm-course</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</description>
+      <category>模型/LLM, 学习资源</category>
+    </item>
+    <item>
+      <title>Kruk2/jasna</title>
+      <link>https://github.com/Kruk2/jasna</link>
+      <guid>https://github.com/Kruk2/jasna</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：Video restoration tool</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>Comfy-Org/ComfyUI</title>
+      <link>https://github.com/Comfy-Org/ComfyUI</link>
+      <guid>https://github.com/Comfy-Org/ComfyUI</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</description>
+      <category>开发框架, 模型/LLM, 可视化</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 13 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-10-19.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-10-19.json</guid>
+      <pubDate>Mon, 19 Oct 2026 07:39:26 GMT</pubDate>
+      <description>GitHub 热门日报 · 13 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 13 个项目</title>

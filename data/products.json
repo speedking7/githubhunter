@@ -1,37 +1,19 @@
 {
   "meta": {
-    "date": "2026-10-18",
-    "githubDate": "2026-10-18",
-    "lastUpdated": "2026-10-18T07:10:10.905Z",
+    "date": "2026-10-19",
+    "githubDate": "2026-10-19",
+    "lastUpdated": "2026-10-19T07:39:26.907Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "18",
+        "day": "19",
         "title": "GitHub 热门日报 · 13 个项目"
       }
     ]
   },
   "products": [
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "descriptionZh": "待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "readmeSummary": "",
-      "tags": [
-        "编辑器插件"
-      ],
-      "language": "Python",
-      "starsToday": 1397,
-      "starsTotal": 42050,
-      "forks": 4484,
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "rank": 1,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
     {
       "repo": "MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
@@ -42,171 +24,32 @@
         "评估"
       ],
       "language": "Python",
-      "starsToday": 1365,
-      "starsTotal": 50962,
-      "forks": 16995,
+      "starsToday": 2232,
+      "starsTotal": 54461,
+      "forks": 17605,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "rank": 1,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "descriptionZh": "待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 1175,
+      "starsTotal": 42921,
+      "forks": 4546,
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "rank": 2,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理",
-        "skills",
-        "harness",
-        "安全"
-      ],
-      "language": "JavaScript",
-      "starsToday": 1145,
-      "starsTotal": 282744,
-      "forks": 42004,
-      "url": "https://github.com/affaan-m/ECC",
-      "rank": 3,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具"
-      ],
-      "language": "Python",
-      "starsToday": 574,
-      "starsTotal": 54211,
-      "forks": 4912,
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "rank": 4,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "descriptionZh": "待翻译：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "skills",
-        "数据库"
-      ],
-      "language": "Python",
-      "starsToday": 878,
-      "starsTotal": 52423,
-      "forks": 4639,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "rank": 5,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理",
-        "开发者工具"
-      ],
-      "language": "Rust",
-      "starsToday": 178,
-      "starsTotal": 10082,
-      "forks": 727,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "rank": 6,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "android/skills",
-      "description": "",
-      "descriptionZh": "待翻译：android/skills",
-      "readmeSummary": "",
-      "tags": [
-        "skills"
-      ],
-      "language": "Kotlin",
-      "starsToday": 355,
-      "starsTotal": 8521,
-      "forks": 558,
-      "url": "https://github.com/android/skills",
-      "rank": 7,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "harness",
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 830,
-      "starsTotal": 95712,
-      "forks": 6126,
-      "url": "https://github.com/stablyai/orca",
-      "rank": 8,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 179,
-      "starsTotal": 152083,
-      "forks": 26934,
-      "url": "https://github.com/anthropics/claude-code",
-      "rank": 9,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 2125,
-      "starsTotal": 73832,
-      "forks": 8078,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "rank": 10,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
     },
     {
       "repo": "anomalyco/opencode",
@@ -217,14 +60,32 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 438,
-      "starsTotal": 215697,
-      "forks": 28898,
+      "starsToday": 1414,
+      "starsTotal": 216948,
+      "forks": 29028,
       "url": "https://github.com/anomalyco/opencode",
-      "rank": 11,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
+      "rank": 3,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 350,
+      "starsTotal": 12881,
+      "forks": 1266,
+      "url": "https://github.com/cursor/plugins",
+      "rank": 4,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
     },
     {
       "repo": "ruvnet/ruflo",
@@ -241,36 +102,166 @@
         "学习资源"
       ],
       "language": "TypeScript",
-      "starsToday": 420,
-      "starsTotal": 76200,
-      "forks": 9010,
+      "starsToday": 513,
+      "starsTotal": 76733,
+      "forks": 9067,
       "url": "https://github.com/ruvnet/ruflo",
-      "rank": 12,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
+      "rank": 5,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
     },
     {
-      "repo": "xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
-      "descriptionZh": "待翻译：XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "repo": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "readmeSummary": "",
       "tags": [
         "AI代理",
-        "RAG",
         "记忆管理",
-        "DevOps",
-        "安全"
+        "开发者工具"
       ],
       "language": "Rust",
-      "starsToday": 1160,
-      "starsTotal": 8017,
-      "forks": 425,
-      "url": "https://github.com/xerj-org/xerj",
+      "starsToday": 512,
+      "starsTotal": 10735,
+      "forks": 759,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "rank": 6,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "harness",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1146,
+      "starsTotal": 97192,
+      "forks": 6198,
+      "url": "https://github.com/stablyai/orca",
+      "rank": 7,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "Python",
+      "starsToday": 589,
+      "starsTotal": 54821,
+      "forks": 4957,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "rank": 8,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 2082,
+      "starsTotal": 76203,
+      "forks": 8338,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": 9,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "android/skills",
+      "description": "",
+      "descriptionZh": "待翻译：android/skills",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "Kotlin",
+      "starsToday": 375,
+      "starsTotal": 8915,
+      "forks": 572,
+      "url": "https://github.com/android/skills",
+      "rank": 10,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "descriptionZh": "待翻译：Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "readmeSummary": "",
+      "tags": [
+        "模型/LLM",
+        "学习资源"
+      ],
+      "language": "",
+      "starsToday": 81,
+      "starsTotal": 84237,
+      "forks": 9799,
+      "url": "https://github.com/mlabonne/llm-course",
+      "rank": 11,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "Kruk2/jasna",
+      "description": "Video restoration tool",
+      "descriptionZh": "待翻译：Video restoration tool",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 115,
+      "starsTotal": 2610,
+      "forks": 197,
+      "url": "https://github.com/Kruk2/jasna",
+      "rank": 12,
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "descriptionZh": "待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "模型/LLM",
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 154,
+      "starsTotal": 138949,
+      "forks": 16513,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
       "rank": 13,
-      "date": "2026-10-18",
-      "githubDate": "2026-10-18",
-      "lastUpdated": "2026-10-18T07:10:10.905Z"
+      "date": "2026-10-19",
+      "githubDate": "2026-10-19",
+      "lastUpdated": "2026-10-19T07:39:26.907Z"
     }
   ]
 }

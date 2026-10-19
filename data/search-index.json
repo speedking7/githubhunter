@@ -19103,5 +19103,150 @@
     ],
     "date": "2026-10-18",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "repo": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "descriptionZh": "待翻译：The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "tags": [
+      "开发框架",
+      "评估"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "repo": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "descriptionZh": "待翻译：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "descriptionZh": "待翻译：The open source coding agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "repo": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "repo": "ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "descriptionZh": "待翻译：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "tags": [
+      "AI代理",
+      "RAG",
+      "记忆管理",
+      "harness",
+      "DevOps",
+      "自动化",
+      "学习资源"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repo": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "开发者工具"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "repo": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "tags": [
+      "AI代理",
+      "harness",
+      "自动化"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "android/skills",
+    "description": "",
+    "descriptionZh": "待翻译：android/skills",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/android/skills"
+  },
+  {
+    "repo": "mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "descriptionZh": "待翻译：Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "tags": [
+      "模型/LLM",
+      "学习资源"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/mlabonne/llm-course"
+  },
+  {
+    "repo": "Kruk2/jasna",
+    "description": "Video restoration tool",
+    "descriptionZh": "待翻译：Video restoration tool",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/Kruk2/jasna"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "descriptionZh": "待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "tags": [
+      "开发框架",
+      "模型/LLM",
+      "可视化"
+    ],
+    "date": "2026-10-19",
+    "url": "https://github.com/Comfy-Org/ComfyUI"
   }
 ]
