@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-10-20",
-    "githubDate": "2026-10-20",
-    "lastUpdated": "2026-10-20T07:25:07.401Z",
+    "date": "2026-10-21",
+    "githubDate": "2026-10-21",
+    "lastUpdated": "2026-10-21T07:27:53.464Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "20",
-        "title": "GitHub 热门日报 · 12 个项目"
+        "day": "21",
+        "title": "GitHub 热门日报 · 14 个项目"
       }
     ]
   },
@@ -24,52 +24,72 @@
         "评估"
       ],
       "language": "Python",
-      "starsToday": 3856,
-      "starsTotal": 58321,
-      "forks": 18424,
+      "starsToday": 3861,
+      "starsTotal": 61498,
+      "forks": 19081,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "rank": 1,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
-      "repo": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "descriptionZh": "待翻译：The open source coding agent.",
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "安全"
+      ],
+      "language": "JavaScript",
+      "starsToday": 1712,
+      "starsTotal": 34772,
+      "forks": 2188,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "rank": 2,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
+    },
+    {
+      "repo": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "harness",
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1565,
+      "starsTotal": 100194,
+      "forks": 6351,
+      "url": "https://github.com/stablyai/orca",
+      "rank": 3,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "readmeSummary": "",
       "tags": [
         "AI代理"
       ],
-      "language": "TypeScript",
-      "starsToday": 1311,
-      "starsTotal": 218150,
-      "forks": 29147,
-      "url": "https://github.com/anomalyco/opencode",
-      "rank": 2,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
-    },
-    {
-      "repo": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理",
-        "开发者工具"
-      ],
-      "language": "Rust",
-      "starsToday": 666,
-      "starsTotal": 11580,
-      "forks": 820,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "rank": 3,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "language": "JavaScript",
+      "starsToday": 1208,
+      "starsTotal": 170311,
+      "forks": 9268,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "rank": 4,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
       "repo": "Comfy-Org/ComfyUI",
@@ -82,14 +102,14 @@
         "可视化"
       ],
       "language": "Python",
-      "starsToday": 1011,
-      "starsTotal": 140082,
-      "forks": 16607,
+      "starsToday": 1206,
+      "starsTotal": 141041,
+      "forks": 16686,
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "rank": 4,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "rank": 5,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
       "repo": "ruvnet/ruflo",
@@ -106,34 +126,71 @@
         "学习资源"
       ],
       "language": "TypeScript",
-      "starsToday": 564,
-      "starsTotal": 77392,
-      "forks": 9117,
+      "starsToday": 684,
+      "starsTotal": 77993,
+      "forks": 9174,
       "url": "https://github.com/ruvnet/ruflo",
-      "rank": 5,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "rank": 6,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
-      "repo": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "repo": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "descriptionZh": "待翻译：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "readmeSummary": "",
       "tags": [
-        "AI代理",
-        "harness",
-        "自动化"
+        "skills",
+        "开发者工具",
+        "数据库",
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 802,
+      "starsTotal": 130653,
+      "forks": 12566,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "rank": 7,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "descriptionZh": "待翻译：The open source coding agent.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 1590,
-      "starsTotal": 98706,
-      "forks": 6296,
-      "url": "https://github.com/stablyai/orca",
-      "rank": 6,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "starsToday": 1240,
+      "starsTotal": 219232,
+      "forks": 29248,
+      "url": "https://github.com/anomalyco/opencode",
+      "rank": 8,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "descriptionZh": "待翻译：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Shell",
+      "starsToday": 562,
+      "starsTotal": 162595,
+      "forks": 26247,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "rank": 9,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
       "repo": "headroomlabs-ai/headroom",
@@ -147,88 +204,52 @@
         "模型/LLM"
       ],
       "language": "Python",
-      "starsToday": 310,
-      "starsTotal": 76409,
-      "forks": 5931,
+      "starsToday": 549,
+      "starsTotal": 76895,
+      "forks": 5968,
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "rank": 7,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
-    },
-    {
-      "repo": "withmarbleapp/os-taxonomy",
-      "description": "",
-      "descriptionZh": "待翻译：withmarbleapp/os-taxonomy",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "JavaScript",
-      "starsToday": 284,
-      "starsTotal": 6324,
-      "forks": 1026,
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "rank": 8,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
-    },
-    {
-      "repo": "Kruk2/jasna",
-      "description": "Video restoration tool",
-      "descriptionZh": "待翻译：Video restoration tool",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 498,
-      "starsTotal": 3088,
-      "forks": 224,
-      "url": "https://github.com/Kruk2/jasna",
-      "rank": 9,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具"
-      ],
-      "language": "Python",
-      "starsToday": 606,
-      "starsTotal": 55434,
-      "forks": 4998,
-      "url": "https://github.com/HKUDS/CLI-Anything",
       "rank": 10,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
-      "repo": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "descriptionZh": "待翻译：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 267,
+      "starsTotal": 30913,
+      "forks": 3472,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "rank": 11,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
+    },
+    {
+      "repo": "wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "descriptionZh": "待翻译：Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "readmeSummary": "",
       "tags": [
         "AI代理",
-        "自动化"
+        "harness",
+        "编辑器插件"
       ],
-      "language": "TypeScript",
-      "starsToday": 167,
-      "starsTotal": 152801,
-      "forks": 27149,
-      "url": "https://github.com/anthropics/claude-code",
-      "rank": 11,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "language": "Python",
+      "starsToday": 93,
+      "starsTotal": 41357,
+      "forks": 4400,
+      "url": "https://github.com/wshobson/agents",
+      "rank": 12,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     },
     {
       "repo": "shiyu-coder/Kronos",
@@ -239,14 +260,34 @@
         "其他"
       ],
       "language": "Python",
-      "starsToday": 363,
-      "starsTotal": 41892,
-      "forks": 6949,
+      "starsToday": 733,
+      "starsTotal": 42484,
+      "forks": 7027,
       "url": "https://github.com/shiyu-coder/Kronos",
-      "rank": 12,
-      "date": "2026-10-20",
-      "githubDate": "2026-10-20",
-      "lastUpdated": "2026-10-20T07:25:07.401Z"
+      "rank": 13,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "descriptionZh": "待翻译：A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "记忆管理",
+        "模型/LLM"
+      ],
+      "language": "Python",
+      "starsToday": 128,
+      "starsTotal": 94575,
+      "forks": 23694,
+      "url": "https://github.com/vllm-project/vllm",
+      "rank": 14,
+      "date": "2026-10-21",
+      "githubDate": "2026-10-21",
+      "lastUpdated": "2026-10-21T07:27:53.464Z"
     }
   ]
 }
