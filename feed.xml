@@ -5,102 +5,85 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:25:05 GMT</lastBuildDate>
     <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <guid>https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
-      <category>AI代理, skills, 安全</category>
+      <title>php/php-src</title>
+      <link>https://github.com/php/php-src</link>
+      <guid>https://github.com/php/php-src</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：The PHP Interpreter</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>vllm-project/vllm</title>
-      <link>https://github.com/vllm-project/vllm</link>
-      <guid>https://github.com/vllm-project/vllm</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：A high-throughput and memory-efficient inference and serving engine for LLMs</description>
-      <category>开发框架, 记忆管理, 模型/LLM</category>
-    </item>
-    <item>
-      <title>stablyai/orca</title>
-      <link>https://github.com/stablyai/orca</link>
-      <guid>https://github.com/stablyai/orca</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
-      <category>AI代理, harness, 自动化</category>
-    </item>
-    <item>
-      <title>headroomlabs-ai/headroom</title>
-      <link>https://github.com/headroomlabs-ai/headroom</link>
-      <guid>https://github.com/headroomlabs-ai/headroom</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</description>
-      <category>开发框架, AI代理, RAG, 模型/LLM</category>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+      <category>编辑器插件</category>
     </item>
     <item>
       <title>DietrichGebert/ponytail</title>
       <link>https://github.com/DietrichGebert/ponytail</link>
       <guid>https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
       <description>待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
       <category>AI代理</category>
     </item>
     <item>
-      <title>Comfy-Org/ComfyUI</title>
-      <link>https://github.com/Comfy-Org/ComfyUI</link>
-      <guid>https://github.com/Comfy-Org/ComfyUI</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</description>
-      <category>开发框架, 模型/LLM, 可视化</category>
-    </item>
-    <item>
-      <title>supabase/supabase</title>
-      <link>https://github.com/supabase/supabase</link>
-      <guid>https://github.com/supabase/supabase</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
-      <category>数据库</category>
-    </item>
-    <item>
-      <title>twentyhq/twenty</title>
-      <link>https://github.com/twentyhq/twenty</link>
-      <guid>https://github.com/twentyhq/twenty</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：The open alternative to Salesforce, designed for AI.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>shiyu-coder/Kronos</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <guid>https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：Kronos: A Foundation Model for the Language of Financial Markets</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>strelov1/freehire</title>
-      <link>https://github.com/strelov1/freehire</link>
-      <guid>https://github.com/strelov1/freehire</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：freehire — the open-source search engine for job seekers</description>
-      <category>开发框架</category>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <guid>https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
-      <description>待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <category>AI代理, 记忆管理, 开发者工具</category>
+      <title>cloudflare/security-audit-skill</title>
+      <link>https://github.com/cloudflare/security-audit-skill</link>
+      <guid>https://github.com/cloudflare/security-audit-skill</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <category>AI代理, skills, 安全</category>
     </item>
     <item>
       <title>Graphify-Labs/graphify</title>
       <link>https://github.com/Graphify-Labs/graphify</link>
       <guid>https://github.com/Graphify-Labs/graphify</guid>
-      <pubDate>Thu, 22 Oct 2026 07:27:56 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
       <description>待翻译：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
       <category>skills, 开发者工具, 数据库, 可视化</category>
+    </item>
+    <item>
+      <title>supabase/supabase</title>
+      <link>https://github.com/supabase/supabase</link>
+      <guid>https://github.com/supabase/supabase</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
+      <category>数据库</category>
+    </item>
+    <item>
+      <title>fastapi/fastapi</title>
+      <link>https://github.com/fastapi/fastapi</link>
+      <guid>https://github.com/fastapi/fastapi</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：FastAPI framework, high performance, easy to learn, fast to code, ready for production</description>
+      <category>开发框架, 学习资源</category>
+    </item>
+    <item>
+      <title>luongnv89/claude-howto</title>
+      <link>https://github.com/luongnv89/claude-howto</link>
+      <guid>https://github.com/luongnv89/claude-howto</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</description>
+      <category>AI代理, 学习资源</category>
+    </item>
+    <item>
+      <title>Meloong-Git/PCL</title>
+      <link>https://github.com/Meloong-Git/PCL</link>
+      <guid>https://github.com/Meloong-Git/PCL</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>待翻译：Minecraft 启动器 Plain Craft Launcher（PCL）。</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 9 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-10-23.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-10-23.json</guid>
+      <pubDate>Fri, 23 Oct 2026 07:25:04 GMT</pubDate>
+      <description>GitHub 热门日报 · 9 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 12 个项目</title>

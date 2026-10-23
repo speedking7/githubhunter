@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "date": "2026-10-23",
+    "githubDate": "2026-10-23",
+    "lastUpdated": "2026-10-23T07:25:04.425Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "23",
+        "title": "GitHub 热门日报 · 9 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "php/php-src",
+      "description": "The PHP Interpreter",
+      "descriptionZh": "待翻译：The PHP Interpreter",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C",
+      "starsToday": 287,
+      "starsTotal": 41356,
+      "forks": 8330,
+      "url": "https://github.com/php/php-src",
+      "rank": 1,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 303,
+      "starsTotal": 31793,
+      "forks": 3544,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "rank": 2,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "JavaScript",
+      "starsToday": 1948,
+      "starsTotal": 173998,
+      "forks": 9473,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "rank": 3,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "安全"
+      ],
+      "language": "JavaScript",
+      "starsToday": 2979,
+      "starsTotal": 40214,
+      "forks": 2512,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "rank": 4,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "descriptionZh": "待翻译：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "readmeSummary": "",
+      "tags": [
+        "skills",
+        "开发者工具",
+        "数据库",
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 1408,
+      "starsTotal": 133339,
+      "forks": 12740,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "rank": 5,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "readmeSummary": "",
+      "tags": [
+        "数据库"
+      ],
+      "language": "TypeScript",
+      "starsToday": 693,
+      "starsTotal": 113608,
+      "forks": 17018,
+      "url": "https://github.com/supabase/supabase",
+      "rank": 6,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "descriptionZh": "待翻译：FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "学习资源"
+      ],
+      "language": "Python",
+      "starsToday": 101,
+      "starsTotal": 103946,
+      "forks": 10102,
+      "url": "https://github.com/fastapi/fastapi",
+      "rank": 7,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "descriptionZh": "待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "学习资源"
+      ],
+      "language": "Python",
+      "starsToday": 177,
+      "starsTotal": 43549,
+      "forks": 5412,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "rank": 8,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "descriptionZh": "待翻译：Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Visual Basic .NET",
+      "starsToday": 119,
+      "starsTotal": 8803,
+      "forks": 1225,
+      "url": "https://github.com/Meloong-Git/PCL",
+      "rank": 9,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    }
+  ]
+}

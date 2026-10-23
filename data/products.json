@@ -1,19 +1,73 @@
 {
   "meta": {
-    "date": "2026-10-22",
-    "githubDate": "2026-10-22",
-    "lastUpdated": "2026-10-22T07:27:56.352Z",
+    "date": "2026-10-23",
+    "githubDate": "2026-10-23",
+    "lastUpdated": "2026-10-23T07:25:04.425Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "22",
-        "title": "GitHub 热门日报 · 12 个项目"
+        "day": "23",
+        "title": "GitHub 热门日报 · 9 个项目"
       }
     ]
   },
   "products": [
+    {
+      "repo": "php/php-src",
+      "description": "The PHP Interpreter",
+      "descriptionZh": "待翻译：The PHP Interpreter",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C",
+      "starsToday": 287,
+      "starsTotal": 41356,
+      "forks": 8330,
+      "url": "https://github.com/php/php-src",
+      "rank": 1,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 303,
+      "starsTotal": 31793,
+      "forks": 3544,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "rank": 2,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "JavaScript",
+      "starsToday": 1948,
+      "starsTotal": 173998,
+      "forks": 9473,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "rank": 3,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
     {
       "repo": "cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -25,205 +79,14 @@
         "安全"
       ],
       "language": "JavaScript",
-      "starsToday": 2012,
-      "starsTotal": 37467,
-      "forks": 2342,
+      "starsToday": 2979,
+      "starsTotal": 40214,
+      "forks": 2512,
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "rank": 1,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "descriptionZh": "待翻译：A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "记忆管理",
-        "模型/LLM"
-      ],
-      "language": "Python",
-      "starsToday": 441,
-      "starsTotal": 95022,
-      "forks": 23778,
-      "url": "https://github.com/vllm-project/vllm",
-      "rank": 2,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "descriptionZh": "待翻译：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "harness",
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1541,
-      "starsTotal": 101808,
-      "forks": 6438,
-      "url": "https://github.com/stablyai/orca",
-      "rank": 3,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "descriptionZh": "待翻译：Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "RAG",
-        "模型/LLM"
-      ],
-      "language": "Python",
-      "starsToday": 474,
-      "starsTotal": 77411,
-      "forks": 6010,
-      "url": "https://github.com/headroomlabs-ai/headroom",
       "rank": 4,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "JavaScript",
-      "starsToday": 2079,
-      "starsTotal": 172189,
-      "forks": 9373,
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "rank": 5,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "descriptionZh": "待翻译：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "模型/LLM",
-        "可视化"
-      ],
-      "language": "Python",
-      "starsToday": 939,
-      "starsTotal": 141738,
-      "forks": 16746,
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "rank": 6,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "readmeSummary": "",
-      "tags": [
-        "数据库"
-      ],
-      "language": "TypeScript",
-      "starsToday": 504,
-      "starsTotal": 113174,
-      "forks": 16985,
-      "url": "https://github.com/supabase/supabase",
-      "rank": 7,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "descriptionZh": "待翻译：The open alternative to Salesforce, designed for AI.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "TypeScript",
-      "starsToday": 112,
-      "starsTotal": 59398,
-      "forks": 9676,
-      "url": "https://github.com/twentyhq/twenty",
-      "rank": 8,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 575,
-      "starsTotal": 42992,
-      "forks": 7090,
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "rank": 9,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "descriptionZh": "待翻译：freehire — the open-source search engine for job seekers",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Go",
-      "starsToday": 360,
-      "starsTotal": 2563,
-      "forks": 258,
-      "url": "https://github.com/strelov1/freehire",
-      "rank": 10,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
-    },
-    {
-      "repo": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "descriptionZh": "待翻译：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理",
-        "开发者工具"
-      ],
-      "language": "Rust",
-      "starsToday": 286,
-      "starsTotal": 12537,
-      "forks": 882,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "rank": 11,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
     },
     {
       "repo": "Graphify-Labs/graphify",
@@ -237,14 +100,88 @@
         "可视化"
       ],
       "language": "Python",
-      "starsToday": 1433,
-      "starsTotal": 132017,
-      "forks": 12664,
+      "starsToday": 1408,
+      "starsTotal": 133339,
+      "forks": 12740,
       "url": "https://github.com/Graphify-Labs/graphify",
-      "rank": 12,
-      "date": "2026-10-22",
-      "githubDate": "2026-10-22",
-      "lastUpdated": "2026-10-22T07:27:56.352Z"
+      "rank": 5,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "readmeSummary": "",
+      "tags": [
+        "数据库"
+      ],
+      "language": "TypeScript",
+      "starsToday": 693,
+      "starsTotal": 113608,
+      "forks": 17018,
+      "url": "https://github.com/supabase/supabase",
+      "rank": 6,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "descriptionZh": "待翻译：FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "学习资源"
+      ],
+      "language": "Python",
+      "starsToday": 101,
+      "starsTotal": 103946,
+      "forks": 10102,
+      "url": "https://github.com/fastapi/fastapi",
+      "rank": 7,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "descriptionZh": "待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "学习资源"
+      ],
+      "language": "Python",
+      "starsToday": 177,
+      "starsTotal": 43549,
+      "forks": 5412,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "rank": 8,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
+    },
+    {
+      "repo": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "descriptionZh": "待翻译：Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Visual Basic .NET",
+      "starsToday": 119,
+      "starsTotal": 8803,
+      "forks": 1225,
+      "url": "https://github.com/Meloong-Git/PCL",
+      "rank": 9,
+      "date": "2026-10-23",
+      "githubDate": "2026-10-23",
+      "lastUpdated": "2026-10-23T07:25:04.425Z"
     }
   ]
 }

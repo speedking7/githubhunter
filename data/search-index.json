@@ -19685,5 +19685,102 @@
     ],
     "date": "2026-10-22",
     "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "repo": "php/php-src",
+    "description": "The PHP Interpreter",
+    "descriptionZh": "待翻译：The PHP Interpreter",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/php/php-src"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "descriptionZh": "待翻译：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "descriptionZh": "待翻译：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "tags": [
+      "skills",
+      "开发者工具",
+      "数据库",
+      "可视化"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "repo": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "descriptionZh": "待翻译：The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "tags": [
+      "数据库"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/supabase/supabase"
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "descriptionZh": "待翻译：FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "tags": [
+      "开发框架",
+      "学习资源"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/fastapi/fastapi"
+  },
+  {
+    "repo": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "descriptionZh": "待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "tags": [
+      "AI代理",
+      "学习资源"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "repo": "Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "descriptionZh": "待翻译：Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-23",
+    "url": "https://github.com/Meloong-Git/PCL"
   }
 ]
