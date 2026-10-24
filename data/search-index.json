@@ -19782,5 +19782,91 @@
     ],
     "date": "2026-10-23",
     "url": "https://github.com/Meloong-Git/PCL"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "php/php-src",
+    "description": "The PHP Interpreter",
+    "descriptionZh": "待翻译：The PHP Interpreter",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/php/php-src"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repo": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "descriptionZh": "待翻译：OpenShell is the safe, private runtime for autonomous AI agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "repo": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "descriptionZh": "待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "repo": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "descriptionZh": "待翻译：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "tags": [
+      "开发框架",
+      "skills",
+      "数据库",
+      "安全"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "repo": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "descriptionZh": "待翻译：VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "repo": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "descriptionZh": "待翻译：Node.js JavaScript runtime ✨🐢🚀✨",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-10-24",
+    "url": "https://github.com/nodejs/node"
   }
 ]
