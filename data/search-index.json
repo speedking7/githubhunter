@@ -19868,5 +19868,111 @@
     ],
     "date": "2026-10-24",
     "url": "https://github.com/nodejs/node"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "descriptionZh": "待翻译：OpenShell is the safe, private runtime for autonomous AI agents.",
+    "tags": [
+      "AI代理",
+      "harness"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "repo": "aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "descriptionZh": "待翻译：Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "tags": [
+      "AI代理",
+      "skills",
+      "编辑器插件"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
+    "repo": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "descriptionZh": "待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "tags": [
+      "AI代理",
+      "学习资源"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "descriptionZh": "待翻译：A Tiny biped duck robot 🦆",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/pollen-robotics/microduck"
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "descriptionZh": "待翻译：An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/google-gemini/gemini-cli"
+  },
+  {
+    "repo": "jbiaojerry/ebook-treasure-chest",
+    "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+    "descriptionZh": "待翻译：欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
+  },
+  {
+    "repo": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "descriptionZh": "待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-25",
+    "url": "https://github.com/makecindy/cindy"
   }
 ]

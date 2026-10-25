@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-10-24",
-    "githubDate": "2026-10-24",
-    "lastUpdated": "2026-10-24T07:11:03.365Z",
+    "date": "2026-10-25",
+    "githubDate": "2026-10-25",
+    "lastUpdated": "2026-10-25T07:31:22.263Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "24",
-        "title": "GitHub 热门日报 · 8 个项目"
+        "day": "25",
+        "title": "GitHub 热门日报 · 10 个项目"
       }
     ]
   },
@@ -25,50 +25,14 @@
         "安全"
       ],
       "language": "JavaScript",
-      "starsToday": 2716,
-      "starsTotal": 42629,
-      "forks": 2659,
+      "starsToday": 2264,
+      "starsTotal": 45267,
+      "forks": 2808,
       "url": "https://github.com/cloudflare/security-audit-skill",
       "rank": 1,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
-    },
-    {
-      "repo": "php/php-src",
-      "description": "The PHP Interpreter",
-      "descriptionZh": "待翻译：The PHP Interpreter",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "C",
-      "starsToday": 716,
-      "starsTotal": 41608,
-      "forks": 8364,
-      "url": "https://github.com/php/php-src",
-      "rank": 2,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
-    },
-    {
-      "repo": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "descriptionZh": "待翻译：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "readmeSummary": "",
-      "tags": [
-        "编辑器插件"
-      ],
-      "language": "Python",
-      "starsToday": 635,
-      "starsTotal": 32378,
-      "forks": 3579,
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "rank": 3,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
     },
     {
       "repo": "NVIDIA/OpenShell",
@@ -80,89 +44,161 @@
         "harness"
       ],
       "language": "Rust",
-      "starsToday": 1119,
-      "starsTotal": 18971,
-      "forks": 1897,
+      "starsToday": 896,
+      "starsTotal": 19644,
+      "forks": 1940,
       "url": "https://github.com/NVIDIA/OpenShell",
-      "rank": 4,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
+      "rank": 2,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
     },
     {
-      "repo": "Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "descriptionZh": "待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "repo": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "descriptionZh": "待翻译：Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "readmeSummary": "",
       "tags": [
-        "其他"
-      ],
-      "language": "TypeScript",
-      "starsToday": 546,
-      "starsTotal": 7059,
-      "forks": 1437,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "rank": 5,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
-    },
-    {
-      "repo": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "descriptionZh": "待翻译：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
+        "AI代理",
         "skills",
-        "数据库",
-        "安全"
+        "编辑器插件"
       ],
       "language": "Python",
-      "starsToday": 226,
-      "starsTotal": 8661,
-      "forks": 1113,
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "rank": 6,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
+      "starsToday": 13,
+      "starsTotal": 3217,
+      "forks": 403,
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "rank": 3,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
     },
     {
-      "repo": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "descriptionZh": "待翻译：VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "skills"
       ],
-      "language": "Python",
-      "starsToday": 150,
-      "starsTotal": 40387,
-      "forks": 4589,
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "rank": 7,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
+      "language": "CSS",
+      "starsToday": 455,
+      "starsTotal": 32530,
+      "forks": 1679,
+      "url": "https://github.com/Nutlope/hallmark",
+      "rank": 4,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
     },
     {
-      "repo": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "descriptionZh": "待翻译：Node.js JavaScript runtime ✨🐢🚀✨",
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "descriptionZh": "待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "学习资源"
+      ],
+      "language": "Python",
+      "starsToday": 392,
+      "starsTotal": 44749,
+      "forks": 5504,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "rank": 5,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
       "readmeSummary": "",
       "tags": [
         "harness"
       ],
-      "language": "JavaScript",
-      "starsToday": 66,
-      "starsTotal": 122976,
-      "forks": 39840,
-      "url": "https://github.com/nodejs/node",
+      "language": "Rust",
+      "starsToday": 619,
+      "starsTotal": 86678,
+      "forks": 5176,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": 6,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "descriptionZh": "待翻译：A Tiny biped duck robot 🦆",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 319,
+      "starsTotal": 11162,
+      "forks": 1430,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "rank": 7,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "descriptionZh": "待翻译：An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 44,
+      "starsTotal": 108247,
+      "forks": 14822,
+      "url": "https://github.com/google-gemini/gemini-cli",
       "rank": 8,
-      "date": "2026-10-24",
-      "githubDate": "2026-10-24",
-      "lastUpdated": "2026-10-24T07:11:03.365Z"
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "descriptionZh": "待翻译：欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 227,
+      "starsTotal": 22881,
+      "forks": 3207,
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "rank": 9,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "descriptionZh": "待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 477,
+      "starsTotal": 4283,
+      "forks": 613,
+      "url": "https://github.com/makecindy/cindy",
+      "rank": 10,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
     }
   ]
 }

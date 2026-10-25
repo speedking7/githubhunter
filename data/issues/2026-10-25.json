@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "date": "2026-10-25",
+    "githubDate": "2026-10-25",
+    "lastUpdated": "2026-10-25T07:31:22.263Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "25",
+        "title": "GitHub 热门日报 · 10 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "安全"
+      ],
+      "language": "JavaScript",
+      "starsToday": 2264,
+      "starsTotal": 45267,
+      "forks": 2808,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "rank": 1,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "descriptionZh": "待翻译：OpenShell is the safe, private runtime for autonomous AI agents.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "harness"
+      ],
+      "language": "Rust",
+      "starsToday": 896,
+      "starsTotal": 19644,
+      "forks": 1940,
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "rank": 2,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "descriptionZh": "待翻译：Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 13,
+      "starsTotal": 3217,
+      "forks": 403,
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "rank": 3,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "CSS",
+      "starsToday": 455,
+      "starsTotal": 32530,
+      "forks": 1679,
+      "url": "https://github.com/Nutlope/hallmark",
+      "rank": 4,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "descriptionZh": "待翻译：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "学习资源"
+      ],
+      "language": "Python",
+      "starsToday": 392,
+      "starsTotal": 44749,
+      "forks": 5504,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "rank": 5,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+      "readmeSummary": "",
+      "tags": [
+        "harness"
+      ],
+      "language": "Rust",
+      "starsToday": 619,
+      "starsTotal": 86678,
+      "forks": 5176,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": 6,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "descriptionZh": "待翻译：A Tiny biped duck robot 🦆",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 319,
+      "starsTotal": 11162,
+      "forks": 1430,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "rank": 7,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "descriptionZh": "待翻译：An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 44,
+      "starsTotal": 108247,
+      "forks": 14822,
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "rank": 8,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "descriptionZh": "待翻译：欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 227,
+      "starsTotal": 22881,
+      "forks": 3207,
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "rank": 9,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "descriptionZh": "待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 477,
+      "starsTotal": 4283,
+      "forks": 613,
+      "url": "https://github.com/makecindy/cindy",
+      "rank": 10,
+      "date": "2026-10-25",
+      "githubDate": "2026-10-25",
+      "lastUpdated": "2026-10-25T07:31:22.263Z"
+    }
+  ]
+}
