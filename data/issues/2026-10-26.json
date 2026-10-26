@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "date": "2026-10-26",
+    "githubDate": "2026-10-26",
+    "lastUpdated": "2026-10-26T07:42:14.834Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "26",
+        "title": "GitHub 热门日报 · 11 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "descriptionZh": "待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 675,
+      "starsTotal": 5351,
+      "forks": 700,
+      "url": "https://github.com/makecindy/cindy",
+      "rank": 1,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "CSS",
+      "starsToday": 1317,
+      "starsTotal": 34586,
+      "forks": 1797,
+      "url": "https://github.com/Nutlope/hallmark",
+      "rank": 2,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 1592,
+      "starsTotal": 87480,
+      "forks": 9666,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "rank": 3,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+      "readmeSummary": "",
+      "tags": [
+        "harness"
+      ],
+      "language": "Rust",
+      "starsToday": 1092,
+      "starsTotal": 88162,
+      "forks": 5265,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": 4,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "descriptionZh": "待翻译：A Tiny biped duck robot 🦆",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 647,
+      "starsTotal": 11954,
+      "forks": 1506,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "rank": 5,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "descriptionZh": "待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "模型/LLM"
+      ],
+      "language": "Python",
+      "starsToday": 381,
+      "starsTotal": 114996,
+      "forks": 22164,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "rank": 6,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "descriptionZh": "待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 199,
+      "starsTotal": 8005,
+      "forks": 1613,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "rank": 7,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "descriptionZh": "待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 51,
+      "starsTotal": 2114,
+      "forks": 119,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "rank": 8,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "descriptionZh": "待翻译：An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "readmeSummary": "",
+      "tags": [
+        "开发者工具",
+        "DevOps",
+        "数据库"
+      ],
+      "language": "PHP",
+      "starsToday": 152,
+      "starsTotal": 64709,
+      "forks": 5811,
+      "url": "https://github.com/coollabsio/coolify",
+      "rank": 9,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "安全"
+      ],
+      "language": "JavaScript",
+      "starsToday": 2878,
+      "starsTotal": 47462,
+      "forks": 2946,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "rank": 10,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    },
+    {
+      "repo": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "descriptionZh": "待翻译：Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "模型/LLM",
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 197,
+      "starsTotal": 21386,
+      "forks": 2975,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "rank": 11,
+      "date": "2026-10-26",
+      "githubDate": "2026-10-26",
+      "lastUpdated": "2026-10-26T07:42:14.834Z"
+    }
+  ]
+}
