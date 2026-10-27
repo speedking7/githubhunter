@@ -5,94 +5,125 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:00:24 GMT</lastBuildDate>
-    <item>
-      <title>makecindy/cindy</title>
-      <link>https://github.com/makecindy/cindy</link>
-      <guid>https://github.com/makecindy/cindy</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</description>
-      <category>AI代理</category>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 07:41:04 GMT</lastBuildDate>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
       <guid>https://github.com/Nutlope/hallmark</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
       <description>待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
       <category>skills</category>
-    </item>
-    <item>
-      <title>debpalash/VoiceStudio</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <guid>https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <guid>https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：The design language that makes your AI harness better at design.</description>
-      <category>harness</category>
-    </item>
-    <item>
-      <title>pollen-robotics/microduck</title>
-      <link>https://github.com/pollen-robotics/microduck</link>
-      <guid>https://github.com/pollen-robotics/microduck</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：A Tiny biped duck robot 🦆</description>
-      <category>自动化</category>
     </item>
     <item>
       <title>TauricResearch/TradingAgents</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
       <description>待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
       <category>开发框架, AI代理, 模型/LLM</category>
-    </item>
-    <item>
-      <title>Renhuai123/ziwei-doushu</title>
-      <link>https://github.com/Renhuai123/ziwei-doushu</link>
-      <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
-      <category>其他</category>
     </item>
     <item>
       <title>JetBrains/thinkrail</title>
       <link>https://github.com/JetBrains/thinkrail</link>
       <guid>https://github.com/JetBrains/thinkrail</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
       <description>待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need</description>
       <category>其他</category>
     </item>
     <item>
-      <title>coollabsio/coolify</title>
-      <link>https://github.com/coollabsio/coolify</link>
-      <guid>https://github.com/coollabsio/coolify</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp;amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.</description>
-      <category>开发者工具, DevOps, 数据库</category>
+      <title>makecindy/cindy</title>
+      <link>https://github.com/makecindy/cindy</link>
+      <guid>https://github.com/makecindy/cindy</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</description>
+      <category>AI代理</category>
     </item>
     <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <guid>https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid>https://github.com/affaan-m/ECC</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
+      <category>AI代理, 记忆管理, skills, harness, 安全</category>
+    </item>
+    <item>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <guid>https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：The design language that makes your AI harness better at design.</description>
+      <category>harness</category>
+    </item>
+    <item>
+      <title>NVIDIA/SkillSpector</title>
+      <link>https://github.com/NVIDIA/SkillSpector</link>
+      <guid>https://github.com/NVIDIA/SkillSpector</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
       <category>AI代理, skills, 安全</category>
     </item>
     <item>
-      <title>AgriciDaniel/claude-seo</title>
-      <link>https://github.com/AgriciDaniel/claude-seo</link>
-      <guid>https://github.com/AgriciDaniel/claude-seo</guid>
-      <pubDate>Mon, 26 Oct 2026 07:42:14 GMT</pubDate>
-      <description>待翻译：Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
-      <category>AI代理, skills, 模型/LLM, 编辑器插件</category>
+      <title>pollen-robotics/microduck</title>
+      <link>https://github.com/pollen-robotics/microduck</link>
+      <guid>https://github.com/pollen-robotics/microduck</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：A Tiny biped duck robot 🦆</description>
+      <category>自动化</category>
+    </item>
+    <item>
+      <title>nightly-labs/openbot</title>
+      <link>https://github.com/nightly-labs/openbot</link>
+      <guid>https://github.com/nightly-labs/openbot</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <guid>https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：Give your AI agent eyes to see the entire internet. Read &amp;amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid>https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp;amp; audiobook creation in 646 languages.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>gitroomhq/postiz-app</title>
+      <link>https://github.com/gitroomhq/postiz-app</link>
+      <guid>https://github.com/gitroomhq/postiz-app</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：📨 The ultimate agentic social media scheduling tool 🤖</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>alchaincyf/huashu-design</title>
+      <link>https://github.com/alchaincyf/huashu-design</link>
+      <guid>https://github.com/alchaincyf/huashu-design</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp;amp; any agent</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>multica-ai/andrej-karpathy-skills</title>
+      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
+      <guid>https://github.com/multica-ai/andrej-karpathy-skills</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&apos;s observations on LLM coding pitfalls.</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 14 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-10-27.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-10-27.json</guid>
+      <pubDate>Tue, 27 Oct 2026 07:40:58 GMT</pubDate>
+      <description>GitHub 热门日报 · 14 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 11 个项目</title>

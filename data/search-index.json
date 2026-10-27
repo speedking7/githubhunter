@@ -20093,5 +20093,155 @@
     ],
     "date": "2026-10-26",
     "url": "https://github.com/AgriciDaniel/claude-seo"
+  },
+  {
+    "repo": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tags": [
+      "skills"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "descriptionZh": "待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "模型/LLM"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "repo": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "descriptionZh": "待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "repo": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "descriptionZh": "待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/makecindy/cindy"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "tags": [
+      "AI代理",
+      "记忆管理",
+      "skills",
+      "harness",
+      "安全"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repo": "NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "descriptionZh": "待翻译：Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "repo": "pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "descriptionZh": "待翻译：A Tiny biped duck robot 🦆",
+    "tags": [
+      "自动化"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/pollen-robotics/microduck"
+  },
+  {
+    "repo": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "descriptionZh": "待翻译：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "repo": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "descriptionZh": "待翻译：Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "repo": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repo": "gitroomhq/postiz-app",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "descriptionZh": "待翻译：📨 The ultimate agentic social media scheduling tool 🤖",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/gitroomhq/postiz-app"
+  },
+  {
+    "repo": "alchaincyf/huashu-design",
+    "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
+    "descriptionZh": "待翻译：Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/alchaincyf/huashu-design"
+  },
+  {
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "descriptionZh": "待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-10-27",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
   }
 ]
