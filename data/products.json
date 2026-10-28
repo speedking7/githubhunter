@@ -1,19 +1,37 @@
 {
   "meta": {
-    "date": "2026-10-27",
-    "githubDate": "2026-10-27",
-    "lastUpdated": "2026-10-27T07:40:58.922Z",
+    "date": "2026-10-28",
+    "githubDate": "2026-10-28",
+    "lastUpdated": "2026-10-28T08:17:53.260Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "27",
-        "title": "GitHub 热门日报 · 14 个项目"
+        "day": "28",
+        "title": "GitHub 热门日报 · 11 个项目"
       }
     ]
   },
   "products": [
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "description": "",
+      "descriptionZh": "待翻译：elayadesign/ai-design-skills",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "",
+      "starsToday": 1395,
+      "starsTotal": 10179,
+      "forks": 735,
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "rank": 1,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
+    },
     {
       "repo": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -23,52 +41,70 @@
         "skills"
       ],
       "language": "CSS",
-      "starsToday": 2244,
-      "starsTotal": 37265,
-      "forks": 1942,
+      "starsToday": 2830,
+      "starsTotal": 39579,
+      "forks": 2068,
       "url": "https://github.com/Nutlope/hallmark",
-      "rank": 1,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "rank": 2,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "descriptionZh": "待翻译：TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "repo": "nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "descriptionZh": "待翻译：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 777,
+      "starsTotal": 2742,
+      "forks": 277,
+      "url": "https://github.com/nightly-labs/openbot",
+      "rank": 3,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
+    },
+    {
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
       "readmeSummary": "",
       "tags": [
         "开发框架",
         "AI代理",
-        "模型/LLM"
+        "skills"
       ],
-      "language": "Python",
-      "starsToday": 1395,
-      "starsTotal": 116633,
-      "forks": 22347,
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "rank": 2,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "language": "Shell",
+      "starsToday": 617,
+      "starsTotal": 306763,
+      "forks": 27306,
+      "url": "https://github.com/obra/superpowers",
+      "rank": 4,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
-      "repo": "JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "descriptionZh": "待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "repo": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "descriptionZh": "待翻译：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "AI代理"
       ],
-      "language": "TypeScript",
-      "starsToday": 1173,
-      "starsTotal": 3290,
-      "forks": 179,
-      "url": "https://github.com/JetBrains/thinkrail",
-      "rank": 3,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "language": "Rust",
+      "starsToday": 1449,
+      "starsTotal": 91077,
+      "forks": 5394,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": 5,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
       "repo": "makecindy/cindy",
@@ -79,14 +115,32 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 1296,
-      "starsTotal": 6922,
-      "forks": 833,
+      "starsToday": 1465,
+      "starsTotal": 7725,
+      "forks": 917,
       "url": "https://github.com/makecindy/cindy",
-      "rank": 4,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "rank": 6,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
+    },
+    {
+      "repo": "gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "descriptionZh": "待翻译：📨 The ultimate agentic social media scheduling tool 🤖",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 951,
+      "starsTotal": 39701,
+      "forks": 7541,
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "rank": 7,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
       "repo": "affaan-m/ECC",
@@ -101,180 +155,68 @@
         "安全"
       ],
       "language": "JavaScript",
-      "starsToday": 896,
-      "starsTotal": 290118,
-      "forks": 42998,
+      "starsToday": 1165,
+      "starsTotal": 291180,
+      "forks": 43104,
       "url": "https://github.com/affaan-m/ECC",
-      "rank": 5,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "descriptionZh": "待翻译：The design language that makes your AI harness better at design.",
-      "readmeSummary": "",
-      "tags": [
-        "harness"
-      ],
-      "language": "Rust",
-      "starsToday": 1506,
-      "starsTotal": 89578,
-      "forks": 5327,
-      "url": "https://github.com/pbakaus/impeccable",
-      "rank": 6,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
-    },
-    {
-      "repo": "NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "descriptionZh": "待翻译：Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills",
-        "安全"
-      ],
-      "language": "Python",
-      "starsToday": 214,
-      "starsTotal": 22489,
-      "forks": 1959,
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "rank": 7,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
-    },
-    {
-      "repo": "pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "descriptionZh": "待翻译：A Tiny biped duck robot 🦆",
-      "readmeSummary": "",
-      "tags": [
-        "自动化"
-      ],
-      "language": "Rust",
-      "starsToday": 843,
-      "starsTotal": 12585,
-      "forks": 1562,
-      "url": "https://github.com/pollen-robotics/microduck",
       "rank": 8,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
-      "repo": "nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "descriptionZh": "待翻译：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "TypeScript",
-      "starsToday": 176,
-      "starsTotal": 1723,
-      "forks": 206,
-      "url": "https://github.com/nightly-labs/openbot",
-      "rank": 9,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "descriptionZh": "待翻译：Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具"
-      ],
-      "language": "Python",
-      "starsToday": 746,
-      "starsTotal": 104188,
-      "forks": 9236,
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "rank": 10,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "descriptionZh": "待翻译：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
       "language": "Python",
-      "starsToday": 2297,
-      "starsTotal": 90012,
-      "forks": 9920,
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "rank": 11,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "starsToday": 1598,
+      "starsTotal": 46765,
+      "forks": 5841,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "rank": 9,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
-      "repo": "gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "descriptionZh": "待翻译：📨 The ultimate agentic social media scheduling tool 🤖",
+      "repo": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "descriptionZh": "待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "readmeSummary": "",
       "tags": [
-        "AI代理"
+        "其他"
       ],
       "language": "TypeScript",
-      "starsToday": 188,
-      "starsTotal": 38709,
-      "forks": 7465,
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "rank": 12,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "starsToday": 1204,
+      "starsTotal": 4395,
+      "forks": 234,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "rank": 10,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     },
     {
-      "repo": "alchaincyf/huashu-design",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
-      "descriptionZh": "待翻译：Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
+      "repo": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "descriptionZh": "待翻译：LIST OF ALL MY JAILBREAKS",
       "readmeSummary": "",
       "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "HTML",
-      "starsToday": 251,
-      "starsTotal": 27346,
-      "forks": 2991,
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "rank": 13,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
-    },
-    {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "descriptionZh": "待翻译：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "readmeSummary": "",
-      "tags": [
-        "模型/LLM"
+        "其他"
       ],
       "language": "",
-      "starsToday": 638,
-      "starsTotal": 224966,
-      "forks": 22498,
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "rank": 14,
-      "date": "2026-10-27",
-      "githubDate": "2026-10-27",
-      "lastUpdated": "2026-10-27T07:40:58.922Z"
+      "starsToday": 902,
+      "starsTotal": 6092,
+      "forks": 882,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "rank": 11,
+      "date": "2026-10-28",
+      "githubDate": "2026-10-28",
+      "lastUpdated": "2026-10-28T08:17:53.260Z"
     }
   ]
 }
