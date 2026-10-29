@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "date": "2026-10-29",
+    "githubDate": "2026-10-29",
+    "lastUpdated": "2026-10-29T08:21:21.211Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "29",
+        "title": "GitHub 热门日报 · 14 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "descriptionZh": "待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1068,
+      "starsTotal": 5495,
+      "forks": 279,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "rank": 1,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "description": "",
+      "descriptionZh": "待翻译：elayadesign/ai-design-skills",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "",
+      "starsToday": 2139,
+      "starsTotal": 11525,
+      "forks": 831,
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "rank": 2,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills"
+      ],
+      "language": "Shell",
+      "starsToday": 1095,
+      "starsTotal": 307745,
+      "forks": 27372,
+      "url": "https://github.com/obra/superpowers",
+      "rank": 3,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 2371,
+      "starsTotal": 48738,
+      "forks": 6038,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "rank": 4,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "descriptionZh": "待翻译：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "记忆管理"
+      ],
+      "language": "Rust",
+      "starsToday": 117,
+      "starsTotal": 5584,
+      "forks": 527,
+      "url": "https://github.com/macro-inc/macro",
+      "rank": 5,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "descriptionZh": "待翻译：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "readmeSummary": "",
+      "tags": [
+        "skills"
+      ],
+      "language": "CSS",
+      "starsToday": 2110,
+      "starsTotal": 41190,
+      "forks": 2139,
+      "url": "https://github.com/Nutlope/hallmark",
+      "rank": 6,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "descriptionZh": "待翻译：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Rust",
+      "starsToday": 1472,
+      "starsTotal": 93684,
+      "forks": 5531,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": 7,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "descriptionZh": "待翻译：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 728,
+      "starsTotal": 8361,
+      "forks": 977,
+      "url": "https://github.com/makecindy/cindy",
+      "rank": 8,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "descriptionZh": "待翻译：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1054,
+      "starsTotal": 3485,
+      "forks": 333,
+      "url": "https://github.com/nightly-labs/openbot",
+      "rank": 9,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "descriptionZh": "待翻译：LIST OF ALL MY JAILBREAKS",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "",
+      "starsToday": 1477,
+      "starsTotal": 7654,
+      "forks": 1082,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "rank": 10,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "descriptionZh": "待翻译：一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "JavaScript",
+      "starsToday": 1616,
+      "starsTotal": 35704,
+      "forks": 2535,
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "rank": 11,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "descriptionZh": "待翻译：A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Shell",
+      "starsToday": 90,
+      "starsTotal": 3694,
+      "forks": 234,
+      "url": "https://github.com/expo/skills",
+      "rank": 12,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "readmeSummary": "",
+      "tags": [
+        "可观测性"
+      ],
+      "language": "Rust",
+      "starsToday": 557,
+      "starsTotal": 101338,
+      "forks": 13177,
+      "url": "https://github.com/ruvnet/RuView",
+      "rank": 13,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "descriptionZh": "待翻译：One has no future if one couldn't teach themself.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Jupyter Notebook",
+      "starsToday": 148,
+      "starsTotal": 18741,
+      "forks": 17915,
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "rank": 14,
+      "date": "2026-10-29",
+      "githubDate": "2026-10-29",
+      "lastUpdated": "2026-10-29T08:21:21.211Z"
+    }
+  ]
+}
