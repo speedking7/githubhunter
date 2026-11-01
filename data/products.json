@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-10-31",
-    "githubDate": "2026-10-31",
-    "lastUpdated": "2026-10-31T08:20:05.708Z",
+    "date": "2026-11-01",
+    "githubDate": "2026-11-01",
+    "lastUpdated": "2026-11-01T09:05:22.242Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "31",
-        "title": "GitHub 热门日报 · 15 个项目"
+        "day": "01",
+        "title": "GitHub 热门日报 · 14 个项目"
       }
     ]
   },
@@ -23,124 +23,14 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 1140,
-      "starsTotal": 106771,
-      "forks": 9395,
+      "starsToday": 1723,
+      "starsTotal": 108286,
+      "forks": 9502,
       "url": "https://github.com/thedotmack/claude-mem",
       "rank": 1,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "readmeSummary": "",
-      "tags": [
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 895,
-      "starsTotal": 9020,
-      "forks": 1237,
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "rank": 2,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "descriptionZh": "待翻译：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "Rust",
-      "starsToday": 2300,
-      "starsTotal": 97480,
-      "forks": 5744,
-      "url": "https://github.com/pbakaus/impeccable",
-      "rank": 3,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "descriptionZh": "待翻译：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "TypeScript",
-      "starsToday": 706,
-      "starsTotal": 8968,
-      "forks": 1120,
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "rank": 4,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "descriptionZh": "待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1126,
-      "starsTotal": 11658,
-      "forks": 2301,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "rank": 5,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "expo/skills",
-      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-      "descriptionZh": "待翻译：A collection of AI agent skills for working with Expo projects and Expo Application Services",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "Shell",
-      "starsToday": 38,
-      "starsTotal": 3950,
-      "forks": 249,
-      "url": "https://github.com/expo/skills",
-      "rank": 6,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "descriptionZh": "待翻译：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "记忆管理"
-      ],
-      "language": "Rust",
-      "starsToday": 57,
-      "starsTotal": 5957,
-      "forks": 545,
-      "url": "https://github.com/macro-inc/macro",
-      "rank": 7,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     },
     {
       "repo": "mattpocock/skills",
@@ -153,14 +43,34 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 876,
-      "starsTotal": 307724,
-      "forks": 25900,
+      "starsToday": 883,
+      "starsTotal": 308742,
+      "forks": 25989,
       "url": "https://github.com/mattpocock/skills",
-      "rank": 8,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "rank": 2,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "descriptionZh": "待翻译：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "自动化"
+      ],
+      "language": "Shell",
+      "starsToday": 742,
+      "starsTotal": 31491,
+      "forks": 4310,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "rank": 3,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     },
     {
       "repo": "pingdotgg/t3code",
@@ -171,87 +81,68 @@
         "其他"
       ],
       "language": "TypeScript",
-      "starsToday": 930,
-      "starsTotal": 33141,
-      "forks": 8691,
+      "starsToday": 1148,
+      "starsTotal": 36212,
+      "forks": 8832,
       "url": "https://github.com/pingdotgg/t3code",
-      "rank": 9,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "rank": 4,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     },
     {
-      "repo": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 2282,
-      "starsTotal": 52090,
-      "forks": 6380,
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "rank": 10,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "descriptionZh": "待翻译：Public repository for Agent Skills",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "Python",
-      "starsToday": 295,
-      "starsTotal": 185557,
-      "forks": 21914,
-      "url": "https://github.com/anthropics/skills",
-      "rank": 11,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "descriptionZh": "待翻译：Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "repo": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "descriptionZh": "待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
       "language": "TypeScript",
-      "starsToday": 722,
-      "starsTotal": 6692,
-      "forks": 362,
-      "url": "https://github.com/JetBrains/thinkrail",
-      "rank": 12,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "starsToday": 1092,
+      "starsTotal": 12634,
+      "forks": 2475,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "rank": 5,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     },
     {
-      "repo": "togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "descriptionZh": "待翻译：LIST OF ALL MY JAILBREAKS",
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "自动化"
       ],
-      "language": "",
-      "starsToday": 2055,
-      "starsTotal": 11621,
-      "forks": 1714,
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "rank": 13,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "language": "TypeScript",
+      "starsToday": 1303,
+      "starsTotal": 9986,
+      "forks": 1385,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "rank": 6,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "descriptionZh": "待翻译：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Rust",
+      "starsToday": 1338,
+      "starsTotal": 98667,
+      "forks": 5817,
+      "url": "https://github.com/pbakaus/impeccable",
+      "rank": 7,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     },
     {
       "repo": "obra/superpowers",
@@ -264,14 +155,14 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 1259,
-      "starsTotal": 309616,
-      "forks": 27550,
+      "starsToday": 665,
+      "starsTotal": 310267,
+      "forks": 27608,
       "url": "https://github.com/obra/superpowers",
-      "rank": 14,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "rank": 8,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     },
     {
       "repo": "lightpanda-io/browser",
@@ -282,14 +173,108 @@
         "自动化"
       ],
       "language": "Zig",
-      "starsToday": 626,
-      "starsTotal": 38671,
-      "forks": 1881,
+      "starsToday": 929,
+      "starsTotal": 39488,
+      "forks": 1924,
       "url": "https://github.com/lightpanda-io/browser",
-      "rank": 15,
-      "date": "2026-10-31",
-      "githubDate": "2026-10-31",
-      "lastUpdated": "2026-10-31T08:20:05.708Z"
+      "rank": 9,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 1034,
+      "starsTotal": 53193,
+      "forks": 6509,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "rank": 10,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "Orkas-AI/Orkas",
+      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.",
+      "descriptionZh": "待翻译：Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "自动化"
+      ],
+      "language": "JavaScript",
+      "starsToday": 1044,
+      "starsTotal": 7018,
+      "forks": 441,
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "rank": 11,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "descriptionZh": "待翻译：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "学习资源"
+      ],
+      "language": "TypeScript",
+      "starsToday": 116,
+      "starsTotal": 42318,
+      "forks": 6522,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "rank": 12,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "descriptionZh": "待翻译：Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "readmeSummary": "",
+      "tags": [
+        "DevOps",
+        "数据库"
+      ],
+      "language": "Python",
+      "starsToday": 342,
+      "starsTotal": 86193,
+      "forks": 20561,
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "rank": 13,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
+    },
+    {
+      "repo": "vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "descriptionZh": "待翻译：Free and open-source macOS menu bar toolkit.",
+      "readmeSummary": "",
+      "tags": [
+        "开发者工具"
+      ],
+      "language": "Swift",
+      "starsToday": 501,
+      "starsTotal": 32126,
+      "forks": 1548,
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "rank": 14,
+      "date": "2026-11-01",
+      "githubDate": "2026-11-01",
+      "lastUpdated": "2026-11-01T09:05:22.242Z"
     }
   ]
 }
