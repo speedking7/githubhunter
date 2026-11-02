@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-11-01",
-    "githubDate": "2026-11-01",
-    "lastUpdated": "2026-11-01T09:05:22.242Z",
+    "date": "2026-11-02",
+    "githubDate": "2026-11-02",
+    "lastUpdated": "2026-11-02T09:18:49.807Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "01",
-        "title": "GitHub 热门日报 · 14 个项目"
+        "day": "02",
+        "title": "GitHub 热门日报 · 16 个项目"
       }
     ]
   },
@@ -23,34 +23,122 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 1723,
-      "starsTotal": 108286,
-      "forks": 9502,
+      "starsToday": 1526,
+      "starsTotal": 110017,
+      "forks": 9603,
       "url": "https://github.com/thedotmack/claude-mem",
       "rank": 1,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
-      "repo": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+      "repo": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "descriptionZh": "待翻译：Lightpanda: the headless browser designed for AI and automation",
       "readmeSummary": "",
       "tags": [
-        "开发框架",
-        "AI代理",
-        "skills"
+        "自动化"
       ],
-      "language": "Shell",
-      "starsToday": 883,
-      "starsTotal": 308742,
-      "forks": 25989,
-      "url": "https://github.com/mattpocock/skills",
+      "language": "Zig",
+      "starsToday": 825,
+      "starsTotal": 40668,
+      "forks": 1985,
+      "url": "https://github.com/lightpanda-io/browser",
       "rank": 2,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 630,
+      "starsTotal": 45675,
+      "forks": 7534,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "rank": 3,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "description": "",
+      "descriptionZh": "待翻译：pingdotgg/t3code",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 3094,
+      "starsTotal": 39226,
+      "forks": 8976,
+      "url": "https://github.com/pingdotgg/t3code",
+      "rank": 4,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 922,
+      "starsTotal": 10909,
+      "forks": 1488,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "rank": 5,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "descriptionZh": "待翻译：A collective list of free APIs",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 324,
+      "starsTotal": 495195,
+      "forks": 55251,
+      "url": "https://github.com/public-apis/public-apis",
+      "rank": 6,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "descriptionZh": "待翻译：A free, open source, and extensible speech-to-text application that works completely offline.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Rust",
+      "starsToday": 339,
+      "starsTotal": 36947,
+      "forks": 3477,
+      "url": "https://github.com/cjpais/Handy",
+      "rank": 7,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
@@ -63,218 +151,163 @@
         "自动化"
       ],
       "language": "Shell",
-      "starsToday": 742,
-      "starsTotal": 31491,
-      "forks": 4310,
+      "starsToday": 967,
+      "starsTotal": 32844,
+      "forks": 4456,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "rank": 3,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "rank": 8,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
-      "repo": "pingdotgg/t3code",
-      "description": "",
-      "descriptionZh": "待翻译：pingdotgg/t3code",
+      "repo": "kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "descriptionZh": "待翻译：🐍 Geometric Computer Vision Library for Spatial AI",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Python",
+      "starsToday": 101,
+      "starsTotal": 11953,
+      "forks": 1480,
+      "url": "https://github.com/kornia/kornia",
+      "rank": 9,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "descriptionZh": "待翻译：Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "模型/LLM",
+        "安全"
+      ],
+      "language": "Python",
+      "starsToday": 446,
+      "starsTotal": 6483,
+      "forks": 663,
+      "url": "https://github.com/beenuar/AiSOC",
+      "rank": 10,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "descriptionZh": "待翻译：Local voice dictation for mac, windows and linux",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
-      "language": "TypeScript",
-      "starsToday": 1148,
-      "starsTotal": 36212,
-      "forks": 8832,
-      "url": "https://github.com/pingdotgg/t3code",
-      "rank": 4,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "language": "Rust",
+      "starsToday": 1179,
+      "starsTotal": 3713,
+      "forks": 211,
+      "url": "https://github.com/anomalyco/hex",
+      "rank": 11,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
-      "repo": "Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "descriptionZh": "待翻译：紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1092,
-      "starsTotal": 12634,
-      "forks": 2475,
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "rank": 5,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
-    },
-    {
-      "repo": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "readmeSummary": "",
-      "tags": [
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1303,
-      "starsTotal": 9986,
-      "forks": 1385,
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "rank": 6,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "descriptionZh": "待翻译：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "repo": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "descriptionZh": "待翻译：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "readmeSummary": "",
       "tags": [
         "AI代理"
       ],
-      "language": "Rust",
-      "starsToday": 1338,
-      "starsTotal": 98667,
-      "forks": 5817,
-      "url": "https://github.com/pbakaus/impeccable",
-      "rank": 7,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "language": "TypeScript",
+      "starsToday": 175,
+      "starsTotal": 9756,
+      "forks": 1202,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "rank": 12,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
-      "repo": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+      "repo": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "descriptionZh": "待翻译：LIST OF ALL MY JAILBREAKS",
       "readmeSummary": "",
       "tags": [
-        "开发框架",
+        "其他"
+      ],
+      "language": "",
+      "starsToday": 726,
+      "starsTotal": 13311,
+      "forks": 1989,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "rank": 13,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
+    },
+    {
+      "repo": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "descriptionZh": "待翻译：In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "readmeSummary": "",
+      "tags": [
         "AI代理",
-        "skills"
+        "RAG",
+        "模型/LLM",
+        "学习资源"
       ],
-      "language": "Shell",
-      "starsToday": 665,
-      "starsTotal": 310267,
-      "forks": 27608,
-      "url": "https://github.com/obra/superpowers",
-      "rank": 8,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "language": "Jupyter Notebook",
+      "starsToday": 1191,
+      "starsTotal": 40718,
+      "forks": 6524,
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "rank": 14,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
-      "repo": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "descriptionZh": "待翻译：Lightpanda: the headless browser designed for AI and automation",
-      "readmeSummary": "",
-      "tags": [
-        "自动化"
-      ],
-      "language": "Zig",
-      "starsToday": 929,
-      "starsTotal": 39488,
-      "forks": 1924,
-      "url": "https://github.com/lightpanda-io/browser",
-      "rank": 9,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
-    },
-    {
-      "repo": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "descriptionZh": "待翻译：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "repo": "FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "descriptionZh": "待翻译：FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
       "language": "Python",
-      "starsToday": 1034,
-      "starsTotal": 53193,
-      "forks": 6509,
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "rank": 10,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "starsToday": 242,
+      "starsTotal": 15674,
+      "forks": 1567,
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "rank": 15,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     },
     {
-      "repo": "Orkas-AI/Orkas",
-      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.",
-      "descriptionZh": "待翻译：Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.",
+      "repo": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "descriptionZh": "待翻译：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "readmeSummary": "",
       "tags": [
-        "AI代理",
-        "自动化"
+        "其他"
       ],
-      "language": "JavaScript",
-      "starsToday": 1044,
-      "starsTotal": 7018,
-      "forks": 441,
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "rank": 11,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
-    },
-    {
-      "repo": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "descriptionZh": "待翻译：Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具",
-        "学习资源"
-      ],
-      "language": "TypeScript",
-      "starsToday": 116,
-      "starsTotal": 42318,
-      "forks": 6522,
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "rank": 12,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
-    },
-    {
-      "repo": "bregman-arie/devops-exercises",
-      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "descriptionZh": "待翻译：Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "readmeSummary": "",
-      "tags": [
-        "DevOps",
-        "数据库"
-      ],
-      "language": "Python",
-      "starsToday": 342,
-      "starsTotal": 86193,
-      "forks": 20561,
-      "url": "https://github.com/bregman-arie/devops-exercises",
-      "rank": 13,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
-    },
-    {
-      "repo": "vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "descriptionZh": "待翻译：Free and open-source macOS menu bar toolkit.",
-      "readmeSummary": "",
-      "tags": [
-        "开发者工具"
-      ],
-      "language": "Swift",
-      "starsToday": 501,
-      "starsTotal": 32126,
-      "forks": 1548,
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "rank": 14,
-      "date": "2026-11-01",
-      "githubDate": "2026-11-01",
-      "lastUpdated": "2026-11-01T09:05:22.242Z"
+      "language": "C++",
+      "starsToday": 38,
+      "starsTotal": 39561,
+      "forks": 2136,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "rank": 16,
+      "date": "2026-11-02",
+      "githubDate": "2026-11-02",
+      "lastUpdated": "2026-11-02T09:18:49.807Z"
     }
   ]
 }
