@@ -1,19 +1,37 @@
 {
   "meta": {
-    "date": "2026-11-03",
-    "githubDate": "2026-11-03",
-    "lastUpdated": "2026-11-03T09:25:49.719Z",
+    "date": "2026-11-04",
+    "githubDate": "2026-11-04",
+    "lastUpdated": "2026-11-04T08:58:58.496Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "03",
-        "title": "GitHub 热门日报 · 15 个项目"
+        "day": "04",
+        "title": "GitHub 热门日报 · 13 个项目"
       }
     ]
   },
   "products": [
+    {
+      "repo": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1139,
+      "starsTotal": 112306,
+      "forks": 9764,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "rank": 1,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
     {
       "repo": "vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
@@ -24,198 +42,14 @@
         "开发者工具"
       ],
       "language": "Rust",
-      "starsToday": 2275,
-      "starsTotal": 11222,
-      "forks": 771,
+      "starsToday": 3791,
+      "starsTotal": 13647,
+      "forks": 935,
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "rank": 1,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1803,
-      "starsTotal": 111176,
-      "forks": 9688,
-      "url": "https://github.com/thedotmack/claude-mem",
       "rank": 2,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "descriptionZh": "待翻译：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Python",
-      "starsToday": 706,
-      "starsTotal": 93579,
-      "forks": 9833,
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "rank": 3,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "hyprwm/Hyprland",
-      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "descriptionZh": "待翻译：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "C++",
-      "starsToday": 509,
-      "starsTotal": 40137,
-      "forks": 2162,
-      "url": "https://github.com/hyprwm/Hyprland",
-      "rank": 4,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "descriptionZh": "待翻译：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills",
-        "自动化"
-      ],
-      "language": "Shell",
-      "starsToday": 1379,
-      "starsTotal": 34037,
-      "forks": 4559,
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "rank": 5,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "FlashML-org/FreeToken",
-      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "descriptionZh": "待翻译：FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 653,
-      "starsTotal": 16360,
-      "forks": 1603,
-      "url": "https://github.com/FlashML-org/FreeToken",
-      "rank": 6,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "pingdotgg/t3code",
-      "description": "",
-      "descriptionZh": "待翻译：pingdotgg/t3code",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "TypeScript",
-      "starsToday": 3229,
-      "starsTotal": 42809,
-      "forks": 9152,
-      "url": "https://github.com/pingdotgg/t3code",
-      "rank": 7,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 857,
-      "starsTotal": 46168,
-      "forks": 7608,
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "rank": 8,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "kornia/kornia",
-      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "descriptionZh": "待翻译：🐍 Geometric Computer Vision Library for Spatial AI",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Python",
-      "starsToday": 412,
-      "starsTotal": 12263,
-      "forks": 1504,
-      "url": "https://github.com/kornia/kornia",
-      "rank": 9,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "descriptionZh": "待翻译：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "C",
-      "starsToday": 675,
-      "starsTotal": 46841,
-      "forks": 5409,
-      "url": "https://github.com/JustVugg/colibri",
-      "rank": 10,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
-    },
-    {
-      "repo": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "skills"
-      ],
-      "language": "Shell",
-      "starsToday": 858,
-      "starsTotal": 310665,
-      "forks": 26132,
-      "url": "https://github.com/mattpocock/skills",
-      "rank": 11,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
     },
     {
       "repo": "max-sixty/worktrunk",
@@ -228,50 +62,53 @@
         "自动化"
       ],
       "language": "Rust",
-      "starsToday": 77,
-      "starsTotal": 10198,
-      "forks": 368,
+      "starsToday": 438,
+      "starsTotal": 10706,
+      "forks": 394,
       "url": "https://github.com/max-sixty/worktrunk",
-      "rank": 12,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
+      "rank": 3,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
     },
     {
-      "repo": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "descriptionZh": "待翻译：The open-source app everyone uses to manage agents at work",
+      "repo": "JustVugg/colibri",
+      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "descriptionZh": "待翻译：A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "readmeSummary": "",
       "tags": [
-        "AI代理"
+        "开发框架",
+        "模型/LLM"
       ],
-      "language": "TypeScript",
-      "starsToday": 412,
-      "starsTotal": 110644,
-      "forks": 18310,
-      "url": "https://github.com/paperclipai/paperclip",
-      "rank": 13,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
+      "language": "C",
+      "starsToday": 802,
+      "starsTotal": 47469,
+      "forks": 5483,
+      "url": "https://github.com/JustVugg/colibri",
+      "rank": 4,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
     },
     {
-      "repo": "karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "descriptionZh": "待翻译：The best ChatGPT that $100 can buy.",
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "开发框架",
+        "AI代理",
+        "skills"
       ],
-      "language": "Python",
-      "starsToday": 321,
-      "starsTotal": 60101,
-      "forks": 8429,
-      "url": "https://github.com/karpathy/nanochat",
-      "rank": 14,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
+      "language": "Shell",
+      "starsToday": 1164,
+      "starsTotal": 311942,
+      "forks": 26208,
+      "url": "https://github.com/mattpocock/skills",
+      "rank": 5,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
     },
     {
       "repo": "p-e-w/heretic",
@@ -282,14 +119,142 @@
         "模型/LLM"
       ],
       "language": "Python",
-      "starsToday": 420,
-      "starsTotal": 38360,
-      "forks": 4342,
+      "starsToday": 701,
+      "starsTotal": 39063,
+      "forks": 4404,
       "url": "https://github.com/p-e-w/heretic",
-      "rank": 15,
-      "date": "2026-11-03",
-      "githubDate": "2026-11-03",
-      "lastUpdated": "2026-11-03T09:25:49.719Z"
+      "rank": 6,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "spotify/portal-ai-plugins",
+      "description": "",
+      "descriptionZh": "待翻译：spotify/portal-ai-plugins",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 91,
+      "starsTotal": 3110,
+      "forks": 244,
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "rank": 7,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "descriptionZh": "待翻译：Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Java",
+      "starsToday": 482,
+      "starsTotal": 29126,
+      "forks": 3235,
+      "url": "https://github.com/floci-io/floci",
+      "rank": 8,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "descriptionZh": "待翻译：基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 228,
+      "starsTotal": 16934,
+      "forks": 2891,
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "rank": 9,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "descriptionZh": "待翻译：Local voice dictation for mac, windows and linux",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Rust",
+      "starsToday": 410,
+      "starsTotal": 4809,
+      "forks": 271,
+      "url": "https://github.com/anomalyco/hex",
+      "rank": 10,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "descriptionZh": "待翻译：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "Python",
+      "starsToday": 1658,
+      "starsTotal": 95495,
+      "forks": 10009,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "rank": 11,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 503,
+      "starsTotal": 46662,
+      "forks": 7676,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "rank": 12,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "descriptionZh": "待翻译：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills",
+        "自动化"
+      ],
+      "language": "Shell",
+      "starsToday": 1182,
+      "starsTotal": 35030,
+      "forks": 4631,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "rank": 13,
+      "date": "2026-11-04",
+      "githubDate": "2026-11-04",
+      "lastUpdated": "2026-11-04T08:58:58.496Z"
     }
   ]
 }
