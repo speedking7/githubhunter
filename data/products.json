@@ -1,55 +1,42 @@
 {
   "meta": {
-    "date": "2026-11-04",
-    "githubDate": "2026-11-04",
-    "lastUpdated": "2026-11-04T08:58:58.496Z",
+    "date": "2026-11-05",
+    "githubDate": "2026-11-05",
+    "lastUpdated": "2026-11-05T09:21:29.489Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "04",
-        "title": "GitHub 热门日报 · 13 个项目"
+        "day": "05",
+        "title": "GitHub 热门日报 · 16 个项目"
       }
     ]
   },
   "products": [
     {
-      "repo": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "repo": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "descriptionZh": "待翻译：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "readmeSummary": "",
       "tags": [
-        "AI代理"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1139,
-      "starsTotal": 112306,
-      "forks": 9764,
-      "url": "https://github.com/thedotmack/claude-mem",
-      "rank": 1,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
-    },
-    {
-      "repo": "vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "descriptionZh": "待翻译：Computer use CLI for AI agents",
-      "readmeSummary": "",
-      "tags": [
+        "开发框架",
         "AI代理",
-        "开发者工具"
+        "RAG",
+        "模型/LLM",
+        "评估",
+        "可视化",
+        "自动化"
       ],
-      "language": "Rust",
-      "starsToday": 3791,
-      "starsTotal": 13647,
-      "forks": 935,
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "rank": 2,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "language": "Python",
+      "starsToday": 2050,
+      "starsTotal": 6067,
+      "forks": 479,
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "rank": 1,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
       "repo": "max-sixty/worktrunk",
@@ -62,33 +49,14 @@
         "自动化"
       ],
       "language": "Rust",
-      "starsToday": 438,
-      "starsTotal": 10706,
-      "forks": 394,
+      "starsToday": 531,
+      "starsTotal": 11253,
+      "forks": 423,
       "url": "https://github.com/max-sixty/worktrunk",
-      "rank": 3,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
-    },
-    {
-      "repo": "JustVugg/colibri",
-      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "descriptionZh": "待翻译：A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "模型/LLM"
-      ],
-      "language": "C",
-      "starsToday": 802,
-      "starsTotal": 47469,
-      "forks": 5483,
-      "url": "https://github.com/JustVugg/colibri",
-      "rank": 4,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "rank": 2,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
       "repo": "mattpocock/skills",
@@ -101,50 +69,14 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 1164,
-      "starsTotal": 311942,
-      "forks": 26208,
+      "starsToday": 1379,
+      "starsTotal": 313928,
+      "forks": 26321,
       "url": "https://github.com/mattpocock/skills",
-      "rank": 5,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
-    },
-    {
-      "repo": "p-e-w/heretic",
-      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "descriptionZh": "待翻译：Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "readmeSummary": "",
-      "tags": [
-        "模型/LLM"
-      ],
-      "language": "Python",
-      "starsToday": 701,
-      "starsTotal": 39063,
-      "forks": 4404,
-      "url": "https://github.com/p-e-w/heretic",
-      "rank": 6,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
-    },
-    {
-      "repo": "spotify/portal-ai-plugins",
-      "description": "",
-      "descriptionZh": "待翻译：spotify/portal-ai-plugins",
-      "readmeSummary": "",
-      "tags": [
-        "编辑器插件"
-      ],
-      "language": "TypeScript",
-      "starsToday": 91,
-      "starsTotal": 3110,
-      "forks": 244,
-      "url": "https://github.com/spotify/portal-ai-plugins",
-      "rank": 7,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "rank": 3,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
       "repo": "floci-io/floci",
@@ -155,50 +87,179 @@
         "其他"
       ],
       "language": "Java",
-      "starsToday": 482,
-      "starsTotal": 29126,
-      "forks": 3235,
+      "starsToday": 1090,
+      "starsTotal": 29922,
+      "forks": 3296,
       "url": "https://github.com/floci-io/floci",
-      "rank": 8,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "rank": 4,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
-      "repo": "Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "descriptionZh": "待翻译：基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "repo": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "AI代理"
       ],
-      "language": "Python",
-      "starsToday": 228,
-      "starsTotal": 16934,
-      "forks": 2891,
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "rank": 9,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "language": "TypeScript",
+      "starsToday": 1172,
+      "starsTotal": 113191,
+      "forks": 9823,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "rank": 5,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
-      "repo": "anomalyco/hex",
-      "description": "Local voice dictation for mac, windows and linux",
-      "descriptionZh": "待翻译：Local voice dictation for mac, windows and linux",
+      "repo": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "descriptionZh": "待翻译：Computer use CLI for AI agents",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "AI代理",
+        "开发者工具"
       ],
       "language": "Rust",
-      "starsToday": 410,
-      "starsTotal": 4809,
-      "forks": 271,
-      "url": "https://github.com/anomalyco/hex",
+      "starsToday": 2470,
+      "starsTotal": 15938,
+      "forks": 1112,
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "rank": 6,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "descriptionZh": "待翻译：💫 Toolkit to help you get started with SDD or any other process!",
+      "readmeSummary": "",
+      "tags": [
+        "开发者工具"
+      ],
+      "language": "Python",
+      "starsToday": 808,
+      "starsTotal": 147566,
+      "forks": 13240,
+      "url": "https://github.com/github/spec-kit",
+      "rank": 7,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "descriptionZh": "待翻译：🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Python",
+      "starsToday": 280,
+      "starsTotal": 14959,
+      "forks": 2103,
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "rank": 8,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "descriptionZh": "待翻译：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "Python",
+      "starsToday": 617,
+      "starsTotal": 139436,
+      "forks": 22238,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "rank": 9,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "descriptionZh": "待翻译：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "TypeScript",
+      "starsToday": 290,
+      "starsTotal": 139559,
+      "forks": 20658,
+      "url": "https://github.com/garrytan/gstack",
       "rank": 10,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "descriptionZh": "待翻译：A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "模型/LLM"
+      ],
+      "language": "C",
+      "starsToday": 351,
+      "starsTotal": 10590,
+      "forks": 1653,
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "rank": 11,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "descriptionZh": "待翻译：JiaFeiMiao-K-Cat/DiscImageStudio",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C#",
+      "starsToday": 1778,
+      "starsTotal": 6894,
+      "forks": 245,
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "rank": 12,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
+    },
+    {
+      "repo": "MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "descriptionZh": "待翻译：This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "readmeSummary": "",
+      "tags": [
+        "开发者工具",
+        "学习资源"
+      ],
+      "language": "Shell",
+      "starsToday": 97,
+      "starsTotal": 30690,
+      "forks": 6802,
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "rank": 13,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
       "repo": "D4Vinci/Scrapling",
@@ -209,52 +270,51 @@
         "开发框架"
       ],
       "language": "Python",
-      "starsToday": 1658,
-      "starsTotal": 95495,
-      "forks": 10009,
+      "starsToday": 2005,
+      "starsTotal": 97139,
+      "forks": 10178,
       "url": "https://github.com/D4Vinci/Scrapling",
-      "rank": 11,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "rank": 14,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
-      "repo": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "descriptionZh": "待翻译：Kronos: A Foundation Model for the Language of Financial Markets",
+      "repo": "Thysrael/Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
+      "descriptionZh": "待翻译：📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
       "language": "Python",
-      "starsToday": 503,
-      "starsTotal": 46662,
-      "forks": 7676,
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "rank": 12,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "starsToday": 121,
+      "starsTotal": 12776,
+      "forks": 1836,
+      "url": "https://github.com/Thysrael/Horizon",
+      "rank": 15,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     },
     {
-      "repo": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "descriptionZh": "待翻译：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "repo": "scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "descriptionZh": "待翻译：Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "readmeSummary": "",
       "tags": [
         "AI代理",
-        "skills",
-        "自动化"
+        "skills"
       ],
-      "language": "Shell",
-      "starsToday": 1182,
-      "starsTotal": 35030,
-      "forks": 4631,
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "rank": 13,
-      "date": "2026-11-04",
-      "githubDate": "2026-11-04",
-      "lastUpdated": "2026-11-04T08:58:58.496Z"
+      "language": "Python",
+      "starsToday": 224,
+      "starsTotal": 2675,
+      "forks": 253,
+      "url": "https://github.com/scenario-labs/skills",
+      "rank": 16,
+      "date": "2026-11-05",
+      "githubDate": "2026-11-05",
+      "lastUpdated": "2026-11-05T09:21:29.489Z"
     }
   ]
 }
