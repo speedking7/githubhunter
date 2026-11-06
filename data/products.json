@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-11-05",
-    "githubDate": "2026-11-05",
-    "lastUpdated": "2026-11-05T09:21:29.489Z",
+    "date": "2026-11-06",
+    "githubDate": "2026-11-06",
+    "lastUpdated": "2026-11-06T09:16:00.278Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "05",
-        "title": "GitHub 热门日报 · 16 个项目"
+        "day": "06",
+        "title": "GitHub 热门日报 · 15 个项目"
       }
     ]
   },
@@ -29,34 +29,14 @@
         "自动化"
       ],
       "language": "Python",
-      "starsToday": 2050,
-      "starsTotal": 6067,
-      "forks": 479,
+      "starsToday": 2679,
+      "starsTotal": 8076,
+      "forks": 649,
       "url": "https://github.com/NVIDIA/auto-ontology",
       "rank": 1,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
-    },
-    {
-      "repo": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "descriptionZh": "待翻译：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具",
-        "自动化"
-      ],
-      "language": "Rust",
-      "starsToday": 531,
-      "starsTotal": 11253,
-      "forks": 423,
-      "url": "https://github.com/max-sixty/worktrunk",
-      "rank": 2,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
       "repo": "mattpocock/skills",
@@ -69,50 +49,68 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 1379,
-      "starsTotal": 313928,
-      "forks": 26321,
+      "starsToday": 2071,
+      "starsTotal": 315922,
+      "forks": 26436,
       "url": "https://github.com/mattpocock/skills",
-      "rank": 3,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "rank": 2,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
-      "repo": "floci-io/floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "descriptionZh": "待翻译：Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "repo": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "descriptionZh": "待翻译：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "TypeScript",
+      "starsToday": 612,
+      "starsTotal": 140235,
+      "forks": 20710,
+      "url": "https://github.com/garrytan/gstack",
+      "rank": 3,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "descriptionZh": "待翻译：基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
-      "language": "Java",
-      "starsToday": 1090,
-      "starsTotal": 29922,
-      "forks": 3296,
-      "url": "https://github.com/floci-io/floci",
+      "language": "Python",
+      "starsToday": 240,
+      "starsTotal": 18062,
+      "forks": 2987,
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "rank": 4,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
-      "repo": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "descriptionZh": "待翻译：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "repo": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "descriptionZh": "待翻译：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "readmeSummary": "",
       "tags": [
-        "AI代理"
+        "开发框架"
       ],
-      "language": "TypeScript",
-      "starsToday": 1172,
-      "starsTotal": 113191,
-      "forks": 9823,
-      "url": "https://github.com/thedotmack/claude-mem",
+      "language": "Python",
+      "starsToday": 1655,
+      "starsTotal": 98457,
+      "forks": 10309,
+      "url": "https://github.com/D4Vinci/Scrapling",
       "rank": 5,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
       "repo": "vercel-labs/agent-desktop",
@@ -124,178 +122,91 @@
         "开发者工具"
       ],
       "language": "Rust",
-      "starsToday": 2470,
-      "starsTotal": 15938,
-      "forks": 1112,
+      "starsToday": 2173,
+      "starsTotal": 17502,
+      "forks": 1247,
       "url": "https://github.com/vercel-labs/agent-desktop",
       "rank": 6,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
-      "repo": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "descriptionZh": "待翻译：💫 Toolkit to help you get started with SDD or any other process!",
+      "repo": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "descriptionZh": "待翻译：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "readmeSummary": "",
       "tags": [
-        "开发者工具"
-      ],
-      "language": "Python",
-      "starsToday": 808,
-      "starsTotal": 147566,
-      "forks": 13240,
-      "url": "https://github.com/github/spec-kit",
-      "rank": 7,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
-    },
-    {
-      "repo": "The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "descriptionZh": "待翻译：🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "Python",
-      "starsToday": 280,
-      "starsTotal": 14959,
-      "forks": 2103,
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "rank": 8,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
-    },
-    {
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "descriptionZh": "待翻译：利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "readmeSummary": "",
-      "tags": [
+        "AI代理",
+        "开发者工具",
         "自动化"
       ],
-      "language": "Python",
-      "starsToday": 617,
-      "starsTotal": 139436,
-      "forks": 22238,
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "rank": 9,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "language": "Rust",
+      "starsToday": 546,
+      "starsTotal": 11684,
+      "forks": 448,
+      "url": "https://github.com/max-sixty/worktrunk",
+      "rank": 7,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
-      "repo": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "descriptionZh": "待翻译：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "repo": "lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "descriptionZh": "待翻译：Extremely Fast Compression algorithm",
       "readmeSummary": "",
       "tags": [
-        "开发框架"
-      ],
-      "language": "TypeScript",
-      "starsToday": 290,
-      "starsTotal": 139559,
-      "forks": 20658,
-      "url": "https://github.com/garrytan/gstack",
-      "rank": 10,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
-    },
-    {
-      "repo": "FareedKhan-dev/kimi-k3-in-c",
-      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "descriptionZh": "待翻译：A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "模型/LLM"
+        "其他"
       ],
       "language": "C",
-      "starsToday": 351,
-      "starsTotal": 10590,
-      "forks": 1653,
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "rank": 11,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "starsToday": 23,
+      "starsTotal": 12500,
+      "forks": 1640,
+      "url": "https://github.com/lz4/lz4",
+      "rank": 8,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
-      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "description": "",
-      "descriptionZh": "待翻译：JiaFeiMiao-K-Cat/DiscImageStudio",
+      "repo": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "AI代理",
+        "skills"
       ],
-      "language": "C#",
-      "starsToday": 1778,
-      "starsTotal": 6894,
-      "forks": 245,
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "rank": 12,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "language": "Python",
+      "starsToday": 211,
+      "starsTotal": 22566,
+      "forks": 1901,
+      "url": "https://github.com/google/skills",
+      "rank": 9,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
-      "repo": "MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-      "descriptionZh": "待翻译：This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "descriptionZh": "待翻译：Browser automation CLI for AI agents",
       "readmeSummary": "",
       "tags": [
+        "AI代理",
         "开发者工具",
-        "学习资源"
+        "自动化"
       ],
-      "language": "Shell",
-      "starsToday": 97,
-      "starsTotal": 30690,
-      "forks": 6802,
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "rank": 13,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
-    },
-    {
-      "repo": "D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "descriptionZh": "待翻译：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Python",
-      "starsToday": 2005,
-      "starsTotal": 97139,
-      "forks": 10178,
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "rank": 14,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
-    },
-    {
-      "repo": "Thysrael/Horizon",
-      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
-      "descriptionZh": "待翻译：📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 121,
-      "starsTotal": 12776,
-      "forks": 1836,
-      "url": "https://github.com/Thysrael/Horizon",
-      "rank": 15,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "language": "Rust",
+      "starsToday": 150,
+      "starsTotal": 46163,
+      "forks": 3161,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "rank": 10,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     },
     {
       "repo": "scenario-labs/skills",
@@ -307,14 +218,88 @@
         "skills"
       ],
       "language": "Python",
-      "starsToday": 224,
-      "starsTotal": 2675,
-      "forks": 253,
+      "starsToday": 667,
+      "starsTotal": 3286,
+      "forks": 284,
       "url": "https://github.com/scenario-labs/skills",
-      "rank": 16,
-      "date": "2026-11-05",
-      "githubDate": "2026-11-05",
-      "lastUpdated": "2026-11-05T09:21:29.489Z"
+      "rank": 11,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
+    },
+    {
+      "repo": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "descriptionZh": "待翻译：ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "readmeSummary": "",
+      "tags": [
+        "RAG",
+        "skills",
+        "评估"
+      ],
+      "language": "JavaScript",
+      "starsToday": 175,
+      "starsTotal": 14389,
+      "forks": 1663,
+      "url": "https://github.com/ConardLi/garden-skills",
+      "rank": 12,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "descriptionZh": "待翻译：Open-Source Frontier Voice AI",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 223,
+      "starsTotal": 56301,
+      "forks": 6340,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "rank": 13,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
+    },
+    {
+      "repo": "floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "descriptionZh": "待翻译：Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Java",
+      "starsToday": 779,
+      "starsTotal": 30662,
+      "forks": 3344,
+      "url": "https://github.com/floci-io/floci",
+      "rank": 14,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
+    },
+    {
+      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "descriptionZh": "待翻译：JiaFeiMiao-K-Cat/DiscImageStudio",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C#",
+      "starsToday": 984,
+      "starsTotal": 7542,
+      "forks": 270,
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "rank": 15,
+      "date": "2026-11-06",
+      "githubDate": "2026-11-06",
+      "lastUpdated": "2026-11-06T09:16:00.278Z"
     }
   ]
 }

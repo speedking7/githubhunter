@@ -21560,5 +21560,172 @@
     ],
     "date": "2026-11-05",
     "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "repo": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "descriptionZh": "待翻译：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "RAG",
+      "模型/LLM",
+      "评估",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "descriptionZh": "待翻译：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "repo": "Usagi-org/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "descriptionZh": "待翻译：基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+  },
+  {
+    "repo": "D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "descriptionZh": "待翻译：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "repo": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "descriptionZh": "待翻译：Computer use CLI for AI agents",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+    "repo": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "descriptionZh": "待翻译：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "repo": "lz4/lz4",
+    "description": "Extremely Fast Compression algorithm",
+    "descriptionZh": "待翻译：Extremely Fast Compression algorithm",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/lz4/lz4"
+  },
+  {
+    "repo": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "repo": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "descriptionZh": "待翻译：Browser automation CLI for AI agents",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "repo": "scenario-labs/skills",
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "descriptionZh": "待翻译：Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "repo": "ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "descriptionZh": "待翻译：ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "tags": [
+      "RAG",
+      "skills",
+      "评估"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/ConardLi/garden-skills"
+  },
+  {
+    "repo": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "descriptionZh": "待翻译：Open-Source Frontier Voice AI",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "repo": "floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "descriptionZh": "待翻译：Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/floci-io/floci"
+  },
+  {
+    "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "description": "",
+    "descriptionZh": "待翻译：JiaFeiMiao-K-Cat/DiscImageStudio",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-06",
+    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
   }
 ]
