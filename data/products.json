@@ -1,19 +1,37 @@
 {
   "meta": {
-    "date": "2026-11-06",
-    "githubDate": "2026-11-06",
-    "lastUpdated": "2026-11-06T09:16:00.278Z",
+    "date": "2026-11-07",
+    "githubDate": "2026-11-07",
+    "lastUpdated": "2026-11-07T08:39:33.744Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "06",
-        "title": "GitHub 热门日报 · 15 个项目"
+        "day": "07",
+        "title": "GitHub 热门日报 · 18 个项目"
       }
     ]
   },
   "products": [
+    {
+      "repo": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "descriptionZh": "待翻译：Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Rust",
+      "starsToday": 306,
+      "starsTotal": 93917,
+      "forks": 11526,
+      "url": "https://github.com/zed-industries/zed",
+      "rank": 1,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
     {
       "repo": "NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
@@ -29,14 +47,250 @@
         "自动化"
       ],
       "language": "Python",
-      "starsToday": 2679,
-      "starsTotal": 8076,
-      "forks": 649,
+      "starsToday": 2015,
+      "starsTotal": 9453,
+      "forks": 750,
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "rank": 1,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
+      "rank": 2,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "rails/rails",
+      "description": "Ruby on Rails",
+      "descriptionZh": "待翻译：Ruby on Rails",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Ruby",
+      "starsToday": 142,
+      "starsTotal": 59065,
+      "forks": 23834,
+      "url": "https://github.com/rails/rails",
+      "rank": 3,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "descriptionZh": "待翻译：🎥 Command line media player",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C",
+      "starsToday": 37,
+      "starsTotal": 37948,
+      "forks": 3636,
+      "url": "https://github.com/mpv-player/mpv",
+      "rank": 4,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "descriptionZh": "待翻译：Empowering everyone to build reliable and efficient software.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Rust",
+      "starsToday": 192,
+      "starsTotal": 121548,
+      "forks": 17369,
+      "url": "https://github.com/rust-lang/rust",
+      "rank": 5,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "descriptionZh": "待翻译：The library for web and native user interfaces.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "JavaScript",
+      "starsToday": 248,
+      "starsTotal": 252323,
+      "forks": 51844,
+      "url": "https://github.com/react/react",
+      "rank": 6,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "descriptionZh": "待翻译：Deliver web apps with confidence 🚀",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 135,
+      "starsTotal": 101441,
+      "forks": 28917,
+      "url": "https://github.com/angular/angular",
+      "rank": 7,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "descriptionZh": "待翻译：The Symfony PHP framework",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "PHP",
+      "starsToday": 128,
+      "starsTotal": 31496,
+      "forks": 9951,
+      "url": "https://github.com/symfony/symfony",
+      "rank": 8,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "descriptionZh": "待翻译：The Prometheus monitoring system and time series database.",
+      "readmeSummary": "",
+      "tags": [
+        "数据库",
+        "可观测性"
+      ],
+      "language": "Go",
+      "starsToday": 148,
+      "starsTotal": 67261,
+      "forks": 10992,
+      "url": "https://github.com/prometheus/prometheus",
+      "rank": 9,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Python",
+      "starsToday": 534,
+      "starsTotal": 22988,
+      "forks": 1932,
+      "url": "https://github.com/google/skills",
+      "rank": 10,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "descriptionZh": "待翻译：Visual Studio Code",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 301,
+      "starsTotal": 195096,
+      "forks": 44436,
+      "url": "https://github.com/microsoft/vscode",
+      "rank": 11,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "descriptionZh": "待翻译：Extremely Fast Compression algorithm",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C",
+      "starsToday": 315,
+      "starsTotal": 12662,
+      "forks": 1646,
+      "url": "https://github.com/lz4/lz4",
+      "rank": 12,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "nushell/nushell",
+      "description": "A new type of shell",
+      "descriptionZh": "待翻译：A new type of shell",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Rust",
+      "starsToday": 131,
+      "starsTotal": 41035,
+      "forks": 2345,
+      "url": "https://github.com/nushell/nushell",
+      "rank": 13,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "descriptionZh": "待翻译：Distributed reliable key-value store for the most critical data of a distributed system",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Go",
+      "starsToday": 128,
+      "starsTotal": 52658,
+      "forks": 10591,
+      "url": "https://github.com/etcd-io/etcd",
+      "rank": 14,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
+    },
+    {
+      "repo": "openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "descriptionZh": "待翻译：General purpose TLS and crypto library",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架"
+      ],
+      "language": "C",
+      "starsToday": 26,
+      "starsTotal": 31348,
+      "forks": 11584,
+      "url": "https://github.com/openssl/openssl",
+      "rank": 15,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
     },
     {
       "repo": "mattpocock/skills",
@@ -49,257 +303,52 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 2071,
-      "starsTotal": 315922,
-      "forks": 26436,
+      "starsToday": 2070,
+      "starsTotal": 317022,
+      "forks": 26532,
       "url": "https://github.com/mattpocock/skills",
-      "rank": 2,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
+      "rank": 16,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
     },
     {
-      "repo": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "descriptionZh": "待翻译：Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "TypeScript",
-      "starsToday": 612,
-      "starsTotal": 140235,
-      "forks": 20710,
-      "url": "https://github.com/garrytan/gstack",
-      "rank": 3,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "descriptionZh": "待翻译：基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Python",
-      "starsToday": 240,
-      "starsTotal": 18062,
-      "forks": 2987,
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "rank": 4,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "descriptionZh": "待翻译：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Python",
-      "starsToday": 1655,
-      "starsTotal": 98457,
-      "forks": 10309,
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "rank": 5,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "descriptionZh": "待翻译：Computer use CLI for AI agents",
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "readmeSummary": "",
       "tags": [
         "AI代理",
-        "开发者工具"
-      ],
-      "language": "Rust",
-      "starsToday": 2173,
-      "starsTotal": 17502,
-      "forks": 1247,
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "rank": 6,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "descriptionZh": "待翻译：Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具",
-        "自动化"
-      ],
-      "language": "Rust",
-      "starsToday": 546,
-      "starsTotal": 11684,
-      "forks": 448,
-      "url": "https://github.com/max-sixty/worktrunk",
-      "rank": 7,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "descriptionZh": "待翻译：Extremely Fast Compression algorithm",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "C",
-      "starsToday": 23,
-      "starsTotal": 12500,
-      "forks": 1640,
-      "url": "https://github.com/lz4/lz4",
-      "rank": 8,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "Python",
-      "starsToday": 211,
-      "starsTotal": 22566,
-      "forks": 1901,
-      "url": "https://github.com/google/skills",
-      "rank": 9,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "descriptionZh": "待翻译：Browser automation CLI for AI agents",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具",
-        "自动化"
-      ],
-      "language": "Rust",
-      "starsToday": 150,
-      "starsTotal": 46163,
-      "forks": 3161,
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "rank": 10,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "scenario-labs/skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "descriptionZh": "待翻译：Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "Python",
-      "starsToday": 667,
-      "starsTotal": 3286,
-      "forks": 284,
-      "url": "https://github.com/scenario-labs/skills",
-      "rank": 11,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "descriptionZh": "待翻译：ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "readmeSummary": "",
-      "tags": [
-        "RAG",
         "skills",
-        "评估"
+        "安全"
       ],
       "language": "JavaScript",
-      "starsToday": 175,
-      "starsTotal": 14389,
-      "forks": 1663,
-      "url": "https://github.com/ConardLi/garden-skills",
-      "rank": 12,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
+      "starsToday": 2548,
+      "starsTotal": 64548,
+      "forks": 4189,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "rank": 17,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
     },
     {
-      "repo": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "descriptionZh": "待翻译：Open-Source Frontier Voice AI",
+      "repo": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "descriptionZh": "待翻译：An extremely fast Python linter and code formatter, written in Rust.",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
-      "language": "Python",
-      "starsToday": 223,
-      "starsTotal": 56301,
-      "forks": 6340,
-      "url": "https://github.com/microsoft/VibeVoice",
-      "rank": 13,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "floci-io/floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "descriptionZh": "待翻译：Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Java",
-      "starsToday": 779,
-      "starsTotal": 30662,
-      "forks": 3344,
-      "url": "https://github.com/floci-io/floci",
-      "rank": 14,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
-    },
-    {
-      "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "description": "",
-      "descriptionZh": "待翻译：JiaFeiMiao-K-Cat/DiscImageStudio",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "C#",
-      "starsToday": 984,
-      "starsTotal": 7542,
-      "forks": 270,
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "rank": 15,
-      "date": "2026-11-06",
-      "githubDate": "2026-11-06",
-      "lastUpdated": "2026-11-06T09:16:00.278Z"
+      "language": "Rust",
+      "starsToday": 169,
+      "starsTotal": 50772,
+      "forks": 2618,
+      "url": "https://github.com/astral-sh/ruff",
+      "rank": 18,
+      "date": "2026-11-07",
+      "githubDate": "2026-11-07",
+      "lastUpdated": "2026-11-07T08:39:33.744Z"
     }
   ]
 }

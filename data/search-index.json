@@ -21727,5 +21727,197 @@
     ],
     "date": "2026-11-06",
     "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "descriptionZh": "待翻译：Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/zed-industries/zed"
+  },
+  {
+    "repo": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "descriptionZh": "待翻译：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "RAG",
+      "模型/LLM",
+      "评估",
+      "可视化",
+      "自动化"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "repo": "rails/rails",
+    "description": "Ruby on Rails",
+    "descriptionZh": "待翻译：Ruby on Rails",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/rails/rails"
+  },
+  {
+    "repo": "mpv-player/mpv",
+    "description": "🎥 Command line media player",
+    "descriptionZh": "待翻译：🎥 Command line media player",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/mpv-player/mpv"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "descriptionZh": "待翻译：Empowering everyone to build reliable and efficient software.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/rust-lang/rust"
+  },
+  {
+    "repo": "react/react",
+    "description": "The library for web and native user interfaces.",
+    "descriptionZh": "待翻译：The library for web and native user interfaces.",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/react/react"
+  },
+  {
+    "repo": "angular/angular",
+    "description": "Deliver web apps with confidence 🚀",
+    "descriptionZh": "待翻译：Deliver web apps with confidence 🚀",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/angular/angular"
+  },
+  {
+    "repo": "symfony/symfony",
+    "description": "The Symfony PHP framework",
+    "descriptionZh": "待翻译：The Symfony PHP framework",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/symfony/symfony"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "descriptionZh": "待翻译：The Prometheus monitoring system and time series database.",
+    "tags": [
+      "数据库",
+      "可观测性"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/prometheus/prometheus"
+  },
+  {
+    "repo": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/google/skills"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "descriptionZh": "待翻译：Visual Studio Code",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repo": "lz4/lz4",
+    "description": "Extremely Fast Compression algorithm",
+    "descriptionZh": "待翻译：Extremely Fast Compression algorithm",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/lz4/lz4"
+  },
+  {
+    "repo": "nushell/nushell",
+    "description": "A new type of shell",
+    "descriptionZh": "待翻译：A new type of shell",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/nushell/nushell"
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "descriptionZh": "待翻译：Distributed reliable key-value store for the most critical data of a distributed system",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/etcd-io/etcd"
+  },
+  {
+    "repo": "openssl/openssl",
+    "description": "General purpose TLS and crypto library",
+    "descriptionZh": "待翻译：General purpose TLS and crypto library",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/openssl/openssl"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tags": [
+      "AI代理",
+      "skills",
+      "安全"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "descriptionZh": "待翻译：An extremely fast Python linter and code formatter, written in Rust.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-07",
+    "url": "https://github.com/astral-sh/ruff"
   }
 ]
