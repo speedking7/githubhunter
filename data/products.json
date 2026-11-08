@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-07",
-    "githubDate": "2026-11-07",
-    "lastUpdated": "2026-11-07T08:39:33.744Z",
-    "status": "live",
+    "date": "2026-11-08",
+    "githubDate": "2026-11-08",
+    "lastUpdated": "2026-11-08T08:52:52.893Z",
+    "status": "fallback",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
@@ -11,7 +11,8 @@
         "day": "07",
         "title": "GitHub 热门日报 · 18 个项目"
       }
-    ]
+    ],
+    "error": "GitHub trending fetch failed: HTTP 504"
   },
   "products": [
     {

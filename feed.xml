@@ -5,12 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 10:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:53:04 GMT</lastBuildDate>
     <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
       <guid>https://github.com/zed-industries/zed</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
       <category>其他</category>
     </item>
@@ -18,7 +18,7 @@
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</description>
       <category>开发框架, AI代理, RAG, 模型/LLM, 评估, 可视化, 自动化</category>
     </item>
@@ -26,7 +26,7 @@
       <title>rails/rails</title>
       <link>https://github.com/rails/rails</link>
       <guid>https://github.com/rails/rails</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Ruby on Rails</description>
       <category>其他</category>
     </item>
@@ -34,7 +34,7 @@
       <title>mpv-player/mpv</title>
       <link>https://github.com/mpv-player/mpv</link>
       <guid>https://github.com/mpv-player/mpv</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：🎥 Command line media player</description>
       <category>其他</category>
     </item>
@@ -42,7 +42,7 @@
       <title>rust-lang/rust</title>
       <link>https://github.com/rust-lang/rust</link>
       <guid>https://github.com/rust-lang/rust</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Empowering everyone to build reliable and efficient software.</description>
       <category>其他</category>
     </item>
@@ -50,7 +50,7 @@
       <title>react/react</title>
       <link>https://github.com/react/react</link>
       <guid>https://github.com/react/react</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：The library for web and native user interfaces.</description>
       <category>开发框架</category>
     </item>
@@ -58,7 +58,7 @@
       <title>angular/angular</title>
       <link>https://github.com/angular/angular</link>
       <guid>https://github.com/angular/angular</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Deliver web apps with confidence 🚀</description>
       <category>其他</category>
     </item>
@@ -66,7 +66,7 @@
       <title>symfony/symfony</title>
       <link>https://github.com/symfony/symfony</link>
       <guid>https://github.com/symfony/symfony</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：The Symfony PHP framework</description>
       <category>开发框架</category>
     </item>
@@ -74,7 +74,7 @@
       <title>prometheus/prometheus</title>
       <link>https://github.com/prometheus/prometheus</link>
       <guid>https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：The Prometheus monitoring system and time series database.</description>
       <category>数据库, 可观测性</category>
     </item>
@@ -82,7 +82,7 @@
       <title>google/skills</title>
       <link>https://github.com/google/skills</link>
       <guid>https://github.com/google/skills</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Agent Skills for Google products and technologies</description>
       <category>AI代理, skills</category>
     </item>
@@ -90,7 +90,7 @@
       <title>microsoft/vscode</title>
       <link>https://github.com/microsoft/vscode</link>
       <guid>https://github.com/microsoft/vscode</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Visual Studio Code</description>
       <category>其他</category>
     </item>
@@ -98,7 +98,7 @@
       <title>lz4/lz4</title>
       <link>https://github.com/lz4/lz4</link>
       <guid>https://github.com/lz4/lz4</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Extremely Fast Compression algorithm</description>
       <category>其他</category>
     </item>
@@ -106,7 +106,7 @@
       <title>nushell/nushell</title>
       <link>https://github.com/nushell/nushell</link>
       <guid>https://github.com/nushell/nushell</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：A new type of shell</description>
       <category>其他</category>
     </item>
@@ -114,7 +114,7 @@
       <title>etcd-io/etcd</title>
       <link>https://github.com/etcd-io/etcd</link>
       <guid>https://github.com/etcd-io/etcd</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Distributed reliable key-value store for the most critical data of a distributed system</description>
       <category>其他</category>
     </item>
@@ -122,7 +122,7 @@
       <title>openssl/openssl</title>
       <link>https://github.com/openssl/openssl</link>
       <guid>https://github.com/openssl/openssl</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：General purpose TLS and crypto library</description>
       <category>开发框架</category>
     </item>
@@ -130,7 +130,7 @@
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
@@ -138,7 +138,7 @@
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
       <category>AI代理, skills, 安全</category>
     </item>
@@ -146,9 +146,16 @@
       <title>astral-sh/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
       <guid>https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 07 Nov 2026 08:39:33 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
       <description>待翻译：An extremely fast Python linter and code formatter, written in Rust.</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 18 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-11-08.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-11-08.json</guid>
+      <pubDate>Sun, 08 Nov 2026 08:52:52 GMT</pubDate>
+      <description>GitHub 热门日报 · 18 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 18 个项目</title>
