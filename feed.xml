@@ -5,126 +5,85 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:12:52 GMT</lastBuildDate>
-    <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <guid>https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：Browser automation CLI for AI agents</description>
-      <category>AI代理, 开发者工具, 自动化</category>
-    </item>
-    <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <guid>https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
-      <category>AI代理, skills, 安全</category>
-    </item>
-    <item>
-      <title>google/skills</title>
-      <link>https://github.com/google/skills</link>
-      <guid>https://github.com/google/skills</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：Agent Skills for Google products and technologies</description>
-      <category>AI代理, skills</category>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>anthropics/skills</title>
-      <link>https://github.com/anthropics/skills</link>
-      <guid>https://github.com/anthropics/skills</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：Public repository for Agent Skills</description>
-      <category>AI代理, skills</category>
-    </item>
-    <item>
-      <title>meta/astryx</title>
-      <link>https://github.com/meta/astryx</link>
-      <guid>https://github.com/meta/astryx</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
-      <category>AI代理, UI组件</category>
-    </item>
-    <item>
-      <title>prometheus/prometheus</title>
-      <link>https://github.com/prometheus/prometheus</link>
-      <guid>https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：The Prometheus monitoring system and time series database.</description>
-      <category>数据库, 可观测性</category>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 09:38:02 GMT</lastBuildDate>
     <item>
       <title>sherlock-project/sherlock</title>
       <link>https://github.com/sherlock-project/sherlock</link>
       <guid>https://github.com/sherlock-project/sherlock</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
       <description>待翻译：Hunt down social media accounts by username across social networks</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>dsx-ai-factory/nvke</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <guid>https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>待翻译：NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
+      <category>开发框架, DevOps</category>
     </item>
     <item>
       <title>milind-soni/OpenMausBot</title>
       <link>https://github.com/milind-soni/OpenMausBot</link>
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
       <description>待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use</description>
       <category>自动化</category>
     </item>
     <item>
-      <title>astral-sh/ruff</title>
-      <link>https://github.com/astral-sh/ruff</link>
-      <guid>https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：An extremely fast Python linter and code formatter, written in Rust.</description>
-      <category>其他</category>
+      <title>anthropics/claude-quickstarts</title>
+      <link>https://github.com/anthropics/claude-quickstarts</link>
+      <guid>https://github.com/anthropics/claude-quickstarts</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</description>
+      <category>DevOps</category>
     </item>
     <item>
-      <title>tailwindlabs/tailwindcss</title>
-      <link>https://github.com/tailwindlabs/tailwindcss</link>
-      <guid>https://github.com/tailwindlabs/tailwindcss</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：A utility-first CSS framework for rapid UI development.</description>
-      <category>开发框架</category>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <guid>https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>待翻译：Browser automation CLI for AI agents</description>
+      <category>AI代理, 开发者工具, 自动化</category>
     </item>
     <item>
-      <title>mbillow/localthings</title>
-      <link>https://github.com/mbillow/localthings</link>
-      <guid>https://github.com/mbillow/localthings</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：Control your Samsung appliances from Home Assistant over your home network, with no cloud account.</description>
-      <category>AI代理</category>
+      <title>meta/astryx</title>
+      <link>https://github.com/meta/astryx</link>
+      <guid>https://github.com/meta/astryx</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
+      <category>AI代理, UI组件</category>
     </item>
     <item>
-      <title>zed-industries/zed</title>
-      <link>https://github.com/zed-industries/zed</link>
-      <guid>https://github.com/zed-industries/zed</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <guid>https://github.com/anthropics/skills</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>待翻译：Public repository for Agent Skills</description>
+      <category>AI代理, skills</category>
+    </item>
+    <item>
+      <title>google-deepmind/mujoco</title>
+      <link>https://github.com/google-deepmind/mujoco</link>
+      <guid>https://github.com/google-deepmind/mujoco</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
       <category>其他</category>
     </item>
     <item>
       <title>ranxianglei/billion-context</title>
       <link>https://github.com/ranxianglei/billion-context</link>
       <guid>https://github.com/ranxianglei/billion-context</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
       <description>待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</description>
       <category>编辑器插件</category>
     </item>
     <item>
-      <title>dsx-ai-factory/nvke</title>
-      <link>https://github.com/dsx-ai-factory/nvke</link>
-      <guid>https://github.com/dsx-ai-factory/nvke</guid>
-      <pubDate>Sun, 08 Nov 2026 11:12:47 GMT</pubDate>
-      <description>待翻译：NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</description>
-      <category>开发框架, DevOps</category>
+      <title>GitHub 热门日报 · 9 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-11-09.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-11-09.json</guid>
+      <pubDate>Mon, 09 Nov 2026 09:38:00 GMT</pubDate>
+      <description>GitHub 热门日报 · 9 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 15 个项目</title>

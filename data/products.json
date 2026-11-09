@@ -1,155 +1,19 @@
 {
   "meta": {
-    "date": "2026-11-08",
-    "githubDate": "2026-11-08",
-    "lastUpdated": "2026-11-08T11:12:47.342Z",
+    "date": "2026-11-09",
+    "githubDate": "2026-11-09",
+    "lastUpdated": "2026-11-09T09:38:00.536Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "08",
-        "title": "GitHub 热门日报 · 15 个项目"
+        "day": "09",
+        "title": "GitHub 热门日报 · 9 个项目"
       }
     ]
   },
   "products": [
-    {
-      "repo": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "descriptionZh": "待翻译：Browser automation CLI for AI agents",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "开发者工具",
-        "自动化"
-      ],
-      "language": "Rust",
-      "starsToday": 190,
-      "starsTotal": 47185,
-      "forks": 3233,
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "rank": 1,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "descriptionZh": "待翻译：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills",
-        "安全"
-      ],
-      "language": "JavaScript",
-      "starsToday": 2085,
-      "starsTotal": 66283,
-      "forks": 4316,
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "rank": 2,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "descriptionZh": "待翻译：Agent Skills for Google products and technologies",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "Python",
-      "starsToday": 443,
-      "starsTotal": 23622,
-      "forks": 1971,
-      "url": "https://github.com/google/skills",
-      "rank": 3,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "skills"
-      ],
-      "language": "Shell",
-      "starsToday": 1100,
-      "starsTotal": 318110,
-      "forks": 26624,
-      "url": "https://github.com/mattpocock/skills",
-      "rank": 4,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "descriptionZh": "待翻译：Public repository for Agent Skills",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "skills"
-      ],
-      "language": "Python",
-      "starsToday": 390,
-      "starsTotal": 189087,
-      "forks": 22292,
-      "url": "https://github.com/anthropics/skills",
-      "rank": 5,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "UI组件"
-      ],
-      "language": "TypeScript",
-      "starsToday": 96,
-      "starsTotal": 14948,
-      "forks": 1221,
-      "url": "https://github.com/meta/astryx",
-      "rank": 6,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "descriptionZh": "待翻译：The Prometheus monitoring system and time series database.",
-      "readmeSummary": "",
-      "tags": [
-        "数据库",
-        "可观测性"
-      ],
-      "language": "Go",
-      "starsToday": 322,
-      "starsTotal": 67534,
-      "forks": 11011,
-      "url": "https://github.com/prometheus/prometheus",
-      "rank": 7,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
     {
       "repo": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
@@ -159,122 +23,14 @@
         "其他"
       ],
       "language": "Python",
-      "starsToday": 1766,
-      "starsTotal": 101592,
-      "forks": 12005,
+      "starsToday": 2373,
+      "starsTotal": 105455,
+      "forks": 12262,
       "url": "https://github.com/sherlock-project/sherlock",
-      "rank": 8,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "readmeSummary": "",
-      "tags": [
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1955,
-      "starsTotal": 17563,
-      "forks": 2458,
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "rank": 9,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "descriptionZh": "待翻译：An extremely fast Python linter and code formatter, written in Rust.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Rust",
-      "starsToday": 350,
-      "starsTotal": 51076,
-      "forks": 2636,
-      "url": "https://github.com/astral-sh/ruff",
-      "rank": 10,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "descriptionZh": "待翻译：A utility-first CSS framework for rapid UI development.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "TypeScript",
-      "starsToday": 122,
-      "starsTotal": 98633,
-      "forks": 7119,
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "rank": 11,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "mbillow/localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "descriptionZh": "待翻译：Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "Python",
-      "starsToday": 186,
-      "starsTotal": 1129,
-      "forks": 115,
-      "url": "https://github.com/mbillow/localthings",
-      "rank": 12,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "descriptionZh": "待翻译：Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Rust",
-      "starsToday": 1114,
-      "starsTotal": 94413,
-      "forks": 11565,
-      "url": "https://github.com/zed-industries/zed",
-      "rank": 13,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
-    },
-    {
-      "repo": "ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "descriptionZh": "待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "readmeSummary": "",
-      "tags": [
-        "编辑器插件"
-      ],
-      "language": "TypeScript",
-      "starsToday": 191,
-      "starsTotal": 4818,
-      "forks": 388,
-      "url": "https://github.com/ranxianglei/billion-context",
-      "rank": 14,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
+      "rank": 1,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
     },
     {
       "repo": "dsx-ai-factory/nvke",
@@ -286,14 +42,144 @@
         "DevOps"
       ],
       "language": "Go",
-      "starsToday": 123,
-      "starsTotal": 668,
-      "forks": 102,
+      "starsToday": 345,
+      "starsTotal": 977,
+      "forks": 113,
       "url": "https://github.com/dsx-ai-factory/nvke",
-      "rank": 15,
-      "date": "2026-11-08",
-      "githubDate": "2026-11-08",
-      "lastUpdated": "2026-11-08T11:12:47.342Z"
+      "rank": 2,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1439,
+      "starsTotal": 19023,
+      "forks": 2621,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "rank": 3,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "descriptionZh": "待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "readmeSummary": "",
+      "tags": [
+        "DevOps"
+      ],
+      "language": "Python",
+      "starsToday": 32,
+      "starsTotal": 19672,
+      "forks": 3292,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "rank": 4,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "descriptionZh": "待翻译：Browser automation CLI for AI agents",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 815,
+      "starsTotal": 48025,
+      "forks": 3280,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "rank": 5,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "UI组件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 875,
+      "starsTotal": 18020,
+      "forks": 1410,
+      "url": "https://github.com/meta/astryx",
+      "rank": 6,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "descriptionZh": "待翻译：Public repository for Agent Skills",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Python",
+      "starsToday": 792,
+      "starsTotal": 190025,
+      "forks": 22385,
+      "url": "https://github.com/anthropics/skills",
+      "rank": 7,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "descriptionZh": "待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C++",
+      "starsToday": 41,
+      "starsTotal": 16660,
+      "forks": 1965,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "rank": 8,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "descriptionZh": "待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 460,
+      "starsTotal": 5517,
+      "forks": 421,
+      "url": "https://github.com/ranxianglei/billion-context",
+      "rank": 9,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
     }
   ]
 }

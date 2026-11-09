@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "date": "2026-11-09",
+    "githubDate": "2026-11-09",
+    "lastUpdated": "2026-11-09T09:38:00.536Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "09",
+        "title": "GitHub 热门日报 · 9 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "descriptionZh": "待翻译：Hunt down social media accounts by username across social networks",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 2373,
+      "starsTotal": 105455,
+      "forks": 12262,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "rank": 1,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "descriptionZh": "待翻译：NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "DevOps"
+      ],
+      "language": "Go",
+      "starsToday": 345,
+      "starsTotal": 977,
+      "forks": 113,
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "rank": 2,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1439,
+      "starsTotal": 19023,
+      "forks": 2621,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "rank": 3,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "descriptionZh": "待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "readmeSummary": "",
+      "tags": [
+        "DevOps"
+      ],
+      "language": "Python",
+      "starsToday": 32,
+      "starsTotal": 19672,
+      "forks": 3292,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "rank": 4,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "descriptionZh": "待翻译：Browser automation CLI for AI agents",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 815,
+      "starsTotal": 48025,
+      "forks": 3280,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "rank": 5,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "UI组件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 875,
+      "starsTotal": 18020,
+      "forks": 1410,
+      "url": "https://github.com/meta/astryx",
+      "rank": 6,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "descriptionZh": "待翻译：Public repository for Agent Skills",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Python",
+      "starsToday": 792,
+      "starsTotal": 190025,
+      "forks": 22385,
+      "url": "https://github.com/anthropics/skills",
+      "rank": 7,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "descriptionZh": "待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C++",
+      "starsToday": 41,
+      "starsTotal": 16660,
+      "forks": 1965,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "rank": 8,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    },
+    {
+      "repo": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "descriptionZh": "待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 460,
+      "starsTotal": 5517,
+      "forks": 421,
+      "url": "https://github.com/ranxianglei/billion-context",
+      "rank": 9,
+      "date": "2026-11-09",
+      "githubDate": "2026-11-09",
+      "lastUpdated": "2026-11-09T09:38:00.536Z"
+    }
+  ]
+}
