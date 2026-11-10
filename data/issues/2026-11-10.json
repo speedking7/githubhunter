@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "date": "2026-11-10",
+    "githubDate": "2026-11-10",
+    "lastUpdated": "2026-11-10T09:38:24.585Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "10",
+        "title": "GitHub 热门日报 · 11 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "descriptionZh": "待翻译：Public repository for Agent Skills",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Python",
+      "starsToday": 1038,
+      "starsTotal": 191592,
+      "forks": 22500,
+      "url": "https://github.com/anthropics/skills",
+      "rank": 1,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "UI组件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 3278,
+      "starsTotal": 21156,
+      "forks": 1625,
+      "url": "https://github.com/meta/astryx",
+      "rank": 2,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "descriptionZh": "待翻译：Hunt down social media accounts by username across social networks",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Python",
+      "starsToday": 4267,
+      "starsTotal": 108015,
+      "forks": 12498,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "rank": 3,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "descriptionZh": "待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C++",
+      "starsToday": 574,
+      "starsTotal": 17124,
+      "forks": 2041,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "rank": 4,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "descriptionZh": "待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "readmeSummary": "",
+      "tags": [
+        "DevOps"
+      ],
+      "language": "Python",
+      "starsToday": 551,
+      "starsTotal": 20209,
+      "forks": 3355,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "rank": 5,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "descriptionZh": "待翻译：Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 216,
+      "starsTotal": 32369,
+      "forks": 4805,
+      "url": "https://github.com/garrytan/gbrain",
+      "rank": 6,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "descriptionZh": "待翻译：Browser automation CLI for AI agents",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "自动化"
+      ],
+      "language": "Rust",
+      "starsToday": 916,
+      "starsTotal": 48823,
+      "forks": 3349,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "rank": 7,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "descriptionZh": "待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "readmeSummary": "",
+      "tags": [
+        "可观测性"
+      ],
+      "language": "Rust",
+      "starsToday": 172,
+      "starsTotal": 103746,
+      "forks": 13451,
+      "url": "https://github.com/ruvnet/RuView",
+      "rank": 8,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "descriptionZh": "待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "readmeSummary": "",
+      "tags": [
+        "模型/LLM",
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 506,
+      "starsTotal": 69396,
+      "forks": 56559,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "rank": 9,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "descriptionZh": "待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "Python",
+      "starsToday": 31,
+      "starsTotal": 6267,
+      "forks": 328,
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "rank": 10,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "descriptionZh": "待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "readmeSummary": "",
+      "tags": [
+        "自动化"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1587,
+      "starsTotal": 20240,
+      "forks": 2784,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "rank": 11,
+      "date": "2026-11-10",
+      "githubDate": "2026-11-10",
+      "lastUpdated": "2026-11-10T09:38:24.585Z"
+    }
+  ]
+}
