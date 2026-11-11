@@ -22290,5 +22290,133 @@
     ],
     "date": "2026-11-10",
     "url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "repo": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "repo": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "descriptionZh": "待翻译：Public repository for Agent Skills",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "descriptionZh": "待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "tags": [
+      "DevOps"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "descriptionZh": "待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "repo": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "repo": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "descriptionZh": "待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "repo": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "descriptionZh": "待翻译：Browser automation CLI for AI agents",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "repo": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "descriptionZh": "待翻译：Hunt down social media accounts by username across social networks",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "repo": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "descriptionZh": "待翻译：A batteries-included framework for building web apps",
+    "tags": [
+      "开发框架"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/tokio-rs/topcoat"
+  },
+  {
+    "repo": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "descriptionZh": "待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-11",
+    "url": "https://github.com/mattpocock/skills"
   }
 ]

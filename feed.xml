@@ -5,94 +5,109 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:28:26 GMT</lastBuildDate>
-    <item>
-      <title>anthropics/skills</title>
-      <link>https://github.com/anthropics/skills</link>
-      <guid>https://github.com/anthropics/skills</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：Public repository for Agent Skills</description>
-      <category>AI代理, skills</category>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 09:13:36 GMT</lastBuildDate>
     <item>
       <title>meta/astryx</title>
       <link>https://github.com/meta/astryx</link>
       <guid>https://github.com/meta/astryx</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
       <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
       <category>AI代理, UI组件</category>
     </item>
     <item>
-      <title>sherlock-project/sherlock</title>
-      <link>https://github.com/sherlock-project/sherlock</link>
-      <guid>https://github.com/sherlock-project/sherlock</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：Hunt down social media accounts by username across social networks</description>
-      <category>其他</category>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <guid>https://github.com/anthropics/skills</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：Public repository for Agent Skills</description>
+      <category>AI代理, skills</category>
     </item>
     <item>
-      <title>google-deepmind/mujoco</title>
-      <link>https://github.com/google-deepmind/mujoco</link>
-      <guid>https://github.com/google-deepmind/mujoco</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
-      <category>其他</category>
+      <title>addyosmani/agent-skills</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <guid>https://github.com/addyosmani/agent-skills</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
+      <category>开发框架, AI代理, skills</category>
     </item>
     <item>
       <title>anthropics/claude-quickstarts</title>
       <link>https://github.com/anthropics/claude-quickstarts</link>
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
       <description>待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</description>
       <category>DevOps</category>
     </item>
     <item>
-      <title>garrytan/gbrain</title>
-      <link>https://github.com/garrytan/gbrain</link>
-      <guid>https://github.com/garrytan/gbrain</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：Garry&apos;s Opinionated OpenClaw/Hermes Agent Brain</description>
+      <title>google-deepmind/mujoco</title>
+      <link>https://github.com/google-deepmind/mujoco</link>
+      <guid>https://github.com/google-deepmind/mujoco</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>we-promise/sure</title>
+      <link>https://github.com/we-promise/sure</link>
+      <guid>https://github.com/we-promise/sure</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：The personal finance app for everyone (by everyone)</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>homeassistant-ai/ha-mcp</title>
+      <link>https://github.com/homeassistant-ai/ha-mcp</link>
+      <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</description>
       <category>AI代理</category>
     </item>
     <item>
       <title>vercel-labs/agent-browser</title>
       <link>https://github.com/vercel-labs/agent-browser</link>
       <guid>https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
       <description>待翻译：Browser automation CLI for AI agents</description>
       <category>AI代理, 开发者工具, 自动化</category>
     </item>
     <item>
-      <title>ruvnet/RuView</title>
-      <link>https://github.com/ruvnet/RuView</link>
-      <guid>https://github.com/ruvnet/RuView</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-      <category>可观测性</category>
+      <title>sherlock-project/sherlock</title>
+      <link>https://github.com/sherlock-project/sherlock</link>
+      <guid>https://github.com/sherlock-project/sherlock</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：Hunt down social media accounts by username across social networks</description>
+      <category>其他</category>
     </item>
     <item>
-      <title>ZhuLinsen/daily_stock_analysis</title>
-      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
-      <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</description>
-      <category>模型/LLM, 可视化</category>
+      <title>tokio-rs/topcoat</title>
+      <link>https://github.com/tokio-rs/topcoat</link>
+      <guid>https://github.com/tokio-rs/topcoat</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：A batteries-included framework for building web apps</description>
+      <category>开发框架</category>
     </item>
     <item>
-      <title>homeassistant-ai/ha-mcp</title>
-      <link>https://github.com/homeassistant-ai/ha-mcp</link>
-      <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</description>
-      <category>AI代理</category>
+      <title>ranxianglei/billion-context</title>
+      <link>https://github.com/ranxianglei/billion-context</link>
+      <guid>https://github.com/ranxianglei/billion-context</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</description>
+      <category>编辑器插件</category>
     </item>
     <item>
-      <title>milind-soni/OpenMausBot</title>
-      <link>https://github.com/milind-soni/OpenMausBot</link>
-      <guid>https://github.com/milind-soni/OpenMausBot</guid>
-      <pubDate>Tue, 10 Nov 2026 09:38:24 GMT</pubDate>
-      <description>待翻译：Open-source Grok Bot alternative with a virtual machine that bots can use</description>
-      <category>自动化</category>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid>https://github.com/mattpocock/skills</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>待翻译：Skills for Real Engineers. Straight from my .agents directory.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 12 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-11-11.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-11-11.json</guid>
+      <pubDate>Wed, 11 Nov 2026 09:13:34 GMT</pubDate>
+      <description>GitHub 热门日报 · 12 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 11 个项目</title>
