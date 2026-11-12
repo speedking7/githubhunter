@@ -1,15 +1,15 @@
 {
   "meta": {
-    "date": "2026-11-11",
-    "githubDate": "2026-11-11",
-    "lastUpdated": "2026-11-11T09:13:34.461Z",
+    "date": "2026-11-12",
+    "githubDate": "2026-11-12",
+    "lastUpdated": "2026-11-12T09:41:35.679Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "11",
-        "title": "GitHub 热门日报 · 12 个项目"
+        "day": "12",
+        "title": "GitHub 热门日报 · 10 个项目"
       }
     ]
   },
@@ -24,33 +24,69 @@
         "UI组件"
       ],
       "language": "TypeScript",
-      "starsToday": 3108,
-      "starsTotal": 23877,
-      "forks": 1874,
+      "starsToday": 2776,
+      "starsTotal": 25752,
+      "forks": 2000,
       "url": "https://github.com/meta/astryx",
       "rank": 1,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
     },
     {
-      "repo": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "descriptionZh": "待翻译：Public repository for Agent Skills",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "descriptionZh": "待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "readmeSummary": "",
       "tags": [
-        "AI代理",
-        "skills"
+        "模型/LLM",
+        "可视化"
       ],
       "language": "Python",
-      "starsToday": 1679,
-      "starsTotal": 192716,
-      "forks": 22679,
-      "url": "https://github.com/anthropics/skills",
+      "starsToday": 278,
+      "starsTotal": 70900,
+      "forks": 57051,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "rank": 2,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
+    },
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "descriptionZh": "待翻译：GoogleChrome/modern-web-guidance-src",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "TypeScript",
+      "starsToday": 159,
+      "starsTotal": 2103,
+      "forks": 153,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "rank": 3,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
+    },
+    {
+      "repo": "shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "descriptionZh": "待翻译：Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "",
+      "starsToday": 361,
+      "starsTotal": 11264,
+      "forks": 456,
+      "url": "https://github.com/shadcn/improve",
+      "rank": 4,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
     },
     {
       "repo": "addyosmani/agent-skills",
@@ -63,86 +99,14 @@
         "skills"
       ],
       "language": "JavaScript",
-      "starsToday": 465,
-      "starsTotal": 115456,
-      "forks": 12116,
+      "starsToday": 787,
+      "starsTotal": 116251,
+      "forks": 12179,
       "url": "https://github.com/addyosmani/agent-skills",
-      "rank": 3,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
-    },
-    {
-      "repo": "anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "descriptionZh": "待翻译：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "readmeSummary": "",
-      "tags": [
-        "DevOps"
-      ],
-      "language": "Python",
-      "starsToday": 531,
-      "starsTotal": 20676,
-      "forks": 3480,
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "rank": 4,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
-    },
-    {
-      "repo": "google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "descriptionZh": "待翻译：Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "C++",
-      "starsToday": 456,
-      "starsTotal": 17536,
-      "forks": 2160,
-      "url": "https://github.com/google-deepmind/mujoco",
       "rank": 5,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
-    },
-    {
-      "repo": "we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Ruby",
-      "starsToday": 159,
-      "starsTotal": 12359,
-      "forks": 916,
-      "url": "https://github.com/we-promise/sure",
-      "rank": 6,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
-    },
-    {
-      "repo": "homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "descriptionZh": "待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "Python",
-      "starsToday": 790,
-      "starsTotal": 6893,
-      "forks": 441,
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "rank": 7,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
     },
     {
       "repo": "vercel-labs/agent-browser",
@@ -155,88 +119,89 @@
         "自动化"
       ],
       "language": "Rust",
-      "starsToday": 780,
-      "starsTotal": 49500,
-      "forks": 3468,
+      "starsToday": 708,
+      "starsTotal": 50119,
+      "forks": 3494,
       "url": "https://github.com/vercel-labs/agent-browser",
-      "rank": 8,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
+      "rank": 6,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
     },
     {
-      "repo": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "descriptionZh": "待翻译：Hunt down social media accounts by username across social networks",
+      "repo": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
+      "language": "Ruby",
+      "starsToday": 1078,
+      "starsTotal": 13335,
+      "forks": 984,
+      "url": "https://github.com/we-promise/sure",
+      "rank": 7,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "descriptionZh": "待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
       "language": "Python",
-      "starsToday": 2393,
-      "starsTotal": 109599,
-      "forks": 12703,
-      "url": "https://github.com/sherlock-project/sherlock",
-      "rank": 9,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
+      "starsToday": 645,
+      "starsTotal": 7607,
+      "forks": 459,
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "rank": 8,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
     },
     {
-      "repo": "tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "descriptionZh": "待翻译：A batteries-included framework for building web apps",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "Rust",
-      "starsToday": 192,
-      "starsTotal": 7009,
-      "forks": 311,
-      "url": "https://github.com/tokio-rs/topcoat",
-      "rank": 10,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
-    },
-    {
-      "repo": "ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "descriptionZh": "待翻译：A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "readmeSummary": "",
-      "tags": [
-        "编辑器插件"
-      ],
-      "language": "TypeScript",
-      "starsToday": 375,
-      "starsTotal": 6622,
-      "forks": 543,
-      "url": "https://github.com/ranxianglei/billion-context",
-      "rank": 11,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
-    },
-    {
-      "repo": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "descriptionZh": "待翻译：Skills for Real Engineers. Straight from my .agents directory.",
+      "repo": "openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "descriptionZh": "待翻译：OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "readmeSummary": "",
       "tags": [
         "开发框架",
-        "AI代理",
-        "skills"
+        "SDK/库",
+        "开发者工具",
+        "安全"
       ],
-      "language": "Shell",
-      "starsToday": 1225,
-      "starsTotal": 321360,
-      "forks": 26936,
-      "url": "https://github.com/mattpocock/skills",
-      "rank": 12,
-      "date": "2026-11-11",
-      "githubDate": "2026-11-11",
-      "lastUpdated": "2026-11-11T09:13:34.461Z"
+      "language": "TypeScript",
+      "starsToday": 52,
+      "starsTotal": 11997,
+      "forks": 954,
+      "url": "https://github.com/openai/codex-security",
+      "rank": 9,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
+    },
+    {
+      "repo": "TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "descriptionZh": "待翻译：All Algorithms implemented in Java",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Java",
+      "starsToday": 51,
+      "starsTotal": 67188,
+      "forks": 21523,
+      "url": "https://github.com/TheAlgorithms/Java",
+      "rank": 10,
+      "date": "2026-11-12",
+      "githubDate": "2026-11-12",
+      "lastUpdated": "2026-11-12T09:41:35.679Z"
     }
   ]
 }

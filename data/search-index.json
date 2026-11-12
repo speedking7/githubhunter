@@ -22418,5 +22418,114 @@
     ],
     "date": "2026-11-11",
     "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repo": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "repo": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "descriptionZh": "待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "tags": [
+      "模型/LLM",
+      "可视化"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "repo": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "descriptionZh": "待翻译：GoogleChrome/modern-web-guidance-src",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "repo": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "descriptionZh": "待翻译：Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/shadcn/improve"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "descriptionZh": "待翻译：Browser automation CLI for AI agents",
+    "tags": [
+      "AI代理",
+      "开发者工具",
+      "自动化"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "repo": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "repo": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "descriptionZh": "待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "repo": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "descriptionZh": "待翻译：OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "tags": [
+      "开发框架",
+      "SDK/库",
+      "开发者工具",
+      "安全"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/openai/codex-security"
+  },
+  {
+    "repo": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "descriptionZh": "待翻译：All Algorithms implemented in Java",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-12",
+    "url": "https://github.com/TheAlgorithms/Java"
   }
 ]
