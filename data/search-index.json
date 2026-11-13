@@ -22527,5 +22527,143 @@
     ],
     "date": "2026-11-12",
     "url": "https://github.com/TheAlgorithms/Java"
+  },
+  {
+    "repo": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "descriptionZh": "待翻译：Keep your coding agent up to date with the latest web best practices",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "repo": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "descriptionZh": "待翻译：OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "tags": [
+      "开发框架",
+      "SDK/库",
+      "开发者工具",
+      "安全"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/openai/codex-security"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "descriptionZh": "待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repo": "pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "descriptionZh": "待翻译：Enable Hermès Watch Faces on any Apple Watch devices",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/pookjw/HermesEnabler"
+  },
+  {
+    "repo": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/we-promise/sure"
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "descriptionZh": "待翻译：An open-source AI coding agent that lives in your terminal.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+    "repo": "ashhart/TensorFold",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "descriptionZh": "待翻译：LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "tags": [
+      "开发框架",
+      "模型/LLM"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/ashhart/TensorFold"
+  },
+  {
+    "repo": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "descriptionZh": "待翻译：Node.js JavaScript runtime ✨🐢🚀✨",
+    "tags": [
+      "harness"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/nodejs/node"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repo": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+    "tags": [
+      "AI代理",
+      "UI组件"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "repo": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "descriptionZh": "待翻译：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "repo": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "descriptionZh": "待翻译：Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "tags": [
+      "harness",
+      "编辑器插件"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "descriptionZh": "待翻译：LLM inference in C/C++",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-11-13",
+    "url": "https://github.com/ggml-org/llama.cpp"
   }
 ]

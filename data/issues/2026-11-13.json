@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "date": "2026-11-13",
+    "githubDate": "2026-11-13",
+    "lastUpdated": "2026-11-13T09:24:55.679Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "13",
+        "title": "GitHub 热门日报 · 13 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "descriptionZh": "待翻译：Keep your coding agent up to date with the latest web best practices",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 739,
+      "starsTotal": 3894,
+      "forks": 233,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "rank": 1,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "descriptionZh": "待翻译：OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "SDK/库",
+        "开发者工具",
+        "安全"
+      ],
+      "language": "TypeScript",
+      "starsToday": 643,
+      "starsTotal": 12735,
+      "forks": 997,
+      "url": "https://github.com/openai/codex-security",
+      "rank": 2,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "descriptionZh": "待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Shell",
+      "starsToday": 63,
+      "starsTotal": 96084,
+      "forks": 10762,
+      "url": "https://github.com/nvm-sh/nvm",
+      "rank": 3,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "descriptionZh": "待翻译：Enable Hermès Watch Faces on any Apple Watch devices",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Objective-C",
+      "starsToday": 218,
+      "starsTotal": 1673,
+      "forks": 147,
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "rank": 4,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Ruby",
+      "starsToday": 967,
+      "starsTotal": 14270,
+      "forks": 1075,
+      "url": "https://github.com/we-promise/sure",
+      "rank": 5,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "descriptionZh": "待翻译：An open-source AI coding agent that lives in your terminal.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 151,
+      "starsTotal": 30046,
+      "forks": 3413,
+      "url": "https://github.com/QwenLM/qwen-code",
+      "rank": 6,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "descriptionZh": "待翻译：LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "模型/LLM"
+      ],
+      "language": "Zig",
+      "starsToday": 54,
+      "starsTotal": 2038,
+      "forks": 398,
+      "url": "https://github.com/ashhart/TensorFold",
+      "rank": 7,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "descriptionZh": "待翻译：Node.js JavaScript runtime ✨🐢🚀✨",
+      "readmeSummary": "",
+      "tags": [
+        "harness"
+      ],
+      "language": "JavaScript",
+      "starsToday": 62,
+      "starsTotal": 123673,
+      "forks": 38060,
+      "url": "https://github.com/nodejs/node",
+      "rank": 8,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills"
+      ],
+      "language": "JavaScript",
+      "starsToday": 816,
+      "starsTotal": 116929,
+      "forks": 12221,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "rank": 9,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "UI组件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1830,
+      "starsTotal": 27008,
+      "forks": 2088,
+      "url": "https://github.com/meta/astryx",
+      "rank": 10,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "descriptionZh": "待翻译：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 298,
+      "starsTotal": 11932,
+      "forks": 1463,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "rank": 11,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "descriptionZh": "待翻译：Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "readmeSummary": "",
+      "tags": [
+        "harness",
+        "编辑器插件"
+      ],
+      "language": "Python",
+      "starsToday": 415,
+      "starsTotal": 69636,
+      "forks": 10801,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "rank": 12,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "descriptionZh": "待翻译：LLM inference in C/C++",
+      "readmeSummary": "",
+      "tags": [
+        "模型/LLM"
+      ],
+      "language": "C++",
+      "starsToday": 176,
+      "starsTotal": 134774,
+      "forks": 25531,
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "rank": 13,
+      "date": "2026-11-13",
+      "githubDate": "2026-11-13",
+      "lastUpdated": "2026-11-13T09:24:55.679Z"
+    }
+  ]
+}

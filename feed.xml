@@ -5,86 +5,117 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:31:52 GMT</lastBuildDate>
-    <item>
-      <title>meta/astryx</title>
-      <link>https://github.com/meta/astryx</link>
-      <guid>https://github.com/meta/astryx</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
-      <category>AI代理, UI组件</category>
-    </item>
-    <item>
-      <title>ZhuLinsen/daily_stock_analysis</title>
-      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
-      <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</description>
-      <category>模型/LLM, 可视化</category>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 09:24:58 GMT</lastBuildDate>
     <item>
       <title>GoogleChrome/modern-web-guidance-src</title>
       <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：GoogleChrome/modern-web-guidance-src</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>shadcn/improve</title>
-      <link>https://github.com/shadcn/improve</link>
-      <guid>https://github.com/shadcn/improve</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：Use your most capable model to audit your codebase and write plans for cheaper models to execute.</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>addyosmani/agent-skills</title>
-      <link>https://github.com/addyosmani/agent-skills</link>
-      <guid>https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
-      <category>开发框架, AI代理, skills</category>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <guid>https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：Browser automation CLI for AI agents</description>
-      <category>AI代理, 开发者工具, 自动化</category>
-    </item>
-    <item>
-      <title>we-promise/sure</title>
-      <link>https://github.com/we-promise/sure</link>
-      <guid>https://github.com/we-promise/sure</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：The personal finance app for everyone (by everyone)</description>
-      <category>其他</category>
-    </item>
-    <item>
-      <title>homeassistant-ai/ha-mcp</title>
-      <link>https://github.com/homeassistant-ai/ha-mcp</link>
-      <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</description>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Keep your coding agent up to date with the latest web best practices</description>
       <category>AI代理</category>
     </item>
     <item>
       <title>openai/codex-security</title>
       <link>https://github.com/openai/codex-security</link>
       <guid>https://github.com/openai/codex-security</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
       <description>待翻译：OpenAI&apos;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</description>
       <category>开发框架, SDK/库, 开发者工具, 安全</category>
     </item>
     <item>
-      <title>TheAlgorithms/Java</title>
-      <link>https://github.com/TheAlgorithms/Java</link>
-      <guid>https://github.com/TheAlgorithms/Java</guid>
-      <pubDate>Thu, 12 Nov 2026 09:41:35 GMT</pubDate>
-      <description>待翻译：All Algorithms implemented in Java</description>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <guid>https://github.com/nvm-sh/nvm</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.</description>
       <category>其他</category>
+    </item>
+    <item>
+      <title>pookjw/HermesEnabler</title>
+      <link>https://github.com/pookjw/HermesEnabler</link>
+      <guid>https://github.com/pookjw/HermesEnabler</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Enable Hermès Watch Faces on any Apple Watch devices</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>we-promise/sure</title>
+      <link>https://github.com/we-promise/sure</link>
+      <guid>https://github.com/we-promise/sure</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：The personal finance app for everyone (by everyone)</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>QwenLM/qwen-code</title>
+      <link>https://github.com/QwenLM/qwen-code</link>
+      <guid>https://github.com/QwenLM/qwen-code</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：An open-source AI coding agent that lives in your terminal.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>ashhart/TensorFold</title>
+      <link>https://github.com/ashhart/TensorFold</link>
+      <guid>https://github.com/ashhart/TensorFold</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：LLM Inference Engine for Metal, CUDA and Vulkan.</description>
+      <category>开发框架, 模型/LLM</category>
+    </item>
+    <item>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <guid>https://github.com/nodejs/node</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Node.js JavaScript runtime ✨🐢🚀✨</description>
+      <category>harness</category>
+    </item>
+    <item>
+      <title>addyosmani/agent-skills</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <guid>https://github.com/addyosmani/agent-skills</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Production-grade engineering skills for AI coding agents.</description>
+      <category>开发框架, AI代理, skills</category>
+    </item>
+    <item>
+      <title>meta/astryx</title>
+      <link>https://github.com/meta/astryx</link>
+      <guid>https://github.com/meta/astryx</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：An open source design system that&apos;s fully customizable and agent ready</description>
+      <category>AI代理, UI组件</category>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <guid>https://github.com/CopilotKit/OpenBot</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>Alishahryar1/free-claude-code</title>
+      <link>https://github.com/Alishahryar1/free-claude-code</link>
+      <guid>https://github.com/Alishahryar1/free-claude-code</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</description>
+      <category>harness, 编辑器插件</category>
+    </item>
+    <item>
+      <title>ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp</link>
+      <guid>https://github.com/ggml-org/llama.cpp</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>待翻译：LLM inference in C/C++</description>
+      <category>模型/LLM</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 13 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-11-13.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-11-13.json</guid>
+      <pubDate>Fri, 13 Nov 2026 09:24:55 GMT</pubDate>
+      <description>GitHub 热门日报 · 13 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 10 个项目</title>
