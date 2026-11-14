@@ -1,19 +1,40 @@
 {
   "meta": {
-    "date": "2026-11-13",
-    "githubDate": "2026-11-13",
-    "lastUpdated": "2026-11-13T09:24:55.679Z",
+    "date": "2026-11-14",
+    "githubDate": "2026-11-14",
+    "lastUpdated": "2026-11-14T08:53:24.155Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "13",
-        "title": "GitHub 热门日报 · 13 个项目"
+        "day": "14",
+        "title": "GitHub 热门日报 · 12 个项目"
       }
     ]
   },
   "products": [
+    {
+      "repo": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "descriptionZh": "待翻译：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "模型/LLM",
+        "数据库",
+        "自动化"
+      ],
+      "language": "Go",
+      "starsToday": 215,
+      "starsTotal": 50920,
+      "forks": 3793,
+      "url": "https://github.com/alibaba/open-code-review",
+      "rank": 1,
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
+    },
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
@@ -23,14 +44,14 @@
         "AI代理"
       ],
       "language": "TypeScript",
-      "starsToday": 739,
-      "starsTotal": 3894,
-      "forks": 233,
+      "starsToday": 1925,
+      "starsTotal": 5169,
+      "forks": 282,
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "rank": 1,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "rank": 2,
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
       "repo": "openai/codex-security",
@@ -44,50 +65,33 @@
         "安全"
       ],
       "language": "TypeScript",
-      "starsToday": 643,
-      "starsTotal": 12735,
-      "forks": 997,
+      "starsToday": 751,
+      "starsTotal": 13318,
+      "forks": 1031,
       "url": "https://github.com/openai/codex-security",
-      "rank": 2,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
-    },
-    {
-      "repo": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "descriptionZh": "待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Shell",
-      "starsToday": 63,
-      "starsTotal": 96084,
-      "forks": 10762,
-      "url": "https://github.com/nvm-sh/nvm",
       "rank": 3,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
-      "repo": "pookjw/HermesEnabler",
-      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-      "descriptionZh": "待翻译：Enable Hermès Watch Faces on any Apple Watch devices",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "descriptionZh": "待翻译：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "readmeSummary": "",
       "tags": [
-        "其他"
+        "模型/LLM",
+        "可视化"
       ],
-      "language": "Objective-C",
-      "starsToday": 218,
-      "starsTotal": 1673,
-      "forks": 147,
-      "url": "https://github.com/pookjw/HermesEnabler",
+      "language": "Python",
+      "starsToday": 256,
+      "starsTotal": 71950,
+      "forks": 57382,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "rank": 4,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
       "repo": "we-promise/sure",
@@ -98,163 +102,143 @@
         "其他"
       ],
       "language": "Ruby",
-      "starsToday": 967,
-      "starsTotal": 14270,
-      "forks": 1075,
+      "starsToday": 925,
+      "starsTotal": 14931,
+      "forks": 1136,
       "url": "https://github.com/we-promise/sure",
       "rank": 5,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
-      "repo": "QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "descriptionZh": "待翻译：An open-source AI coding agent that lives in your terminal.",
+      "repo": "backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "descriptionZh": "待翻译：The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "readmeSummary": "",
       "tags": [
-        "AI代理"
+        "AI代理",
+        "开发者工具"
       ],
       "language": "TypeScript",
-      "starsToday": 151,
-      "starsTotal": 30046,
-      "forks": 3413,
-      "url": "https://github.com/QwenLM/qwen-code",
+      "starsToday": 108,
+      "starsTotal": 10600,
+      "forks": 792,
+      "url": "https://github.com/backnotprop/plannotator",
       "rank": 6,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
-      "repo": "ashhart/TensorFold",
-      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "descriptionZh": "待翻译：LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "repo": "louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "descriptionZh": "待翻译：A fancy self-hosted monitoring tool",
       "readmeSummary": "",
       "tags": [
-        "开发框架",
-        "模型/LLM"
+        "可观测性"
       ],
-      "language": "Zig",
-      "starsToday": 54,
-      "starsTotal": 2038,
-      "forks": 398,
-      "url": "https://github.com/ashhart/TensorFold",
+      "language": "JavaScript",
+      "starsToday": 71,
+      "starsTotal": 93988,
+      "forks": 8729,
+      "url": "https://github.com/louislam/uptime-kuma",
       "rank": 7,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
-      "repo": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "descriptionZh": "待翻译：Node.js JavaScript runtime ✨🐢🚀✨",
+      "repo": "block/buzz",
+      "description": "A hive mind communication platform",
+      "descriptionZh": "待翻译：A hive mind communication platform",
       "readmeSummary": "",
       "tags": [
-        "harness"
+        "其他"
       ],
-      "language": "JavaScript",
-      "starsToday": 62,
-      "starsTotal": 123673,
-      "forks": 38060,
-      "url": "https://github.com/nodejs/node",
+      "language": "Rust",
+      "starsToday": 97,
+      "starsTotal": 37384,
+      "forks": 4944,
+      "url": "https://github.com/block/buzz",
       "rank": 8,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "descriptionZh": "待翻译：Production-grade engineering skills for AI coding agents.",
+      "repo": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "descriptionZh": "待翻译：Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "readmeSummary": "",
       "tags": [
-        "开发框架",
-        "AI代理",
-        "skills"
-      ],
-      "language": "JavaScript",
-      "starsToday": 816,
-      "starsTotal": 116929,
-      "forks": 12221,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "rank": 9,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
-    },
-    {
-      "repo": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "descriptionZh": "待翻译：An open source design system that's fully customizable and agent ready",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理",
-        "UI组件"
-      ],
-      "language": "TypeScript",
-      "starsToday": 1830,
-      "starsTotal": 27008,
-      "forks": 2088,
-      "url": "https://github.com/meta/astryx",
-      "rank": 10,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
-    },
-    {
-      "repo": "CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "descriptionZh": "待翻译：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "TypeScript",
-      "starsToday": 298,
-      "starsTotal": 11932,
-      "forks": 1463,
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "rank": 11,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "descriptionZh": "待翻译：Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "readmeSummary": "",
-      "tags": [
-        "harness",
-        "编辑器插件"
+        "skills",
+        "可视化"
       ],
       "language": "Python",
-      "starsToday": 415,
-      "starsTotal": 69636,
-      "forks": 10801,
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "rank": 12,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "starsToday": 69,
+      "starsTotal": 4348,
+      "forks": 883,
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "rank": 9,
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     },
     {
-      "repo": "ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "descriptionZh": "待翻译：LLM inference in C/C++",
+      "repo": "tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "descriptionZh": "待翻译：like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "readmeSummary": "",
       "tags": [
-        "模型/LLM"
+        "其他"
+      ],
+      "language": "Go",
+      "starsToday": 256,
+      "starsTotal": 9609,
+      "forks": 438,
+      "url": "https://github.com/tailscale/tailcat",
+      "rank": 10,
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
+    },
+    {
+      "repo": "Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "descriptionZh": "待翻译：Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
       ],
       "language": "C++",
-      "starsToday": 176,
-      "starsTotal": 134774,
-      "forks": 25531,
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "rank": 13,
-      "date": "2026-11-13",
-      "githubDate": "2026-11-13",
-      "lastUpdated": "2026-11-13T09:24:55.679Z"
+      "starsToday": 256,
+      "starsTotal": 1755,
+      "forks": 78,
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "rank": 11,
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 67,
+      "starsTotal": 55763,
+      "forks": 4620,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "rank": 12,
+      "date": "2026-11-14",
+      "githubDate": "2026-11-14",
+      "lastUpdated": "2026-11-14T08:53:24.155Z"
     }
   ]
 }
