@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "date": "2026-11-15",
+    "githubDate": "2026-11-15",
+    "lastUpdated": "2026-11-15T09:11:21.900Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "15",
+        "title": "GitHub 热门日报 · 15 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "descriptionZh": "待翻译：The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 408,
+      "starsTotal": 11431,
+      "forks": 994,
+      "url": "https://github.com/backnotprop/plannotator",
+      "rank": 1,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "descriptionZh": "待翻译：Keep your coding agent up to date with the latest web best practices",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1231,
+      "starsTotal": 6391,
+      "forks": 495,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "rank": 2,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "descriptionZh": "待翻译：Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "readmeSummary": "",
+      "tags": [
+        "skills",
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 553,
+      "starsTotal": 5060,
+      "forks": 1069,
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "rank": 3,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 664,
+      "starsTotal": 56518,
+      "forks": 4785,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "rank": 4,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "descriptionZh": "待翻译：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "模型/LLM",
+        "数据库",
+        "自动化"
+      ],
+      "language": "Go",
+      "starsToday": 893,
+      "starsTotal": 51625,
+      "forks": 4006,
+      "url": "https://github.com/alibaba/open-code-review",
+      "rank": 5,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "descriptionZh": "待翻译：An open-source AI coding agent that lives in your terminal.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 64,
+      "starsTotal": 30450,
+      "forks": 3524,
+      "url": "https://github.com/QwenLM/qwen-code",
+      "rank": 6,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "descriptionZh": "待翻译：Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 495,
+      "starsTotal": 25140,
+      "forks": 2302,
+      "url": "https://github.com/dream-num/univer",
+      "rank": 7,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "descriptionZh": "待翻译：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 9,
+      "starsTotal": 17490,
+      "forks": 1734,
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "rank": 8,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "descriptionZh": "待翻译：LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "模型/LLM"
+      ],
+      "language": "Zig",
+      "starsToday": 37,
+      "starsTotal": 2215,
+      "forks": 517,
+      "url": "https://github.com/ashhart/TensorFold",
+      "rank": 9,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "descriptionZh": "待翻译：🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "skills"
+      ],
+      "language": "Go",
+      "starsToday": 227,
+      "starsTotal": 120234,
+      "forks": 7009,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "rank": 10,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "descriptionZh": "待翻译：A fancy self-hosted monitoring tool",
+      "readmeSummary": "",
+      "tags": [
+        "可观测性"
+      ],
+      "language": "JavaScript",
+      "starsToday": 430,
+      "starsTotal": 94346,
+      "forks": 8838,
+      "url": "https://github.com/louislam/uptime-kuma",
+      "rank": 11,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "descriptionZh": "待翻译：The personal finance app for everyone (by everyone)",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "Ruby",
+      "starsToday": 659,
+      "starsTotal": 15465,
+      "forks": 1330,
+      "url": "https://github.com/we-promise/sure",
+      "rank": 12,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "descriptionZh": "待翻译：Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "自动化"
+      ],
+      "language": "Go",
+      "starsToday": 33,
+      "starsTotal": 1061,
+      "forks": 236,
+      "url": "https://github.com/Tencent/LoopForge",
+      "rank": 13,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "descriptionZh": "待翻译：Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C++",
+      "starsToday": 420,
+      "starsTotal": 2471,
+      "forks": 206,
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "rank": 14,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    },
+    {
+      "repo": "martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "descriptionZh": "待翻译：A WiFi security auditing software",
+      "readmeSummary": "",
+      "tags": [
+        "安全"
+      ],
+      "language": "Rust",
+      "starsToday": 270,
+      "starsTotal": 6072,
+      "forks": 1048,
+      "url": "https://github.com/martin-olivier/airgorah",
+      "rank": 15,
+      "date": "2026-11-15",
+      "githubDate": "2026-11-15",
+      "lastUpdated": "2026-11-15T09:11:21.900Z"
+    }
+  ]
+}
