@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "date": "2026-11-16",
+    "githubDate": "2026-11-16",
+    "lastUpdated": "2026-11-16T09:27:20.599Z",
+    "status": "live",
+    "source": "github-trending-html",
+    "timezone": "UTC",
+    "issues": [
+      {
+        "day": "16",
+        "title": "GitHub 热门日报 · 12 个项目"
+      }
+    ]
+  },
+  "products": [
+    {
+      "repo": "dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "descriptionZh": "待翻译：Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 988,
+      "starsTotal": 26739,
+      "forks": 2433,
+      "url": "https://github.com/dream-num/univer",
+      "rank": 1,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "descriptionZh": "待翻译：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 355,
+      "starsTotal": 18246,
+      "forks": 1884,
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "rank": 2,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "descriptionZh": "待翻译：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 247,
+      "starsTotal": 9516,
+      "forks": 1191,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "rank": 3,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "descriptionZh": "待翻译：The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 866,
+      "starsTotal": 12134,
+      "forks": 1140,
+      "url": "https://github.com/backnotprop/plannotator",
+      "rank": 4,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "descriptionZh": "待翻译：Chrome DevTools for coding agents",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "开发者工具"
+      ],
+      "language": "TypeScript",
+      "starsToday": 717,
+      "starsTotal": 57323,
+      "forks": 4834,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "rank": 5,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "descriptionZh": "待翻译：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "模型/LLM",
+        "数据库",
+        "自动化"
+      ],
+      "language": "Go",
+      "starsToday": 691,
+      "starsTotal": 52522,
+      "forks": 4218,
+      "url": "https://github.com/alibaba/open-code-review",
+      "rank": 6,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "descriptionZh": "待翻译：Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "自动化"
+      ],
+      "language": "Go",
+      "starsToday": 423,
+      "starsTotal": 2048,
+      "forks": 324,
+      "url": "https://github.com/Tencent/LoopForge",
+      "rank": 7,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "ggml-org/ggml",
+      "description": "Tensor library for machine learning",
+      "descriptionZh": "待翻译：Tensor library for machine learning",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "学习资源"
+      ],
+      "language": "C++",
+      "starsToday": 43,
+      "starsTotal": 16035,
+      "forks": 2064,
+      "url": "https://github.com/ggml-org/ggml",
+      "rank": 8,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "descriptionZh": "待翻译：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "readmeSummary": "",
+      "tags": [
+        "skills",
+        "DevOps",
+        "安全"
+      ],
+      "language": "Python",
+      "starsToday": 98,
+      "starsTotal": 6893,
+      "forks": 1058,
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "rank": 9,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "descriptionZh": "待翻译：Keep your coding agent up to date with the latest web best practices",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "TypeScript",
+      "starsToday": 1219,
+      "starsTotal": 7609,
+      "forks": 671,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "rank": 10,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "descriptionZh": "待翻译：Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "readmeSummary": "",
+      "tags": [
+        "skills",
+        "可视化"
+      ],
+      "language": "Python",
+      "starsToday": 706,
+      "starsTotal": 5884,
+      "forks": 1240,
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "rank": 11,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    },
+    {
+      "repo": "NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "descriptionZh": "待翻译：Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills",
+        "评估"
+      ],
+      "language": "Python",
+      "starsToday": 122,
+      "starsTotal": 2091,
+      "forks": 286,
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "rank": 12,
+      "date": "2026-11-16",
+      "githubDate": "2026-11-16",
+      "lastUpdated": "2026-11-16T09:27:20.599Z"
+    }
+  ]
+}
