@@ -5,102 +5,133 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:37:17 GMT</lastBuildDate>
-    <item>
-      <title>dream-num/univer</title>
-      <link>https://github.com/dream-num/univer</link>
-      <guid>https://github.com/dream-num/univer</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
-      <category>开发框架, AI代理</category>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 10:32:07 GMT</lastBuildDate>
     <item>
       <title>ag-ui-protocol/ag-ui</title>
       <link>https://github.com/ag-ui-protocol/ag-ui</link>
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
       <description>待翻译：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
       <category>AI代理</category>
-    </item>
-    <item>
-      <title>google-labs-code/stitch-skills</title>
-      <link>https://github.com/google-labs-code/stitch-skills</link>
-      <guid>https://github.com/google-labs-code/stitch-skills</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
-      <category>开发框架, AI代理, skills, 开发者工具</category>
     </item>
     <item>
       <title>backnotprop/plannotator</title>
       <link>https://github.com/backnotprop/plannotator</link>
       <guid>https://github.com/backnotprop/plannotator</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
       <description>待翻译：The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
       <category>AI代理, 开发者工具</category>
     </item>
     <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Chrome DevTools for coding agents</description>
-      <category>AI代理, 开发者工具</category>
-    </item>
-    <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <guid>https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
-      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
-    </item>
-    <item>
-      <title>Tencent/LoopForge</title>
-      <link>https://github.com/Tencent/LoopForge</link>
-      <guid>https://github.com/Tencent/LoopForge</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
-      <category>AI代理, 自动化</category>
-    </item>
-    <item>
-      <title>ggml-org/ggml</title>
-      <link>https://github.com/ggml-org/ggml</link>
-      <guid>https://github.com/ggml-org/ggml</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Tensor library for machine learning</description>
-      <category>开发框架, 学习资源</category>
-    </item>
-    <item>
-      <title>elementalsouls/Claude-BugHunter</title>
-      <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
-      <category>skills, DevOps, 安全</category>
-    </item>
-    <item>
-      <title>GoogleChrome/modern-web-guidance-src</title>
-      <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
-      <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Keep your coding agent up to date with the latest web best practices</description>
-      <category>AI代理</category>
+      <title>dream-num/univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <guid>https://github.com/dream-num/univer</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
+      <category>开发框架, AI代理</category>
     </item>
     <item>
       <title>tradermonty/claude-trading-skills</title>
       <link>https://github.com/tradermonty/claude-trading-skills</link>
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
       <description>待翻译：Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</description>
       <category>skills, 可视化</category>
+    </item>
+    <item>
+      <title>elementalsouls/Claude-BugHunter</title>
+      <link>https://github.com/elementalsouls/Claude-BugHunter</link>
+      <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <category>skills, DevOps, 安全</category>
+    </item>
+    <item>
+      <title>getarcaneapp/arcane</title>
+      <link>https://github.com/getarcaneapp/arcane</link>
+      <guid>https://github.com/getarcaneapp/arcane</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：Modern Docker Management, Designed for Everyone</description>
+      <category>DevOps</category>
+    </item>
+    <item>
+      <title>DeanChensj/jiangshan-map</title>
+      <link>https://github.com/DeanChensj/jiangshan-map</link>
+      <guid>https://github.com/DeanChensj/jiangshan-map</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp;amp; classical poetry routes</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>google-labs-code/stitch-skills</title>
+      <link>https://github.com/google-labs-code/stitch-skills</link>
+      <guid>https://github.com/google-labs-code/stitch-skills</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
+      <category>开发框架, AI代理, skills, 开发者工具</category>
+    </item>
+    <item>
+      <title>mvanhorn/last30days-skill</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <guid>https://github.com/mvanhorn/last30days-skill</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
+      <category>AI代理, skills</category>
     </item>
     <item>
       <title>NVIDIA/SkillEvaluator</title>
       <link>https://github.com/NVIDIA/SkillEvaluator</link>
       <guid>https://github.com/NVIDIA/SkillEvaluator</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:20 GMT</pubDate>
-      <description>待翻译：Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.</description>
-      <category>开发框架, AI代理, skills, 评估</category>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.</description>
+      <category>开发框架, AI代理, skills, 评估, 编辑器插件</category>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid>https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：Secure, fast, efficient, battle-tested at Alibaba&apos;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp;amp; Anthropic compatible.</description>
+      <category>AI代理, 模型/LLM, 数据库, 自动化</category>
+    </item>
+    <item>
+      <title>google-research/paper-orchestra</title>
+      <link>https://github.com/google-research/paper-orchestra</link>
+      <guid>https://github.com/google-research/paper-orchestra</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：PaperOrchestra is a multi-agent framework for automated AI research paper writing.</description>
+      <category>开发框架, AI代理</category>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：Chrome DevTools for coding agents</description>
+      <category>AI代理, 开发者工具</category>
+    </item>
+    <item>
+      <title>sveltejs/svelte</title>
+      <link>https://github.com/sveltejs/svelte</link>
+      <guid>https://github.com/sveltejs/svelte</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：web development for the rest of us</description>
+      <category>其他</category>
+    </item>
+    <item>
+      <title>kajisho5/ffmpeg-skill</title>
+      <link>https://github.com/kajisho5/ffmpeg-skill</link>
+      <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>待翻译：Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.</description>
+      <category>AI代理</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 15 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-11-17.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-11-17.json</guid>
+      <pubDate>Tue, 17 Nov 2026 10:32:03 GMT</pubDate>
+      <description>GitHub 热门日报 · 15 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 12 个项目</title>
