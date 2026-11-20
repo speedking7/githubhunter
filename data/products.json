@@ -1,36 +1,58 @@
 {
   "meta": {
-    "date": "2026-11-19",
-    "githubDate": "2026-11-19",
-    "lastUpdated": "2026-11-19T10:09:43.808Z",
+    "date": "2026-11-20",
+    "githubDate": "2026-11-20",
+    "lastUpdated": "2026-11-20T09:55:57.189Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "19",
-        "title": "GitHub 热门日报 · 19 个项目"
+        "day": "20",
+        "title": "GitHub 热门日报 · 16 个项目"
       }
     ]
   },
   "products": [
     {
-      "repo": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+      "repo": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "descriptionZh": "待翻译：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "readmeSummary": "",
       "tags": [
-        "编辑器插件"
+        "skills",
+        "DevOps",
+        "安全"
       ],
-      "language": "TypeScript",
-      "starsToday": 314,
-      "starsTotal": 17390,
-      "forks": 1916,
-      "url": "https://github.com/cursor/plugins",
+      "language": "Python",
+      "starsToday": 1349,
+      "starsTotal": 13222,
+      "forks": 1631,
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "rank": 1,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+      "readmeSummary": "",
+      "tags": [
+        "开发框架",
+        "AI代理",
+        "skills"
+      ],
+      "language": "Shell",
+      "starsToday": 2028,
+      "starsTotal": 322416,
+      "forks": 28652,
+      "url": "https://github.com/obra/superpowers",
+      "rank": 2,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     },
     {
       "repo": "HKUDS/CLI-Anything",
@@ -42,14 +64,125 @@
         "开发者工具"
       ],
       "language": "Python",
-      "starsToday": 389,
-      "starsTotal": 60147,
-      "forks": 5459,
+      "starsToday": 898,
+      "starsTotal": 60887,
+      "forks": 5522,
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "rank": 2,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "rank": 3,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "descriptionZh": "待翻译：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "readmeSummary": "",
+      "tags": [
+        "模型/LLM"
+      ],
+      "language": "Python",
+      "starsToday": 238,
+      "starsTotal": 67386,
+      "forks": 8844,
+      "url": "https://github.com/jingyaogong/minimind",
+      "rank": 4,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+      "readmeSummary": "",
+      "tags": [
+        "编辑器插件"
+      ],
+      "language": "TypeScript",
+      "starsToday": 384,
+      "starsTotal": 17675,
+      "forks": 1946,
+      "url": "https://github.com/cursor/plugins",
+      "rank": 5,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "descriptionZh": "待翻译：Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理",
+        "DevOps"
+      ],
+      "language": "TypeScript",
+      "starsToday": 825,
+      "starsTotal": 204667,
+      "forks": 10729,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "rank": 6,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "descriptionZh": "待翻译：The official NGINX Open Source repository.",
+      "readmeSummary": "",
+      "tags": [
+        "其他"
+      ],
+      "language": "C",
+      "starsToday": 73,
+      "starsTotal": 32444,
+      "forks": 8424,
+      "url": "https://github.com/nginx/nginx",
+      "rank": 7,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "descriptionZh": "待翻译：OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "readmeSummary": "",
+      "tags": [
+        "模型/LLM",
+        "开发者工具",
+        "DevOps"
+      ],
+      "language": "C++",
+      "starsToday": 246,
+      "starsTotal": 11649,
+      "forks": 3629,
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "rank": 8,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "readmeSummary": "",
+      "tags": [
+        "AI代理"
+      ],
+      "language": "HTML",
+      "starsToday": 271,
+      "starsTotal": 68926,
+      "forks": 4630,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "rank": 9,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     },
     {
       "repo": "mvanhorn/last30days-skill",
@@ -61,111 +194,14 @@
         "skills"
       ],
       "language": "Python",
-      "starsToday": 1059,
-      "starsTotal": 70431,
-      "forks": 6271,
+      "starsToday": 954,
+      "starsTotal": 71103,
+      "forks": 6332,
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "rank": 3,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "descriptionZh": "待翻译：Modern Docker Management, Designed for Everyone",
-      "readmeSummary": "",
-      "tags": [
-        "DevOps"
-      ],
-      "language": "Go",
-      "starsToday": 547,
-      "starsTotal": 10030,
-      "forks": 571,
-      "url": "https://github.com/getarcaneapp/arcane",
-      "rank": 4,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
-      "descriptionZh": "待翻译：Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理",
-        "skills",
-        "harness",
-        "评估",
-        "安全",
-        "编辑器插件"
-      ],
-      "language": "Python",
-      "starsToday": 312,
-      "starsTotal": 3972,
-      "forks": 534,
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "rank": 5,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "descriptionZh": "待翻译：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "Shell",
-      "starsToday": 237,
-      "starsTotal": 96230,
-      "forks": 10797,
-      "url": "https://github.com/nvm-sh/nvm",
-      "rank": 6,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
-      "descriptionZh": "待翻译：An extremely fast Python package and project manager, written in Rust.",
-      "readmeSummary": "",
-      "tags": [
-        "SDK/库"
-      ],
-      "language": "Rust",
-      "starsToday": 258,
-      "starsTotal": 92371,
-      "forks": 3936,
-      "url": "https://github.com/astral-sh/uv",
-      "rank": 7,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "descriptionZh": "待翻译：PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
-        "AI代理"
-      ],
-      "language": "Python",
-      "starsToday": 1524,
-      "starsTotal": 4725,
-      "forks": 581,
-      "url": "https://github.com/google-research/paper-orchestra",
-      "rank": 8,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "rank": 10,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     },
     {
       "repo": "google-labs-code/stitch-skills",
@@ -179,205 +215,106 @@
         "开发者工具"
       ],
       "language": "TypeScript",
-      "starsToday": 365,
-      "starsTotal": 10545,
-      "forks": 1374,
+      "starsToday": 302,
+      "starsTotal": 10858,
+      "forks": 1396,
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "rank": 9,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "descriptionZh": "待翻译：web development for the rest of us",
-      "readmeSummary": "",
-      "tags": [
-        "其他"
-      ],
-      "language": "JavaScript",
-      "starsToday": 692,
-      "starsTotal": 89734,
-      "forks": 6226,
-      "url": "https://github.com/sveltejs/svelte",
-      "rank": 10,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "jquery/jquery",
-      "description": "jQuery JavaScript Library",
-      "descriptionZh": "待翻译：jQuery JavaScript Library",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "JavaScript",
-      "starsToday": 266,
-      "starsTotal": 60090,
-      "forks": 20714,
-      "url": "https://github.com/jquery/jquery",
       "rank": 11,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     },
     {
-      "repo": "appwrite/appwrite",
-      "description": "The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "descriptionZh": "待翻译：The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "repo": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "descriptionZh": "待翻译：Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "readmeSummary": "",
       "tags": [
-        "AI代理",
-        "RAG",
-        "数据库",
-        "安全"
-      ],
-      "language": "TypeScript",
-      "starsToday": 232,
-      "starsTotal": 58367,
-      "forks": 5898,
-      "url": "https://github.com/appwrite/appwrite",
-      "rank": 12,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "descriptionZh": "待翻译：OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "readmeSummary": "",
-      "tags": [
-        "模型/LLM",
-        "开发者工具",
-        "DevOps"
-      ],
-      "language": "C++",
-      "starsToday": 24,
-      "starsTotal": 11433,
-      "forks": 3609,
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "rank": 13,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架",
         "AI代理",
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 822,
-      "starsTotal": 321596,
-      "forks": 28587,
-      "url": "https://github.com/obra/superpowers",
-      "rank": 14,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "starsToday": 377,
+      "starsTotal": 2279,
+      "forks": 148,
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "rank": 12,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     },
     {
-      "repo": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "descriptionZh": "待翻译：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "repo": "Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "descriptionZh": "待翻译：The open-source agent for CI/CD reliability.",
       "readmeSummary": "",
       "tags": [
         "AI代理",
-        "记忆管理",
-        "skills",
-        "harness",
-        "安全"
+        "DevOps"
       ],
-      "language": "JavaScript",
-      "starsToday": 1108,
-      "starsTotal": 306867,
-      "forks": 45172,
-      "url": "https://github.com/affaan-m/ECC",
-      "rank": 15,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "language": "Python",
+      "starsToday": 38,
+      "starsTotal": 13316,
+      "forks": 1912,
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "rank": 13,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     },
     {
-      "repo": "DeanChensj/jiangshan-map",
-      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
-      "descriptionZh": "待翻译：江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
+      "repo": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "descriptionZh": "待翻译：There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "readmeSummary": "",
+      "tags": [
+        "RAG"
+      ],
+      "language": "TypeScript",
+      "starsToday": 182,
+      "starsTotal": 75404,
+      "forks": 5575,
+      "url": "https://github.com/toeverything/AFFiNE",
+      "rank": 14,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "descriptionZh": "待翻译：The only downloader you need. 下载器的集大成者。",
       "readmeSummary": "",
       "tags": [
         "其他"
       ],
-      "language": "JavaScript",
-      "starsToday": 218,
-      "starsTotal": 8348,
-      "forks": 1023,
-      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "language": "Python",
+      "starsToday": 341,
+      "starsTotal": 13259,
+      "forks": 822,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "rank": 15,
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "descriptionZh": "待翻译：AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "readmeSummary": "",
+      "tags": [
+        "开发者工具"
+      ],
+      "language": "Python",
+      "starsToday": 126,
+      "starsTotal": 11767,
+      "forks": 1975,
+      "url": "https://github.com/zhouxiaoka/autoclip",
       "rank": 16,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "descriptionZh": "待翻译：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "readmeSummary": "",
-      "tags": [
-        "自动化"
-      ],
-      "language": "TypeScript",
-      "starsToday": 325,
-      "starsTotal": 211329,
-      "forks": 61582,
-      "url": "https://github.com/n8n-io/n8n",
-      "rank": 17,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "solidjs/solid",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "descriptionZh": "待翻译：A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "readmeSummary": "",
-      "tags": [
-        "开发框架"
-      ],
-      "language": "TypeScript",
-      "starsToday": 40,
-      "starsTotal": 36730,
-      "forks": 1191,
-      "url": "https://github.com/solidjs/solid",
-      "rank": 18,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
-    },
-    {
-      "repo": "punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "descriptionZh": "待翻译：A collection of MCP servers.",
-      "readmeSummary": "",
-      "tags": [
-        "AI代理"
-      ],
-      "language": "",
-      "starsToday": 53,
-      "starsTotal": 98197,
-      "forks": 20388,
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "rank": 19,
-      "date": "2026-11-19",
-      "githubDate": "2026-11-19",
-      "lastUpdated": "2026-11-19T10:09:43.808Z"
+      "date": "2026-11-20",
+      "githubDate": "2026-11-20",
+      "lastUpdated": "2026-11-20T09:55:57.189Z"
     }
   ]
 }
