@@ -5,12 +5,12 @@
     <link>https://githubhunter.example</link>
     <description>每天一份 GitHub Trending 中文精选</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:37:02 GMT</lastBuildDate>
     <item>
       <title>elementalsouls/Claude-BugHunter</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
       <category>skills, DevOps, 安全</category>
     </item>
@@ -18,7 +18,7 @@
       <title>obra/superpowers</title>
       <link>https://github.com/obra/superpowers</link>
       <guid>https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：An agentic skills framework &amp;amp; software development methodology that works.</description>
       <category>开发框架, AI代理, skills</category>
     </item>
@@ -26,7 +26,7 @@
       <title>HKUDS/CLI-Anything</title>
       <link>https://github.com/HKUDS/CLI-Anything</link>
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
       <category>AI代理, 开发者工具</category>
     </item>
@@ -34,7 +34,7 @@
       <title>jingyaogong/minimind</title>
       <link>https://github.com/jingyaogong/minimind</link>
       <guid>https://github.com/jingyaogong/minimind</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.</description>
       <category>模型/LLM</category>
     </item>
@@ -42,7 +42,7 @@
       <title>cursor/plugins</title>
       <link>https://github.com/cursor/plugins</link>
       <guid>https://github.com/cursor/plugins</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：Cursor plugin specification and official plugins</description>
       <category>编辑器插件</category>
     </item>
@@ -50,15 +50,15 @@
       <title>firecrawl/firecrawl</title>
       <link>https://github.com/firecrawl/firecrawl</link>
       <guid>https://github.com/firecrawl/firecrawl</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
-      <description>待翻译：Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.</description>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
+      <description>待翻译：Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.</description>
       <category>AI代理, DevOps</category>
     </item>
     <item>
       <title>nginx/nginx</title>
       <link>https://github.com/nginx/nginx</link>
       <guid>https://github.com/nginx/nginx</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：The official NGINX Open Source repository.</description>
       <category>其他</category>
     </item>
@@ -66,7 +66,7 @@
       <title>openvinotoolkit/openvino</title>
       <link>https://github.com/openvinotoolkit/openvino</link>
       <guid>https://github.com/openvinotoolkit/openvino</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
       <category>模型/LLM, 开发者工具, DevOps</category>
     </item>
@@ -74,7 +74,7 @@
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
       <category>AI代理</category>
     </item>
@@ -82,7 +82,7 @@
       <title>mvanhorn/last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
       <category>AI代理, skills</category>
     </item>
@@ -90,7 +90,7 @@
       <title>google-labs-code/stitch-skills</title>
       <link>https://github.com/google-labs-code/stitch-skills</link>
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
       <category>开发框架, AI代理, skills, 开发者工具</category>
     </item>
@@ -98,7 +98,7 @@
       <title>mjmirza/app-store-compliance</title>
       <link>https://github.com/mjmirza/app-store-compliance</link>
       <guid>https://github.com/mjmirza/app-store-compliance</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.</description>
       <category>AI代理, skills</category>
     </item>
@@ -106,7 +106,7 @@
       <title>Tracer-Cloud/opensre</title>
       <link>https://github.com/Tracer-Cloud/opensre</link>
       <guid>https://github.com/Tracer-Cloud/opensre</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：The open-source agent for CI/CD reliability.</description>
       <category>AI代理, DevOps</category>
     </item>
@@ -114,7 +114,7 @@
       <title>toeverything/AFFiNE</title>
       <link>https://github.com/toeverything/AFFiNE</link>
       <guid>https://github.com/toeverything/AFFiNE</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</description>
       <category>RAG</category>
     </item>
@@ -122,7 +122,7 @@
       <title>XiaoYouChR/Ghost-Downloader-3</title>
       <link>https://github.com/XiaoYouChR/Ghost-Downloader-3</link>
       <guid>https://github.com/XiaoYouChR/Ghost-Downloader-3</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：The only downloader you need. 下载器的集大成者。</description>
       <category>其他</category>
     </item>
@@ -130,9 +130,16 @@
       <title>zhouxiaoka/autoclip</title>
       <link>https://github.com/zhouxiaoka/autoclip</link>
       <guid>https://github.com/zhouxiaoka/autoclip</guid>
-      <pubDate>Fri, 20 Nov 2026 09:55:57 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
       <description>待翻译：AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp;amp; content repurposing.</description>
       <category>开发者工具</category>
+    </item>
+    <item>
+      <title>GitHub 热门日报 · 16 个项目</title>
+      <link>https://githubhunter.example/data/issues/2026-11-21.json</link>
+      <guid>https://githubhunter.example/data/issues/2026-11-21.json</guid>
+      <pubDate>Sat, 21 Nov 2026 09:37:00 GMT</pubDate>
+      <description>GitHub 热门日报 · 16 个项目</description>
     </item>
     <item>
       <title>GitHub 热门日报 · 16 个项目</title>
