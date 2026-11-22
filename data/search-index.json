@@ -23990,5 +23990,179 @@
     ],
     "date": "2026-11-21",
     "url": "https://github.com/zhouxiaoka/autoclip"
+  },
+  {
+    "repo": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "descriptionZh": "待翻译：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "tags": [
+      "skills",
+      "DevOps",
+      "安全"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "descriptionZh": "待翻译：An agentic skills framework &amp; software development methodology that works.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "descriptionZh": "待翻译：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "tags": [
+      "AI代理",
+      "开发者工具"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repo": "jingyaogong/minimind",
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+    "descriptionZh": "待翻译：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+    "tags": [
+      "模型/LLM"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "repo": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "descriptionZh": "待翻译：Cursor plugin specification and official plugins",
+    "tags": [
+      "编辑器插件"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/cursor/plugins"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "descriptionZh": "待翻译：Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "tags": [
+      "AI代理",
+      "DevOps"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "repo": "nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "descriptionZh": "待翻译：The official NGINX Open Source repository.",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/nginx/nginx"
+  },
+  {
+    "repo": "openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "descriptionZh": "待翻译：OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "tags": [
+      "模型/LLM",
+      "开发者工具",
+      "DevOps"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/openvinotoolkit/openvino"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "descriptionZh": "待翻译：Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "tags": [
+      "AI代理"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "descriptionZh": "待翻译：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repo": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "descriptionZh": "待翻译：A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "tags": [
+      "开发框架",
+      "AI代理",
+      "skills",
+      "开发者工具"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "repo": "mjmirza/app-store-compliance",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "descriptionZh": "待翻译：Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "tags": [
+      "AI代理",
+      "skills"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/mjmirza/app-store-compliance"
+  },
+  {
+    "repo": "Tracer-Cloud/opensre",
+    "description": "The open-source agent for CI/CD reliability.",
+    "descriptionZh": "待翻译：The open-source agent for CI/CD reliability.",
+    "tags": [
+      "AI代理",
+      "DevOps"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "repo": "toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "descriptionZh": "待翻译：There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "tags": [
+      "RAG"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "repo": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。",
+    "descriptionZh": "待翻译：The only downloader you need. 下载器的集大成者。",
+    "tags": [
+      "其他"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+  },
+  {
+    "repo": "zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+    "descriptionZh": "待翻译：AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+    "tags": [
+      "开发者工具"
+    ],
+    "date": "2026-11-22",
+    "url": "https://github.com/zhouxiaoka/autoclip"
   }
 ]
