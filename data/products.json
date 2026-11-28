@@ -1,14 +1,14 @@
 {
   "meta": {
-    "date": "2026-11-27",
-    "githubDate": "2026-11-27",
-    "lastUpdated": "2026-11-27T10:45:30.053Z",
+    "date": "2026-11-28",
+    "githubDate": "2026-11-28",
+    "lastUpdated": "2026-11-28T10:12:15.400Z",
     "status": "live",
     "source": "github-trending-html",
     "timezone": "UTC",
     "issues": [
       {
-        "day": "27",
+        "day": "28",
         "title": "GitHub 热门日报 · 16 个项目"
       }
     ]
@@ -25,14 +25,14 @@
         "安全"
       ],
       "language": "Python",
-      "starsToday": 1597,
-      "starsTotal": 25275,
-      "forks": 2579,
+      "starsToday": 1608,
+      "starsTotal": 26586,
+      "forks": 2730,
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "rank": 1,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "obra/superpowers",
@@ -45,14 +45,14 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 854,
-      "starsTotal": 327863,
-      "forks": 29108,
+      "starsToday": 922,
+      "starsTotal": 328627,
+      "forks": 29217,
       "url": "https://github.com/obra/superpowers",
       "rank": 2,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "HKUDS/CLI-Anything",
@@ -64,14 +64,14 @@
         "开发者工具"
       ],
       "language": "Python",
-      "starsToday": 746,
-      "starsTotal": 66661,
-      "forks": 6089,
+      "starsToday": 666,
+      "starsTotal": 67193,
+      "forks": 6189,
       "url": "https://github.com/HKUDS/CLI-Anything",
       "rank": 3,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "jingyaogong/minimind",
@@ -82,14 +82,14 @@
         "模型/LLM"
       ],
       "language": "Python",
-      "starsToday": 702,
-      "starsTotal": 72008,
-      "forks": 9370,
+      "starsToday": 660,
+      "starsTotal": 72379,
+      "forks": 9474,
       "url": "https://github.com/jingyaogong/minimind",
       "rank": 4,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "cursor/plugins",
@@ -100,14 +100,14 @@
         "编辑器插件"
       ],
       "language": "TypeScript",
-      "starsToday": 270,
-      "starsTotal": 19886,
-      "forks": 2181,
+      "starsToday": 243,
+      "starsTotal": 20086,
+      "forks": 2261,
       "url": "https://github.com/cursor/plugins",
       "rank": 5,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "firecrawl/firecrawl",
@@ -119,14 +119,14 @@
         "DevOps"
       ],
       "language": "TypeScript",
-      "starsToday": 1046,
-      "starsTotal": 211263,
-      "forks": 11081,
+      "starsToday": 822,
+      "starsTotal": 211933,
+      "forks": 11168,
       "url": "https://github.com/firecrawl/firecrawl",
       "rank": 6,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "nginx/nginx",
@@ -137,14 +137,14 @@
         "其他"
       ],
       "language": "C",
-      "starsToday": 150,
-      "starsTotal": 33587,
-      "forks": 8447,
+      "starsToday": 146,
+      "starsTotal": 33710,
+      "forks": 8488,
       "url": "https://github.com/nginx/nginx",
       "rank": 7,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "openvinotoolkit/openvino",
@@ -157,14 +157,14 @@
         "DevOps"
       ],
       "language": "C++",
-      "starsToday": 176,
-      "starsTotal": 12882,
-      "forks": 3767,
+      "starsToday": 151,
+      "starsTotal": 12988,
+      "forks": 3826,
       "url": "https://github.com/openvinotoolkit/openvino",
       "rank": 8,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "cathrynlavery/diagram-design",
@@ -175,14 +175,14 @@
         "AI代理"
       ],
       "language": "HTML",
-      "starsToday": 955,
-      "starsTotal": 74180,
-      "forks": 4979,
+      "starsToday": 725,
+      "starsTotal": 74638,
+      "forks": 5053,
       "url": "https://github.com/cathrynlavery/diagram-design",
       "rank": 9,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "mvanhorn/last30days-skill",
@@ -194,14 +194,14 @@
         "skills"
       ],
       "language": "Python",
-      "starsToday": 759,
-      "starsTotal": 76065,
-      "forks": 6727,
+      "starsToday": 675,
+      "starsTotal": 76543,
+      "forks": 6822,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "rank": 10,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "google-labs-code/stitch-skills",
@@ -215,14 +215,14 @@
         "开发者工具"
       ],
       "language": "TypeScript",
-      "starsToday": 309,
-      "starsTotal": 13431,
-      "forks": 1584,
+      "starsToday": 311,
+      "starsTotal": 13700,
+      "forks": 1648,
       "url": "https://github.com/google-labs-code/stitch-skills",
       "rank": 11,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "mjmirza/app-store-compliance",
@@ -234,14 +234,14 @@
         "skills"
       ],
       "language": "Shell",
-      "starsToday": 562,
-      "starsTotal": 7272,
-      "forks": 512,
+      "starsToday": 530,
+      "starsTotal": 8153,
+      "forks": 619,
       "url": "https://github.com/mjmirza/app-store-compliance",
       "rank": 12,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "Tracer-Cloud/opensre",
@@ -253,14 +253,14 @@
         "DevOps"
       ],
       "language": "Python",
-      "starsToday": 327,
-      "starsTotal": 15975,
-      "forks": 2094,
+      "starsToday": 328,
+      "starsTotal": 16229,
+      "forks": 2175,
       "url": "https://github.com/Tracer-Cloud/opensre",
       "rank": 13,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "toeverything/AFFiNE",
@@ -271,14 +271,14 @@
         "RAG"
       ],
       "language": "TypeScript",
-      "starsToday": 525,
-      "starsTotal": 79167,
-      "forks": 5784,
+      "starsToday": 474,
+      "starsTotal": 79629,
+      "forks": 5868,
       "url": "https://github.com/toeverything/AFFiNE",
       "rank": 14,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "XiaoYouChR/Ghost-Downloader-3",
@@ -289,14 +289,14 @@
         "其他"
       ],
       "language": "Python",
-      "starsToday": 889,
-      "starsTotal": 19535,
-      "forks": 1200,
+      "starsToday": 836,
+      "starsTotal": 20158,
+      "forks": 1293,
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "rank": 15,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     },
     {
       "repo": "zhouxiaoka/autoclip",
@@ -308,14 +308,14 @@
         "开发者工具"
       ],
       "language": "Python",
-      "starsToday": 774,
-      "starsTotal": 17329,
-      "forks": 2434,
+      "starsToday": 718,
+      "starsTotal": 17804,
+      "forks": 2515,
       "url": "https://github.com/zhouxiaoka/autoclip",
       "rank": 16,
-      "date": "2026-11-27",
-      "githubDate": "2026-11-27",
-      "lastUpdated": "2026-11-27T10:45:30.053Z"
+      "date": "2026-11-28",
+      "githubDate": "2026-11-28",
+      "lastUpdated": "2026-11-28T10:12:15.400Z"
     }
   ]
 }
